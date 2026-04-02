@@ -2,22 +2,22 @@
   {
     "path": "/",
     "pageviews": {
-      "1d": 260,
-      "7d": 1445,
-      "30d": 1743,
-      "all": 1743
+      "1d": 265,
+      "7d": 1450,
+      "30d": 1748,
+      "all": 1748
     },
     "visitors": {
-      "1d": 260,
-      "7d": 1445,
-      "30d": 1743,
-      "all": 1743
+      "1d": 265,
+      "7d": 1450,
+      "30d": 1748,
+      "all": 1748
     },
     "entrances": {
-      "1d": 260,
-      "7d": 1445,
-      "30d": 1743,
-      "all": 1743
+      "1d": 265,
+      "7d": 1450,
+      "30d": 1748,
+      "all": 1748
     }
   },
   {
@@ -170,22 +170,22 @@
   {
     "path": "/template-mod/docs",
     "pageviews": {
-      "1d": 5,
-      "7d": 46,
-      "30d": 65,
-      "all": 65
+      "1d": 6,
+      "7d": 47,
+      "30d": 66,
+      "all": 66
     },
     "visitors": {
-      "1d": 5,
-      "7d": 46,
-      "30d": 65,
-      "all": 65
+      "1d": 6,
+      "7d": 47,
+      "30d": 66,
+      "all": 66
     },
     "entrances": {
-      "1d": 5,
-      "7d": 46,
-      "30d": 65,
-      "all": 65
+      "1d": 6,
+      "7d": 47,
+      "30d": 66,
+      "all": 66
     }
   },
   {
@@ -884,19 +884,19 @@
   {
     "path": "/railyard/docs/v0.1/players/install-guide-linux",
     "pageviews": {
-      "1d": 4,
+      "1d": 3,
       "7d": 14,
       "30d": 14,
       "all": 14
     },
     "visitors": {
-      "1d": 4,
+      "1d": 3,
       "7d": 14,
       "30d": 14,
       "all": 14
     },
     "entrances": {
-      "1d": 4,
+      "1d": 3,
       "7d": 14,
       "30d": 14,
       "all": 14
@@ -968,19 +968,19 @@
   {
     "path": "/registry/maps/toronto",
     "pageviews": {
-      "1d": 14,
+      "1d": 12,
       "7d": 14,
       "30d": 14,
       "all": 14
     },
     "visitors": {
-      "1d": 14,
+      "1d": 12,
       "7d": 14,
       "30d": 14,
       "all": 14
     },
     "entrances": {
-      "1d": 14,
+      "1d": 12,
       "7d": 14,
       "30d": 14,
       "all": 14
@@ -989,19 +989,19 @@
   {
     "path": "/railyard/docs/v0.2/developers/data-quality",
     "pageviews": {
-      "1d": 2,
+      "1d": 1,
       "7d": 13,
       "30d": 13,
       "all": 13
     },
     "visitors": {
-      "1d": 2,
+      "1d": 1,
       "7d": 13,
       "30d": 13,
       "all": 13
     },
     "entrances": {
-      "1d": 2,
+      "1d": 1,
       "7d": 13,
       "30d": 13,
       "all": 13
@@ -1575,6 +1575,27 @@
     }
   },
   {
+    "path": "/railyard/maps/yukina-osaka",
+    "pageviews": {
+      "1d": 2,
+      "7d": 9,
+      "30d": 9,
+      "all": 9
+    },
+    "visitors": {
+      "1d": 2,
+      "7d": 9,
+      "30d": 9,
+      "all": 9
+    },
+    "entrances": {
+      "1d": 2,
+      "7d": 9,
+      "30d": 9,
+      "all": 9
+    }
+  },
+  {
     "path": "/railyard/mods/citymapper",
     "pageviews": {
       "1d": 3,
@@ -1653,27 +1674,6 @@
     },
     "entrances": {
       "1d": 3,
-      "7d": 8,
-      "30d": 8,
-      "all": 8
-    }
-  },
-  {
-    "path": "/railyard/maps/yukina-osaka",
-    "pageviews": {
-      "1d": 1,
-      "7d": 8,
-      "30d": 8,
-      "all": 8
-    },
-    "visitors": {
-      "1d": 1,
-      "7d": 8,
-      "30d": 8,
-      "all": 8
-    },
-    "entrances": {
-      "1d": 1,
       "7d": 8,
       "30d": 8,
       "all": 8
@@ -2247,6 +2247,27 @@
     }
   },
   {
+    "path": "/railyard/maps/yukina-matsuyama",
+    "pageviews": {
+      "1d": 4,
+      "7d": 5,
+      "30d": 5,
+      "all": 5
+    },
+    "visitors": {
+      "1d": 4,
+      "7d": 5,
+      "30d": 5,
+      "all": 5
+    },
+    "entrances": {
+      "1d": 4,
+      "7d": 5,
+      "30d": 5,
+      "all": 5
+    }
+  },
+  {
     "path": "/railyard/maps/yukina-okayama",
     "pageviews": {
       "1d": 3,
@@ -2499,6 +2520,27 @@
     }
   },
   {
+    "path": "/railyard/maps/yukina-hiroshima-kure",
+    "pageviews": {
+      "1d": 2,
+      "7d": 4,
+      "30d": 4,
+      "all": 4
+    },
+    "visitors": {
+      "1d": 2,
+      "7d": 4,
+      "30d": 4,
+      "all": 4
+    },
+    "entrances": {
+      "1d": 2,
+      "7d": 4,
+      "30d": 4,
+      "all": 4
+    }
+  },
+  {
     "path": "/railyard/maps/yukina-kobe-akashi/changelog/0.3.0",
     "pageviews": {
       "1d": 4,
@@ -2514,27 +2556,6 @@
     },
     "entrances": {
       "1d": 4,
-      "7d": 4,
-      "30d": 4,
-      "all": 4
-    }
-  },
-  {
-    "path": "/railyard/maps/yukina-matsuyama",
-    "pageviews": {
-      "1d": 3,
-      "7d": 4,
-      "30d": 4,
-      "all": 4
-    },
-    "visitors": {
-      "1d": 3,
-      "7d": 4,
-      "30d": 4,
-      "all": 4
-    },
-    "entrances": {
-      "1d": 3,
       "7d": 4,
       "30d": 4,
       "all": 4
@@ -3150,27 +3171,6 @@
     }
   },
   {
-    "path": "/railyard/maps/yukina-hiroshima-kure",
-    "pageviews": {
-      "1d": 1,
-      "7d": 3,
-      "30d": 3,
-      "all": 3
-    },
-    "visitors": {
-      "1d": 1,
-      "7d": 3,
-      "30d": 3,
-      "all": 3
-    },
-    "entrances": {
-      "1d": 1,
-      "7d": 3,
-      "30d": 3,
-      "all": 3
-    }
-  },
-  {
     "path": "/railyard/maps/yukina-kagoshima-kirishima/changelog/0.2.0",
     "pageviews": {
       "1d": 3,
@@ -3354,6 +3354,27 @@
     },
     "entrances": {
       "1d": 3,
+      "7d": 3,
+      "30d": 3,
+      "all": 3
+    }
+  },
+  {
+    "path": "/railyard/maps/yukina-sapporo-chitose",
+    "pageviews": {
+      "1d": 2,
+      "7d": 3,
+      "30d": 3,
+      "all": 3
+    },
+    "visitors": {
+      "1d": 2,
+      "7d": 3,
+      "30d": 3,
+      "all": 3
+    },
+    "entrances": {
+      "1d": 2,
       "7d": 3,
       "30d": 3,
       "all": 3
@@ -3718,6 +3739,27 @@
   },
   {
     "path": "/registry/maps/yukina-hakodate",
+    "pageviews": {
+      "1d": 3,
+      "7d": 3,
+      "30d": 3,
+      "all": 3
+    },
+    "visitors": {
+      "1d": 3,
+      "7d": 3,
+      "30d": 3,
+      "all": 3
+    },
+    "entrances": {
+      "1d": 3,
+      "7d": 3,
+      "30d": 3,
+      "all": 3
+    }
+  },
+  {
+    "path": "/registry/maps/yukina-kyoto",
     "pageviews": {
       "1d": 3,
       "7d": 3,
@@ -5460,27 +5502,6 @@
     }
   },
   {
-    "path": "/railyard/maps/yukina-sapporo-chitose",
-    "pageviews": {
-      "1d": 1,
-      "7d": 2,
-      "30d": 2,
-      "all": 2
-    },
-    "visitors": {
-      "1d": 1,
-      "7d": 2,
-      "30d": 2,
-      "all": 2
-    },
-    "entrances": {
-      "1d": 1,
-      "7d": 2,
-      "30d": 2,
-      "all": 2
-    }
-  },
-  {
     "path": "/railyard/maps/yukina-sapporo-chitose/changelog/0.3.0",
     "pageviews": {
       "1d": 2,
@@ -6973,27 +6994,6 @@
   },
   {
     "path": "/registry/maps/yukina-kochi",
-    "pageviews": {
-      "1d": 2,
-      "7d": 2,
-      "30d": 2,
-      "all": 2
-    },
-    "visitors": {
-      "1d": 2,
-      "7d": 2,
-      "30d": 2,
-      "all": 2
-    },
-    "entrances": {
-      "1d": 2,
-      "7d": 2,
-      "30d": 2,
-      "all": 2
-    }
-  },
-  {
-    "path": "/registry/maps/yukina-kyoto",
     "pageviews": {
       "1d": 2,
       "7d": 2,
@@ -11026,6 +11026,27 @@
   },
   {
     "path": "/railyard/mods/station-dots/changelog/v1.0.0",
+    "pageviews": {
+      "1d": 0,
+      "7d": 0,
+      "30d": 0,
+      "all": 0
+    },
+    "visitors": {
+      "1d": 0,
+      "7d": 0,
+      "30d": 0,
+      "all": 0
+    },
+    "entrances": {
+      "1d": 0,
+      "7d": 0,
+      "30d": 0,
+      "all": 0
+    }
+  },
+  {
+    "path": "/website/updates/v1.0.1",
     "pageviews": {
       "1d": 0,
       "7d": 0,

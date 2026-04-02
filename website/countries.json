@@ -3,29 +3,29 @@
     "country": "United States",
     "countryCode": "US",
     "pageviews": {
-      "1d": 1183,
-      "7d": 2752,
-      "30d": 3178,
-      "all": 3178
+      "1d": 1189,
+      "7d": 2760,
+      "30d": 3186,
+      "all": 3186
     },
     "visitors": {
-      "1d": 1183,
-      "7d": 2752,
-      "30d": 3178,
-      "all": 3178
+      "1d": 1189,
+      "7d": 2760,
+      "30d": 3186,
+      "all": 3186
     }
   },
   {
     "country": "Canada",
     "countryCode": "CA",
     "pageviews": {
-      "1d": 24,
+      "1d": 23,
       "7d": 315,
       "30d": 360,
       "all": 360
     },
     "visitors": {
-      "1d": 24,
+      "1d": 23,
       "7d": 315,
       "30d": 360,
       "all": 360
@@ -160,6 +160,22 @@
     }
   },
   {
+    "country": "Belgium",
+    "countryCode": "BE",
+    "pageviews": {
+      "1d": 20,
+      "7d": 57,
+      "30d": 73,
+      "all": 73
+    },
+    "visitors": {
+      "1d": 20,
+      "7d": 57,
+      "30d": 73,
+      "all": 73
+    }
+  },
+  {
     "country": "China",
     "countryCode": "CN",
     "pageviews": {
@@ -173,22 +189,6 @@
       "7d": 67,
       "30d": 73,
       "all": 73
-    }
-  },
-  {
-    "country": "Belgium",
-    "countryCode": "BE",
-    "pageviews": {
-      "1d": 18,
-      "7d": 55,
-      "30d": 71,
-      "all": 71
-    },
-    "visitors": {
-      "1d": 18,
-      "7d": 55,
-      "30d": 71,
-      "all": 71
     }
   },
   {
@@ -483,13 +483,13 @@
     "country": "Russia",
     "countryCode": "RU",
     "pageviews": {
-      "1d": 2,
+      "1d": 1,
       "7d": 11,
       "30d": 14,
       "all": 14
     },
     "visitors": {
-      "1d": 2,
+      "1d": 1,
       "7d": 11,
       "30d": 14,
       "all": 14
@@ -528,6 +528,22 @@
     }
   },
   {
+    "country": "New Zealand",
+    "countryCode": "NZ",
+    "pageviews": {
+      "1d": 1,
+      "7d": 11,
+      "30d": 12,
+      "all": 12
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 11,
+      "30d": 12,
+      "all": 12
+    }
+  },
+  {
     "country": "Philippines",
     "countryCode": "PH",
     "pageviews": {
@@ -554,22 +570,6 @@
     },
     "visitors": {
       "1d": 1,
-      "7d": 10,
-      "30d": 11,
-      "all": 11
-    }
-  },
-  {
-    "country": "New Zealand",
-    "countryCode": "NZ",
-    "pageviews": {
-      "1d": 0,
-      "7d": 10,
-      "30d": 11,
-      "all": 11
-    },
-    "visitors": {
-      "1d": 0,
       "7d": 10,
       "30d": 11,
       "all": 11
