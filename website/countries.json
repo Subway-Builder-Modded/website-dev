@@ -3,16 +3,16 @@
     "country": "United States",
     "countryCode": "US",
     "pageviews": {
-      "1d": 1281,
-      "7d": 3075,
-      "30d": 3501,
-      "all": 3501
+      "1d": 1279,
+      "7d": 3076,
+      "30d": 3502,
+      "all": 3502
     },
     "visitors": {
-      "1d": 1281,
-      "7d": 3075,
-      "30d": 3501,
-      "all": 3501
+      "1d": 1279,
+      "7d": 3076,
+      "30d": 3502,
+      "all": 3502
     }
   },
   {
@@ -83,16 +83,16 @@
     "country": "France",
     "countryCode": "FR",
     "pageviews": {
-      "1d": 10,
-      "7d": 144,
-      "30d": 159,
-      "all": 159
+      "1d": 11,
+      "7d": 145,
+      "30d": 160,
+      "all": 160
     },
     "visitors": {
-      "1d": 10,
-      "7d": 144,
-      "30d": 159,
-      "all": 159
+      "1d": 11,
+      "7d": 145,
+      "30d": 160,
+      "all": 160
     }
   },
   {
@@ -403,13 +403,13 @@
     "country": "Norway",
     "countryCode": "NO",
     "pageviews": {
-      "1d": 9,
+      "1d": 4,
       "7d": 15,
       "30d": 18,
       "all": 18
     },
     "visitors": {
-      "1d": 9,
+      "1d": 4,
       "7d": 15,
       "30d": 18,
       "all": 18
@@ -464,6 +464,22 @@
     }
   },
   {
+    "country": "Romania",
+    "countryCode": "RO",
+    "pageviews": {
+      "1d": 3,
+      "7d": 16,
+      "30d": 16,
+      "all": 16
+    },
+    "visitors": {
+      "1d": 3,
+      "7d": 16,
+      "30d": 16,
+      "all": 16
+    }
+  },
+  {
     "country": "India",
     "countryCode": "IN",
     "pageviews": {
@@ -512,35 +528,19 @@
     }
   },
   {
-    "country": "Romania",
-    "countryCode": "RO",
-    "pageviews": {
-      "1d": 0,
-      "7d": 13,
-      "30d": 13,
-      "all": 13
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 13,
-      "30d": 13,
-      "all": 13
-    }
-  },
-  {
     "country": "South Korea",
     "countryCode": "KR",
     "pageviews": {
-      "1d": 3,
-      "7d": 11,
-      "30d": 12,
-      "all": 12
+      "1d": 4,
+      "7d": 12,
+      "30d": 13,
+      "all": 13
     },
     "visitors": {
-      "1d": 3,
-      "7d": 11,
-      "30d": 12,
-      "all": 12
+      "1d": 4,
+      "7d": 12,
+      "30d": 13,
+      "all": 13
     }
   },
   {
