@@ -2,22 +2,22 @@
   {
     "path": "/",
     "pageviews": {
-      "1d": 234,
-      "7d": 1411,
-      "30d": 1709,
-      "all": 1709
+      "1d": 245,
+      "7d": 1421,
+      "30d": 1719,
+      "all": 1719
     },
     "visitors": {
-      "1d": 234,
-      "7d": 1411,
-      "30d": 1709,
-      "all": 1709
+      "1d": 245,
+      "7d": 1421,
+      "30d": 1719,
+      "all": 1719
     },
     "entrances": {
-      "1d": 234,
-      "7d": 1411,
-      "30d": 1709,
-      "all": 1709
+      "1d": 245,
+      "7d": 1421,
+      "30d": 1719,
+      "all": 1719
     }
   },
   {
@@ -107,22 +107,22 @@
   {
     "path": "/railyard/docs",
     "pageviews": {
-      "1d": 18,
-      "7d": 76,
-      "30d": 87,
-      "all": 87
+      "1d": 19,
+      "7d": 77,
+      "30d": 88,
+      "all": 88
     },
     "visitors": {
-      "1d": 18,
-      "7d": 76,
-      "30d": 87,
-      "all": 87
+      "1d": 19,
+      "7d": 77,
+      "30d": 88,
+      "all": 88
     },
     "entrances": {
-      "1d": 18,
-      "7d": 76,
-      "30d": 87,
-      "all": 87
+      "1d": 19,
+      "7d": 77,
+      "30d": 88,
+      "all": 88
     }
   },
   {
@@ -1976,19 +1976,19 @@
   {
     "path": "/railyard/maps/orlando",
     "pageviews": {
-      "1d": 4,
+      "1d": 3,
       "7d": 4,
       "30d": 5,
       "all": 5
     },
     "visitors": {
-      "1d": 4,
+      "1d": 3,
       "7d": 4,
       "30d": 5,
       "all": 5
     },
     "entrances": {
-      "1d": 4,
+      "1d": 3,
       "7d": 4,
       "30d": 5,
       "all": 5
@@ -2032,6 +2032,27 @@
     "entrances": {
       "1d": 4,
       "7d": 5,
+      "30d": 5,
+      "all": 5
+    }
+  },
+  {
+    "path": "/railyard/maps/puerto-rico",
+    "pageviews": {
+      "1d": 3,
+      "7d": 4,
+      "30d": 5,
+      "all": 5
+    },
+    "visitors": {
+      "1d": 3,
+      "7d": 4,
+      "30d": 5,
+      "all": 5
+    },
+    "entrances": {
+      "1d": 3,
+      "7d": 4,
       "30d": 5,
       "all": 5
     }
@@ -2263,27 +2284,6 @@
     "entrances": {
       "1d": 4,
       "7d": 4,
-      "30d": 4,
-      "all": 4
-    }
-  },
-  {
-    "path": "/railyard/maps/puerto-rico",
-    "pageviews": {
-      "1d": 2,
-      "7d": 3,
-      "30d": 4,
-      "all": 4
-    },
-    "visitors": {
-      "1d": 2,
-      "7d": 3,
-      "30d": 4,
-      "all": 4
-    },
-    "entrances": {
-      "1d": 2,
-      "7d": 3,
       "30d": 4,
       "all": 4
     }
@@ -4074,6 +4074,27 @@
     }
   },
   {
+    "path": "/railyard/maps/san-juan/changelog/1.0.0",
+    "pageviews": {
+      "1d": 2,
+      "7d": 2,
+      "30d": 2,
+      "all": 2
+    },
+    "visitors": {
+      "1d": 2,
+      "7d": 2,
+      "30d": 2,
+      "all": 2
+    },
+    "entrances": {
+      "1d": 2,
+      "7d": 2,
+      "30d": 2,
+      "all": 2
+    }
+  },
+  {
     "path": "/railyard/maps/spokane/changelog/2.0.0",
     "pageviews": {
       "1d": 2,
@@ -4977,6 +4998,27 @@
     }
   },
   {
+    "path": "/railyard/maps/yukina-yamagata",
+    "pageviews": {
+      "1d": 1,
+      "7d": 2,
+      "30d": 2,
+      "all": 2
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 2,
+      "30d": 2,
+      "all": 2
+    },
+    "entrances": {
+      "1d": 1,
+      "7d": 2,
+      "30d": 2,
+      "all": 2
+    }
+  },
+  {
     "path": "/railyard/maps/yukina-yamagata/changelog/0.3.0",
     "pageviews": {
       "1d": 2,
@@ -5020,6 +5062,27 @@
   },
   {
     "path": "/railyard/mods/advanced-analytics/changelog/v1.2.0",
+    "pageviews": {
+      "1d": 2,
+      "7d": 2,
+      "30d": 2,
+      "all": 2
+    },
+    "visitors": {
+      "1d": 2,
+      "7d": 2,
+      "30d": 2,
+      "all": 2
+    },
+    "entrances": {
+      "1d": 2,
+      "7d": 2,
+      "30d": 2,
+      "all": 2
+    }
+  },
+  {
+    "path": "/railyard/mods/advanced-analytics/changelog/v1.2.1",
     "pageviews": {
       "1d": 2,
       "7d": 2,
@@ -6007,6 +6070,27 @@
   },
   {
     "path": "/registry/maps/yukina-okayama",
+    "pageviews": {
+      "1d": 2,
+      "7d": 2,
+      "30d": 2,
+      "all": 2
+    },
+    "visitors": {
+      "1d": 2,
+      "7d": 2,
+      "30d": 2,
+      "all": 2
+    },
+    "entrances": {
+      "1d": 2,
+      "7d": 2,
+      "30d": 2,
+      "all": 2
+    }
+  },
+  {
+    "path": "/registry/maps/yukina-okinawa",
     "pageviews": {
       "1d": 2,
       "7d": 2,
@@ -7119,27 +7203,6 @@
     }
   },
   {
-    "path": "/railyard/maps/san-juan/changelog/1.0.0",
-    "pageviews": {
-      "1d": 1,
-      "7d": 1,
-      "30d": 1,
-      "all": 1
-    },
-    "visitors": {
-      "1d": 1,
-      "7d": 1,
-      "30d": 1,
-      "all": 1
-    },
-    "entrances": {
-      "1d": 1,
-      "7d": 1,
-      "30d": 1,
-      "all": 1
-    }
-  },
-  {
     "path": "/railyard/maps/santa-barbara",
     "pageviews": {
       "1d": 1,
@@ -7665,27 +7728,6 @@
     }
   },
   {
-    "path": "/railyard/maps/yukina-yamagata",
-    "pageviews": {
-      "1d": 0,
-      "7d": 1,
-      "30d": 1,
-      "all": 1
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 1,
-      "30d": 1,
-      "all": 1
-    },
-    "entrances": {
-      "1d": 0,
-      "7d": 1,
-      "30d": 1,
-      "all": 1
-    }
-  },
-  {
     "path": "/railyard/maps/yukina-yamagata/changelog/0.2.0",
     "pageviews": {
       "1d": 1,
@@ -7729,27 +7771,6 @@
   },
   {
     "path": "/railyard/mods/advanced-analytics/changelog/v1.1.0",
-    "pageviews": {
-      "1d": 1,
-      "7d": 1,
-      "30d": 1,
-      "all": 1
-    },
-    "visitors": {
-      "1d": 1,
-      "7d": 1,
-      "30d": 1,
-      "all": 1
-    },
-    "entrances": {
-      "1d": 1,
-      "7d": 1,
-      "30d": 1,
-      "all": 1
-    }
-  },
-  {
-    "path": "/railyard/mods/advanced-analytics/changelog/v1.2.1",
     "pageviews": {
       "1d": 1,
       "7d": 1,
@@ -9346,27 +9367,6 @@
   },
   {
     "path": "/registry/maps/yukina-kitakyushu-shimonoseki",
-    "pageviews": {
-      "1d": 1,
-      "7d": 1,
-      "30d": 1,
-      "all": 1
-    },
-    "visitors": {
-      "1d": 1,
-      "7d": 1,
-      "30d": 1,
-      "all": 1
-    },
-    "entrances": {
-      "1d": 1,
-      "7d": 1,
-      "30d": 1,
-      "all": 1
-    }
-  },
-  {
-    "path": "/registry/maps/yukina-okinawa",
     "pageviews": {
       "1d": 1,
       "7d": 1,

@@ -3,16 +3,16 @@
     "country": "United States",
     "countryCode": "US",
     "pageviews": {
-      "1d": 1065,
-      "7d": 2607,
-      "30d": 3033,
-      "all": 3033
+      "1d": 1076,
+      "7d": 2619,
+      "30d": 3045,
+      "all": 3045
     },
     "visitors": {
-      "1d": 1065,
-      "7d": 2607,
-      "30d": 3033,
-      "all": 3033
+      "1d": 1076,
+      "7d": 2619,
+      "30d": 3045,
+      "all": 3045
     }
   },
   {
@@ -164,15 +164,31 @@
     "countryCode": "CN",
     "pageviews": {
       "1d": 11,
-      "7d": 66,
-      "30d": 72,
-      "all": 72
+      "7d": 65,
+      "30d": 71,
+      "all": 71
     },
     "visitors": {
       "1d": 11,
-      "7d": 66,
-      "30d": 72,
-      "all": 72
+      "7d": 65,
+      "30d": 71,
+      "all": 71
+    }
+  },
+  {
+    "country": "Belgium",
+    "countryCode": "BE",
+    "pageviews": {
+      "1d": 17,
+      "7d": 54,
+      "30d": 70,
+      "all": 70
+    },
+    "visitors": {
+      "1d": 17,
+      "7d": 54,
+      "30d": 70,
+      "all": 70
     }
   },
   {
@@ -189,22 +205,6 @@
       "7d": 46,
       "30d": 68,
       "all": 68
-    }
-  },
-  {
-    "country": "Belgium",
-    "countryCode": "BE",
-    "pageviews": {
-      "1d": 13,
-      "7d": 50,
-      "30d": 66,
-      "all": 66
-    },
-    "visitors": {
-      "1d": 13,
-      "7d": 50,
-      "30d": 66,
-      "all": 66
     }
   },
   {
@@ -930,6 +930,22 @@
   {
     "country": "Indonesia",
     "countryCode": "ID",
+    "pageviews": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 1,
+      "all": 1
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 1,
+      "all": 1
+    }
+  },
+  {
+    "country": "Peru",
+    "countryCode": "PE",
     "pageviews": {
       "1d": 1,
       "7d": 1,
