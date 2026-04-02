@@ -3,45 +3,45 @@
     "country": "United States",
     "countryCode": "US",
     "pageviews": {
-      "1d": 1279,
-      "7d": 3085,
-      "30d": 3511,
-      "all": 3511
+      "1d": 1298,
+      "7d": 3124,
+      "30d": 3550,
+      "all": 3550
     },
     "visitors": {
-      "1d": 1279,
-      "7d": 3085,
-      "30d": 3511,
-      "all": 3511
+      "1d": 1298,
+      "7d": 3124,
+      "30d": 3550,
+      "all": 3550
     }
   },
   {
     "country": "Canada",
     "countryCode": "CA",
     "pageviews": {
-      "1d": 35,
-      "7d": 328,
-      "30d": 373,
-      "all": 373
+      "1d": 39,
+      "7d": 332,
+      "30d": 377,
+      "all": 377
     },
     "visitors": {
-      "1d": 35,
-      "7d": 328,
-      "30d": 373,
-      "all": 373
+      "1d": 39,
+      "7d": 332,
+      "30d": 377,
+      "all": 377
     }
   },
   {
     "country": "United Kingdom",
     "countryCode": "GB",
     "pageviews": {
-      "1d": 31,
+      "1d": 29,
       "7d": 270,
       "30d": 346,
       "all": 346
     },
     "visitors": {
-      "1d": 31,
+      "1d": 29,
       "7d": 270,
       "30d": 346,
       "all": 346
@@ -51,32 +51,32 @@
     "country": "Germany",
     "countryCode": "DE",
     "pageviews": {
-      "1d": 32,
-      "7d": 247,
-      "30d": 301,
-      "all": 301
+      "1d": 37,
+      "7d": 252,
+      "30d": 306,
+      "all": 306
     },
     "visitors": {
-      "1d": 32,
-      "7d": 247,
-      "30d": 301,
-      "all": 301
+      "1d": 37,
+      "7d": 252,
+      "30d": 306,
+      "all": 306
     }
   },
   {
     "country": "Netherlands",
     "countryCode": "NL",
     "pageviews": {
-      "1d": 29,
-      "7d": 163,
-      "30d": 185,
-      "all": 185
+      "1d": 28,
+      "7d": 159,
+      "30d": 181,
+      "all": 181
     },
     "visitors": {
-      "1d": 29,
-      "7d": 163,
-      "30d": 185,
-      "all": 185
+      "1d": 28,
+      "7d": 159,
+      "30d": 181,
+      "all": 181
     }
   },
   {
@@ -84,15 +84,15 @@
     "countryCode": "FR",
     "pageviews": {
       "1d": 12,
-      "7d": 146,
-      "30d": 161,
-      "all": 161
+      "7d": 144,
+      "30d": 159,
+      "all": 159
     },
     "visitors": {
       "1d": 12,
-      "7d": 146,
-      "30d": 161,
-      "all": 161
+      "7d": 144,
+      "30d": 159,
+      "all": 159
     }
   },
   {
@@ -147,13 +147,13 @@
     "country": "Australia",
     "countryCode": "AU",
     "pageviews": {
-      "1d": 17,
+      "1d": 15,
       "7d": 70,
       "30d": 101,
       "all": 101
     },
     "visitors": {
-      "1d": 17,
+      "1d": 15,
       "7d": 70,
       "30d": 101,
       "all": 101
@@ -195,13 +195,13 @@
     "country": "China",
     "countryCode": "CN",
     "pageviews": {
-      "1d": 13,
+      "1d": 12,
       "7d": 71,
       "30d": 77,
       "all": 77
     },
     "visitors": {
-      "1d": 13,
+      "1d": 12,
       "7d": 71,
       "30d": 77,
       "all": 77
@@ -211,16 +211,16 @@
     "country": "Hong Kong SAR China",
     "countryCode": "HK",
     "pageviews": {
-      "1d": 1,
-      "7d": 46,
-      "30d": 68,
-      "all": 68
+      "1d": 0,
+      "7d": 35,
+      "30d": 57,
+      "all": 57
     },
     "visitors": {
-      "1d": 1,
-      "7d": 46,
-      "30d": 68,
-      "all": 68
+      "1d": 0,
+      "7d": 35,
+      "30d": 57,
+      "all": 57
     }
   },
   {
@@ -244,15 +244,15 @@
     "countryCode": "BR",
     "pageviews": {
       "1d": 9,
-      "7d": 34,
-      "30d": 41,
-      "all": 41
+      "7d": 33,
+      "30d": 40,
+      "all": 40
     },
     "visitors": {
       "1d": 9,
-      "7d": 34,
-      "30d": 41,
-      "all": 41
+      "7d": 33,
+      "30d": 40,
+      "all": 40
     }
   },
   {
@@ -323,13 +323,13 @@
     "country": "Sweden",
     "countryCode": "SE",
     "pageviews": {
-      "1d": 3,
+      "1d": 1,
       "7d": 26,
       "30d": 28,
       "all": 28
     },
     "visitors": {
-      "1d": 3,
+      "1d": 1,
       "7d": 26,
       "30d": 28,
       "all": 28
@@ -352,6 +352,22 @@
     }
   },
   {
+    "country": "Israel",
+    "countryCode": "IL",
+    "pageviews": {
+      "1d": 4,
+      "7d": 22,
+      "30d": 22,
+      "all": 22
+    },
+    "visitors": {
+      "1d": 4,
+      "7d": 22,
+      "30d": 22,
+      "all": 22
+    }
+  },
+  {
     "country": "Finland",
     "countryCode": "FI",
     "pageviews": {
@@ -365,22 +381,6 @@
       "7d": 22,
       "30d": 22,
       "all": 22
-    }
-  },
-  {
-    "country": "Israel",
-    "countryCode": "IL",
-    "pageviews": {
-      "1d": 3,
-      "7d": 21,
-      "30d": 21,
-      "all": 21
-    },
-    "visitors": {
-      "1d": 3,
-      "7d": 21,
-      "30d": 21,
-      "all": 21
     }
   },
   {
@@ -400,16 +400,32 @@
     }
   },
   {
+    "country": "South Korea",
+    "countryCode": "KR",
+    "pageviews": {
+      "1d": 9,
+      "7d": 17,
+      "30d": 18,
+      "all": 18
+    },
+    "visitors": {
+      "1d": 9,
+      "7d": 17,
+      "30d": 18,
+      "all": 18
+    }
+  },
+  {
     "country": "Norway",
     "countryCode": "NO",
     "pageviews": {
-      "1d": 4,
+      "1d": 0,
       "7d": 15,
       "30d": 18,
       "all": 18
     },
     "visitors": {
-      "1d": 4,
+      "1d": 0,
       "7d": 15,
       "30d": 18,
       "all": 18
@@ -477,22 +493,6 @@
       "7d": 16,
       "30d": 16,
       "all": 16
-    }
-  },
-  {
-    "country": "South Korea",
-    "countryCode": "KR",
-    "pageviews": {
-      "1d": 6,
-      "7d": 14,
-      "30d": 15,
-      "all": 15
-    },
-    "visitors": {
-      "1d": 6,
-      "7d": 14,
-      "30d": 15,
-      "all": 15
     }
   },
   {
@@ -608,6 +608,22 @@
     }
   },
   {
+    "country": "Thailand",
+    "countryCode": "TH",
+    "pageviews": {
+      "1d": 2,
+      "7d": 9,
+      "30d": 10,
+      "all": 10
+    },
+    "visitors": {
+      "1d": 2,
+      "7d": 9,
+      "30d": 10,
+      "all": 10
+    }
+  },
+  {
     "country": "Denmark",
     "countryCode": "DK",
     "pageviews": {
@@ -621,22 +637,6 @@
       "7d": 9,
       "30d": 10,
       "all": 10
-    }
-  },
-  {
-    "country": "Thailand",
-    "countryCode": "TH",
-    "pageviews": {
-      "1d": 1,
-      "7d": 8,
-      "30d": 9,
-      "all": 9
-    },
-    "visitors": {
-      "1d": 1,
-      "7d": 8,
-      "30d": 9,
-      "all": 9
     }
   },
   {
@@ -675,13 +675,13 @@
     "country": "Portugal",
     "countryCode": "PT",
     "pageviews": {
-      "1d": 4,
+      "1d": 3,
       "7d": 5,
       "30d": 6,
       "all": 6
     },
     "visitors": {
-      "1d": 4,
+      "1d": 3,
       "7d": 5,
       "30d": 6,
       "all": 6
@@ -816,22 +816,6 @@
     }
   },
   {
-    "country": "Honduras",
-    "countryCode": "HN",
-    "pageviews": {
-      "1d": 0,
-      "7d": 2,
-      "30d": 3,
-      "all": 3
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 2,
-      "30d": 3,
-      "all": 3
-    }
-  },
-  {
     "country": "Rwanda",
     "countryCode": "RW",
     "pageviews": {
@@ -864,6 +848,22 @@
     }
   },
   {
+    "country": "Algeria",
+    "countryCode": "DZ",
+    "pageviews": {
+      "1d": 0,
+      "7d": 2,
+      "30d": 2,
+      "all": 2
+    },
+    "visitors": {
+      "1d": 0,
+      "7d": 2,
+      "30d": 2,
+      "all": 2
+    }
+  },
+  {
     "country": "Nepal",
     "countryCode": "NP",
     "pageviews": {
@@ -880,17 +880,17 @@
     }
   },
   {
-    "country": "Algeria",
-    "countryCode": "DZ",
+    "country": "Honduras",
+    "countryCode": "HN",
     "pageviews": {
       "1d": 0,
-      "7d": 2,
+      "7d": 1,
       "30d": 2,
       "all": 2
     },
     "visitors": {
       "1d": 0,
-      "7d": 2,
+      "7d": 1,
       "30d": 2,
       "all": 2
     }
@@ -1040,22 +1040,6 @@
     }
   },
   {
-    "country": "Cambodia",
-    "countryCode": "KH",
-    "pageviews": {
-      "1d": 0,
-      "7d": 1,
-      "30d": 1,
-      "all": 1
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 1,
-      "30d": 1,
-      "all": 1
-    }
-  },
-  {
     "country": "Uzbekistan",
     "countryCode": "UZ",
     "pageviews": {
@@ -1090,6 +1074,22 @@
   {
     "country": "Latvia",
     "countryCode": "LV",
+    "pageviews": {
+      "1d": 0,
+      "7d": 1,
+      "30d": 1,
+      "all": 1
+    },
+    "visitors": {
+      "1d": 0,
+      "7d": 1,
+      "30d": 1,
+      "all": 1
+    }
+  },
+  {
+    "country": "Cambodia",
+    "countryCode": "KH",
     "pageviews": {
       "1d": 0,
       "7d": 1,
