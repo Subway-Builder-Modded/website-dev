@@ -4,15 +4,15 @@
     "countryCode": "US",
     "pageviews": {
       "1d": 1104,
-      "7d": 3301,
-      "30d": 3727,
-      "all": 3727
+      "7d": 3304,
+      "30d": 3730,
+      "all": 3730
     },
     "visitors": {
       "1d": 1104,
-      "7d": 3301,
-      "30d": 3727,
-      "all": 3727
+      "7d": 3304,
+      "30d": 3730,
+      "all": 3730
     }
   },
   {
@@ -180,15 +180,15 @@
     "countryCode": "BE",
     "pageviews": {
       "1d": 25,
-      "7d": 70,
-      "30d": 86,
-      "all": 86
+      "7d": 69,
+      "30d": 85,
+      "all": 85
     },
     "visitors": {
       "1d": 25,
-      "7d": 70,
-      "30d": 86,
-      "all": 86
+      "7d": 69,
+      "30d": 85,
+      "all": 85
     }
   },
   {
@@ -736,6 +736,22 @@
     }
   },
   {
+    "country": "Iceland",
+    "countryCode": "IS",
+    "pageviews": {
+      "1d": 4,
+      "7d": 4,
+      "30d": 4,
+      "all": 4
+    },
+    "visitors": {
+      "1d": 4,
+      "7d": 4,
+      "30d": 4,
+      "all": 4
+    }
+  },
+  {
     "country": "Colombia",
     "countryCode": "CO",
     "pageviews": {
@@ -848,8 +864,8 @@
     }
   },
   {
-    "country": "Nepal",
-    "countryCode": "NP",
+    "country": "Algeria",
+    "countryCode": "DZ",
     "pageviews": {
       "1d": 0,
       "7d": 2,
@@ -864,8 +880,8 @@
     }
   },
   {
-    "country": "Algeria",
-    "countryCode": "DZ",
+    "country": "Nepal",
+    "countryCode": "NP",
     "pageviews": {
       "1d": 0,
       "7d": 2,

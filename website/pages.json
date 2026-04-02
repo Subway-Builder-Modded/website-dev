@@ -2,43 +2,43 @@
   {
     "path": "/",
     "pageviews": {
-      "1d": 268,
-      "7d": 1512,
-      "30d": 1810,
-      "all": 1810
+      "1d": 267,
+      "7d": 1510,
+      "30d": 1808,
+      "all": 1808
     },
     "visitors": {
-      "1d": 268,
-      "7d": 1512,
-      "30d": 1810,
-      "all": 1810
+      "1d": 267,
+      "7d": 1510,
+      "30d": 1808,
+      "all": 1808
     },
     "entrances": {
-      "1d": 268,
-      "7d": 1512,
-      "30d": 1810,
-      "all": 1810
+      "1d": 267,
+      "7d": 1510,
+      "30d": 1808,
+      "all": 1808
     }
   },
   {
     "path": "/railyard",
     "pageviews": {
-      "1d": 90,
-      "7d": 657,
-      "30d": 811,
-      "all": 811
+      "1d": 94,
+      "7d": 661,
+      "30d": 815,
+      "all": 815
     },
     "visitors": {
-      "1d": 90,
-      "7d": 657,
-      "30d": 811,
-      "all": 811
+      "1d": 94,
+      "7d": 661,
+      "30d": 815,
+      "all": 815
     },
     "entrances": {
-      "1d": 90,
-      "7d": 657,
-      "30d": 811,
-      "all": 811
+      "1d": 94,
+      "7d": 661,
+      "30d": 815,
+      "all": 815
     }
   },
   {
@@ -779,19 +779,19 @@
   {
     "path": "/template-mod/docs/v1.0/type-reference",
     "pageviews": {
-      "1d": 6,
+      "1d": 5,
       "7d": 16,
       "30d": 20,
       "all": 20
     },
     "visitors": {
-      "1d": 6,
+      "1d": 5,
       "7d": 16,
       "30d": 20,
       "all": 20
     },
     "entrances": {
-      "1d": 6,
+      "1d": 5,
       "7d": 16,
       "30d": 20,
       "all": 20
@@ -2354,19 +2354,19 @@
   {
     "path": "/railyard/maps/oklahoma-city",
     "pageviews": {
-      "1d": 6,
+      "1d": 5,
       "7d": 7,
       "30d": 7,
       "all": 7
     },
     "visitors": {
-      "1d": 6,
+      "1d": 5,
       "7d": 7,
       "30d": 7,
       "all": 7
     },
     "entrances": {
-      "1d": 6,
+      "1d": 5,
       "7d": 7,
       "30d": 7,
       "all": 7
@@ -2900,19 +2900,19 @@
   {
     "path": "/railyard/maps/orlando",
     "pageviews": {
-      "1d": 1,
+      "1d": 0,
       "7d": 4,
       "30d": 5,
       "all": 5
     },
     "visitors": {
-      "1d": 1,
+      "1d": 0,
       "7d": 4,
       "30d": 5,
       "all": 5
     },
     "entrances": {
-      "1d": 1,
+      "1d": 0,
       "7d": 4,
       "30d": 5,
       "all": 5
@@ -4431,6 +4431,27 @@
     }
   },
   {
+    "path": "/odl/hidden/lower-concourse",
+    "pageviews": {
+      "1d": 2,
+      "7d": 3,
+      "30d": 3,
+      "all": 3
+    },
+    "visitors": {
+      "1d": 2,
+      "7d": 3,
+      "30d": 3,
+      "all": 3
+    },
+    "entrances": {
+      "1d": 2,
+      "7d": 3,
+      "30d": 3,
+      "all": 3
+    }
+  },
+  {
     "path": "/railyard/maps/calgary",
     "pageviews": {
       "1d": 2,
@@ -4467,6 +4488,27 @@
     },
     "entrances": {
       "1d": 2,
+      "7d": 3,
+      "30d": 3,
+      "all": 3
+    }
+  },
+  {
+    "path": "/railyard/maps/daytonatti",
+    "pageviews": {
+      "1d": 3,
+      "7d": 3,
+      "30d": 3,
+      "all": 3
+    },
+    "visitors": {
+      "1d": 3,
+      "7d": 3,
+      "30d": 3,
+      "all": 3
+    },
+    "entrances": {
+      "1d": 3,
       "7d": 3,
       "30d": 3,
       "all": 3
@@ -5691,21 +5733,21 @@
     }
   },
   {
-    "path": "/odl/hidden/lower-concourse",
+    "path": "/odl/bulletin",
     "pageviews": {
-      "1d": 1,
+      "1d": 2,
       "7d": 2,
       "30d": 2,
       "all": 2
     },
     "visitors": {
-      "1d": 1,
+      "1d": 2,
       "7d": 2,
       "30d": 2,
       "all": 2
     },
     "entrances": {
-      "1d": 1,
+      "1d": 2,
       "7d": 2,
       "30d": 2,
       "all": 2
@@ -6042,27 +6084,6 @@
     },
     "entrances": {
       "1d": 1,
-      "7d": 2,
-      "30d": 2,
-      "all": 2
-    }
-  },
-  {
-    "path": "/railyard/maps/daytonatti",
-    "pageviews": {
-      "1d": 2,
-      "7d": 2,
-      "30d": 2,
-      "all": 2
-    },
-    "visitors": {
-      "1d": 2,
-      "7d": 2,
-      "30d": 2,
-      "all": 2
-    },
-    "entrances": {
-      "1d": 2,
       "7d": 2,
       "30d": 2,
       "all": 2
@@ -8295,27 +8316,6 @@
     }
   },
   {
-    "path": "/odl/bulletin",
-    "pageviews": {
-      "1d": 1,
-      "7d": 1,
-      "30d": 1,
-      "all": 1
-    },
-    "visitors": {
-      "1d": 1,
-      "7d": 1,
-      "30d": 1,
-      "all": 1
-    },
-    "entrances": {
-      "1d": 1,
-      "7d": 1,
-      "30d": 1,
-      "all": 1
-    }
-  },
-  {
     "path": "/odl/hidden/platform-nine",
     "pageviews": {
       "1d": 1,
@@ -8401,6 +8401,27 @@
   },
   {
     "path": "/odl/status",
+    "pageviews": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 1,
+      "all": 1
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 1,
+      "all": 1
+    },
+    "entrances": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 1,
+      "all": 1
+    }
+  },
+  {
+    "path": "/railyard/analytics",
     "pageviews": {
       "1d": 1,
       "7d": 1,
@@ -10249,27 +10270,6 @@
   },
   {
     "path": "/odl/terminal/solved",
-    "pageviews": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 0,
-      "all": 0
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 0,
-      "all": 0
-    },
-    "entrances": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 0,
-      "all": 0
-    }
-  },
-  {
-    "path": "/railyard/analytics",
     "pageviews": {
       "1d": 0,
       "7d": 0,
