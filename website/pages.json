@@ -2,64 +2,64 @@
   {
     "path": "/",
     "pageviews": {
-      "1d": 230,
-      "7d": 1406,
-      "30d": 1704,
-      "all": 1704
+      "1d": 234,
+      "7d": 1411,
+      "30d": 1709,
+      "all": 1709
     },
     "visitors": {
-      "1d": 230,
-      "7d": 1406,
-      "30d": 1704,
-      "all": 1704
+      "1d": 234,
+      "7d": 1411,
+      "30d": 1709,
+      "all": 1709
     },
     "entrances": {
-      "1d": 230,
-      "7d": 1406,
-      "30d": 1704,
-      "all": 1704
+      "1d": 234,
+      "7d": 1411,
+      "30d": 1709,
+      "all": 1709
     }
   },
   {
     "path": "/railyard",
     "pageviews": {
       "1d": 78,
-      "7d": 647,
-      "30d": 801,
-      "all": 801
+      "7d": 645,
+      "30d": 799,
+      "all": 799
     },
     "visitors": {
       "1d": 78,
-      "7d": 647,
-      "30d": 801,
-      "all": 801
+      "7d": 645,
+      "30d": 799,
+      "all": 799
     },
     "entrances": {
       "1d": 78,
-      "7d": 647,
-      "30d": 801,
-      "all": 801
+      "7d": 645,
+      "30d": 799,
+      "all": 799
     }
   },
   {
     "path": "/railyard/browse",
     "pageviews": {
-      "1d": 87,
-      "7d": 473,
-      "30d": 572,
-      "all": 572
+      "1d": 88,
+      "7d": 474,
+      "30d": 573,
+      "all": 573
     },
     "visitors": {
-      "1d": 87,
-      "7d": 473,
-      "30d": 572,
-      "all": 572
+      "1d": 88,
+      "7d": 474,
+      "30d": 573,
+      "all": 573
     },
     "entrances": {
-      "1d": 87,
-      "7d": 473,
-      "30d": 572,
-      "all": 572
+      "1d": 88,
+      "7d": 474,
+      "30d": 573,
+      "all": 573
     }
   },
   {
@@ -441,27 +441,6 @@
     }
   },
   {
-    "path": "/railyard/docs/v0.1/players",
-    "pageviews": {
-      "1d": 4,
-      "7d": 20,
-      "30d": 25,
-      "all": 25
-    },
-    "visitors": {
-      "1d": 4,
-      "7d": 20,
-      "30d": 25,
-      "all": 25
-    },
-    "entrances": {
-      "1d": 4,
-      "7d": 20,
-      "30d": 25,
-      "all": 25
-    }
-  },
-  {
     "path": "/railyard/mods/subwaybuilder-regions",
     "pageviews": {
       "1d": 5,
@@ -480,6 +459,27 @@
       "7d": 24,
       "30d": 25,
       "all": 25
+    }
+  },
+  {
+    "path": "/railyard/docs/v0.1/players",
+    "pageviews": {
+      "1d": 4,
+      "7d": 19,
+      "30d": 24,
+      "all": 24
+    },
+    "visitors": {
+      "1d": 4,
+      "7d": 19,
+      "30d": 24,
+      "all": 24
+    },
+    "entrances": {
+      "1d": 4,
+      "7d": 19,
+      "30d": 24,
+      "all": 24
     }
   },
   {
@@ -2100,6 +2100,27 @@
     }
   },
   {
+    "path": "/railyard/maps/yukina-kagoshima-kirishima",
+    "pageviews": {
+      "1d": 4,
+      "7d": 5,
+      "30d": 5,
+      "all": 5
+    },
+    "visitors": {
+      "1d": 4,
+      "7d": 5,
+      "30d": 5,
+      "all": 5
+    },
+    "entrances": {
+      "1d": 4,
+      "7d": 5,
+      "30d": 5,
+      "all": 5
+    }
+  },
+  {
     "path": "/railyard/maps/yukina-kochi",
     "pageviews": {
       "1d": 2,
@@ -2325,27 +2346,6 @@
     },
     "entrances": {
       "1d": 2,
-      "7d": 4,
-      "30d": 4,
-      "all": 4
-    }
-  },
-  {
-    "path": "/railyard/maps/yukina-kagoshima-kirishima",
-    "pageviews": {
-      "1d": 3,
-      "7d": 4,
-      "30d": 4,
-      "all": 4
-    },
-    "visitors": {
-      "1d": 3,
-      "7d": 4,
-      "30d": 4,
-      "all": 4
-    },
-    "entrances": {
-      "1d": 3,
       "7d": 4,
       "30d": 4,
       "all": 4
@@ -4579,6 +4579,27 @@
   },
   {
     "path": "/railyard/maps/yukina-kyoto/changelog/0.3.0",
+    "pageviews": {
+      "1d": 2,
+      "7d": 2,
+      "30d": 2,
+      "all": 2
+    },
+    "visitors": {
+      "1d": 2,
+      "7d": 2,
+      "30d": 2,
+      "all": 2
+    },
+    "entrances": {
+      "1d": 2,
+      "7d": 2,
+      "30d": 2,
+      "all": 2
+    }
+  },
+  {
+    "path": "/railyard/maps/yukina-kyoto/changelog/0.4.0",
     "pageviews": {
       "1d": 2,
       "7d": 2,
@@ -7435,27 +7456,6 @@
   },
   {
     "path": "/railyard/maps/yukina-kyoto/changelog/0.2.0",
-    "pageviews": {
-      "1d": 1,
-      "7d": 1,
-      "30d": 1,
-      "all": 1
-    },
-    "visitors": {
-      "1d": 1,
-      "7d": 1,
-      "30d": 1,
-      "all": 1
-    },
-    "entrances": {
-      "1d": 1,
-      "7d": 1,
-      "30d": 1,
-      "all": 1
-    }
-  },
-  {
-    "path": "/railyard/maps/yukina-kyoto/changelog/0.4.0",
     "pageviews": {
       "1d": 1,
       "7d": 1,
