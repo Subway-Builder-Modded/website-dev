@@ -2,64 +2,64 @@
   {
     "path": "/",
     "pageviews": {
-      "1d": 304,
-      "7d": 1572,
-      "30d": 2092,
-      "all": 2092
+      "1d": 305,
+      "7d": 1571,
+      "30d": 2091,
+      "all": 2091
     },
     "visitors": {
-      "1d": 304,
-      "7d": 1572,
-      "30d": 2092,
-      "all": 2092
+      "1d": 305,
+      "7d": 1571,
+      "30d": 2091,
+      "all": 2091
     },
     "entrances": {
-      "1d": 304,
-      "7d": 1572,
-      "30d": 2092,
-      "all": 2092
+      "1d": 305,
+      "7d": 1571,
+      "30d": 2091,
+      "all": 2091
     }
   },
   {
     "path": "/railyard",
     "pageviews": {
-      "1d": 80,
-      "7d": 644,
-      "30d": 923,
-      "all": 923
+      "1d": 81,
+      "7d": 641,
+      "30d": 920,
+      "all": 920
     },
     "visitors": {
-      "1d": 80,
-      "7d": 644,
-      "30d": 923,
-      "all": 923
+      "1d": 81,
+      "7d": 641,
+      "30d": 920,
+      "all": 920
     },
     "entrances": {
-      "1d": 80,
-      "7d": 644,
-      "30d": 923,
-      "all": 923
+      "1d": 81,
+      "7d": 641,
+      "30d": 920,
+      "all": 920
     }
   },
   {
     "path": "/railyard/browse",
     "pageviews": {
-      "1d": 38,
-      "7d": 448,
-      "30d": 621,
-      "all": 621
+      "1d": 39,
+      "7d": 449,
+      "30d": 622,
+      "all": 622
     },
     "visitors": {
-      "1d": 38,
-      "7d": 448,
-      "30d": 621,
-      "all": 621
+      "1d": 39,
+      "7d": 449,
+      "30d": 622,
+      "all": 622
     },
     "entrances": {
-      "1d": 38,
-      "7d": 448,
-      "30d": 621,
-      "all": 621
+      "1d": 39,
+      "7d": 449,
+      "30d": 622,
+      "all": 622
     }
   },
   {
@@ -1512,27 +1512,6 @@
     }
   },
   {
-    "path": "/railyard/updates/v0.1.4",
-    "pageviews": {
-      "1d": 1,
-      "7d": 13,
-      "30d": 14,
-      "all": 14
-    },
-    "visitors": {
-      "1d": 1,
-      "7d": 13,
-      "30d": 14,
-      "all": 14
-    },
-    "entrances": {
-      "1d": 1,
-      "7d": 13,
-      "30d": 14,
-      "all": 14
-    }
-  },
-  {
     "path": "/registry/maps/yukina-osaka",
     "pageviews": {
       "1d": 2,
@@ -1696,6 +1675,27 @@
     "entrances": {
       "1d": 2,
       "7d": 11,
+      "30d": 13,
+      "all": 13
+    }
+  },
+  {
+    "path": "/railyard/updates/v0.1.4",
+    "pageviews": {
+      "1d": 1,
+      "7d": 12,
+      "30d": 13,
+      "all": 13
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 12,
+      "30d": 13,
+      "all": 13
+    },
+    "entrances": {
+      "1d": 1,
+      "7d": 12,
       "30d": 13,
       "all": 13
     }
@@ -2289,6 +2289,27 @@
     }
   },
   {
+    "path": "/railyard/maps/yukina-matsuyama",
+    "pageviews": {
+      "1d": 1,
+      "7d": 9,
+      "30d": 9,
+      "all": 9
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 9,
+      "30d": 9,
+      "all": 9
+    },
+    "entrances": {
+      "1d": 1,
+      "7d": 9,
+      "30d": 9,
+      "all": 9
+    }
+  },
+  {
     "path": "/railyard/mods/advanced-analytics/changelog/v1.3.2",
     "pageviews": {
       "1d": 1,
@@ -2388,6 +2409,27 @@
     },
     "entrances": {
       "1d": 2,
+      "7d": 9,
+      "30d": 9,
+      "all": 9
+    }
+  },
+  {
+    "path": "/website/updates/v1.0.0",
+    "pageviews": {
+      "1d": 3,
+      "7d": 9,
+      "30d": 9,
+      "all": 9
+    },
+    "visitors": {
+      "1d": 3,
+      "7d": 9,
+      "30d": 9,
+      "all": 9
+    },
+    "entrances": {
+      "1d": 3,
       "7d": 9,
       "30d": 9,
       "all": 9
@@ -2515,27 +2557,6 @@
     "entrances": {
       "1d": 0,
       "7d": 7,
-      "30d": 8,
-      "all": 8
-    }
-  },
-  {
-    "path": "/railyard/maps/yukina-matsuyama",
-    "pageviews": {
-      "1d": 0,
-      "7d": 8,
-      "30d": 8,
-      "all": 8
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 8,
-      "30d": 8,
-      "all": 8
-    },
-    "entrances": {
-      "1d": 0,
-      "7d": 8,
       "30d": 8,
       "all": 8
     }
@@ -2724,27 +2745,6 @@
     },
     "entrances": {
       "1d": 5,
-      "7d": 8,
-      "30d": 8,
-      "all": 8
-    }
-  },
-  {
-    "path": "/website/updates/v1.0.0",
-    "pageviews": {
-      "1d": 2,
-      "7d": 8,
-      "30d": 8,
-      "all": 8
-    },
-    "visitors": {
-      "1d": 2,
-      "7d": 8,
-      "30d": 8,
-      "all": 8
-    },
-    "entrances": {
-      "1d": 2,
       "7d": 8,
       "30d": 8,
       "all": 8
