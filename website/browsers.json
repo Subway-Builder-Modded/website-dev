@@ -2,34 +2,34 @@
   {
     "browser": "Unknown",
     "visits": {
-      "1d": 366,
-      "7d": 2016,
-      "30d": 2427,
-      "all": 2427
+      "1d": 360,
+      "7d": 2023,
+      "30d": 2434,
+      "all": 2434
     }
   },
   {
     "browser": "Chrome",
     "visits": {
-      "1d": 232,
-      "7d": 1218,
-      "30d": 1761,
-      "all": 1761
+      "1d": 231,
+      "7d": 1226,
+      "30d": 1769,
+      "all": 1769
     }
   },
   {
     "browser": "GoogleBot",
     "visits": {
-      "1d": 160,
-      "7d": 1183,
-      "30d": 1310,
-      "all": 1310
+      "1d": 157,
+      "7d": 1186,
+      "30d": 1313,
+      "all": 1313
     }
   },
   {
     "browser": "MobileSafari",
     "visits": {
-      "1d": 74,
+      "1d": 66,
       "7d": 499,
       "30d": 850,
       "all": 850
@@ -38,16 +38,16 @@
   {
     "browser": "Firefox",
     "visits": {
-      "1d": 73,
-      "7d": 637,
-      "30d": 815,
-      "all": 815
+      "1d": 69,
+      "7d": 636,
+      "30d": 814,
+      "all": 814
     }
   },
   {
     "browser": "Safari",
     "visits": {
-      "1d": 51,
+      "1d": 47,
       "7d": 393,
       "30d": 600,
       "all": 600
@@ -56,46 +56,46 @@
   {
     "browser": "Edge",
     "visits": {
-      "1d": 36,
-      "7d": 227,
-      "30d": 341,
-      "all": 341
+      "1d": 35,
+      "7d": 226,
+      "30d": 340,
+      "all": 340
     }
   },
   {
     "browser": "ChromeMobile",
     "visits": {
-      "1d": 49,
-      "7d": 219,
-      "30d": 319,
-      "all": 319
+      "1d": 43,
+      "7d": 217,
+      "30d": 317,
+      "all": 317
     }
   },
   {
     "browser": "Opera",
     "visits": {
       "1d": 10,
-      "7d": 94,
-      "30d": 126,
-      "all": 126
+      "7d": 90,
+      "30d": 122,
+      "all": 122
     }
   },
   {
     "browser": "BingBot",
     "visits": {
       "1d": 35,
-      "7d": 76,
-      "30d": 104,
-      "all": 104
+      "7d": 75,
+      "30d": 103,
+      "all": 103
     }
   },
   {
     "browser": "AppleBot",
     "visits": {
-      "1d": 2,
-      "7d": 24,
-      "30d": 29,
-      "all": 29
+      "1d": 5,
+      "7d": 27,
+      "30d": 32,
+      "all": 32
     }
   },
   {
@@ -126,6 +126,15 @@
     }
   },
   {
+    "browser": "ChromeMobileWebview",
+    "visits": {
+      "1d": 1,
+      "7d": 5,
+      "30d": 6,
+      "all": 6
+    }
+  },
+  {
     "browser": "SamsungInternet",
     "visits": {
       "1d": 0,
@@ -135,30 +144,12 @@
     }
   },
   {
-    "browser": "ChromeMobileWebview",
-    "visits": {
-      "1d": 0,
-      "7d": 4,
-      "30d": 5,
-      "all": 5
-    }
-  },
-  {
     "browser": "FirefoxMobile",
     "visits": {
       "1d": 0,
       "7d": 2,
       "30d": 2,
       "all": 2
-    }
-  },
-  {
-    "browser": "Silk",
-    "visits": {
-      "1d": 0,
-      "7d": 1,
-      "30d": 1,
-      "all": 1
     }
   },
   {
@@ -172,6 +163,15 @@
   },
   {
     "browser": "Yandex",
+    "visits": {
+      "1d": 0,
+      "7d": 1,
+      "30d": 1,
+      "all": 1
+    }
+  },
+  {
+    "browser": "Silk",
     "visits": {
       "1d": 0,
       "7d": 1,
