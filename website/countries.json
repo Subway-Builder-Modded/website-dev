@@ -3,29 +3,29 @@
     "country": "United States",
     "countryCode": "US",
     "pageviews": {
-      "1d": 823,
-      "7d": 4255,
-      "30d": 5537,
-      "all": 5537
+      "1d": 805,
+      "7d": 4270,
+      "30d": 5552,
+      "all": 5552
     },
     "visitors": {
-      "1d": 823,
-      "7d": 4255,
-      "30d": 5537,
-      "all": 5537
+      "1d": 805,
+      "7d": 4270,
+      "30d": 5552,
+      "all": 5552
     }
   },
   {
     "country": "Canada",
     "countryCode": "CA",
     "pageviews": {
-      "1d": 42,
+      "1d": 37,
       "7d": 498,
       "30d": 643,
       "all": 643
     },
     "visitors": {
-      "1d": 42,
+      "1d": 37,
       "7d": 498,
       "30d": 643,
       "all": 643
@@ -99,13 +99,13 @@
     "country": "Singapore",
     "countryCode": "SG",
     "pageviews": {
-      "1d": 35,
+      "1d": 37,
       "7d": 111,
       "30d": 198,
       "all": 198
     },
     "visitors": {
-      "1d": 35,
+      "1d": 37,
       "7d": 111,
       "30d": 198,
       "all": 198
@@ -163,16 +163,16 @@
     "country": "Belgium",
     "countryCode": "BE",
     "pageviews": {
-      "1d": 26,
-      "7d": 115,
-      "30d": 139,
-      "all": 139
+      "1d": 28,
+      "7d": 117,
+      "30d": 141,
+      "all": 141
     },
     "visitors": {
-      "1d": 26,
-      "7d": 115,
-      "30d": 139,
-      "all": 139
+      "1d": 28,
+      "7d": 117,
+      "30d": 141,
+      "all": 141
     }
   },
   {
@@ -259,16 +259,16 @@
     "country": "Brazil",
     "countryCode": "BR",
     "pageviews": {
-      "1d": 2,
-      "7d": 31,
-      "30d": 49,
-      "all": 49
+      "1d": 3,
+      "7d": 32,
+      "30d": 50,
+      "all": 50
     },
     "visitors": {
-      "1d": 2,
-      "7d": 31,
-      "30d": 49,
-      "all": 49
+      "1d": 3,
+      "7d": 32,
+      "30d": 50,
+      "all": 50
     }
   },
   {
@@ -288,6 +288,22 @@
     }
   },
   {
+    "country": "Japan",
+    "countryCode": "JP",
+    "pageviews": {
+      "1d": 5,
+      "7d": 37,
+      "30d": 44,
+      "all": 44
+    },
+    "visitors": {
+      "1d": 5,
+      "7d": 37,
+      "30d": 44,
+      "all": 44
+    }
+  },
+  {
     "country": "Finland",
     "countryCode": "FI",
     "pageviews": {
@@ -301,22 +317,6 @@
       "7d": 23,
       "30d": 43,
       "all": 43
-    }
-  },
-  {
-    "country": "Japan",
-    "countryCode": "JP",
-    "pageviews": {
-      "1d": 0,
-      "7d": 33,
-      "30d": 40,
-      "all": 40
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 33,
-      "30d": 40,
-      "all": 40
     }
   },
   {
@@ -339,13 +339,13 @@
     "country": "South Korea",
     "countryCode": "KR",
     "pageviews": {
-      "1d": 6,
+      "1d": 2,
       "7d": 31,
       "30d": 34,
       "all": 34
     },
     "visitors": {
-      "1d": 6,
+      "1d": 2,
       "7d": 31,
       "30d": 34,
       "all": 34
@@ -451,16 +451,16 @@
     "country": "Taiwan",
     "countryCode": "TW",
     "pageviews": {
-      "1d": 2,
-      "7d": 17,
-      "30d": 25,
-      "all": 25
+      "1d": 3,
+      "7d": 18,
+      "30d": 26,
+      "all": 26
     },
     "visitors": {
-      "1d": 2,
-      "7d": 17,
-      "30d": 25,
-      "all": 25
+      "1d": 3,
+      "7d": 18,
+      "30d": 26,
+      "all": 26
     }
   },
   {
@@ -512,6 +512,22 @@
     }
   },
   {
+    "country": "India",
+    "countryCode": "IN",
+    "pageviews": {
+      "1d": 5,
+      "7d": 15,
+      "30d": 21,
+      "all": 21
+    },
+    "visitors": {
+      "1d": 5,
+      "7d": 15,
+      "30d": 21,
+      "all": 21
+    }
+  },
+  {
     "country": "Czechia",
     "countryCode": "CZ",
     "pageviews": {
@@ -541,22 +557,6 @@
       "7d": 8,
       "30d": 21,
       "all": 21
-    }
-  },
-  {
-    "country": "India",
-    "countryCode": "IN",
-    "pageviews": {
-      "1d": 5,
-      "7d": 14,
-      "30d": 20,
-      "all": 20
-    },
-    "visitors": {
-      "1d": 5,
-      "7d": 14,
-      "30d": 20,
-      "all": 20
     }
   },
   {
