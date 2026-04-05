@@ -2,7 +2,7 @@
   {
     "browser": "Unknown",
     "visits": {
-      "1d": 284,
+      "1d": 286,
       "7d": 2183,
       "30d": 2708,
       "all": 2708
@@ -11,16 +11,16 @@
   {
     "browser": "Chrome",
     "visits": {
-      "1d": 216,
-      "7d": 1301,
-      "30d": 1968,
-      "all": 1968
+      "1d": 221,
+      "7d": 1318,
+      "30d": 1985,
+      "all": 1985
     }
   },
   {
     "browser": "GoogleBot",
     "visits": {
-      "1d": 282,
+      "1d": 280,
       "7d": 1429,
       "30d": 1598,
       "all": 1598
@@ -29,25 +29,25 @@
   {
     "browser": "MobileSafari",
     "visits": {
-      "1d": 49,
-      "7d": 467,
-      "30d": 902,
-      "all": 902
+      "1d": 52,
+      "7d": 459,
+      "30d": 894,
+      "all": 894
     }
   },
   {
     "browser": "Firefox",
     "visits": {
-      "1d": 60,
-      "7d": 635,
-      "30d": 873,
-      "all": 873
+      "1d": 70,
+      "7d": 641,
+      "30d": 879,
+      "all": 879
     }
   },
   {
     "browser": "Safari",
     "visits": {
-      "1d": 64,
+      "1d": 66,
       "7d": 404,
       "30d": 670,
       "all": 670
@@ -65,16 +65,16 @@
   {
     "browser": "ChromeMobile",
     "visits": {
-      "1d": 39,
-      "7d": 246,
-      "30d": 353,
-      "all": 353
+      "1d": 41,
+      "7d": 248,
+      "30d": 355,
+      "all": 355
     }
   },
   {
     "browser": "Opera",
     "visits": {
-      "1d": 31,
+      "1d": 30,
       "7d": 113,
       "30d": 151,
       "all": 151
@@ -92,7 +92,7 @@
   {
     "browser": "AppleBot",
     "visits": {
-      "1d": 37,
+      "1d": 34,
       "7d": 59,
       "30d": 65,
       "all": 65
@@ -137,7 +137,7 @@
   {
     "browser": "ChromeMobileWebview",
     "visits": {
-      "1d": 1,
+      "1d": 0,
       "7d": 5,
       "30d": 6,
       "all": 6
@@ -171,15 +171,6 @@
     }
   },
   {
-    "browser": "Silk",
-    "visits": {
-      "1d": 0,
-      "7d": 1,
-      "30d": 1,
-      "all": 1
-    }
-  },
-  {
     "browser": "TwitterBot",
     "visits": {
       "1d": 0,
@@ -190,6 +181,15 @@
   },
   {
     "browser": "Yandex",
+    "visits": {
+      "1d": 0,
+      "7d": 1,
+      "30d": 1,
+      "all": 1
+    }
+  },
+  {
+    "browser": "Silk",
     "visits": {
       "1d": 0,
       "7d": 1,
