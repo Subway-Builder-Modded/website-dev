@@ -2,22 +2,22 @@
   {
     "path": "/",
     "pageviews": {
-      "1d": 255,
-      "7d": 1700,
-      "30d": 2600,
-      "all": 2600
+      "1d": 261,
+      "7d": 1707,
+      "30d": 2607,
+      "all": 2607
     },
     "visitors": {
-      "1d": 255,
-      "7d": 1700,
-      "30d": 2600,
-      "all": 2600
+      "1d": 261,
+      "7d": 1707,
+      "30d": 2607,
+      "all": 2607
     },
     "entrances": {
-      "1d": 255,
-      "7d": 1700,
-      "30d": 2600,
-      "all": 2600
+      "1d": 261,
+      "7d": 1707,
+      "30d": 2607,
+      "all": 2607
     }
   },
   {
@@ -401,22 +401,22 @@
   {
     "path": "/railyard/mods/distance-circles",
     "pageviews": {
-      "1d": 6,
-      "7d": 32,
-      "30d": 46,
-      "all": 46
+      "1d": 7,
+      "7d": 33,
+      "30d": 47,
+      "all": 47
     },
     "visitors": {
-      "1d": 6,
-      "7d": 32,
-      "30d": 46,
-      "all": 46
+      "1d": 7,
+      "7d": 33,
+      "30d": 47,
+      "all": 47
     },
     "entrances": {
-      "1d": 6,
-      "7d": 32,
-      "30d": 46,
-      "all": 46
+      "1d": 7,
+      "7d": 33,
+      "30d": 47,
+      "all": 47
     }
   },
   {
@@ -1451,19 +1451,19 @@
   {
     "path": "/railyard/maps/yukina-kyoto",
     "pageviews": {
-      "1d": 2,
+      "1d": 1,
       "7d": 17,
       "30d": 18,
       "all": 18
     },
     "visitors": {
-      "1d": 2,
+      "1d": 1,
       "7d": 17,
       "30d": 18,
       "all": 18
     },
     "entrances": {
-      "1d": 2,
+      "1d": 1,
       "7d": 17,
       "30d": 18,
       "all": 18
@@ -1528,6 +1528,27 @@
     "entrances": {
       "1d": 1,
       "7d": 7,
+      "30d": 17,
+      "all": 17
+    }
+  },
+  {
+    "path": "/railyard/maps/amsterdam",
+    "pageviews": {
+      "1d": 2,
+      "7d": 16,
+      "30d": 17,
+      "all": 17
+    },
+    "visitors": {
+      "1d": 2,
+      "7d": 16,
+      "30d": 17,
+      "all": 17
+    },
+    "entrances": {
+      "1d": 2,
+      "7d": 16,
       "30d": 17,
       "all": 17
     }
@@ -1654,27 +1675,6 @@
     "entrances": {
       "1d": 1,
       "7d": 16,
-      "30d": 16,
-      "all": 16
-    }
-  },
-  {
-    "path": "/railyard/maps/amsterdam",
-    "pageviews": {
-      "1d": 1,
-      "7d": 15,
-      "30d": 16,
-      "all": 16
-    },
-    "visitors": {
-      "1d": 1,
-      "7d": 15,
-      "30d": 16,
-      "all": 16
-    },
-    "entrances": {
-      "1d": 1,
-      "7d": 15,
       "30d": 16,
       "all": 16
     }
@@ -2543,19 +2543,19 @@
   {
     "path": "/railyard/maps/bucharest-medium",
     "pageviews": {
-      "1d": 2,
+      "1d": 1,
       "7d": 10,
       "30d": 10,
       "all": 10
     },
     "visitors": {
-      "1d": 2,
+      "1d": 1,
       "7d": 10,
       "30d": 10,
       "all": 10
     },
     "entrances": {
-      "1d": 2,
+      "1d": 1,
       "7d": 10,
       "30d": 10,
       "all": 10
@@ -3066,6 +3066,27 @@
     }
   },
   {
+    "path": "/registry/mods/citymapper",
+    "pageviews": {
+      "1d": 2,
+      "7d": 9,
+      "30d": 9,
+      "all": 9
+    },
+    "visitors": {
+      "1d": 2,
+      "7d": 9,
+      "30d": 9,
+      "all": 9
+    },
+    "entrances": {
+      "1d": 2,
+      "7d": 9,
+      "30d": 9,
+      "all": 9
+    }
+  },
+  {
     "path": "/odl",
     "pageviews": {
       "1d": 1,
@@ -3257,19 +3278,19 @@
   {
     "path": "/railyard/maps/yukina-toyama",
     "pageviews": {
-      "1d": 3,
+      "1d": 2,
       "7d": 8,
       "30d": 8,
       "all": 8
     },
     "visitors": {
-      "1d": 3,
+      "1d": 2,
       "7d": 8,
       "30d": 8,
       "all": 8
     },
     "entrances": {
-      "1d": 3,
+      "1d": 2,
       "7d": 8,
       "30d": 8,
       "all": 8
@@ -3445,27 +3466,6 @@
   },
   {
     "path": "/registry/mods/cinematic-camera",
-    "pageviews": {
-      "1d": 1,
-      "7d": 8,
-      "30d": 8,
-      "all": 8
-    },
-    "visitors": {
-      "1d": 1,
-      "7d": 8,
-      "30d": 8,
-      "all": 8
-    },
-    "entrances": {
-      "1d": 1,
-      "7d": 8,
-      "30d": 8,
-      "all": 8
-    }
-  },
-  {
-    "path": "/registry/mods/citymapper",
     "pageviews": {
       "1d": 1,
       "7d": 8,
@@ -10542,6 +10542,27 @@
     }
   },
   {
+    "path": "/railyard/maps/yukina-nakadoori",
+    "pageviews": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 1,
+      "all": 1
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 1,
+      "all": 1
+    },
+    "entrances": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 1,
+      "all": 1
+    }
+  },
+  {
     "path": "/railyard/maps/yukina-nakadoori/changelog/0.1.0",
     "pageviews": {
       "1d": 1,
@@ -11487,27 +11508,6 @@
     }
   },
   {
-    "path": "/railyard/maps/yukina-nakadoori",
-    "pageviews": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 0,
-      "all": 0
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 0,
-      "all": 0
-    },
-    "entrances": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 0,
-      "all": 0
-    }
-  },
-  {
     "path": "/railyard/maps/yukina-nakaumi/changelog/0.1.0",
     "pageviews": {
       "1d": 0,
@@ -11677,6 +11677,27 @@
   },
   {
     "path": "/railyard/mods/subwaybuilder-regions/changelog/v0.4.6",
+    "pageviews": {
+      "1d": 0,
+      "7d": 0,
+      "30d": 0,
+      "all": 0
+    },
+    "visitors": {
+      "1d": 0,
+      "7d": 0,
+      "30d": 0,
+      "all": 0
+    },
+    "entrances": {
+      "1d": 0,
+      "7d": 0,
+      "30d": 0,
+      "all": 0
+    }
+  },
+  {
+    "path": "/website/updates/v1.0.3",
     "pageviews": {
       "1d": 0,
       "7d": 0,
