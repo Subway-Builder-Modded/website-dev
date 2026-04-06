@@ -2,73 +2,73 @@
   {
     "browser": "Unknown",
     "visits": {
-      "1d": 299,
-      "7d": 2325,
-      "30d": 3017,
-      "all": 3017
+      "1d": 306,
+      "7d": 2339,
+      "30d": 3031,
+      "all": 3031
     }
   },
   {
     "browser": "Chrome",
     "visits": {
-      "1d": 237,
-      "7d": 1406,
-      "30d": 2206,
-      "all": 2206
+      "1d": 238,
+      "7d": 1419,
+      "30d": 2219,
+      "all": 2219
     }
   },
   {
     "browser": "GoogleBot",
     "visits": {
-      "1d": 224,
-      "7d": 1615,
-      "30d": 1812,
-      "all": 1812
+      "1d": 214,
+      "7d": 1614,
+      "30d": 1811,
+      "all": 1811
     }
   },
   {
     "browser": "Firefox",
     "visits": {
-      "1d": 80,
-      "7d": 603,
-      "30d": 958,
-      "all": 958
+      "1d": 81,
+      "7d": 602,
+      "30d": 957,
+      "all": 957
     }
   },
   {
     "browser": "MobileSafari",
     "visits": {
-      "1d": 51,
-      "7d": 456,
-      "30d": 936,
-      "all": 936
+      "1d": 47,
+      "7d": 451,
+      "30d": 931,
+      "all": 931
     }
   },
   {
     "browser": "Safari",
     "visits": {
-      "1d": 90,
-      "7d": 439,
-      "30d": 761,
-      "all": 761
+      "1d": 100,
+      "7d": 448,
+      "30d": 770,
+      "all": 770
     }
   },
   {
     "browser": "Edge",
     "visits": {
-      "1d": 41,
-      "7d": 234,
-      "30d": 399,
-      "all": 399
+      "1d": 44,
+      "7d": 239,
+      "30d": 404,
+      "all": 404
     }
   },
   {
     "browser": "ChromeMobile",
     "visits": {
-      "1d": 30,
-      "7d": 267,
-      "30d": 382,
-      "all": 382
+      "1d": 28,
+      "7d": 269,
+      "30d": 384,
+      "all": 384
     }
   },
   {
@@ -99,15 +99,6 @@
     }
   },
   {
-    "browser": "OperaMobile",
-    "visits": {
-      "1d": 2,
-      "7d": 11,
-      "30d": 13,
-      "all": 13
-    }
-  },
-  {
     "browser": "MobileSafariWebview",
     "visits": {
       "1d": 2,
@@ -117,9 +108,18 @@
     }
   },
   {
+    "browser": "OperaMobile",
+    "visits": {
+      "1d": 0,
+      "7d": 11,
+      "30d": 13,
+      "all": 13
+    }
+  },
+  {
     "browser": "SamsungInternet",
     "visits": {
-      "1d": 2,
+      "1d": 0,
       "7d": 8,
       "30d": 12,
       "all": 12
