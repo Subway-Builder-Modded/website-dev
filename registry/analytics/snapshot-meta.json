@@ -1,7 +1,7 @@
 {
   "source": "Subway-Builder-Modded/registry@main",
-  "generatedAt": "2026-04-07T04:35:07.714Z",
-  "snapshotLabel": "2026-04-07 04:35 UTC",
+  "generatedAt": "2026-04-07T05:12:08.009Z",
+  "snapshotLabel": "2026-04-07 05:12 UTC",
   "files": [
     "most_popular_all_time.csv",
     "most_popular_last_1d.csv",
@@ -16,8 +16,7 @@
     "maps_statistics.csv",
     "assets_by_day.csv",
     "most_popular_by_day.csv",
-    "authors_by_day.csv",
-    "authors_index.json"
+    "authors_by_day.csv"
   ],
   "failedFiles": []
 }
