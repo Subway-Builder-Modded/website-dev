@@ -2,118 +2,100 @@
   {
     "browser": "Unknown",
     "visits": {
-      "1d": 195,
-      "7d": 2318,
-      "30d": 3010,
-      "all": 3010
+      "1d": 254,
+      "7d": 2385,
+      "30d": 3307,
+      "all": 3307
     }
   },
   {
     "browser": "Chrome",
     "visits": {
-      "1d": 229,
-      "7d": 1447,
-      "30d": 2247,
-      "all": 2247
+      "1d": 232,
+      "7d": 1454,
+      "30d": 2421,
+      "all": 2421
     }
   },
   {
     "browser": "GoogleBot",
     "visits": {
-      "1d": 207,
-      "7d": 1634,
-      "30d": 1831,
-      "all": 1831
+      "1d": 168,
+      "7d": 1648,
+      "30d": 1863,
+      "all": 1863
     }
   },
   {
     "browser": "MobileSafari",
     "visits": {
-      "1d": 63,
-      "7d": 472,
-      "30d": 952,
-      "all": 952
+      "1d": 62,
+      "7d": 475,
+      "30d": 1035,
+      "all": 1035
     }
   },
   {
     "browser": "Firefox",
     "visits": {
-      "1d": 57,
-      "7d": 588,
-      "30d": 943,
-      "all": 943
+      "1d": 67,
+      "7d": 586,
+      "30d": 1029,
+      "all": 1029
     }
   },
   {
     "browser": "Safari",
     "visits": {
-      "1d": 72,
-      "7d": 447,
-      "30d": 769,
-      "all": 769
+      "1d": 79,
+      "7d": 463,
+      "30d": 842,
+      "all": 842
+    }
+  },
+  {
+    "browser": "ChromeMobile",
+    "visits": {
+      "1d": 40,
+      "7d": 282,
+      "30d": 444,
+      "all": 444
     }
   },
   {
     "browser": "Edge",
     "visits": {
       "1d": 42,
-      "7d": 245,
-      "30d": 410,
-      "all": 410
-    }
-  },
-  {
-    "browser": "ChromeMobile",
-    "visits": {
-      "1d": 33,
-      "7d": 275,
-      "30d": 390,
-      "all": 390
+      "7d": 242,
+      "30d": 435,
+      "all": 435
     }
   },
   {
     "browser": "Opera",
     "visits": {
       "1d": 9,
-      "7d": 118,
-      "30d": 161,
-      "all": 161
+      "7d": 112,
+      "30d": 182,
+      "all": 182
     }
   },
   {
     "browser": "BingBot",
     "visits": {
-      "1d": 15,
+      "1d": 16,
       "7d": 111,
-      "30d": 151,
-      "all": 151
+      "30d": 158,
+      "all": 158
     }
   },
   {
     "browser": "AppleBot",
     "visits": {
-      "1d": 25,
-      "7d": 83,
-      "30d": 91,
-      "all": 91
-    }
-  },
-  {
-    "browser": "MobileSafariWebview",
-    "visits": {
-      "1d": 3,
-      "7d": 10,
-      "30d": 14,
-      "all": 14
-    }
-  },
-  {
-    "browser": "SamsungInternet",
-    "visits": {
-      "1d": 1,
-      "7d": 9,
-      "30d": 13,
-      "all": 13
+      "1d": 37,
+      "7d": 94,
+      "30d": 104,
+      "all": 104
     }
   },
   {
@@ -121,8 +103,26 @@
     "visits": {
       "1d": 0,
       "7d": 11,
-      "30d": 13,
-      "all": 13
+      "30d": 22,
+      "all": 22
+    }
+  },
+  {
+    "browser": "SamsungInternet",
+    "visits": {
+      "1d": 1,
+      "7d": 9,
+      "30d": 18,
+      "all": 18
+    }
+  },
+  {
+    "browser": "MobileSafariWebview",
+    "visits": {
+      "1d": 6,
+      "7d": 12,
+      "30d": 17,
+      "all": 17
     }
   },
   {
@@ -171,16 +171,16 @@
     }
   },
   {
-    "browser": "TwitterBot",
+    "browser": "Silk",
     "visits": {
       "1d": 0,
       "7d": 1,
-      "30d": 1,
-      "all": 1
+      "30d": 2,
+      "all": 2
     }
   },
   {
-    "browser": "Silk",
+    "browser": "TwitterBot",
     "visits": {
       "1d": 0,
       "7d": 1,
