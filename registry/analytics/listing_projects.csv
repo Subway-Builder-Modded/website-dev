@@ -28,6 +28,7 @@ mod,subwaybuilder-regions,Regions,ahkimn/subwaybuilder-regions,subwaybuilder-reg
 map,jerusalem,Jerusalem,barkuperman/jerusalem-sb-map,jerusalem-sb-map
 map,tel-aviv,Tel Aviv,barkuperman/tlv-mod,TLV-mod
 mod,transit-overlay,Transit Overlay,barkuperman/transit-overlay-subway-builder-mod,transit-overlay-subway-builder-mod
+map,akron-oh,"Akron, OH",bean1322/akron-oh-map,akron-oh-map
 mod,simple-trains,Simple Trains,bobby-047/some-new-trains,Some-new-Trains
 map,mfn-hong-kong,Hong Kong,crumpetime/sb-maps-hkg,sb-maps-hkg
 map,mfn-lasvegas,Las Vegas,crumpetime/sb-maps-las,sb-maps-las
@@ -46,6 +47,7 @@ map,toronto,Toronto,devenperez/subway-builder-canadian-maps,subway-builder-canad
 map,vancouver,Vancouver,devenperez/subway-builder-canadian-maps,subway-builder-canadian-maps
 map,winnipeg,Winnipeg,devenperez/subway-builder-canadian-maps,subway-builder-canadian-maps
 mod,citymapper,Citymapper,gio1112/subway-builder-citymapper,subway-builder-citymapper
+map,jelegend-tokyo,東京 (Tokyo),jelegend/subwaybuilder,subwaybuilder
 map,south-florida,South Florida,kaicardenas0618/subway-builder-sfl,subway-builder-sfl
 map,dublin,Dublin,kronifer/sb-dublin-map,sb-dublin-map
 map,glasgow-edinburgh,Glasgow-Edinburgh,kronifer/sb-glasgow-edinburgh-map,sb-glasgow-edinburgh-map
@@ -73,9 +75,13 @@ map,bucharest-medium,Bucharest,metatablestudios/subwaybuilder-romania,subwaybuil
 mod,any-money,anyMoney,nzh0172/sb-anymoney,sb-anymoney
 map,bangkok,Bangkok,nzh0172/sb-bangkok,sb-bangkok
 map,greater-kuala-lumpur,Greater Kuala Lumpur,nzh0172/sb-malaysia-map-pack,sb-malaysia-map-pack
+map,ipoh,Ipoh,nzh0172/sb-malaysia-map-pack-2,sb-malaysia-map-pack-2
+map,johor-bahru,Johor Bahru,nzh0172/sb-malaysia-map-pack-2,sb-malaysia-map-pack-2
+map,pulau-pinang,Pulau Pinang,nzh0172/sb-malaysia-map-pack-2,sb-malaysia-map-pack-2
 mod,station-dots,Station Dots,nzh0172/sb-station-dots,sb-station-dots
 map,anchorage-ak,Anchorage,pswbsf/anchorage-ak,anchorage-ak
 map,charleston-huntington-wv,Charleston-Huntington,pswbsf/charleston-huntington-wv,charleston-huntington-wv
+map,charleston-sc,"Charleston, SC",pswbsf/charleston-sc,charleston-sc
 map,dayton-oh,Dayton,pswbsf/dayton-oh,dayton-oh
 map,piedmont-triad,Piedmont Triad,pswbsf/piedmont-triad,piedmont-triad
 map,pyongyang-nk,Pyongyang,pswbsf/pyongyang-nk,pyongyang-nk
@@ -92,6 +98,7 @@ map,memphis,Memphis,rslurry/subwaybuilder-maps,subwaybuilder-maps
 map,monterrey,Monterrey,rslurry/subwaybuilder-maps,subwaybuilder-maps
 map,orange-county,Orange County,rslurry/subwaybuilder-maps,subwaybuilder-maps
 map,orlando,Orlando,rslurry/subwaybuilder-maps,subwaybuilder-maps
+map,puebla,Puebla,rslurry/subwaybuilder-maps,subwaybuilder-maps
 map,puerto-rico,Puerto Rico,rslurry/subwaybuilder-maps,subwaybuilder-maps
 map,richmond,Richmond,rslurry/subwaybuilder-maps,subwaybuilder-maps
 map,rochester,Rochester,rslurry/subwaybuilder-maps,subwaybuilder-maps
@@ -112,11 +119,13 @@ map,nashville,Nashville,soccerjonj/nashville,Nashville
 map,providence,Providence,soccerjonj/providence,Providence
 map,sacramento,Sacramento,soccerjonj/sacramento,Sacramento
 mod,advanced-analytics,Advanced Analytics,stefanorigano/advanced_analytics,advanced_analytics
+mod,tathan-casino,TATHAN Casino,tathandev/tathancasino,TathanCasino
 mod,cinematic-camera,Cinematic Camera,transitcore/cinematic-camera,cinematic-camera
 mod,network-status,Network Status,valdotorium/network-status,network-status
 map,berlin-val,Berlin,valdotorium/railyard-maps-2,Railyard-Maps-2
 map,singapore-val,Singapore,valdotorium/railyard-maps-2,Railyard-Maps-2
 map,trondheim-val,Trondheim,valdotorium/railyard-maps-2,Railyard-Maps-2
 map,warsaw-val,Warsaw,valdotorium/railyard-maps-2,Railyard-Maps-2
+mod,game-speedup,Game SpeedUp,valdotorium/speed-mod,speed-mod
 mod,valdotoriums-trains,Valdotoriums S-Bahn and Trams,valdotorium/valdotoriums_trains,Valdotoriums_Trains
 map,sydney,Sydney,willbarouch/subwaybuilder-sydney,subwaybuilder-sydney
