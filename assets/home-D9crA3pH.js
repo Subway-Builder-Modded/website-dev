@@ -1,0 +1,1 @@
+import{D as e,t}from"./jsx-runtime-BdKdLonr.js";var n=t(),r=e(function(){return(0,n.jsx)(`main`,{children:(0,n.jsx)(`h1`,{children:`Subway Builder Modded`})})});export{r as default};
