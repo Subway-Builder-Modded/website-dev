@@ -768,15 +768,18 @@ You cannot switch profiles while the game is launched. Make sure to close the ga
 title: Troubleshooting Railyard
 description: Diagnose common issues users have with the Railyard app.
 icon: Bug
----`,"/content/docs/registry/analytics-overview.mdx":`---
+---
+`,"/content/docs/registry/analytics-overview.mdx":`---
 title: Analytics Overview
 description: Learn how to properly track your published content's analytics.
 icon: ChartLine
----`,"/content/docs/registry/author-attribution.mdx":`---
+---
+`,"/content/docs/registry/author-attribution.mdx":`---
 title: Author Attribution
 description: Learn how to properly update your attibution link and display name.
 icon: User
----`,"/content/docs/registry/data-quality.mdx":`---
+---
+`,"/content/docs/registry/data-quality.mdx":`---
 title: Data Quality
 description: Learn how to properly categorize your map's data quality for use in Railyard.
 icon: ShieldCheck
@@ -1074,7 +1077,8 @@ Mods only have one main category of tags: content tags. Content tags are used to
 title: Updating Content
 description: Learn how to properly update your content and its metadata.
 icon: CircleFadingArrowUp
----`,"/content/docs/registry/using-custom-url.mdx":`---
+---
+`,"/content/docs/registry/using-custom-url.mdx":`---
 title: Using Custom URL
 description: Learn how to properly publish your multiple projects to the same repository for use in Railyard.
 icon: PackagePlus
