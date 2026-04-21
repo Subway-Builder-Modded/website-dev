@@ -1,0 +1,47 @@
+import{t as e}from"./jsx-runtime-qJqhvtml.js";var t=e();function n(e){let n={a:`a`,code:`code`,em:`em`,h2:`h2`,li:`li`,p:`p`,pre:`pre`,strong:`strong`,ul:`ul`,...e.components},{Caution:r,Danger:a,Important:o,InfoAdmonition:s,Note:c,TabItem:l,Tabs:u,Tip:d}=n;return r||i(`Caution`,!0),a||i(`Danger`,!0),o||i(`Important`,!0),s||i(`InfoAdmonition`,!0),c||i(`Note`,!0),l||i(`TabItem`,!0),u||i(`Tabs`,!0),d||i(`Tip`,!0),(0,t.jsxs)(t.Fragment,{children:[(0,t.jsxs)(n.p,{children:[`Railyard does not host mods or maps within the service. Instead, Railyard pulls directly from its `,(0,t.jsx)(n.a,{href:`https://github.com/Subway-Builder-Modded/registry`,children:`registry`}),`, which contains the data pointing to all the user-created projects. To add a project to Railyard for people to download and play with, you must first add it to the registry.`]}),`
+`,(0,t.jsx)(n.h2,{id:`hosting-the-file`,children:`Step 1 - Hosting the File`}),`
+`,(0,t.jsx)(n.p,{children:`In order to make a submission to the Railyard registry, you need to first upload the source code and release to GitHub and link it to Railyard. To do this, create a new GitHub repository. The actual contents can contain the source code for your map/mod.`}),`
+`,(0,t.jsxs)(n.p,{children:[`Once you have the repository set up, create a new release. In this release, place `,(0,t.jsx)(n.strong,{children:`ALL`}),` the ZIP files containing your various projects (as different release assets). The ZIP files should contain `,(0,t.jsx)(n.strong,{children:`exactly`}),` the files that are used for the mods, meaning no nested subfolders.`]}),`
+`,(0,t.jsxs)(o,{children:[(0,t.jsxs)(n.p,{children:[`If you are publishing a `,(0,t.jsx)(n.strong,{children:`mod`}),`, you must expose your mod's `,(0,t.jsx)(n.code,{children:`manifest.json`}),` (the same file already inside the ZIP) outside the archive so Railyard can validate it without downloading the full ZIP. Specifically, Railyard checks that the `,(0,t.jsx)(n.code,{children:`dependencies`}),` field is present and includes `,(0,t.jsx)(n.code,{children:`subway-builder`}),`.`]}),(0,t.jsxs)(n.ul,{children:[`
+`,(0,t.jsxs)(n.li,{children:[(0,t.jsx)(n.strong,{children:`GitHub Releases:`}),` Upload `,(0,t.jsx)(n.code,{children:`manifest.json`}),` as a `,(0,t.jsx)(n.strong,{children:`separate release asset`}),` alongside the `,(0,t.jsx)(n.code,{children:`.zip`}),` file.`]}),`
+`,(0,t.jsxs)(n.li,{children:[(0,t.jsx)(n.strong,{children:`Custom URL:`}),` Provide a `,(0,t.jsx)(n.strong,{children:`Manifest URL`}),` in the issue form pointing to the `,(0,t.jsx)(n.code,{children:`manifest.json`}),` for the current release.`]}),`
+`]}),(0,t.jsxs)(n.p,{children:[`This requirement applies to `,(0,t.jsx)(n.strong,{children:`mods only`}),` — maps are exempt.`]}),(0,t.jsx)(c,{children:(0,t.jsxs)(n.p,{children:[`Mods must declare dependencies in their `,(0,t.jsx)(n.code,{children:`manifest.json`}),` (the one shipped inside the mod's download ZIP). The `,(0,t.jsx)(n.code,{children:`dependencies`}),` field is required and must include a `,(0,t.jsx)(n.code,{children:`subway-builder`}),` semver range. You can also declare another existing mod as a dependency. For more information, see the `,(0,t.jsx)(n.a,{href:`/registry/docs/dependencies`,children:`Dependencies guide`}),`.`]})}),(0,t.jsx)(r,{children:(0,t.jsxs)(n.p,{children:[`Versions `,(0,t.jsx)(n.strong,{children:`must`}),` be in `,(0,t.jsx)(n.a,{href:`https://semver.org/`,children:`semantic versioning format`}),`. `,(0,t.jsx)(n.code,{children:`1.0`}),`, `,(0,t.jsx)(n.code,{children:`abc`}),`, `,(0,t.jsx)(n.code,{children:`version-A`}),`, etc. will not work. Your version must be `,(0,t.jsx)(n.code,{children:`X.Y.Z`}),` or `,(0,t.jsx)(n.code,{children:`vX.Y.Z`}),`.`]})})]}),`
+`,(0,t.jsx)(n.h2,{id:`submitting-to-the-registry`,children:`Step 2 - Submitting to the Registry`}),`
+`,(0,t.jsxs)(n.p,{children:[`Now that your files are hosted on GitHub, you are ready to make a submission to the registry. Go to the `,(0,t.jsx)(n.a,{href:`https://github.com/Subway-Builder-Modded/registry/issues`,children:`registry's issues page`}),` and click on "New Issue". Here, you can create your submission, which will then be reviewed by a Railyard maintainer. Once you have the issue selection screen open, select "Publish New Map" or "Publish New Mod", depending on the type of the project you are trying to submit. The next process will differ a little depending on if you are submitting a map or a mod.`]}),`
+`,(0,t.jsxs)(c,{children:[(0,t.jsxs)(n.p,{children:[`If you want to host multiple projects within a single repository, follow the `,(0,t.jsx)(n.a,{href:`/registry/docs/using-custom-url`,children:`using custom URL guide`}),` for further instructions. This will teach you how to set up your custom Update JSON for Railyard to pull from.`]}),(0,t.jsx)(s,{children:(0,t.jsxs)(n.p,{children:[`You should `,(0,t.jsx)(n.em,{children:`likely`}),` only need to do this if you are the creator of a large amount of maps. For single maps, GitHub Releases is usually the simpler option. For mods, you likely want to keep each project separate anyways for source code management reasons, so GitHub Releases is also recommended.`]})})]}),`
+`,(0,t.jsx)(n.h2,{id:`using-the-issue-template`,children:`Step 3 - Using the Issue Template`}),`
+`,(0,t.jsxs)(u,{children:[(0,t.jsxs)(l,{value:`submitting-maps`,label:`Submitting Maps`,default:!0,children:[(0,t.jsx)(n.p,{children:`Once you select "Publish New Map", a popup window will appear to input some information about the map. The information should be inputted according to the issue template.`}),(0,t.jsx)(a,{title:`Data Source and Quality`,children:(0,t.jsxs)(n.p,{children:[`Railyard requires all map makers to submit the source and quality of their data. This is then used to categorize the data for users looking to download maps. For more detailed information on the specifications of data quality, see `,(0,t.jsx)(n.a,{href:`/registry/docs/data-quality`,children:(0,t.jsx)(n.strong,{children:`Data Quality`})}),`.`]})}),(0,t.jsx)(d,{children:(0,t.jsxs)(n.p,{children:[`For more information on how to properly tag your map, see the `,(0,t.jsx)(n.a,{href:`/registry/docs/tagging`,children:(0,t.jsx)(n.strong,{children:`Tagging guide`})}),`.`]})})]}),(0,t.jsxs)(l,{value:`submitting-mods`,label:`Submitting Mods`,children:[(0,t.jsx)(n.p,{children:`Once you select "Publish New Mod", a popup window will appear to input some information about the mod. The information should be inputted according to the issue template.`}),(0,t.jsx)(d,{children:(0,t.jsxs)(n.p,{children:[`For more information on how to properly tag your map, see the `,(0,t.jsx)(n.a,{href:`/registry/docs/tagging`,children:(0,t.jsx)(n.strong,{children:`Tagging guide`})}),`.`]})})]})]}),`
+`,(0,t.jsxs)(`details`,{children:[(0,t.jsx)(`summary`,{children:(0,t.jsx)(n.strong,{children:`Using the Update JSON`})}),(0,t.jsxs)(n.p,{children:[`For `,(0,t.jsx)(n.code,{children:`Custom URL`}),`, place a link to your raw Update JSON file. You can paste the raw link directly copied from your repository, however, it is instead recommended to deploy it to GitHub pages and paste that link there. This can help some users who may be rate limited. To deploy to GitHub pages, create a new file located at `,(0,t.jsx)(n.code,{children:`.github/workflows/deploy-releases.yml`}),`. Paste the following into the file:`]}),(0,t.jsx)(n.pre,{children:(0,t.jsx)(n.code,{className:`language-yml`,children:`name: Deploy Update JSON to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+    paths: [releases/**]
+  workflow_dispatch:
+
+permissions:
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: \${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: releases
+
+      - id: deployment
+        uses: actions/deploy-pages@v4
+`})}),(0,t.jsxs)(n.p,{children:[`This will automatically deploy your Update JSON files to GitHub Pages. Once you do this, put the direct link to your Update JSON file for the corresponding map in the `,(0,t.jsx)(n.code,{children:`Custom URL`}),` field. Now every time you update your map (and your Update JSON file), it will automatically deploy the latest Update JSON file for Railyard to use.`]})]}),`
+`,(0,t.jsx)(n.p,{children:`Once you fill out the submission ticket, a Pull Request should automatically be created. A Railyard maintainer will review it and it will be automatically submitted once they do. After that, it will be available on Railyard for everyone to download.`}),`
+`,(0,t.jsx)(d,{children:(0,t.jsxs)(n.p,{children:[`If you input a field incorrectly, the validation will fail. If this happens, you can edit the message above automatically created by the fields you set earlier. Once you edit that message, send a new comment simply commenting `,(0,t.jsx)(n.code,{children:`revalidate`}),`.`]})})]})}function r(e={}){let{wrapper:r}=e.components||{};return r?(0,t.jsx)(r,{...e,children:(0,t.jsx)(n,{...e})}):n(e)}function i(e,t){throw Error(`Expected `+(t?`component`:`object`)+" `"+e+"` to be defined: you likely forgot to import, pass, or provide it.")}export{r as default};
