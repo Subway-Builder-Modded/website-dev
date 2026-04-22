@@ -1,0 +1,23 @@
+import{t as e}from"./jsx-runtime-qJqhvtml.js";var t=e();function n(e){let n={a:`a`,code:`code`,h2:`h2`,h3:`h3`,li:`li`,p:`p`,ul:`ul`,...e.components},{RailyardTaggingRegions:r,TabItem:a,Tabs:o}=n;return r||i(`RailyardTaggingRegions`,!0),a||i(`TabItem`,!0),o||i(`Tabs`,!0),(0,t.jsxs)(t.Fragment,{children:[(0,t.jsx)(n.p,{children:`This guide will walk you through how to properly tag your Railyard content. Proper tagging is important for ensuring that your content is easily discoverable by other users and can be properly categorized within Railyard.`}),`
+`,(0,t.jsx)(n.h2,{id:`tagging-overview`,children:`Tagging Overview`}),`
+`,(0,t.jsxs)(o,{children:[(0,t.jsxs)(a,{value:`maps`,label:`Maps`,default:!0,children:[(0,t.jsx)(n.p,{children:`Maps have 2 main categories of tags: special demand tags and region tags. Special demand tags are used to indicate the presence of a specific, non-vanilla demand feature on the map, while region tags are used to indicate what region your map's city is located in.`}),(0,t.jsx)(n.h3,{id:`special-demand-tags`,children:`Special Demand Tags`}),(0,t.jsx)(n.p,{children:`Use these tags only when the map models a meaningful amount of demand related to the feature.`}),(0,t.jsxs)(n.ul,{children:[`
+`,(0,t.jsxs)(n.li,{children:[(0,t.jsx)(n.code,{children:`airports`}),`: passenger (non-worker) demand from major airports`]}),`
+`,(0,t.jsxs)(n.li,{children:[(0,t.jsx)(n.code,{children:`entertainment`}),`: leisure/tourist demand at stadiums/venues/nightlife`]}),`
+`,(0,t.jsxs)(n.li,{children:[(0,t.jsx)(n.code,{children:`ferries`}),`: passenger (non-worker) demand from ferry terminals`]}),`
+`,(0,t.jsxs)(n.li,{children:[(0,t.jsx)(n.code,{children:`hospitals`}),`: visitation demand for major medical centers`]}),`
+`,(0,t.jsxs)(n.li,{children:[(0,t.jsx)(n.code,{children:`parks`}),`: leisure/tourist demand from large local or national parks`]}),`
+`,(0,t.jsxs)(n.li,{children:[(0,t.jsx)(n.code,{children:`schools`}),`: demand from primary/secondary school students`]}),`
+`,(0,t.jsxs)(n.li,{children:[(0,t.jsx)(n.code,{children:`universities`}),`: demand from university school students`]}),`
+`]}),(0,t.jsx)(n.h3,{id:`region-tags`,children:`Region Tags`}),(0,t.jsxs)(n.p,{children:[`For region tagging, each map should be tagged with the region that the city it models is located in. You can find a list of all region tags and the areas they cover in the `,(0,t.jsx)(n.a,{href:`#region-lookup`,children:`Region Lookup`}),` section below.`]})]}),(0,t.jsxs)(a,{value:`mods`,label:`Mods`,children:[(0,t.jsx)(n.p,{children:`Mods only have one main category of tags: content tags. Content tags are used to indicate what type of content your mod adds to the game.`}),(0,t.jsx)(n.h3,{id:`content-tags`,children:`Content Tags`}),(0,t.jsxs)(n.ul,{children:[`
+`,(0,t.jsxs)(n.li,{children:[(0,t.jsx)(n.code,{children:`cosmetic`}),`: This mod affects the visuals of the game.`]}),`
+`,(0,t.jsxs)(n.li,{children:[(0,t.jsx)(n.code,{children:`gameplay`}),`: This mod affects a core gameplay mechanic of the game.`]}),`
+`,(0,t.jsxs)(n.li,{children:[(0,t.jsx)(n.code,{children:`library`}),`: This mod is used as a library for other mods to depend on, and does not add any content of its own.`]}),`
+`,(0,t.jsxs)(n.li,{children:[(0,t.jsx)(n.code,{children:`qol`}),`: This mod adds quality of life improvements to the game that make certain things easier or more intuitive for users.`]}),`
+`,(0,t.jsxs)(n.li,{children:[(0,t.jsx)(n.code,{children:`stations`}),`: This mod adds new train stations to the game.`]}),`
+`,(0,t.jsxs)(n.li,{children:[(0,t.jsx)(n.code,{children:`tracks`}),`: This mod adds new track types to the game.`]}),`
+`,(0,t.jsxs)(n.li,{children:[(0,t.jsx)(n.code,{children:`trains`}),`: This mod adds new train types to the game.`]}),`
+`,(0,t.jsxs)(n.li,{children:[(0,t.jsx)(n.code,{children:`ui`}),`: This mod adds or modifies user interface elements in the game.`]}),`
+`,(0,t.jsxs)(n.li,{children:[(0,t.jsx)(n.code,{children:`misc`}),`: This mod does not fit into any of the other content categories, but still adds meaningful content to the game.`]}),`
+`]})]})]}),`
+`,(0,t.jsx)(n.h2,{id:`region-lookup`,children:`Region Lookup`}),`
+`,(0,t.jsx)(r,{})]})}function r(e={}){let{wrapper:r}=e.components||{};return r?(0,t.jsx)(r,{...e,children:(0,t.jsx)(n,{...e})}):n(e)}function i(e,t){throw Error(`Expected `+(t?`component`:`object`)+" `"+e+"` to be defined: you likely forgot to import, pass, or provide it.")}export{r as default};
