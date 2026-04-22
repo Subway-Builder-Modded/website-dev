@@ -1,4 +1,4 @@
-import{t as e}from"./jsx-runtime-qJqhvtml.js";var t=e();function n(e){let n={a:`a`,code:`code`,h2:`h2`,h3:`h3`,h4:`h4`,li:`li`,ol:`ol`,p:`p`,pre:`pre`,strong:`strong`,...e.components},{Image:r,Note:a}=n;return r||i(`Image`,!0),a||i(`Note`,!0),(0,t.jsxs)(t.Fragment,{children:[(0,t.jsx)(n.p,{children:`This guide will walk you through installing and setting up Railyard on macOS.`}),`
+import{t as e}from"./jsx-runtime-qJqhvtml.js";var t=e();function n(e){let n={a:`a`,code:`code`,figure:`figure`,h2:`h2`,h3:`h3`,h4:`h4`,li:`li`,ol:`ol`,p:`p`,pre:`pre`,span:`span`,strong:`strong`,...e.components},{Image:r,Note:a}=n;return r||i(`Image`,!0),a||i(`Note`,!0),(0,t.jsxs)(t.Fragment,{children:[(0,t.jsx)(n.p,{children:`This guide will walk you through installing and setting up Railyard on macOS.`}),`
 `,(0,t.jsx)(n.h2,{id:`downloading-railyard`,children:`Step 1 - Downloading Railyard`}),`
 `,(0,t.jsxs)(n.p,{children:[`To install Railyard on macOS, navigate to the `,(0,t.jsx)(n.a,{href:`https://subwaybuildermodded.com/railyard`,children:`download page`}),`. You should see a button with the auto-detected download for your operating system.`]}),`
 `,(0,t.jsx)(n.h2,{id:`dequarantining-railyard`,children:`Step 2 - Dequarantining Railyard`}),`
@@ -21,8 +21,7 @@ import{t as e}from"./jsx-runtime-qJqhvtml.js";var t=e();function n(e){let n={a:`
 `]}),`
 `,(0,t.jsx)(n.h4,{id:`terminal`,children:`Option C: Terminal`}),`
 `,(0,t.jsx)(n.p,{children:`If neither option above works, you can remove the quarantine attribute:`}),`
-`,(0,t.jsx)(n.pre,{children:(0,t.jsx)(n.code,{className:`language-bash`,children:`xattr -cr /Applications/railyard.app
-`})}),`
+`,(0,t.jsx)(n.figure,{"data-rehype-pretty-code-figure":``,children:(0,t.jsx)(n.pre,{tabIndex:`0`,"data-language":`bash`,"data-theme":`github-dark github-light-high-contrast`,children:(0,t.jsx)(n.code,{"data-language":`bash`,"data-theme":`github-dark github-light-high-contrast`,style:{display:`grid`},children:(0,t.jsxs)(n.span,{"data-line":``,children:[(0,t.jsx)(n.span,{style:{"--shiki-dark":`#B392F0`,"--shiki-light":`#702C00`},children:`xattr`}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#79B8FF`,"--shiki-light":`#023B95`},children:` -cr`}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#9ECBFF`,"--shiki-light":`#032563`},children:` /Applications/railyard.app`})]})})})}),`
 `,(0,t.jsx)(n.p,{children:`Then open Railyard normally.`}),`
 `,(0,t.jsx)(n.h3,{id:`install-from-zip`,children:`Install from ZIP`}),`
 `,(0,t.jsx)(n.p,{children:`If you prefer not to use the DMG:`}),`
@@ -34,8 +33,7 @@ import{t as e}from"./jsx-runtime-qJqhvtml.js";var t=e();function n(e){let n={a:`
 `]}),`
 `,(0,t.jsx)(n.h3,{id:`uninstalling`,children:`Uninstalling`}),`
 `,(0,t.jsxs)(n.p,{children:[`Drag `,(0,t.jsx)(n.strong,{children:`Railyard`}),` from Applications to the Trash. To remove app data:`]}),`
-`,(0,t.jsx)(n.pre,{children:(0,t.jsx)(n.code,{className:`language-bash`,children:`rm -rf ~/Library/Application\\ Support/railyard
-`})}),`
+`,(0,t.jsx)(n.figure,{"data-rehype-pretty-code-figure":``,children:(0,t.jsx)(n.pre,{tabIndex:`0`,"data-language":`bash`,"data-theme":`github-dark github-light-high-contrast`,children:(0,t.jsx)(n.code,{"data-language":`bash`,"data-theme":`github-dark github-light-high-contrast`,style:{display:`grid`},children:(0,t.jsxs)(n.span,{"data-line":``,children:[(0,t.jsx)(n.span,{style:{"--shiki-dark":`#B392F0`,"--shiki-light":`#702C00`},children:`rm`}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#79B8FF`,"--shiki-light":`#023B95`},children:` -rf`}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#9ECBFF`,"--shiki-light":`#032563`},children:` ~/Library/Application`}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#79B8FF`,"--shiki-light":`#A0111F`},children:`\\ `}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#9ECBFF`,"--shiki-light":`#032563`},children:`Support/railyard`})]})})})}),`
 `,(0,t.jsx)(n.h2,{id:`setting-up-railyard`,children:`Step 3 - Setting Up Railyard`}),`
 `,(0,t.jsxs)(n.p,{children:[`When you first launch Railyard, you will be asked to select your `,(0,t.jsx)(n.code,{children:`metro-maker4`}),` folder.`]}),`
 `,(0,t.jsx)(`p`,{align:`center`,children:(0,t.jsx)(r,{width:`400`,alt:`image`,src:`/images/docs/railyard/v0.1/railyard-setup-mm4.png`})}),`
