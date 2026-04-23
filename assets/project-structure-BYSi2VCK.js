@@ -1,56 +1,55 @@
 import{t as e}from"./jsx-runtime-qJqhvtml.js";var t=e();function n(e){let n={code:`code`,figure:`figure`,h2:`h2`,h3:`h3`,li:`li`,p:`p`,pre:`pre`,span:`span`,strong:`strong`,ul:`ul`,...e.components};return(0,t.jsxs)(t.Fragment,{children:[(0,t.jsx)(n.p,{children:`Here's what each file in the template does.`}),`
 `,(0,t.jsx)(n.pre,{children:(0,t.jsx)(n.code,{children:`├── src/
-│   ├── main.ts               # Your mod's entry point
+│   ├── main.ts                    # Your mod's entry point
 │   ├── ui/
-│   │   └── ExamplePanel.tsx   # Example React component
+│   │   └── ExamplePanel.tsx       # Example React component
 │   └── types/
-│       ├── react.ts           # React shim (pulls React from game API)
-│       ├── index.d.ts         # Re-exports + global Window declarations
-│       ├── api.d.ts           # Main ModdingAPI interface
-│       ├── core.d.ts          # Coordinate, BoundingBox, GameSpeed
-│       ├── game-state.d.ts    # Station, Track, Train, Route types
-│       ├── game-constants.d.ts# GameConstants, ConstructionCosts
-│       ├── game-actions.d.ts  # Bond, BondType types
-│       ├── build.d.ts         # Build automation types
-│       ├── ui.d.ts            # UI placements & option types
-│       ├── cities.d.ts        # City, CityConfig types
-│       ├── trains.d.ts        # TrainTypeConfig, TrainTypeStats
-│       ├── stations.d.ts      # StationTypeConfig
-│       ├── map.d.ts           # Map sources, layers, overrides
-│       ├── career.d.ts        # MissionConfig, StarConfig
+│       ├── react.ts               # React shim (pulls React from game API)
+│       ├── index.d.ts             # Re-exports + global Window declarations
+│       ├── api.d.ts               # Main ModdingAPI interface
+│       ├── core.d.ts              # Coordinate, BoundingBox, GameSpeed
+│       ├── game-state.d.ts        # Station, Track, Train, Route types
+│       ├── game-constants.d.ts    # GameConstants, ConstructionCosts
+│       ├── game-actions.d.ts      # Bond, BondType types
+│       ├── build.d.ts             # Build automation types
+│       ├── ui.d.ts                # UI placements & option types
+│       ├── cities.d.ts            # City, CityConfig types
+│       ├── trains.d.ts            # TrainTypeConfig, TrainTypeStats
+│       ├── stations.d.ts          # StationTypeConfig
+│       ├── map.d.ts               # Map sources, layers, overrides
+│       ├── career.d.ts            # MissionConfig, StarConfig
 │       ├── content-templates.d.ts # Newspaper & tweet templates
-│       ├── pop-timing.d.ts    # CommuteTimeRange
-│       ├── i18n.d.ts          # I18nAPI
-│       ├── utils.d.ts         # RechartsComponents
-│       ├── schemas.d.ts       # Zod validation schemas
-│       ├── electron.d.ts      # ElectronAPI types
-│       └── manifest.d.ts      # ModManifest type
+│       ├── pop-timing.d.ts        # CommuteTimeRange
+│       ├── i18n.d.ts              # I18nAPI
+│       ├── utils.d.ts             # RechartsComponents
+│       ├── schemas.d.ts           # Zod validation schemas
+│       ├── electron.d.ts          # ElectronAPI types
+│       └── manifest.d.ts          # ModManifest type
 ├── scripts/
-│   ├── run.ts                 # Game launcher with logging
-│   └── link.ts                # Symlink management
-├── manifest.json              # Mod metadata (loaded by the game)
-├── vite.config.ts             # Build configuration
-├── tsconfig.json              # TypeScript configuration
-└── package.json               # Dependencies and scripts
+│   ├── run.ts                     # Game launcher with logging
+│   └── link.ts                    # Symlink management
+├── manifest.json                  # Mod metadata (loaded by the game)
+├── vite.config.ts                 # Build configuration
+├── tsconfig.json                  # TypeScript configuration
+└── package.json                   # Dependencies and scripts
 `})}),`
 `,(0,t.jsx)(n.h2,{id:`key-files`,children:`Key Files`}),`
 `,(0,t.jsx)(n.h3,{id:`manifest.json`,children:`manifest.json`}),`
 `,(0,t.jsx)(n.p,{children:`The game reads this to identify your mod. Required fields:`}),`
 `,(0,t.jsx)(n.figure,{"data-rehype-pretty-code-figure":``,children:(0,t.jsx)(n.pre,{tabIndex:`0`,"data-language":`json`,"data-theme":`github-dark github-light-high-contrast`,children:(0,t.jsxs)(n.code,{"data-language":`json`,"data-theme":`github-dark github-light-high-contrast`,style:{display:`grid`},children:[(0,t.jsx)(n.span,{"data-line":``,children:(0,t.jsx)(n.span,{style:{"--shiki-dark":`#E1E4E8`,"--shiki-light":`#0E1116`},children:`{`})}),`
-`,(0,t.jsxs)(n.span,{"data-line":``,children:[(0,t.jsx)(n.span,{style:{"--shiki-dark":`#79B8FF`,"--shiki-light":`#024C1A`},children:`  "id"`}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#E1E4E8`,"--shiki-light":`#0E1116`},children:`: `}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#9ECBFF`,"--shiki-light":`#032563`},children:`"com.author.modname"`}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#E1E4E8`,"--shiki-light":`#0E1116`},children:`,`})]}),`
-`,(0,t.jsxs)(n.span,{"data-line":``,children:[(0,t.jsx)(n.span,{style:{"--shiki-dark":`#79B8FF`,"--shiki-light":`#024C1A`},children:`  "name"`}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#E1E4E8`,"--shiki-light":`#0E1116`},children:`: `}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#9ECBFF`,"--shiki-light":`#032563`},children:`"My Mod"`}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#E1E4E8`,"--shiki-light":`#0E1116`},children:`,`})]}),`
-`,(0,t.jsxs)(n.span,{"data-line":``,children:[(0,t.jsx)(n.span,{style:{"--shiki-dark":`#79B8FF`,"--shiki-light":`#024C1A`},children:`  "description"`}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#E1E4E8`,"--shiki-light":`#0E1116`},children:`: `}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#9ECBFF`,"--shiki-light":`#032563`},children:`"Description of your mod"`}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#E1E4E8`,"--shiki-light":`#0E1116`},children:`,`})]}),`
+`,(0,t.jsxs)(n.span,{"data-line":``,children:[(0,t.jsx)(n.span,{style:{"--shiki-dark":`#79B8FF`,"--shiki-light":`#024C1A`},children:`  "id"`}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#E1E4E8`,"--shiki-light":`#0E1116`},children:`: `}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#9ECBFF`,"--shiki-light":`#032563`},children:`"com.yourname.yourmod"`}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#E1E4E8`,"--shiki-light":`#0E1116`},children:`,`})]}),`
+`,(0,t.jsxs)(n.span,{"data-line":``,children:[(0,t.jsx)(n.span,{style:{"--shiki-dark":`#79B8FF`,"--shiki-light":`#024C1A`},children:`  "name"`}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#E1E4E8`,"--shiki-light":`#0E1116`},children:`: `}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#9ECBFF`,"--shiki-light":`#032563`},children:`"My Cool Mod"`}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#E1E4E8`,"--shiki-light":`#0E1116`},children:`,`})]}),`
+`,(0,t.jsxs)(n.span,{"data-line":``,children:[(0,t.jsx)(n.span,{style:{"--shiki-dark":`#79B8FF`,"--shiki-light":`#024C1A`},children:`  "description"`}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#E1E4E8`,"--shiki-light":`#0E1116`},children:`: `}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#9ECBFF`,"--shiki-light":`#032563`},children:`"Does something cool"`}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#E1E4E8`,"--shiki-light":`#0E1116`},children:`,`})]}),`
 `,(0,t.jsxs)(n.span,{"data-line":``,children:[(0,t.jsx)(n.span,{style:{"--shiki-dark":`#79B8FF`,"--shiki-light":`#024C1A`},children:`  "version"`}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#E1E4E8`,"--shiki-light":`#0E1116`},children:`: `}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#9ECBFF`,"--shiki-light":`#032563`},children:`"1.0.0"`}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#E1E4E8`,"--shiki-light":`#0E1116`},children:`,`})]}),`
 `,(0,t.jsxs)(n.span,{"data-line":``,children:[(0,t.jsx)(n.span,{style:{"--shiki-dark":`#79B8FF`,"--shiki-light":`#024C1A`},children:`  "author"`}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#E1E4E8`,"--shiki-light":`#0E1116`},children:`: { `}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#79B8FF`,"--shiki-light":`#024C1A`},children:`"name"`}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#E1E4E8`,"--shiki-light":`#0E1116`},children:`: `}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#9ECBFF`,"--shiki-light":`#032563`},children:`"Your Name"`}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#E1E4E8`,"--shiki-light":`#0E1116`},children:` },`})]}),`
 `,(0,t.jsxs)(n.span,{"data-line":``,children:[(0,t.jsx)(n.span,{style:{"--shiki-dark":`#79B8FF`,"--shiki-light":`#024C1A`},children:`  "main"`}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#E1E4E8`,"--shiki-light":`#0E1116`},children:`: `}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#9ECBFF`,"--shiki-light":`#032563`},children:`"index.js"`})]}),`
 `,(0,t.jsx)(n.span,{"data-line":``,children:(0,t.jsx)(n.span,{style:{"--shiki-dark":`#E1E4E8`,"--shiki-light":`#0E1116`},children:`}`})})]})})}),`
 `,(0,t.jsxs)(n.ul,{children:[`
-`,(0,t.jsxs)(n.li,{children:[(0,t.jsx)(n.code,{children:`id`}),` — unique identifier in reverse-domain notation`]}),`
-`,(0,t.jsxs)(n.li,{children:[(0,t.jsx)(n.code,{children:`main`}),` — always `,(0,t.jsx)(n.code,{children:`"index.js"`}),` (the Vite build output)`]}),`
+`,(0,t.jsxs)(n.li,{children:[(0,t.jsx)(n.code,{children:`id`}),`: unique identifier in reverse-domain notation`]}),`
+`,(0,t.jsxs)(n.li,{children:[(0,t.jsx)(n.code,{children:`main`}),`: always `,(0,t.jsx)(n.code,{children:`"index.js"`}),` (the Vite build output)`]}),`
 `]}),`
 `,(0,t.jsx)(n.h3,{id:`main.ts`,children:`src/main.ts`}),`
-`,(0,t.jsx)(n.p,{children:`Your mod's entry point. This is where you register hooks, add UI elements, and set up your mod's
-logic. The template comes with a working example:`}),`
+`,(0,t.jsx)(n.p,{children:`This is your mod's entry point. This is where you register hooks, add UI elements, and set up your mod's logic. The template comes with a working example:`}),`
 `,(0,t.jsx)(n.figure,{"data-rehype-pretty-code-figure":``,children:(0,t.jsx)(n.pre,{tabIndex:`0`,"data-language":`ts`,"data-theme":`github-dark github-light-high-contrast`,children:(0,t.jsxs)(n.code,{"data-language":`ts`,"data-theme":`github-dark github-light-high-contrast`,style:{display:`grid`},children:[(0,t.jsxs)(n.span,{"data-line":``,children:[(0,t.jsx)(n.span,{style:{"--shiki-dark":`#F97583`,"--shiki-light":`#A0111F`},children:`const`}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#79B8FF`,"--shiki-light":`#023B95`},children:` api`}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#F97583`,"--shiki-light":`#A0111F`},children:` =`}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#E1E4E8`,"--shiki-light":`#0E1116`},children:` window.SubwayBuilderAPI;`})]}),`
 `,(0,t.jsx)(n.span,{"data-line":``,children:` `}),`
 `,(0,t.jsxs)(n.span,{"data-line":``,children:[(0,t.jsx)(n.span,{style:{"--shiki-dark":`#F97583`,"--shiki-light":`#A0111F`},children:`if`}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#E1E4E8`,"--shiki-light":`#0E1116`},children:` (`}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#F97583`,"--shiki-light":`#A0111F`},children:`!`}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#E1E4E8`,"--shiki-light":`#0E1116`},children:`api) {`})]}),`
@@ -72,8 +71,7 @@ logic. The template comes with a working example:`}),`
 `,(0,t.jsx)(n.span,{"data-line":``,children:(0,t.jsx)(n.span,{style:{"--shiki-dark":`#E1E4E8`,"--shiki-light":`#0E1116`},children:`  });`})}),`
 `,(0,t.jsx)(n.span,{"data-line":``,children:(0,t.jsx)(n.span,{style:{"--shiki-dark":`#E1E4E8`,"--shiki-light":`#0E1116`},children:`}`})})]})})}),`
 `,(0,t.jsx)(n.h3,{id:`examplepanel.tsx`,children:`src/ui/ExamplePanel.tsx`}),`
-`,(0,t.jsx)(n.p,{children:`A sample React component that demonstrates how to use game UI components and hooks inside a floating
-panel:`}),`
+`,(0,t.jsx)(n.p,{children:`This is a sample React component that demonstrates how to use game UI components and hooks inside a floating panel:`}),`
 `,(0,t.jsx)(n.figure,{"data-rehype-pretty-code-figure":``,children:(0,t.jsx)(n.pre,{tabIndex:`0`,"data-language":`tsx`,"data-theme":`github-dark github-light-high-contrast`,children:(0,t.jsxs)(n.code,{"data-language":`tsx`,"data-theme":`github-dark github-light-high-contrast`,style:{display:`grid`},children:[(0,t.jsxs)(n.span,{"data-line":``,children:[(0,t.jsx)(n.span,{style:{"--shiki-dark":`#F97583`,"--shiki-light":`#A0111F`},children:`import`}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#E1E4E8`,"--shiki-light":`#0E1116`},children:` { useState } `}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#F97583`,"--shiki-light":`#A0111F`},children:`from`}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#9ECBFF`,"--shiki-light":`#032563`},children:` "react"`}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#E1E4E8`,"--shiki-light":`#0E1116`},children:`;`})]}),`
 `,(0,t.jsx)(n.span,{"data-line":``,children:` `}),`
 `,(0,t.jsxs)(n.span,{"data-line":``,children:[(0,t.jsx)(n.span,{style:{"--shiki-dark":`#F97583`,"--shiki-light":`#A0111F`},children:`const`}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#79B8FF`,"--shiki-light":`#023B95`},children:` api`}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#F97583`,"--shiki-light":`#A0111F`},children:` =`}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#E1E4E8`,"--shiki-light":`#0E1116`},children:` window.SubwayBuilderAPI;`})]}),`
@@ -90,8 +88,7 @@ panel:`}),`
 `,(0,t.jsx)(n.span,{"data-line":``,children:(0,t.jsx)(n.span,{style:{"--shiki-dark":`#E1E4E8`,"--shiki-light":`#0E1116`},children:`  );`})}),`
 `,(0,t.jsx)(n.span,{"data-line":``,children:(0,t.jsx)(n.span,{style:{"--shiki-dark":`#E1E4E8`,"--shiki-light":`#0E1116`},children:`}`})})]})})}),`
 `,(0,t.jsx)(n.h3,{id:`react.ts`,children:`src/types/react.ts`}),`
-`,(0,t.jsx)(n.p,{children:`The React shim. This is how JSX works in mods — instead of bundling React, the shim pulls React from
-the game's API at runtime:`}),`
+`,(0,t.jsx)(n.p,{children:`This is the React shim. This is how JSX works in mods: instead of bundling React, the shim pulls React from the game's API at runtime:`}),`
 `,(0,t.jsx)(n.figure,{"data-rehype-pretty-code-figure":``,children:(0,t.jsx)(n.pre,{tabIndex:`0`,"data-language":`ts`,"data-theme":`github-dark github-light-high-contrast`,children:(0,t.jsxs)(n.code,{"data-language":`ts`,"data-theme":`github-dark github-light-high-contrast`,style:{display:`grid`},children:[(0,t.jsxs)(n.span,{"data-line":``,children:[(0,t.jsx)(n.span,{style:{"--shiki-dark":`#F97583`,"--shiki-light":`#A0111F`},children:`const`}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#79B8FF`,"--shiki-light":`#023B95`},children:` React`}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#F97583`,"--shiki-light":`#A0111F`},children:` =`}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#E1E4E8`,"--shiki-light":`#0E1116`},children:` window.SubwayBuilderAPI.utils.React;`})]}),`
 `,(0,t.jsx)(n.span,{"data-line":``,children:` `}),`
 `,(0,t.jsxs)(n.span,{"data-line":``,children:[(0,t.jsx)(n.span,{style:{"--shiki-dark":`#F97583`,"--shiki-light":`#A0111F`},children:`export`}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#F97583`,"--shiki-light":`#A0111F`},children:` default`}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#E1E4E8`,"--shiki-light":`#0E1116`},children:` React;`})]}),`
@@ -100,27 +97,23 @@ the game's API at runtime:`}),`
 `,(0,t.jsx)(n.span,{"data-line":``,children:(0,t.jsx)(n.span,{style:{"--shiki-dark":`#6A737D`,"--shiki-light":`#66707B`},children:`// JSX runtime exports`})}),`
 `,(0,t.jsxs)(n.span,{"data-line":``,children:[(0,t.jsx)(n.span,{style:{"--shiki-dark":`#F97583`,"--shiki-light":`#A0111F`},children:`export`}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#F97583`,"--shiki-light":`#A0111F`},children:` const`}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#79B8FF`,"--shiki-light":`#023B95`},children:` jsx`}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#F97583`,"--shiki-light":`#A0111F`},children:` =`}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#E1E4E8`,"--shiki-light":`#0E1116`},children:` React.createElement;`})]}),`
 `,(0,t.jsxs)(n.span,{"data-line":``,children:[(0,t.jsx)(n.span,{style:{"--shiki-dark":`#F97583`,"--shiki-light":`#A0111F`},children:`export`}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#F97583`,"--shiki-light":`#A0111F`},children:` const`}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#79B8FF`,"--shiki-light":`#023B95`},children:` jsxs`}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#F97583`,"--shiki-light":`#A0111F`},children:` =`}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#E1E4E8`,"--shiki-light":`#0E1116`},children:` React.createElement;`})]})]})})}),`
-`,(0,t.jsxs)(n.p,{children:[`Vite is configured to alias `,(0,t.jsx)(n.code,{children:`react`}),` and `,(0,t.jsx)(n.code,{children:`react/jsx-runtime`}),` imports to this file, so you can write
-standard `,(0,t.jsx)(n.code,{children:`import { useState } from 'react'`}),` and it just works.`]}),`
+`,(0,t.jsxs)(n.p,{children:[`Vite is configured to alias `,(0,t.jsx)(n.code,{children:`react`}),` and `,(0,t.jsx)(n.code,{children:`react/jsx-runtime`}),` imports to this file, so you can write standard `,(0,t.jsx)(n.code,{children:`import { useState } from 'react'`}),` and it just works.`]}),`
 `,(0,t.jsx)(n.h3,{id:`vite.config.ts`,children:`vite.config.ts`}),`
-`,(0,t.jsx)(n.p,{children:`The build configuration. Key points:`}),`
+`,(0,t.jsx)(n.p,{children:`This is the build configuration. Key points:`}),`
 `,(0,t.jsxs)(n.ul,{children:[`
-`,(0,t.jsxs)(n.li,{children:[(0,t.jsx)(n.strong,{children:`Output format`}),`: IIFE (immediately-invoked function expression) — the game expects a single
-script, not ES modules`]}),`
+`,(0,t.jsxs)(n.li,{children:[(0,t.jsx)(n.strong,{children:`Output format`}),`: IIFE (immediately-invoked function expression) - the game expects a single script, not ES modules`]}),`
 `,(0,t.jsxs)(n.li,{children:[(0,t.jsx)(n.strong,{children:`React aliasing`}),`: Routes `,(0,t.jsx)(n.code,{children:`react`}),` imports through the shim`]}),`
 `,(0,t.jsxs)(n.li,{children:[(0,t.jsx)(n.strong,{children:`Static copy`}),`: Copies `,(0,t.jsx)(n.code,{children:`manifest.json`}),` into `,(0,t.jsx)(n.code,{children:`dist/`}),` alongside the built JS`]}),`
 `,(0,t.jsxs)(n.li,{children:[(0,t.jsx)(n.strong,{children:`No minification`}),`: Keeps the output readable for debugging`]}),`
 `]}),`
 `,(0,t.jsx)(n.h3,{id:`tsconfig.json`,children:`tsconfig.json`}),`
-`,(0,t.jsx)(n.p,{children:`Standard TypeScript config with:`}),`
+`,(0,t.jsx)(n.p,{children:`This is the standard TypeScript config with:`}),`
 `,(0,t.jsxs)(n.ul,{children:[`
 `,(0,t.jsxs)(n.li,{children:[(0,t.jsx)(n.code,{children:`strict: true`}),` — full type safety`]}),`
 `,(0,t.jsxs)(n.li,{children:[(0,t.jsx)(n.code,{children:`jsx: "react-jsx"`}),` — automatic JSX transform`]}),`
 `,(0,t.jsxs)(n.li,{children:[(0,t.jsx)(n.code,{children:`noEmit: true`}),` — TypeScript is only used for type checking, Vite handles the actual build`]}),`
 `]}),`
 `,(0,t.jsx)(n.h3,{id:`link.ts`,children:`scripts/link.ts`}),`
-`,(0,t.jsxs)(n.p,{children:[`Creates a symlink from `,(0,t.jsx)(n.code,{children:`dist/`}),` to the game's mods folder. It reads the mod ID from `,(0,t.jsx)(n.code,{children:`manifest.json`}),`
-and uses the last segment as the folder name (e.g., `,(0,t.jsx)(n.code,{children:`com.author.mymod`}),` becomes `,(0,t.jsx)(n.code,{children:`mymod/`}),`).`]}),`
+`,(0,t.jsxs)(n.p,{children:[`Creates a symlink from `,(0,t.jsx)(n.code,{children:`dist/`}),` to the game's mods folder. It reads the mod ID from `,(0,t.jsx)(n.code,{children:`manifest.json`}),` and uses the last segment as the folder name (e.g., `,(0,t.jsx)(n.code,{children:`com.author.mymod`}),` becomes `,(0,t.jsx)(n.code,{children:`mymod/`}),`).`]}),`
 `,(0,t.jsx)(n.h3,{id:`run.ts`,children:`scripts/run.ts`}),`
-`,(0,t.jsxs)(n.p,{children:[`Finds the Subway Builder executable on your system and launches it with `,(0,t.jsx)(n.code,{children:`ELECTRON_ENABLE_LOGGING=1`}),`.
-Captures stdout/stderr to `,(0,t.jsx)(n.code,{children:`debug/latest.log`}),` so you can review console output after the session.`]})]})}function r(e={}){let{wrapper:r}=e.components||{};return r?(0,t.jsx)(r,{...e,children:(0,t.jsx)(n,{...e})}):n(e)}export{r as default};
+`,(0,t.jsxs)(n.p,{children:[`This script finds the Subway Builder executable on your system and launches it with `,(0,t.jsx)(n.code,{children:`ELECTRON_ENABLE_LOGGING=1`}),`. It captures stdout/stderr to `,(0,t.jsx)(n.code,{children:`debug/latest.log`}),` so you can review console output after the session.`]})]})}function r(e={}){let{wrapper:r}=e.components||{};return r?(0,t.jsx)(r,{...e,children:(0,t.jsx)(n,{...e})}):n(e)}export{r as default};

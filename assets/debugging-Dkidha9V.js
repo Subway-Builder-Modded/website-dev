@@ -1,15 +1,14 @@
-import{t as e}from"./jsx-runtime-qJqhvtml.js";var t=e();function n(e){let n={code:`code`,figure:`figure`,h2:`h2`,h3:`h3`,li:`li`,p:`p`,pre:`pre`,span:`span`,strong:`strong`,ul:`ul`,...e.components},{Note:r}=n;return r||i(`Note`,!0),(0,t.jsxs)(t.Fragment,{children:[(0,t.jsx)(n.p,{children:`Tips for debugging your mods during development.`}),`
+import{t as e}from"./jsx-runtime-qJqhvtml.js";var t=e();function n(e){let n={code:`code`,figure:`figure`,h2:`h2`,h3:`h3`,hr:`hr`,li:`li`,p:`p`,pre:`pre`,span:`span`,strong:`strong`,ul:`ul`,...e.components},{Note:r}=n;return r||i(`Note`,!0),(0,t.jsxs)(t.Fragment,{children:[(0,t.jsx)(n.p,{children:`This guide will show you some helpful tips for debugging your mods during development.`}),`
 `,(0,t.jsx)(n.h2,{id:`hot-reload`,children:`Hot Reload`}),`
 `,(0,t.jsx)(n.p,{children:`The fastest way to test changes is hot reloading. After rebuilding your mod:`}),`
 `,(0,t.jsxs)(n.ul,{children:[`
-`,(0,t.jsxs)(n.li,{children:[`Press `,(0,t.jsx)(n.strong,{children:`Ctrl+Shift+R`}),` (Windows/Linux) or `,(0,t.jsx)(n.strong,{children:`Cmd+Shift+R`}),` (Mac) in-game`]}),`
-`,(0,t.jsxs)(n.li,{children:[`This calls `,(0,t.jsx)(n.code,{children:`api.reloadMods()`}),` internally, which clears all mod callbacks, UI components, custom
-layers, and custom train types, then re-executes all mod scripts`]}),`
+`,(0,t.jsxs)(n.li,{children:[`Press `,(0,t.jsx)(n.strong,{children:`Ctrl+Shift+R`}),` (or `,(0,t.jsx)(n.strong,{children:`Cmd+Shift+R`}),` on Mac) in-game`]}),`
+`,(0,t.jsxs)(n.li,{children:[`This calls `,(0,t.jsx)(n.code,{children:`api.reloadMods()`}),` internally, which clears all mod callbacks, UI components, custom layers, and custom train types, then re-executes all mod scripts`]}),`
 `]}),`
-`,(0,t.jsxs)(n.p,{children:[`If you're using `,(0,t.jsx)(n.code,{children:`pnpm dev`}),`, Vite automatically rebuilds on file save, so you just need to press the
-reload shortcut in-game.`]}),`
+`,(0,t.jsxs)(n.p,{children:[`If you're using `,(0,t.jsx)(n.code,{children:`pnpm dev`}),`, Vite automatically rebuilds on file save, so you just need to press the reload shortcut in-game.`]}),`
 `,(0,t.jsx)(r,{children:(0,t.jsx)(n.p,{children:`Hot reload clears most mod state, but some things persist (like already-built tracks and
 stations). If your mod gets into a weird state, restarting the game fully is the safest reset.`})}),`
+`,(0,t.jsx)(n.hr,{}),`
 `,(0,t.jsx)(n.h2,{id:`console-logging`,children:`Console Logging`}),`
 `,(0,t.jsxs)(n.p,{children:[`Use `,(0,t.jsx)(n.code,{children:`console.log`}),` with a tag prefix to identify your mod's output:`]}),`
 `,(0,t.jsx)(n.figure,{"data-rehype-pretty-code-figure":``,children:(0,t.jsx)(n.pre,{tabIndex:`0`,"data-language":`ts`,"data-theme":`github-dark github-light-high-contrast`,children:(0,t.jsxs)(n.code,{"data-language":`ts`,"data-theme":`github-dark github-light-high-contrast`,style:{display:`grid`},children:[(0,t.jsxs)(n.span,{"data-line":``,children:[(0,t.jsx)(n.span,{style:{"--shiki-dark":`#F97583`,"--shiki-light":`#A0111F`},children:`const`}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#79B8FF`,"--shiki-light":`#023B95`},children:` TAG`}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#F97583`,"--shiki-light":`#A0111F`},children:` =`}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#9ECBFF`,"--shiki-light":`#032563`},children:` "[MyMod]"`}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#E1E4E8`,"--shiki-light":`#0E1116`},children:`;`})]}),`
@@ -17,12 +16,11 @@ stations). If your mod gets into a weird state, restarting the game fully is the
 `,(0,t.jsxs)(n.span,{"data-line":``,children:[(0,t.jsx)(n.span,{style:{"--shiki-dark":`#E1E4E8`,"--shiki-light":`#0E1116`},children:`console.`}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#B392F0`,"--shiki-light":`#622CBC`},children:`warn`}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#E1E4E8`,"--shiki-light":`#0E1116`},children:`(`}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#9ECBFF`,"--shiki-light":`#032563`},children:"`${"}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#79B8FF`,"--shiki-light":`#023B95`},children:`TAG`}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#9ECBFF`,"--shiki-light":`#032563`},children:"} Something unexpected`"}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#E1E4E8`,"--shiki-light":`#0E1116`},children:`, someData);`})]}),`
 `,(0,t.jsxs)(n.span,{"data-line":``,children:[(0,t.jsx)(n.span,{style:{"--shiki-dark":`#E1E4E8`,"--shiki-light":`#0E1116`},children:`console.`}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#B392F0`,"--shiki-light":`#622CBC`},children:`error`}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#E1E4E8`,"--shiki-light":`#0E1116`},children:`(`}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#9ECBFF`,"--shiki-light":`#032563`},children:"`${"}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#79B8FF`,"--shiki-light":`#023B95`},children:`TAG`}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#9ECBFF`,"--shiki-light":`#032563`},children:"} Failed to load`"}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#E1E4E8`,"--shiki-light":`#0E1116`},children:`, error);`})]})]})})}),`
 `,(0,t.jsx)(n.h3,{id:`viewing-logs`,children:`Viewing Logs`}),`
-`,(0,t.jsxs)(n.p,{children:[(0,t.jsx)(n.strong,{children:`In-game`}),`: Open the developer console with `,(0,t.jsx)(n.strong,{children:`Ctrl+Shift+I`}),` (Windows/Linux) or `,(0,t.jsx)(n.strong,{children:`Cmd+Option+I`}),`
-(Mac).`]}),`
-`,(0,t.jsxs)(n.p,{children:[(0,t.jsxs)(n.strong,{children:[`With `,(0,t.jsx)(n.code,{children:`pnpm dev`})]}),`: Logs are printed to your terminal and saved to `,(0,t.jsx)(n.code,{children:`debug/latest.log`}),`. The game
-launcher enables Electron logging automatically.`]}),`
+`,(0,t.jsxs)(n.p,{children:[`When in-game, open the developer console with `,(0,t.jsx)(n.strong,{children:`Ctrl+Shift+I`}),` (or `,(0,t.jsx)(n.strong,{children:`Cmd+Option+I`}),` on Mac). With `,(0,t.jsx)(n.code,{children:`pnpm dev`}),`, logs are printed to your terminal and saved to `,(0,t.jsx)(n.code,{children:`debug/latest.log`}),`. The game launcher enables Electron logging automatically.`]}),`
+`,(0,t.jsx)(n.hr,{}),`
 `,(0,t.jsx)(n.h2,{id:`checking-performance`,children:`Checking Performance`}),`
-`,(0,t.jsxs)(n.p,{children:[`You can monitor the effects of your mod on game performance by pressing `,(0,t.jsx)(n.code,{children:`Ctrl+Shift+P`}),` to view the performance monitor in-game. Run benchmarks while your mod is active to compare frame rates and memory usage.`]}),`
+`,(0,t.jsxs)(n.p,{children:[`You can monitor the effects of your mod on game performance by pressing `,(0,t.jsx)(n.strong,{children:`Ctrl+Shift+P`}),` (or `,(0,t.jsx)(n.strong,{children:`Cmd+Shift+P`}),` on Mac) to view the performance monitor in-game. Run benchmarks while your mod is active to compare frame rates and memory usage.`]}),`
+`,(0,t.jsx)(n.hr,{}),`
 `,(0,t.jsx)(n.h2,{id:`error-handling`,children:`Error Handling`}),`
 `,(0,t.jsx)(n.p,{children:`Wrap your initialization in try/catch to avoid crashing the game:`}),`
 `,(0,t.jsx)(n.figure,{"data-rehype-pretty-code-figure":``,children:(0,t.jsx)(n.pre,{tabIndex:`0`,"data-language":`ts`,"data-theme":`github-dark github-light-high-contrast`,children:(0,t.jsxs)(n.code,{"data-language":`ts`,"data-theme":`github-dark github-light-high-contrast`,style:{display:`grid`},children:[(0,t.jsxs)(n.span,{"data-line":``,children:[(0,t.jsx)(n.span,{style:{"--shiki-dark":`#E1E4E8`,"--shiki-light":`#0E1116`},children:`api.hooks.`}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#B392F0`,"--shiki-light":`#622CBC`},children:`onMapReady`}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#E1E4E8`,"--shiki-light":`#0E1116`},children:`((`}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#FFAB70`,"--shiki-light":`#702C00`},children:`_map`}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#E1E4E8`,"--shiki-light":`#0E1116`},children:`) `}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#F97583`,"--shiki-light":`#A0111F`},children:`=>`}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#E1E4E8`,"--shiki-light":`#0E1116`},children:` {`})]}),`
@@ -45,6 +43,7 @@ launcher enables Electron logging automatically.`]}),`
 `,(0,t.jsxs)(n.span,{"data-line":``,children:[(0,t.jsx)(n.span,{style:{"--shiki-dark":`#E1E4E8`,"--shiki-light":`#0E1116`},children:`    console.`}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#B392F0`,"--shiki-light":`#622CBC`},children:`error`}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#E1E4E8`,"--shiki-light":`#0E1116`},children:`(`}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#9ECBFF`,"--shiki-light":`#032563`},children:"`${"}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#79B8FF`,"--shiki-light":`#023B95`},children:`TAG`}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#9ECBFF`,"--shiki-light":`#032563`},children:"} Error on day ${"}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#E1E4E8`,"--shiki-light":`#0E1116`},children:`day`}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#9ECBFF`,"--shiki-light":`#032563`},children:"}:`"}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#E1E4E8`,"--shiki-light":`#0E1116`},children:`, err);`})]}),`
 `,(0,t.jsx)(n.span,{"data-line":``,children:(0,t.jsx)(n.span,{style:{"--shiki-dark":`#E1E4E8`,"--shiki-light":`#0E1116`},children:`  }`})}),`
 `,(0,t.jsx)(n.span,{"data-line":``,children:(0,t.jsx)(n.span,{style:{"--shiki-dark":`#E1E4E8`,"--shiki-light":`#0E1116`},children:`});`})})]})})}),`
+`,(0,t.jsx)(n.hr,{}),`
 `,(0,t.jsx)(n.h2,{id:`game-error-hooks`,children:`Game Error Hooks`}),`
 `,(0,t.jsx)(n.p,{children:`The API provides hooks for catching game-level warnings and errors:`}),`
 `,(0,t.jsx)(n.figure,{"data-rehype-pretty-code-figure":``,children:(0,t.jsx)(n.pre,{tabIndex:`0`,"data-language":`ts`,"data-theme":`github-dark github-light-high-contrast`,children:(0,t.jsxs)(n.code,{"data-language":`ts`,"data-theme":`github-dark github-light-high-contrast`,style:{display:`grid`},children:[(0,t.jsxs)(n.span,{"data-line":``,children:[(0,t.jsx)(n.span,{style:{"--shiki-dark":`#E1E4E8`,"--shiki-light":`#0E1116`},children:`api.hooks.`}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#B392F0`,"--shiki-light":`#622CBC`},children:`onWarning`}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#E1E4E8`,"--shiki-light":`#0E1116`},children:`((`}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#FFAB70`,"--shiki-light":`#702C00`},children:`message`}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#E1E4E8`,"--shiki-light":`#0E1116`},children:`) `}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#F97583`,"--shiki-light":`#A0111F`},children:`=>`}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#E1E4E8`,"--shiki-light":`#0E1116`},children:` {`})]}),`
@@ -54,25 +53,24 @@ launcher enables Electron logging automatically.`]}),`
 `,(0,t.jsxs)(n.span,{"data-line":``,children:[(0,t.jsx)(n.span,{style:{"--shiki-dark":`#E1E4E8`,"--shiki-light":`#0E1116`},children:`api.hooks.`}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#B392F0`,"--shiki-light":`#622CBC`},children:`onError`}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#E1E4E8`,"--shiki-light":`#0E1116`},children:`((`}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#FFAB70`,"--shiki-light":`#702C00`},children:`error`}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#E1E4E8`,"--shiki-light":`#0E1116`},children:`) `}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#F97583`,"--shiki-light":`#A0111F`},children:`=>`}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#E1E4E8`,"--shiki-light":`#0E1116`},children:` {`})]}),`
 `,(0,t.jsxs)(n.span,{"data-line":``,children:[(0,t.jsx)(n.span,{style:{"--shiki-dark":`#E1E4E8`,"--shiki-light":`#0E1116`},children:`  console.`}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#B392F0`,"--shiki-light":`#622CBC`},children:`error`}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#E1E4E8`,"--shiki-light":`#0E1116`},children:`(`}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#9ECBFF`,"--shiki-light":`#032563`},children:"`${"}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#79B8FF`,"--shiki-light":`#023B95`},children:`TAG`}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#9ECBFF`,"--shiki-light":`#032563`},children:"} Game error:`"}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#E1E4E8`,"--shiki-light":`#0E1116`},children:`, error);`})]}),`
 `,(0,t.jsx)(n.span,{"data-line":``,children:(0,t.jsx)(n.span,{style:{"--shiki-dark":`#E1E4E8`,"--shiki-light":`#0E1116`},children:`});`})})]})})}),`
+`,(0,t.jsx)(n.hr,{}),`
 `,(0,t.jsx)(n.h2,{id:`type-checking`,children:`Type Checking`}),`
 `,(0,t.jsx)(n.p,{children:`Run TypeScript's type checker to catch errors before building:`}),`
 `,(0,t.jsx)(n.figure,{"data-rehype-pretty-code-figure":``,children:(0,t.jsx)(n.pre,{tabIndex:`0`,"data-language":`bash`,"data-theme":`github-dark github-light-high-contrast`,children:(0,t.jsx)(n.code,{"data-language":`bash`,"data-theme":`github-dark github-light-high-contrast`,style:{display:`grid`},children:(0,t.jsxs)(n.span,{"data-line":``,children:[(0,t.jsx)(n.span,{style:{"--shiki-dark":`#B392F0`,"--shiki-light":`#702C00`},children:`pnpm`}),(0,t.jsx)(n.span,{style:{"--shiki-dark":`#9ECBFF`,"--shiki-light":`#032563`},children:` typecheck`})]})})})}),`
-`,(0,t.jsxs)(n.p,{children:[`This runs `,(0,t.jsx)(n.code,{children:`tsc --noEmit`}),` and reports any type errors without producing output files. It's a good
-practice to run this before testing in-game.`]}),`
+`,(0,t.jsxs)(n.p,{children:[`This runs `,(0,t.jsx)(n.code,{children:`tsc --noEmit`}),` and reports any type errors without producing output files. It's a good practice to run this before testing in-game.`]}),`
+`,(0,t.jsx)(n.hr,{}),`
 `,(0,t.jsx)(n.h2,{id:`common-issues`,children:`Common Issues`}),`
-`,(0,t.jsx)(n.h3,{id:`subwaybuilderapi-not-found`,children:`"SubwayBuilderAPI Not Found"`}),`
-`,(0,t.jsx)(n.p,{children:`Your mod script ran before the game initialized the API. This shouldn't happen with the template's
-structure, but if it does:`}),`
+`,(0,t.jsx)(n.h3,{id:`api-not-found`,children:`"SubwayBuilderAPI Not Found"`}),`
+`,(0,t.jsx)(n.p,{children:`This means your mod script ran before the game initialized the API. This shouldn't happen with the template's structure, but if it does:`}),`
 `,(0,t.jsxs)(n.ul,{children:[`
 `,(0,t.jsxs)(n.li,{children:[`Make sure `,(0,t.jsx)(n.code,{children:`main`}),` in `,(0,t.jsx)(n.code,{children:`manifest.json`}),` is `,(0,t.jsx)(n.code,{children:`"index.js"`})]}),`
 `,(0,t.jsxs)(n.li,{children:[`Make sure you're checking `,(0,t.jsx)(n.code,{children:`if (!api)`}),` before using the API`]}),`
 `]}),`
 `,(0,t.jsx)(n.h3,{id:`ui-not-showing-up`,children:`UI Not Showing Up`}),`
 `,(0,t.jsxs)(n.ul,{children:[`
-`,(0,t.jsxs)(n.li,{children:[`Check that you're registering UI inside `,(0,t.jsx)(n.code,{children:`onMapReady`}),` — the UI system isn't ready before the map
-loads`]}),`
+`,(0,t.jsxs)(n.li,{children:[`Check that you're registering UI inside `,(0,t.jsx)(n.code,{children:`onMapReady`}),`; the UI system isn't ready before the map loads`]}),`
 `,(0,t.jsx)(n.li,{children:`Verify your component doesn't throw during render (check console for React errors)`}),`
-`,(0,t.jsxs)(n.li,{children:[`Make sure the `,(0,t.jsx)(n.code,{children:`id`}),` you're using is unique — duplicate IDs silently fail`]}),`
+`,(0,t.jsxs)(n.li,{children:[`Make sure the `,(0,t.jsx)(n.code,{children:`id`}),` you're using is unique; duplicate IDs silently fail`]}),`
 `]}),`
 `,(0,t.jsx)(n.h3,{id:`changes-not-appearing-after-reload`,children:`Changes Not Appearing After Reload`}),`
 `,(0,t.jsxs)(n.ul,{children:[`
