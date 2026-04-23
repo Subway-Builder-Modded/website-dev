@@ -6,8 +6,7 @@ import{t as e}from"./jsx-runtime-qJqhvtml.js";var t=e();function n(e){let n={cod
 `,(0,t.jsxs)(n.li,{children:[`This calls `,(0,t.jsx)(n.code,{children:`api.reloadMods()`}),` internally, which clears all mod callbacks, UI components, custom layers, and custom train types, then re-executes all mod scripts`]}),`
 `]}),`
 `,(0,t.jsxs)(n.p,{children:[`If you're using `,(0,t.jsx)(n.code,{children:`pnpm dev`}),`, Vite automatically rebuilds on file save, so you just need to press the reload shortcut in-game.`]}),`
-`,(0,t.jsx)(r,{children:(0,t.jsx)(n.p,{children:`Hot reload clears most mod state, but some things persist (like already-built tracks and
-stations). If your mod gets into a weird state, restarting the game fully is the safest reset.`})}),`
+`,(0,t.jsx)(r,{children:(0,t.jsx)(n.p,{children:`Hot reload clears most mod state, but some things persist (like already-built tracks and stations). If your mod gets into a weird state, restarting the game fully is the safest reset.`})}),`
 `,(0,t.jsx)(n.hr,{}),`
 `,(0,t.jsx)(n.h2,{id:`console-logging`,children:`Console Logging`}),`
 `,(0,t.jsxs)(n.p,{children:[`Use `,(0,t.jsx)(n.code,{children:`console.log`}),` with a tag prefix to identify your mod's output:`]}),`
