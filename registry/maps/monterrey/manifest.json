@@ -1,0 +1,130 @@
+{
+  "schema_version": 1,
+  "id": "monterrey",
+  "name": "Monterrey",
+  "author": "rslurry",
+  "github_id": 112521174,
+  "description": "Combined result of INEGI's DENUE, CE, CPV, and ENOE data. Covers from Montemorelos in the southeast to Hidalgo in the northwest. Includes demand for MTY and NTR airports; ITESM, TecMilenio, U-ERRE, UMM, CEDIM, CEU, UDELN, UIN, UNICA, UDEM, UANL, ITNL, UPG, UTSC, UTGME, UTC, and UM universities; Cuarta Region Militar in Monterrey and Campo Militar 7-A in Apodaca military bases; and Macroplaza, Paseo Santa Lucia, Barrio Antiguo, Museo de Historia Mexicana, Museo MARCO, Cintermax, Fundidora Park, Cerro del Obispado, Grutas de Garcia, Arena Monterrey, and Mercado Juarez.",
+  "tags": [
+    "north-america",
+    "airports",
+    "entertainment",
+    "universities"
+  ],
+  "gallery": [
+    "gallery/screenshot1.png",
+    "gallery/screenshot2.png"
+  ],
+  "is_test": false,
+  "source": "https://github.com/rslurry/subwaybuilder-maps",
+  "update": {
+    "type": "custom",
+    "url": "https://raw.githubusercontent.com/rslurry/subwaybuilder-maps/refs/heads/main/MTY.json"
+  },
+  "city_code": "MTY",
+  "country": "MX",
+  "population": 3045051,
+  "residents_total": 3045051,
+  "points_count": 6212,
+  "population_count": 37399,
+  "initial_view_state": {
+    "latitude": 25.68604,
+    "longitude": -100.31688,
+    "zoom": 12,
+    "bearing": 0
+  },
+  "data_source": "INEGI's DENUE, CE, CPV, and ENOE",
+  "source_quality": "high-quality",
+  "level_of_detail": "high-detail",
+  "location": "north-america",
+  "special_demand": [
+    "airports",
+    "entertainment",
+    "universities"
+  ],
+  "file_sizes": {
+    "MTY.pmtiles": 60.1,
+    "buildings_index.json": 184.34,
+    "config.json": 0,
+    "demand_data.json": 6.41,
+    "roads.geojson": 34.56,
+    "runways_taxiways.geojson": 0.31
+  },
+  "grid_statistics": {
+    "residentWeightedNearestNeighborKm": {
+      "p10": 0.22907761628601564,
+      "p25": 0.25405655788491716,
+      "p50": 0.28230715742142487,
+      "p75": 0.3103086235027454,
+      "p90": 0.3410530474657175,
+      "mean": 0.2856529609392178
+    },
+    "workerWeightedNearestNeighborKm": {
+      "p10": 0.20105841548330788,
+      "p25": 0.24625395519675353,
+      "p50": 0.28187810145710873,
+      "p75": 0.32958540378358253,
+      "p90": 0.41882021579906276,
+      "mean": 0.30887331768227555
+    },
+    "commuteDistanceKm": {
+      "p10": 2243,
+      "p25": 4660,
+      "p50": 9097,
+      "p75": 15686,
+      "p90": 23585,
+      "mean": 11266.59851867697
+    },
+    "residentCellDensity": {
+      "p10": 78,
+      "p25": 566,
+      "p50": 1916,
+      "p75": 4327,
+      "p90": 6648,
+      "mean": 2736.790467625899
+    },
+    "workerCellDensity": {
+      "p10": 123,
+      "p25": 366,
+      "p50": 1154,
+      "p75": 2551,
+      "p90": 4679,
+      "mean": 2117.046624913013
+    },
+    "detail": {
+      "radiusKm": 0.2820925478663064,
+      "expectedPointSpacingKm": 0.4909024240670705,
+      "normalizedRadius": 0.5746407718446405,
+      "activityPerPoint": 490.1885061171925,
+      "playableAreaKm2": 2272,
+      "playableAreaPerPointKm2": 0.3657437218287186,
+      "playableCatchmentRadiusKm": 0.3412035205969238,
+      "localityScore": 0.47503218572308853,
+      "deaggregationScore": 1,
+      "score": 0.6892257871866726
+    },
+    "polycentrism": {
+      "activity": {
+        "score": 0,
+        "continuousScore": 0.7907752735189173,
+        "detectedCenterCount": 1,
+        "effectiveCenterCount": 1,
+        "largestCenterShare": 1,
+        "bandwidthKm": 1.3,
+        "reliabilityScore": 1,
+        "supportLevel": "high",
+        "usedFallback": false,
+        "topCenters": [
+          {
+            "longitude": -100.28150040825743,
+            "latitude": 25.71783819930419,
+            "massShare": 1,
+            "assignedMass": 6090102,
+            "assignedPointCount": 6109,
+            "prominenceRatio": 1
+          }
+        ]
+      }
+    }
+  }
+}

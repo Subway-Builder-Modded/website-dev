@@ -1,0 +1,2330 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-04-24T03:30:13.310Z",
+  "listings": {
+    "advanced-analytics": {
+      "has_complete_version": true,
+      "latest_semver_version": "v1.4.7",
+      "latest_semver_complete": true,
+      "complete_versions": [
+        "v1.4.7",
+        "v1.4.5",
+        "v1.4.2",
+        "v1.4.1",
+        "v1.4.0",
+        "v1.3.2",
+        "v1.3.1",
+        "v1.3.0",
+        "v1.2.9",
+        "v1.2.8",
+        "v1.2.7",
+        "v1.2.6",
+        "v1.2.5",
+        "v1.2.1",
+        "v1.2.0",
+        "v1.1.0"
+      ],
+      "incomplete_versions": [
+        "v1.0.1",
+        "v1.0.0",
+        "v0.9.2",
+        "v0.9.1"
+      ],
+      "versions": {
+        "target-1.1.0": {
+          "is_complete": false,
+          "errors": [
+            "non-semver release tag 'target-1.1.0'"
+          ],
+          "required_checks": {},
+          "matched_files": {},
+          "source": {
+            "update_type": "github",
+            "repo": "stefanorigano/advanced_analytics",
+            "tag": "target-1.1.0"
+          },
+          "fingerprint": "rules:v6:github:stefanorigano/advanced_analytics:target-1.1.0:no-zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-04-24T03:30:13.310Z"
+        },
+        "v0.9.1": {
+          "is_complete": false,
+          "errors": [
+            "asset 'advanced_analytics-v0.9.1.zip': release asset manifest.json is missing",
+            "asset 'advanced_analytics-v0.9.1.zip': missing top-level manifest.json in ZIP",
+            "asset 'advanced_analytics-v0.9.1.zip': manifest.json version '(missing)' does not match release tag 'v0.9.1' (expected '0.9.1')"
+          ],
+          "required_checks": {
+            "release_manifest_asset": false,
+            "zip_manifest_json": false,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": false
+          },
+          "matched_files": {
+            "release_manifest_asset": null,
+            "zip_manifest_json": null,
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": null
+          },
+          "release_size": 0.06,
+          "source": {
+            "update_type": "github",
+            "repo": "stefanorigano/advanced_analytics",
+            "tag": "v0.9.1",
+            "asset_name": "advanced_analytics-v0.9.1.zip",
+            "download_url": "https://github.com/stefanorigano/advanced_analytics/releases/download/v0.9.1/advanced_analytics-v0.9.1.zip"
+          },
+          "fingerprint": "rules:v6:github:stefanorigano/advanced_analytics:v0.9.1:advanced_analytics-v0.9.1.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-04-10T17:31:23.904Z"
+        },
+        "v0.9.2": {
+          "is_complete": false,
+          "errors": [
+            "asset 'advanced_analytics-v0.9.2.zip': release asset manifest.json is missing",
+            "asset 'advanced_analytics-v0.9.2.zip': missing top-level manifest.json in ZIP",
+            "asset 'advanced_analytics-v0.9.2.zip': manifest.json version '(missing)' does not match release tag 'v0.9.2' (expected '0.9.2')"
+          ],
+          "required_checks": {
+            "release_manifest_asset": false,
+            "zip_manifest_json": false,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": false
+          },
+          "matched_files": {
+            "release_manifest_asset": null,
+            "zip_manifest_json": null,
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": null
+          },
+          "release_size": 0.06,
+          "source": {
+            "update_type": "github",
+            "repo": "stefanorigano/advanced_analytics",
+            "tag": "v0.9.2",
+            "asset_name": "advanced_analytics-v0.9.2.zip",
+            "download_url": "https://github.com/stefanorigano/advanced_analytics/releases/download/v0.9.2/advanced_analytics-v0.9.2.zip"
+          },
+          "fingerprint": "rules:v6:github:stefanorigano/advanced_analytics:v0.9.2:advanced_analytics-v0.9.2.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-04-10T17:31:23.904Z"
+        },
+        "v1.0.0": {
+          "is_complete": false,
+          "errors": [
+            "asset 'advanced_analytics-v1.0.0.zip': missing top-level manifest.json in ZIP",
+            "asset 'advanced_analytics-v1.0.0.zip': manifest.json version '(missing)' does not match release tag 'v1.0.0' (expected '1.0.0')"
+          ],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": false,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": false
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": null,
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": null
+          },
+          "release_size": 0.06,
+          "source": {
+            "update_type": "github",
+            "repo": "stefanorigano/advanced_analytics",
+            "tag": "v1.0.0",
+            "asset_name": "advanced_analytics-v1.0.0.zip",
+            "download_url": "https://github.com/stefanorigano/advanced_analytics/releases/download/v1.0.0/advanced_analytics-v1.0.0.zip"
+          },
+          "fingerprint": "rules:v6:github:stefanorigano/advanced_analytics:v1.0.0:advanced_analytics-v1.0.0.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-04-10T17:31:23.904Z"
+        },
+        "v1.0.1": {
+          "is_complete": false,
+          "errors": [
+            "asset 'advanced_analytics-v1.0.1.zip': missing top-level manifest.json in ZIP",
+            "asset 'advanced_analytics-v1.0.1.zip': manifest.json version '(missing)' does not match release tag 'v1.0.1' (expected '1.0.1')"
+          ],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": false,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": false
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": null,
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": null
+          },
+          "release_size": 0.06,
+          "source": {
+            "update_type": "github",
+            "repo": "stefanorigano/advanced_analytics",
+            "tag": "v1.0.1",
+            "asset_name": "advanced_analytics-v1.0.1.zip",
+            "download_url": "https://github.com/stefanorigano/advanced_analytics/releases/download/v1.0.1/advanced_analytics-v1.0.1.zip"
+          },
+          "fingerprint": "rules:v6:github:stefanorigano/advanced_analytics:v1.0.1:advanced_analytics-v1.0.1.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-04-10T17:31:23.904Z"
+        },
+        "v1.1.0": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.06,
+          "source": {
+            "update_type": "github",
+            "repo": "stefanorigano/advanced_analytics",
+            "tag": "v1.1.0",
+            "asset_name": "advanced_analytics-v1.1.0.zip",
+            "download_url": "https://github.com/stefanorigano/advanced_analytics/releases/download/v1.1.0/advanced_analytics-v1.1.0.zip"
+          },
+          "fingerprint": "rules:v6:github:stefanorigano/advanced_analytics:v1.1.0:advanced_analytics-v1.1.0.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-04-10T17:31:23.904Z"
+        },
+        "v1.2.0": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.07,
+          "source": {
+            "update_type": "github",
+            "repo": "stefanorigano/advanced_analytics",
+            "tag": "v1.2.0",
+            "asset_name": "advanced_analytics-v1.2.0.zip",
+            "download_url": "https://github.com/stefanorigano/advanced_analytics/releases/download/v1.2.0/advanced_analytics-v1.2.0.zip"
+          },
+          "fingerprint": "rules:v6:github:stefanorigano/advanced_analytics:v1.2.0:advanced_analytics-v1.2.0.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-04-10T17:31:23.904Z"
+        },
+        "v1.2.1": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.07,
+          "source": {
+            "update_type": "github",
+            "repo": "stefanorigano/advanced_analytics",
+            "tag": "v1.2.1",
+            "asset_name": "advanced_analytics-v1.2.1.zip",
+            "download_url": "https://github.com/stefanorigano/advanced_analytics/releases/download/v1.2.1/advanced_analytics-v1.2.1.zip"
+          },
+          "fingerprint": "rules:v6:github:stefanorigano/advanced_analytics:v1.2.1:advanced_analytics-v1.2.1.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-04-10T17:31:23.904Z"
+        },
+        "v1.2.5": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.07,
+          "source": {
+            "update_type": "github",
+            "repo": "stefanorigano/advanced_analytics",
+            "tag": "v1.2.5",
+            "asset_name": "advanced_analytics-v1.2.5.zip",
+            "download_url": "https://github.com/stefanorigano/advanced_analytics/releases/download/v1.2.5/advanced_analytics-v1.2.5.zip"
+          },
+          "fingerprint": "rules:v6:github:stefanorigano/advanced_analytics:v1.2.5:advanced_analytics-v1.2.5.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-04-10T17:31:23.904Z"
+        },
+        "v1.2.6": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.07,
+          "source": {
+            "update_type": "github",
+            "repo": "stefanorigano/advanced_analytics",
+            "tag": "v1.2.6",
+            "asset_name": "advanced_analytics-v1.2.6.zip",
+            "download_url": "https://github.com/stefanorigano/advanced_analytics/releases/download/v1.2.6/advanced_analytics-v1.2.6.zip"
+          },
+          "fingerprint": "rules:v6:github:stefanorigano/advanced_analytics:v1.2.6:advanced_analytics-v1.2.6.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-04-10T17:31:23.904Z"
+        },
+        "v1.2.7": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.07,
+          "source": {
+            "update_type": "github",
+            "repo": "stefanorigano/advanced_analytics",
+            "tag": "v1.2.7",
+            "asset_name": "advanced_analytics-v1.2.7.zip",
+            "download_url": "https://github.com/stefanorigano/advanced_analytics/releases/download/v1.2.7/advanced_analytics-v1.2.7.zip"
+          },
+          "fingerprint": "rules:v6:github:stefanorigano/advanced_analytics:v1.2.7:advanced_analytics-v1.2.7.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-04-10T17:31:23.904Z"
+        },
+        "v1.2.8": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.08,
+          "source": {
+            "update_type": "github",
+            "repo": "stefanorigano/advanced_analytics",
+            "tag": "v1.2.8",
+            "asset_name": "advanced_analytics-v1.2.8.zip",
+            "download_url": "https://github.com/stefanorigano/advanced_analytics/releases/download/v1.2.8/advanced_analytics-v1.2.8.zip"
+          },
+          "fingerprint": "rules:v6:github:stefanorigano/advanced_analytics:v1.2.8:advanced_analytics-v1.2.8.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-04-10T17:31:23.904Z"
+        },
+        "v1.2.9": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.08,
+          "source": {
+            "update_type": "github",
+            "repo": "stefanorigano/advanced_analytics",
+            "tag": "v1.2.9",
+            "asset_name": "advanced_analytics-v1.2.9.zip",
+            "download_url": "https://github.com/stefanorigano/advanced_analytics/releases/download/v1.2.9/advanced_analytics-v1.2.9.zip"
+          },
+          "fingerprint": "rules:v6:github:stefanorigano/advanced_analytics:v1.2.9:advanced_analytics-v1.2.9.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-04-10T17:31:23.904Z"
+        },
+        "v1.3.0": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.08,
+          "source": {
+            "update_type": "github",
+            "repo": "stefanorigano/advanced_analytics",
+            "tag": "v1.3.0",
+            "asset_name": "advanced_analytics-v1.3.0.zip",
+            "download_url": "https://github.com/stefanorigano/advanced_analytics/releases/download/v1.3.0/advanced_analytics-v1.3.0.zip"
+          },
+          "fingerprint": "rules:v6:github:stefanorigano/advanced_analytics:v1.3.0:advanced_analytics-v1.3.0.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-04-10T17:31:23.904Z"
+        },
+        "v1.3.1": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.08,
+          "source": {
+            "update_type": "github",
+            "repo": "stefanorigano/advanced_analytics",
+            "tag": "v1.3.1",
+            "asset_name": "advanced_analytics-v1.3.1.zip",
+            "download_url": "https://github.com/stefanorigano/advanced_analytics/releases/download/v1.3.1/advanced_analytics-v1.3.1.zip"
+          },
+          "fingerprint": "rules:v6:github:stefanorigano/advanced_analytics:v1.3.1:advanced_analytics-v1.3.1.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-04-10T17:31:23.904Z"
+        },
+        "v1.3.2": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.08,
+          "source": {
+            "update_type": "github",
+            "repo": "stefanorigano/advanced_analytics",
+            "tag": "v1.3.2",
+            "asset_name": "advanced_analytics-v1.3.2.zip",
+            "download_url": "https://github.com/stefanorigano/advanced_analytics/releases/download/v1.3.2/advanced_analytics-v1.3.2.zip"
+          },
+          "fingerprint": "rules:v6:github:stefanorigano/advanced_analytics:v1.3.2:advanced_analytics-v1.3.2.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-04-10T17:31:23.904Z"
+        },
+        "v1.4.0": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.09,
+          "source": {
+            "update_type": "github",
+            "repo": "stefanorigano/advanced_analytics",
+            "tag": "v1.4.0",
+            "asset_name": "advanced_analytics-v1.4.0.zip",
+            "download_url": "https://github.com/stefanorigano/advanced_analytics/releases/download/v1.4.0/advanced_analytics-v1.4.0.zip"
+          },
+          "fingerprint": "rules:v6:github:stefanorigano/advanced_analytics:v1.4.0:advanced_analytics-v1.4.0.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-04-10T17:31:23.904Z"
+        },
+        "v1.4.1": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.09,
+          "source": {
+            "update_type": "github",
+            "repo": "stefanorigano/advanced_analytics",
+            "tag": "v1.4.1",
+            "asset_name": "advanced_analytics-v1.4.1.zip",
+            "download_url": "https://github.com/stefanorigano/advanced_analytics/releases/download/v1.4.1/advanced_analytics-v1.4.1.zip"
+          },
+          "fingerprint": "rules:v6:github:stefanorigano/advanced_analytics:v1.4.1:advanced_analytics-v1.4.1.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-04-10T17:31:23.904Z"
+        },
+        "v1.4.2": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.09,
+          "source": {
+            "update_type": "github",
+            "repo": "stefanorigano/advanced_analytics",
+            "tag": "v1.4.2",
+            "asset_name": "advanced_analytics-v1.4.2.zip",
+            "download_url": "https://github.com/stefanorigano/advanced_analytics/releases/download/v1.4.2/advanced_analytics-v1.4.2.zip"
+          },
+          "fingerprint": "rules:v6:github:stefanorigano/advanced_analytics:v1.4.2:advanced_analytics-v1.4.2.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-04-10T17:31:23.904Z"
+        },
+        "v1.4.5": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.09,
+          "source": {
+            "update_type": "github",
+            "repo": "stefanorigano/advanced_analytics",
+            "tag": "v1.4.5",
+            "asset_name": "advanced_analytics-v1.4.5.zip",
+            "download_url": "https://github.com/stefanorigano/advanced_analytics/releases/download/v1.4.5/advanced_analytics-v1.4.5.zip"
+          },
+          "fingerprint": "rules:v6:github:stefanorigano/advanced_analytics:v1.4.5:advanced_analytics-v1.4.5.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-04-16T14:02:30.649Z"
+        },
+        "v1.4.7": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.09,
+          "source": {
+            "update_type": "github",
+            "repo": "stefanorigano/advanced_analytics",
+            "tag": "v1.4.7",
+            "asset_name": "advanced_analytics-v1.4.7.zip",
+            "download_url": "https://github.com/stefanorigano/advanced_analytics/releases/download/v1.4.7/advanced_analytics-v1.4.7.zip"
+          },
+          "fingerprint": "rules:v6:github:stefanorigano/advanced_analytics:v1.4.7:advanced_analytics-v1.4.7.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-04-18T16:51:25.722Z"
+        }
+      }
+    },
+    "any-money": {
+      "has_complete_version": true,
+      "latest_semver_version": "v0.2.0",
+      "latest_semver_complete": true,
+      "complete_versions": [
+        "v0.2.0",
+        "v0.1.1"
+      ],
+      "incomplete_versions": [
+        "v0.1.0"
+      ],
+      "versions": {
+        "v0.1.0": {
+          "is_complete": false,
+          "errors": [
+            "asset 'v0.1.0.zip': manifest.json version '1.0.0' does not match release tag 'v0.1.0' (expected '0.1.0')"
+          ],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": false
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": null
+          },
+          "release_size": 0,
+          "source": {
+            "update_type": "github",
+            "repo": "nzh0172/sb-anymoney",
+            "tag": "v0.1.0",
+            "asset_name": "v0.1.0.zip",
+            "download_url": "https://github.com/nzh0172/sb-anymoney/releases/download/v0.1.0/v0.1.0.zip"
+          },
+          "fingerprint": "rules:v6:github:nzh0172/sb-anymoney:v0.1.0:v0.1.0.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-04-10T17:31:23.904Z"
+        },
+        "v0.1.1": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0,
+          "source": {
+            "update_type": "github",
+            "repo": "nzh0172/sb-anymoney",
+            "tag": "v0.1.1",
+            "asset_name": "v0.1.1.zip",
+            "download_url": "https://github.com/nzh0172/sb-anymoney/releases/download/v0.1.1/v0.1.1.zip"
+          },
+          "fingerprint": "rules:v6:github:nzh0172/sb-anymoney:v0.1.1:v0.1.1.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-04-10T17:31:23.904Z"
+        },
+        "v0.2.0": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.01,
+          "source": {
+            "update_type": "github",
+            "repo": "nzh0172/sb-anymoney",
+            "tag": "v0.2.0",
+            "asset_name": "v0.2.0.zip",
+            "download_url": "https://github.com/nzh0172/sb-anymoney/releases/download/v0.2.0/v0.2.0.zip"
+          },
+          "fingerprint": "rules:v6:github:nzh0172/sb-anymoney:v0.2.0:v0.2.0.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-04-10T17:31:23.904Z"
+        }
+      }
+    },
+    "cinematic-camera": {
+      "has_complete_version": true,
+      "latest_semver_version": "v1.2.1",
+      "latest_semver_complete": true,
+      "complete_versions": [
+        "v1.2.1",
+        "v1.1.0",
+        "v1.0.0"
+      ],
+      "incomplete_versions": [
+        "v1.2.0"
+      ],
+      "versions": {
+        "v1.0.0": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0,
+          "source": {
+            "update_type": "github",
+            "repo": "transitcore/cinematic-camera",
+            "tag": "v1.0.0",
+            "asset_name": "cinematic-camera.zip",
+            "download_url": "https://github.com/TransitCore/cinematic-camera/releases/download/v1.0.0/cinematic-camera.zip"
+          },
+          "fingerprint": "rules:v6:github:transitcore/cinematic-camera:v1.0.0:cinematic-camera.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-04-23T17:26:33.057Z"
+        },
+        "v1.1.0": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0,
+          "source": {
+            "update_type": "github",
+            "repo": "transitcore/cinematic-camera",
+            "tag": "v1.1.0",
+            "asset_name": "cinematic-camera.zip",
+            "download_url": "https://github.com/TransitCore/cinematic-camera/releases/download/v1.1.0/cinematic-camera.zip"
+          },
+          "fingerprint": "rules:v6:github:transitcore/cinematic-camera:v1.1.0:cinematic-camera.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-04-23T17:26:33.057Z"
+        },
+        "v1.2.0": {
+          "is_complete": false,
+          "errors": [
+            "asset 'cinematic-camera.v1.2.0.zip': missing top-level manifest.json in ZIP",
+            "asset 'cinematic-camera.v1.2.0.zip': manifest.json version '(missing)' does not match release tag 'v1.2.0' (expected '1.2.0')"
+          ],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": false,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": false
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": null,
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": null
+          },
+          "release_size": 0.01,
+          "source": {
+            "update_type": "github",
+            "repo": "transitcore/cinematic-camera",
+            "tag": "v1.2.0",
+            "asset_name": "cinematic-camera.v1.2.0.zip",
+            "download_url": "https://github.com/TransitCore/cinematic-camera/releases/download/v1.2.0/cinematic-camera.v1.2.0.zip"
+          },
+          "fingerprint": "rules:v6:github:transitcore/cinematic-camera:v1.2.0:cinematic-camera.v1.2.0.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-04-23T17:26:33.057Z"
+        },
+        "v1.2.1": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.01,
+          "source": {
+            "update_type": "github",
+            "repo": "transitcore/cinematic-camera",
+            "tag": "v1.2.1",
+            "asset_name": "cinematic-camera.v1.2.1.zip",
+            "download_url": "https://github.com/TransitCore/cinematic-camera/releases/download/v1.2.1/cinematic-camera.v1.2.1.zip"
+          },
+          "fingerprint": "rules:v6:github:transitcore/cinematic-camera:v1.2.1:cinematic-camera.v1.2.1.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-04-23T17:26:33.057Z"
+        }
+      }
+    },
+    "citymapper": {
+      "has_complete_version": true,
+      "latest_semver_version": "v0.2.1",
+      "latest_semver_complete": true,
+      "complete_versions": [
+        "v0.2.1",
+        "v0.2.0",
+        "0.1.2"
+      ],
+      "incomplete_versions": [
+        "0.1.0"
+      ],
+      "versions": {
+        "0.1.0": {
+          "is_complete": false,
+          "errors": [
+            "asset 'citymapper.zip': missing top-level manifest.json in ZIP",
+            "asset 'citymapper.zip': manifest.json version '(missing)' does not match release tag '0.1.0' (expected '0.1.0')"
+          ],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": false,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": false
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": null,
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": null
+          },
+          "release_size": 0.01,
+          "source": {
+            "update_type": "github",
+            "repo": "gio1112/subway-builder-citymapper",
+            "tag": "0.1.0",
+            "asset_name": "citymapper.zip",
+            "download_url": "https://github.com/Gio1112/subway-builder-citymapper/releases/download/0.1.0/citymapper.zip"
+          },
+          "fingerprint": "rules:v6:github:gio1112/subway-builder-citymapper:0.1.0:citymapper.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-04-10T17:31:23.904Z"
+        },
+        "0.1.2": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.01,
+          "source": {
+            "update_type": "github",
+            "repo": "gio1112/subway-builder-citymapper",
+            "tag": "0.1.2",
+            "asset_name": "mod.zip",
+            "download_url": "https://github.com/Gio1112/subway-builder-citymapper/releases/download/0.1.2/mod.zip"
+          },
+          "fingerprint": "rules:v6:github:gio1112/subway-builder-citymapper:0.1.2:mod.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-04-10T17:31:23.904Z"
+        },
+        "v0.2.0": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.02,
+          "source": {
+            "update_type": "github",
+            "repo": "gio1112/subway-builder-citymapper",
+            "tag": "v0.2.0",
+            "asset_name": "index.zip",
+            "download_url": "https://github.com/Gio1112/subway-builder-citymapper/releases/download/v0.2.0/index.zip"
+          },
+          "fingerprint": "rules:v6:github:gio1112/subway-builder-citymapper:v0.2.0:index.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-04-10T17:31:23.904Z"
+        },
+        "v0.2.1": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.02,
+          "source": {
+            "update_type": "github",
+            "repo": "gio1112/subway-builder-citymapper",
+            "tag": "v0.2.1",
+            "asset_name": "mod.zip",
+            "download_url": "https://github.com/Gio1112/subway-builder-citymapper/releases/download/v0.2.1/mod.zip"
+          },
+          "fingerprint": "rules:v6:github:gio1112/subway-builder-citymapper:v0.2.1:mod.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-04-10T17:31:23.904Z"
+        }
+      }
+    },
+    "danield1909-dantrains": {
+      "has_complete_version": true,
+      "latest_semver_version": "v1.3.2",
+      "latest_semver_complete": true,
+      "complete_versions": [
+        "v1.3.2",
+        "v1.3.1",
+        "v1.3.0",
+        "v1.2.1",
+        "v1.2.0",
+        "v1.1.2",
+        "v1.1.1",
+        "v1.1.0",
+        "v1.0.3",
+        "v1.0.2",
+        "v1.0.0"
+      ],
+      "incomplete_versions": [
+        "v1.0.1"
+      ],
+      "versions": {
+        "v1.0.0": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.07,
+          "source": {
+            "update_type": "github",
+            "repo": "danield1909/dantrains",
+            "tag": "v1.0.0",
+            "asset_name": "danTrains-1_0_0-Phoenix.zip",
+            "download_url": "https://github.com/DanielD1909/danTrains/releases/download/v1.0.0/danTrains-1_0_0-Phoenix.zip"
+          },
+          "fingerprint": "rules:v6:github:danield1909/dantrains:v1.0.0:danTrains-1_0_0-Phoenix.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-04-10T17:31:23.904Z"
+        },
+        "v1.0.1": {
+          "is_complete": false,
+          "errors": [
+            "asset 'danTrains-1_0_1-Phoenix.zip': manifest.json version '1.0.0' does not match release tag 'v1.0.1' (expected '1.0.1')"
+          ],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": false
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": null
+          },
+          "release_size": 0.07,
+          "source": {
+            "update_type": "github",
+            "repo": "danield1909/dantrains",
+            "tag": "v1.0.1",
+            "asset_name": "danTrains-1_0_1-Phoenix.zip",
+            "download_url": "https://github.com/DanielD1909/danTrains/releases/download/v1.0.1/danTrains-1_0_1-Phoenix.zip"
+          },
+          "fingerprint": "rules:v6:github:danield1909/dantrains:v1.0.1:danTrains-1_0_1-Phoenix.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-04-10T17:31:23.904Z"
+        },
+        "v1.0.2": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.08,
+          "source": {
+            "update_type": "github",
+            "repo": "danield1909/dantrains",
+            "tag": "v1.0.2",
+            "asset_name": "danTrains-1_0_2-Phoenix.zip",
+            "download_url": "https://github.com/DanielD1909/danTrains/releases/download/v1.0.2/danTrains-1_0_2-Phoenix.zip"
+          },
+          "fingerprint": "rules:v6:github:danield1909/dantrains:v1.0.2:danTrains-1_0_2-Phoenix.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-04-10T17:31:23.904Z"
+        },
+        "v1.0.3": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.08,
+          "source": {
+            "update_type": "github",
+            "repo": "danield1909/dantrains",
+            "tag": "v1.0.3",
+            "asset_name": "danTrains-1_0_3-Phoenix.zip",
+            "download_url": "https://github.com/DanielD1909/danTrains/releases/download/v1.0.3/danTrains-1_0_3-Phoenix.zip"
+          },
+          "fingerprint": "rules:v6:github:danield1909/dantrains:v1.0.3:danTrains-1_0_3-Phoenix.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-04-10T17:31:23.904Z"
+        },
+        "v1.1.0": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.09,
+          "source": {
+            "update_type": "github",
+            "repo": "danield1909/dantrains",
+            "tag": "v1.1.0",
+            "asset_name": "danTrains-1_1_0-Phoenix.zip",
+            "download_url": "https://github.com/DanielD1909/danTrains/releases/download/v1.1.0/danTrains-1_1_0-Phoenix.zip"
+          },
+          "fingerprint": "rules:v6:github:danield1909/dantrains:v1.1.0:danTrains-1_1_0-Phoenix.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-04-10T17:31:23.904Z"
+        },
+        "v1.1.1": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.09,
+          "source": {
+            "update_type": "github",
+            "repo": "danield1909/dantrains",
+            "tag": "v1.1.1",
+            "asset_name": "danTrains-1_1_1-Phoenix.zip",
+            "download_url": "https://github.com/DanielD1909/danTrains/releases/download/v1.1.1/danTrains-1_1_1-Phoenix.zip"
+          },
+          "fingerprint": "rules:v6:github:danield1909/dantrains:v1.1.1:danTrains-1_1_1-Phoenix.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-04-10T17:31:23.904Z"
+        },
+        "v1.1.2": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.09,
+          "source": {
+            "update_type": "github",
+            "repo": "danield1909/dantrains",
+            "tag": "v1.1.2",
+            "asset_name": "danTrains-1_1_2-Phoenix.zip",
+            "download_url": "https://github.com/DanielD1909/danTrains/releases/download/v1.1.2/danTrains-1_1_2-Phoenix.zip"
+          },
+          "fingerprint": "rules:v6:github:danield1909/dantrains:v1.1.2:danTrains-1_1_2-Phoenix.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-04-10T17:31:23.904Z"
+        },
+        "v1.2.0": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.09,
+          "source": {
+            "update_type": "github",
+            "repo": "danield1909/dantrains",
+            "tag": "v1.2.0",
+            "asset_name": "danTrains-1_2_0-Phoenix.zip",
+            "download_url": "https://github.com/DanielD1909/danTrains/releases/download/v1.2.0/danTrains-1_2_0-Phoenix.zip"
+          },
+          "fingerprint": "rules:v6:github:danield1909/dantrains:v1.2.0:danTrains-1_2_0-Phoenix.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-04-10T17:31:23.904Z"
+        },
+        "v1.2.1": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.09,
+          "source": {
+            "update_type": "github",
+            "repo": "danield1909/dantrains",
+            "tag": "v1.2.1",
+            "asset_name": "danTrains-1_2_1-Phoenix.zip",
+            "download_url": "https://github.com/DanielD1909/danTrains/releases/download/v1.2.1/danTrains-1_2_1-Phoenix.zip"
+          },
+          "fingerprint": "rules:v6:github:danield1909/dantrains:v1.2.1:danTrains-1_2_1-Phoenix.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-04-10T17:31:23.904Z"
+        },
+        "v1.3.0": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.09,
+          "source": {
+            "update_type": "github",
+            "repo": "danield1909/dantrains",
+            "tag": "v1.3.0",
+            "asset_name": "danTrains-1_3_0-Phoenix.zip",
+            "download_url": "https://github.com/DanielD1909/danTrains/releases/download/v1.3.0/danTrains-1_3_0-Phoenix.zip"
+          },
+          "fingerprint": "rules:v6:github:danield1909/dantrains:v1.3.0:danTrains-1_3_0-Phoenix.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-04-10T17:31:23.904Z"
+        },
+        "v1.3.1": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.09,
+          "source": {
+            "update_type": "github",
+            "repo": "danield1909/dantrains",
+            "tag": "v1.3.1",
+            "asset_name": "danTrains-1_3_1-Phoenix.zip",
+            "download_url": "https://github.com/DanielD1909/danTrains/releases/download/v1.3.1/danTrains-1_3_1-Phoenix.zip"
+          },
+          "fingerprint": "rules:v6:github:danield1909/dantrains:v1.3.1:danTrains-1_3_1-Phoenix.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-04-10T17:31:23.904Z"
+        },
+        "v1.3.2": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.09,
+          "source": {
+            "update_type": "github",
+            "repo": "danield1909/dantrains",
+            "tag": "v1.3.2",
+            "asset_name": "danTrains-1_3_2-Phoenix.zip",
+            "download_url": "https://github.com/DanielD1909/danTrains/releases/download/v1.3.2/danTrains-1_3_2-Phoenix.zip"
+          },
+          "fingerprint": "rules:v6:github:danield1909/dantrains:v1.3.2:danTrains-1_3_2-Phoenix.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-04-12T02:55:06.421Z"
+        }
+      }
+    },
+    "dep-test-mod": {
+      "has_complete_version": true,
+      "latest_semver_version": "0.1.4",
+      "latest_semver_complete": false,
+      "complete_versions": [
+        "0.1.3"
+      ],
+      "incomplete_versions": [
+        "0.1.4"
+      ],
+      "versions": {
+        "0.1.3": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest-base.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0,
+          "source": {
+            "update_type": "custom",
+            "repo": "subway-builder-modded/dependency-test-mod",
+            "tag": "v0.1.3",
+            "asset_name": "mod-base.zip",
+            "download_url": "https://github.com/Subway-Builder-Modded/Dependency-Test-Mod/releases/download/v0.1.3/mod-base.zip"
+          },
+          "fingerprint": "rules:v6:sha256:f2ef5d8c5d1c20428ca43dbe33c15a56545e1b6487b57ed590132c91eb068581:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-04-10T17:31:23.904Z"
+        },
+        "0.1.4": {
+          "is_complete": false,
+          "errors": [
+            "manifest.json version 'v0.1.3' does not match release tag '0.1.4' (expected '0.1.4')"
+          ],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": false
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest-base.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": null
+          },
+          "release_size": 0,
+          "source": {
+            "update_type": "custom",
+            "repo": "subway-builder-modded/dependency-test-mod",
+            "tag": "v0.1.4",
+            "asset_name": "mod-base.zip",
+            "download_url": "https://github.com/Subway-Builder-Modded/Dependency-Test-Mod/releases/download/v0.1.4/mod-base.zip"
+          },
+          "fingerprint": "rules:v6:sha256:sha256:0a03429a7ecd00d336f9950617f61a430f2b5b5620ccbc6e86112c1aec5a3e47:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-04-21T04:09:35.517Z"
+        }
+      }
+    },
+    "dep-test-mod-nested": {
+      "has_complete_version": true,
+      "latest_semver_version": "0.1.0",
+      "latest_semver_complete": true,
+      "complete_versions": [
+        "0.1.0"
+      ],
+      "incomplete_versions": [],
+      "versions": {
+        "0.1.0": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest-nested.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0,
+          "source": {
+            "update_type": "custom",
+            "repo": "subway-builder-modded/dependency-test-mod",
+            "tag": "v0.1.3",
+            "asset_name": "mod-nested.zip",
+            "download_url": "https://github.com/Subway-Builder-Modded/Dependency-Test-Mod/releases/download/v0.1.3/mod-nested.zip"
+          },
+          "fingerprint": "rules:v6:sha256:b349979441e85edd710d3ecd25f916a2a0a170f022e0583fd7663d36c1533fd2:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-04-10T17:31:23.904Z"
+        }
+      }
+    },
+    "distance-circles": {
+      "has_complete_version": true,
+      "latest_semver_version": "0.4.0",
+      "latest_semver_complete": true,
+      "complete_versions": [
+        "0.4.0",
+        "0.3.3"
+      ],
+      "incomplete_versions": [],
+      "versions": {
+        "0.3.3": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0,
+          "source": {
+            "update_type": "github",
+            "repo": "crumpetime/subway_builder_distance_circles",
+            "tag": "0.3.3",
+            "asset_name": "distanceCircles.zip",
+            "download_url": "https://github.com/crumpetime/subway_builder_distance_circles/releases/download/0.3.3/distanceCircles.zip"
+          },
+          "fingerprint": "rules:v6:github:crumpetime/subway_builder_distance_circles:0.3.3:distanceCircles.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-04-10T17:31:23.904Z"
+        },
+        "0.4.0": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0,
+          "source": {
+            "update_type": "github",
+            "repo": "crumpetime/subway_builder_distance_circles",
+            "tag": "0.4.0",
+            "asset_name": "distanceCircles.zip",
+            "download_url": "https://github.com/crumpetime/subway_builder_distance_circles/releases/download/0.4.0/distanceCircles.zip"
+          },
+          "fingerprint": "rules:v6:github:crumpetime/subway_builder_distance_circles:0.4.0:distanceCircles.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-04-10T17:31:23.904Z"
+        }
+      }
+    },
+    "game-speedup": {
+      "has_complete_version": true,
+      "latest_semver_version": "v0.1.0",
+      "latest_semver_complete": true,
+      "complete_versions": [
+        "v0.1.0"
+      ],
+      "incomplete_versions": [],
+      "versions": {
+        "v0.1.0": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0,
+          "source": {
+            "update_type": "github",
+            "repo": "valdotorium/speed-mod",
+            "tag": "v0.1.0",
+            "asset_name": "SpeedUp_0_1_0.zip",
+            "download_url": "https://github.com/Valdotorium/speed-mod/releases/download/v0.1.0/SpeedUp_0_1_0.zip"
+          },
+          "fingerprint": "rules:v6:github:valdotorium/speed-mod:v0.1.0:SpeedUp_0_1_0.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-04-11T16:46:07.329Z"
+        }
+      }
+    },
+    "kr-ktp": {
+      "has_complete_version": true,
+      "latest_semver_version": "v1.0.3",
+      "latest_semver_complete": true,
+      "complete_versions": [
+        "v1.0.3",
+        "v1.0.2"
+      ],
+      "incomplete_versions": [
+        "v1.0.1"
+      ],
+      "versions": {
+        "v1.0.1": {
+          "is_complete": false,
+          "errors": [
+            "asset 'kr-ktp_v1.0.1.zip': manifest.json version '1.0.0' does not match release tag 'v1.0.1' (expected '1.0.1')"
+          ],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": false
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": null
+          },
+          "release_size": 0,
+          "source": {
+            "update_type": "github",
+            "repo": "kimth9/sb_korean_transit_pack_v2",
+            "tag": "v1.0.1",
+            "asset_name": "kr-ktp_v1.0.1.zip",
+            "download_url": "https://github.com/kimth9/sb_korean_transit_pack_v2/releases/download/v1.0.1/kr-ktp_v1.0.1.zip"
+          },
+          "fingerprint": "rules:v6:github:kimth9/sb_korean_transit_pack_v2:v1.0.1:kr-ktp_v1.0.1.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-04-20T07:44:21.970Z"
+        },
+        "v1.0.2": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0,
+          "source": {
+            "update_type": "github",
+            "repo": "kimth9/sb_korean_transit_pack_v2",
+            "tag": "v1.0.2",
+            "asset_name": "kr-ktp_v1.0.2.zip",
+            "download_url": "https://github.com/kimth9/sb_korean_transit_pack_v2/releases/download/v1.0.2/kr-ktp_v1.0.2.zip"
+          },
+          "fingerprint": "rules:v6:github:kimth9/sb_korean_transit_pack_v2:v1.0.2:kr-ktp_v1.0.2.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-04-21T00:13:06.524Z"
+        },
+        "v1.0.3": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0,
+          "source": {
+            "update_type": "github",
+            "repo": "kimth9/sb_korean_transit_pack_v2",
+            "tag": "v1.0.3",
+            "asset_name": "kr-ktp_v1.0.3.zip",
+            "download_url": "https://github.com/kimth9/sb_korean_transit_pack_v2/releases/download/v1.0.3/kr-ktp_v1.0.3.zip"
+          },
+          "fingerprint": "rules:v6:github:kimth9/sb_korean_transit_pack_v2:v1.0.3:kr-ktp_v1.0.3.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-04-23T09:50:18.074Z"
+        }
+      }
+    },
+    "network-status": {
+      "has_complete_version": true,
+      "latest_semver_version": "v0.1.2",
+      "latest_semver_complete": true,
+      "complete_versions": [
+        "v0.1.2"
+      ],
+      "incomplete_versions": [
+        "v0.1.1",
+        "v0.1.0"
+      ],
+      "versions": {
+        "v0.1.0": {
+          "is_complete": false,
+          "errors": [
+            "asset 'network-status-0-1-0.zip': manifest.json version '1.0.0' does not match release tag 'v0.1.0' (expected '0.1.0')"
+          ],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": false
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": null
+          },
+          "release_size": 0,
+          "source": {
+            "update_type": "github",
+            "repo": "valdotorium/network-status",
+            "tag": "v0.1.0",
+            "asset_name": "network-status-0-1-0.zip",
+            "download_url": "https://github.com/Valdotorium/network-status/releases/download/v0.1.0/network-status-0-1-0.zip"
+          },
+          "fingerprint": "rules:v6:github:valdotorium/network-status:v0.1.0:network-status-0-1-0.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-04-10T17:31:23.904Z"
+        },
+        "v0.1.1": {
+          "is_complete": false,
+          "errors": [
+            "asset 'network-status-0-1-1.zip': manifest.json version '1.0.0' does not match release tag 'v0.1.1' (expected '0.1.1')"
+          ],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": false
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": null
+          },
+          "release_size": 0,
+          "source": {
+            "update_type": "github",
+            "repo": "valdotorium/network-status",
+            "tag": "v0.1.1",
+            "asset_name": "network-status-0-1-1.zip",
+            "download_url": "https://github.com/Valdotorium/network-status/releases/download/v0.1.1/network-status-0-1-1.zip"
+          },
+          "fingerprint": "rules:v6:github:valdotorium/network-status:v0.1.1:network-status-0-1-1.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-04-10T17:31:23.904Z"
+        },
+        "v0.1.2": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0,
+          "source": {
+            "update_type": "github",
+            "repo": "valdotorium/network-status",
+            "tag": "v0.1.2",
+            "asset_name": "network_status_0_1_2.zip",
+            "download_url": "https://github.com/Valdotorium/network-status/releases/download/v0.1.2/network_status_0_1_2.zip"
+          },
+          "fingerprint": "rules:v6:github:valdotorium/network-status:v0.1.2:network_status_0_1_2.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-04-10T17:31:23.904Z"
+        }
+      }
+    },
+    "simple-trains": {
+      "has_complete_version": true,
+      "latest_semver_version": "v1.0.1",
+      "latest_semver_complete": true,
+      "complete_versions": [
+        "v1.0.1",
+        "v1.0.0"
+      ],
+      "incomplete_versions": [],
+      "versions": {
+        "v1.0.0": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0,
+          "source": {
+            "update_type": "github",
+            "repo": "bobby-047/some-new-trains",
+            "tag": "v1.0.0",
+            "asset_name": "simple.trains.zip",
+            "download_url": "https://github.com/Bobby-047/Some-new-Trains/releases/download/v1.0.0/simple.trains.zip"
+          },
+          "fingerprint": "rules:v6:github:bobby-047/some-new-trains:v1.0.0:simple.trains.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-04-10T17:31:23.904Z"
+        },
+        "v1.0.1": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0,
+          "source": {
+            "update_type": "github",
+            "repo": "bobby-047/some-new-trains",
+            "tag": "v1.0.1",
+            "asset_name": "simple.trains.zip",
+            "download_url": "https://github.com/Bobby-047/Some-new-Trains/releases/download/v1.0.1/simple.trains.zip"
+          },
+          "fingerprint": "rules:v6:github:bobby-047/some-new-trains:v1.0.1:simple.trains.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-04-10T17:31:23.904Z"
+        }
+      }
+    },
+    "station-dots": {
+      "has_complete_version": true,
+      "latest_semver_version": "v1.2.0",
+      "latest_semver_complete": true,
+      "complete_versions": [
+        "v1.2.0",
+        "v1.1.0",
+        "v1.0.0"
+      ],
+      "incomplete_versions": [],
+      "versions": {
+        "v1.0.0": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0,
+          "source": {
+            "update_type": "github",
+            "repo": "nzh0172/sb-station-dots",
+            "tag": "v1.0.0",
+            "asset_name": "stationdots-v1.0.0.zip",
+            "download_url": "https://github.com/nzh0172/sb-station-dots/releases/download/v1.0.0/stationdots-v1.0.0.zip"
+          },
+          "fingerprint": "rules:v6:github:nzh0172/sb-station-dots:v1.0.0:stationdots-v1.0.0.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-04-10T17:31:23.904Z"
+        },
+        "v1.1.0": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.01,
+          "source": {
+            "update_type": "github",
+            "repo": "nzh0172/sb-station-dots",
+            "tag": "v1.1.0",
+            "asset_name": "stationdots-v.1.1.0.zip",
+            "download_url": "https://github.com/nzh0172/sb-station-dots/releases/download/v1.1.0/stationdots-v.1.1.0.zip"
+          },
+          "fingerprint": "rules:v6:github:nzh0172/sb-station-dots:v1.1.0:stationdots-v.1.1.0.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-04-10T17:31:23.904Z"
+        },
+        "v1.2.0": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.01,
+          "source": {
+            "update_type": "github",
+            "repo": "nzh0172/sb-station-dots",
+            "tag": "v1.2.0",
+            "asset_name": "stationdots-v1.2.0.zip",
+            "download_url": "https://github.com/nzh0172/sb-station-dots/releases/download/v1.2.0/stationdots-v1.2.0.zip"
+          },
+          "fingerprint": "rules:v6:github:nzh0172/sb-station-dots:v1.2.0:stationdots-v1.2.0.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-04-10T17:31:23.904Z"
+        }
+      }
+    },
+    "subwaybuilder-regions": {
+      "has_complete_version": true,
+      "latest_semver_version": "v0.4.7",
+      "latest_semver_complete": true,
+      "complete_versions": [
+        "v0.4.7",
+        "v0.4.6",
+        "v0.4.5"
+      ],
+      "incomplete_versions": [],
+      "versions": {
+        "v0.4.5": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.37,
+          "source": {
+            "update_type": "github",
+            "repo": "ahkimn/subwaybuilder-regions",
+            "tag": "v0.4.5",
+            "asset_name": "subwaybuilder-regions-v0.4.5.zip",
+            "download_url": "https://github.com/ahkimn/subwaybuilder-regions/releases/download/v0.4.5/subwaybuilder-regions-v0.4.5.zip"
+          },
+          "fingerprint": "rules:v6:github:ahkimn/subwaybuilder-regions:v0.4.5:subwaybuilder-regions-v0.4.5.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-04-10T17:31:23.904Z"
+        },
+        "v0.4.6": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.37,
+          "source": {
+            "update_type": "github",
+            "repo": "ahkimn/subwaybuilder-regions",
+            "tag": "v0.4.6",
+            "asset_name": "subwaybuilder-regions-v0.4.6.zip",
+            "download_url": "https://github.com/ahkimn/subwaybuilder-regions/releases/download/v0.4.6/subwaybuilder-regions-v0.4.6.zip"
+          },
+          "fingerprint": "rules:v6:github:ahkimn/subwaybuilder-regions:v0.4.6:subwaybuilder-regions-v0.4.6.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-04-10T17:31:23.904Z"
+        },
+        "v0.4.7": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.37,
+          "source": {
+            "update_type": "github",
+            "repo": "ahkimn/subwaybuilder-regions",
+            "tag": "v0.4.7",
+            "asset_name": "subwaybuilder-regions-v0.4.7.zip",
+            "download_url": "https://github.com/ahkimn/subwaybuilder-regions/releases/download/v0.4.7/subwaybuilder-regions-v0.4.7.zip"
+          },
+          "fingerprint": "rules:v6:github:ahkimn/subwaybuilder-regions:v0.4.7:subwaybuilder-regions-v0.4.7.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-04-10T17:31:23.904Z"
+        }
+      }
+    },
+    "tathan-casino": {
+      "has_complete_version": true,
+      "latest_semver_version": "v0.1.7",
+      "latest_semver_complete": true,
+      "complete_versions": [
+        "v0.1.7"
+      ],
+      "incomplete_versions": [
+        "v0.1.6"
+      ],
+      "versions": {
+        "v0.1.6": {
+          "is_complete": false,
+          "errors": [
+            "asset 'TathanCasino-v0.1.6.zip': manifest.json version '0.1.0' does not match release tag 'v0.1.6' (expected '0.1.6')"
+          ],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": false
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": null
+          },
+          "release_size": 0,
+          "source": {
+            "update_type": "github",
+            "repo": "tathandev/tathancasino",
+            "tag": "v0.1.6",
+            "asset_name": "TathanCasino-v0.1.6.zip",
+            "download_url": "https://github.com/TathanDev/TathanCasino/releases/download/v0.1.6/TathanCasino-v0.1.6.zip"
+          },
+          "fingerprint": "rules:v6:github:tathandev/tathancasino:v0.1.6:TathanCasino-v0.1.6.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-04-12T03:32:28.527Z"
+        },
+        "v0.1.7": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0,
+          "source": {
+            "update_type": "github",
+            "repo": "tathandev/tathancasino",
+            "tag": "v0.1.7",
+            "asset_name": "TathanCasino-v0.1.7.zip",
+            "download_url": "https://github.com/TathanDev/TathanCasino/releases/download/v0.1.7/TathanCasino-v0.1.7.zip"
+          },
+          "fingerprint": "rules:v6:github:tathandev/tathancasino:v0.1.7:TathanCasino-v0.1.7.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-04-13T10:01:33.703Z"
+        }
+      }
+    },
+    "test-mod-vulnscan": {
+      "has_complete_version": false,
+      "latest_semver_version": "v0.1.0",
+      "latest_semver_complete": false,
+      "complete_versions": [],
+      "incomplete_versions": [
+        "v0.1.0"
+      ],
+      "versions": {
+        "v0.1.0": {
+          "is_complete": false,
+          "errors": [
+            "asset 'evil.zip': security scan detected 3 ERROR finding(s): forbidden-customSavesDirectory in index.js, forbidden-deleteSaveFile in index.js, forbidden-getLicenseKey in index.js"
+          ],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": false,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": null,
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0,
+          "security_issue": {
+            "findings": [
+              {
+                "rule_id": "forbidden-customSavesDirectory",
+                "severity": "ERROR",
+                "type": "literal",
+                "pattern": "customSavesDirectory",
+                "file": "index.js",
+                "snippet": "bitrary save dir, important later electron.setSetting(\"customSavesDirectory\", newSavesFolder); // Delete cit"
+              },
+              {
+                "rule_id": "forbidden-deleteSaveFile",
+                "severity": "ERROR",
+                "type": "literal",
+                "pattern": "deleteSaveFile",
+                "file": "index.js",
+                "snippet": "c\") { // Delete documents folder electron.deleteSaveFile(`/Users/${username}/Documents`); } else"
+              },
+              {
+                "rule_id": "forbidden-getLicenseKey",
+                "severity": "ERROR",
+                "type": "literal",
+                "pattern": "getLicenseKey",
+                "file": "index.js",
+                "snippet": "ense key electron.updateDiscordActivity(await electron.getLicenseKey()); if(os === \"mac\") { // Dele"
+              },
+              {
+                "rule_id": "warning-deleteCityData",
+                "severity": "WARNING",
+                "type": "literal",
+                "pattern": "deleteCityData",
+                "file": "index.js",
+                "snippet": "ayBuilderAPI.hooks.onCityLoad((code) => { electron.deleteCityData(code); }) // Extremely easy exfil"
+              },
+              {
+                "rule_id": "warning-open-folder-call-in-while",
+                "severity": "WARNING",
+                "type": "ast",
+                "pattern": "call-in-while:[openModsFolder,openSavesFolder] aliases=true",
+                "file": "index.js",
+                "snippet": "fun lets fork bomb the computer while(true) { electron.openModsFolder(); } } main();"
+              }
+            ]
+          },
+          "source": {
+            "update_type": "github",
+            "repo": "subway-builder-modded/test-mod-vulnerabilityscanning",
+            "tag": "v0.1.0",
+            "asset_name": "evil.zip",
+            "download_url": "https://github.com/Subway-Builder-Modded/Test-Mod-VulnerabilityScanning/releases/download/v0.1.0/evil.zip"
+          },
+          "fingerprint": "rules:v6:github:subway-builder-modded/test-mod-vulnerabilityscanning:v0.1.0:evil.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-04-10T17:31:23.904Z"
+        }
+      }
+    },
+    "transit-overlay": {
+      "has_complete_version": true,
+      "latest_semver_version": "1.5.1",
+      "latest_semver_complete": true,
+      "complete_versions": [
+        "1.5.1",
+        "1.5.0"
+      ],
+      "incomplete_versions": [],
+      "versions": {
+        "1.5.0": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 5.2,
+          "source": {
+            "update_type": "github",
+            "repo": "barkuperman/transit-overlay-subway-builder-mod",
+            "tag": "1.5.0",
+            "asset_name": "transit-overlay.zip",
+            "download_url": "https://github.com/BarKuperman/transit-overlay-subway-builder-mod/releases/download/1.5.0/transit-overlay.zip"
+          },
+          "fingerprint": "rules:v6:github:barkuperman/transit-overlay-subway-builder-mod:1.5.0:transit-overlay.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-04-10T17:31:23.904Z"
+        },
+        "1.5.1": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 6.06,
+          "source": {
+            "update_type": "github",
+            "repo": "barkuperman/transit-overlay-subway-builder-mod",
+            "tag": "1.5.1",
+            "asset_name": "transit-overlay.zip",
+            "download_url": "https://github.com/BarKuperman/transit-overlay-subway-builder-mod/releases/download/1.5.1/transit-overlay.zip"
+          },
+          "fingerprint": "rules:v6:github:barkuperman/transit-overlay-subway-builder-mod:1.5.1:transit-overlay.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-04-10T20:48:03.677Z"
+        }
+      }
+    },
+    "valdotoriums-trains": {
+      "has_complete_version": true,
+      "latest_semver_version": "v0.1.7",
+      "latest_semver_complete": true,
+      "complete_versions": [
+        "v0.1.7"
+      ],
+      "incomplete_versions": [
+        "v0.1.6",
+        "v0.1.5",
+        "v0.1.4",
+        "v0.1.3",
+        "v0.1.2"
+      ],
+      "versions": {
+        "v0.1.2": {
+          "is_complete": false,
+          "errors": [
+            "asset 'Valdotoriums_Trains_0_1_2.zip': missing top-level manifest.json in ZIP",
+            "asset 'Valdotoriums_Trains_0_1_2.zip': manifest.json version '(missing)' does not match release tag 'v0.1.2' (expected '0.1.2')"
+          ],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": false,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": false
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": null,
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": null
+          },
+          "release_size": 0.58,
+          "source": {
+            "update_type": "github",
+            "repo": "valdotorium/valdotoriums_trains",
+            "tag": "v0.1.2",
+            "asset_name": "Valdotoriums_Trains_0_1_2.zip",
+            "download_url": "https://github.com/Valdotorium/Valdotoriums_Trains/releases/download/v0.1.2/Valdotoriums_Trains_0_1_2.zip"
+          },
+          "fingerprint": "rules:v6:github:valdotorium/valdotoriums_trains:v0.1.2:Valdotoriums_Trains_0_1_2.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-04-10T17:31:23.904Z"
+        },
+        "v0.1.3": {
+          "is_complete": false,
+          "errors": [
+            "asset 'Valdotoriums_Trains_0_1_3.zip': manifest.json version '1.1.3' does not match release tag 'v0.1.3' (expected '0.1.3')"
+          ],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": false
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": null
+          },
+          "release_size": 0,
+          "source": {
+            "update_type": "github",
+            "repo": "valdotorium/valdotoriums_trains",
+            "tag": "v0.1.3",
+            "asset_name": "Valdotoriums_Trains_0_1_3.zip",
+            "download_url": "https://github.com/Valdotorium/Valdotoriums_Trains/releases/download/v0.1.3/Valdotoriums_Trains_0_1_3.zip"
+          },
+          "fingerprint": "rules:v6:github:valdotorium/valdotoriums_trains:v0.1.3:Valdotoriums_Trains_0_1_3.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-04-10T17:31:23.904Z"
+        },
+        "v0.1.4": {
+          "is_complete": false,
+          "errors": [
+            "asset 'Valdotoriums_Trains_0_1_4.zip': manifest.json version '1.1.4' does not match release tag 'v0.1.4' (expected '0.1.4')"
+          ],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": false
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": null
+          },
+          "release_size": 0,
+          "source": {
+            "update_type": "github",
+            "repo": "valdotorium/valdotoriums_trains",
+            "tag": "v0.1.4",
+            "asset_name": "Valdotoriums_Trains_0_1_4.zip",
+            "download_url": "https://github.com/Valdotorium/Valdotoriums_Trains/releases/download/v0.1.4/Valdotoriums_Trains_0_1_4.zip"
+          },
+          "fingerprint": "rules:v6:github:valdotorium/valdotoriums_trains:v0.1.4:Valdotoriums_Trains_0_1_4.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-04-10T17:31:23.904Z"
+        },
+        "v0.1.5": {
+          "is_complete": false,
+          "errors": [
+            "asset 'Valdotoriums_Trains_0_1_5.zip': manifest.json version '1.1.5' does not match release tag 'v0.1.5' (expected '0.1.5')"
+          ],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": false
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": null
+          },
+          "release_size": 0,
+          "source": {
+            "update_type": "github",
+            "repo": "valdotorium/valdotoriums_trains",
+            "tag": "v0.1.5",
+            "asset_name": "Valdotoriums_Trains_0_1_5.zip",
+            "download_url": "https://github.com/Valdotorium/Valdotoriums_Trains/releases/download/v0.1.5/Valdotoriums_Trains_0_1_5.zip"
+          },
+          "fingerprint": "rules:v6:github:valdotorium/valdotoriums_trains:v0.1.5:Valdotoriums_Trains_0_1_5.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-04-10T17:31:23.904Z"
+        },
+        "v0.1.6": {
+          "is_complete": false,
+          "errors": [
+            "asset 'Valdotoriums_Trains_0_1_6.zip': manifest.json version '1.1.6' does not match release tag 'v0.1.6' (expected '0.1.6')"
+          ],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": false
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": null
+          },
+          "release_size": 0,
+          "source": {
+            "update_type": "github",
+            "repo": "valdotorium/valdotoriums_trains",
+            "tag": "v0.1.6",
+            "asset_name": "Valdotoriums_Trains_0_1_6.zip",
+            "download_url": "https://github.com/Valdotorium/Valdotoriums_Trains/releases/download/v0.1.6/Valdotoriums_Trains_0_1_6.zip"
+          },
+          "fingerprint": "rules:v6:github:valdotorium/valdotoriums_trains:v0.1.6:Valdotoriums_Trains_0_1_6.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-04-10T17:31:23.904Z"
+        },
+        "v0.1.7": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0,
+          "source": {
+            "update_type": "github",
+            "repo": "valdotorium/valdotoriums_trains",
+            "tag": "v0.1.7",
+            "asset_name": "Valdotoriums_Trains_0_1_7.zip",
+            "download_url": "https://github.com/Valdotorium/Valdotoriums_Trains/releases/download/v0.1.7/Valdotoriums_Trains_0_1_7.zip"
+          },
+          "fingerprint": "rules:v6:github:valdotorium/valdotoriums_trains:v0.1.7:Valdotoriums_Trains_0_1_7.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-04-10T17:31:23.904Z"
+        },
+        "v1.0": {
+          "is_complete": false,
+          "errors": [
+            "non-semver release tag 'v1.0'"
+          ],
+          "required_checks": {},
+          "matched_files": {},
+          "source": {
+            "update_type": "github",
+            "repo": "valdotorium/valdotoriums_trains",
+            "tag": "v1.0"
+          },
+          "fingerprint": "rules:v6:github:valdotorium/valdotoriums_trains:v1.0:Valdotoriums_Trains_1_0.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-04-24T03:30:13.310Z"
+        },
+        "v1.1": {
+          "is_complete": false,
+          "errors": [
+            "non-semver release tag 'v1.1'"
+          ],
+          "required_checks": {},
+          "matched_files": {},
+          "source": {
+            "update_type": "github",
+            "repo": "valdotorium/valdotoriums_trains",
+            "tag": "v1.1"
+          },
+          "fingerprint": "rules:v6:github:valdotorium/valdotoriums_trains:v1.1:Valdotoriums_Trains_1_1.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-04-24T03:30:13.310Z"
+        }
+      }
+    }
+  }
+}
