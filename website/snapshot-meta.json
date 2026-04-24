@@ -1,8 +1,8 @@
 {
   "sourceRepo": "Subway-Builder-Modded/registry",
   "sourceRef": "main",
-  "commitSha": "c73a1467f67601bac300c53dfa3afa7d291dbd0b",
-  "fetchedAt": "2026-04-24T04:57:59.190Z",
+  "commitSha": "57336b8134b45eb283f3142c3dfb0f1fc07eb4b9",
+  "fetchedAt": "2026-04-24T22:55:52.726Z",
   "materializedFiles": [
     "public/railyard/analytics/railyard_app_by_day.csv",
     "public/railyard/analytics/railyard_app_downloads_history.json",
@@ -23,6 +23,7 @@
     "public/registry/analytics/projects_most_popular_last_3d.csv",
     "public/registry/analytics/projects_most_popular_last_7d.csv",
     "public/registry/authors/index.json",
+    "public/registry/credits/ko_fi.json",
     "public/registry/maps/akron-oh/gallery/screenshot1.png",
     "public/registry/maps/akron-oh/grid.geojson",
     "public/registry/maps/akron-oh/manifest.json",
@@ -791,17 +792,16 @@
     "public/registry/mods/valdotoriums-trains/gallery/screenshot3.png",
     "public/registry/mods/valdotoriums-trains/gallery/screenshot4.png",
     "public/registry/mods/valdotoriums-trains/manifest.json",
-    "public/registry/supporters/ko_fi.json",
-    "public/website/browsers.json",
-    "public/website/countries.json",
-    "public/website/daily-history.json",
-    "public/website/devices.json",
-    "public/website/operating-systems.json",
-    "public/website/pages.json",
-    "public/website/path-aliases.json",
-    "public/website/summary.json",
-    "public/website/timeseries.json",
-    "public/website/valid-paths.json"
+    "public/website/analytics/browsers.json",
+    "public/website/analytics/countries.json",
+    "public/website/analytics/daily-history.json",
+    "public/website/analytics/devices.json",
+    "public/website/analytics/operating-systems.json",
+    "public/website/analytics/pages.json",
+    "public/website/analytics/path-aliases.json",
+    "public/website/analytics/summary.json",
+    "public/website/analytics/timeseries.json",
+    "public/website/analytics/valid-paths.json"
   ],
   "websiteAnalyticsSourceGeneratedAt": "2026-04-24T02:18:42.220Z"
 }
