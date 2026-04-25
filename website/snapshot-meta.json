@@ -1,8 +1,8 @@
 {
   "sourceRepo": "Subway-Builder-Modded/registry",
   "sourceRef": "main",
-  "commitSha": "8e68c56aa163daf97065712abd007391f839fe35",
-  "fetchedAt": "2026-04-25T21:26:55.283Z",
+  "commitSha": "25645ee47266ac235e4c5ad29475cbed21901b80",
+  "fetchedAt": "2026-04-25T23:10:19.364Z",
   "materializedFiles": [
     "public/railyard/analytics/railyard_app_by_day.csv",
     "public/railyard/analytics/railyard_app_downloads_history.json",
@@ -212,6 +212,12 @@
     "public/registry/maps/guadalajara/gallery/screenshot2.png",
     "public/registry/maps/guadalajara/grid.geojson",
     "public/registry/maps/guadalajara/manifest.json",
+    "public/registry/maps/guangzhou/gallery/screenshot1.png",
+    "public/registry/maps/guangzhou/gallery/screenshot2.png",
+    "public/registry/maps/guangzhou/gallery/screenshot3.png",
+    "public/registry/maps/guangzhou/gallery/screenshot4.png",
+    "public/registry/maps/guangzhou/grid.geojson",
+    "public/registry/maps/guangzhou/manifest.json",
     "public/registry/maps/gwangju-3/gallery/screenshot1.png",
     "public/registry/maps/gwangju-3/grid.geojson",
     "public/registry/maps/gwangju-3/manifest.json",
@@ -828,5 +834,5 @@
     "public/website/analytics/timeseries.json",
     "public/website/analytics/valid-paths.json"
   ],
-  "websiteAnalyticsSourceGeneratedAt": "2026-04-25T21:02:19.422Z"
+  "websiteAnalyticsSourceGeneratedAt": "2026-04-25T23:03:21.178Z"
 }
