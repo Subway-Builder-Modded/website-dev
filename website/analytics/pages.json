@@ -2,43 +2,43 @@
   {
     "path": "/",
     "pageviews": {
-      "1d": 0,
-      "7d": 1403,
-      "30d": 1707,
-      "all": 1707
+      "1d": 22,
+      "7d": 1425,
+      "30d": 1729,
+      "all": 1729
     },
     "visitors": {
-      "1d": 0,
-      "7d": 1403,
-      "30d": 1707,
-      "all": 1707
+      "1d": 22,
+      "7d": 1425,
+      "30d": 1729,
+      "all": 1729
     },
     "entrances": {
-      "1d": 0,
-      "7d": 1403,
-      "30d": 1707,
-      "all": 1707
+      "1d": 22,
+      "7d": 1425,
+      "30d": 1729,
+      "all": 1729
     }
   },
   {
     "path": "/railyard",
     "pageviews": {
-      "1d": 0,
-      "7d": 673,
-      "30d": 834,
-      "all": 834
+      "1d": 6,
+      "7d": 679,
+      "30d": 840,
+      "all": 840
     },
     "visitors": {
-      "1d": 0,
-      "7d": 673,
-      "30d": 834,
-      "all": 834
+      "1d": 6,
+      "7d": 679,
+      "30d": 840,
+      "all": 840
     },
     "entrances": {
-      "1d": 0,
-      "7d": 673,
-      "30d": 834,
-      "all": 834
+      "1d": 6,
+      "7d": 679,
+      "30d": 840,
+      "all": 840
     }
   },
   {
@@ -65,22 +65,22 @@
   {
     "path": "/railyard/docs/v0.2/players/github-token",
     "pageviews": {
-      "1d": 0,
-      "7d": 85,
-      "30d": 107,
-      "all": 107
+      "1d": 2,
+      "7d": 87,
+      "30d": 109,
+      "all": 109
     },
     "visitors": {
-      "1d": 0,
-      "7d": 85,
-      "30d": 107,
-      "all": 107
+      "1d": 2,
+      "7d": 87,
+      "30d": 109,
+      "all": 109
     },
     "entrances": {
-      "1d": 0,
-      "7d": 85,
-      "30d": 107,
-      "all": 107
+      "1d": 2,
+      "7d": 87,
+      "30d": 109,
+      "all": 109
     }
   },
   {
@@ -210,6 +210,27 @@
     }
   },
   {
+    "path": "/railyard/docs/latest/players/github-token",
+    "pageviews": {
+      "1d": 13,
+      "7d": 31,
+      "30d": 51,
+      "all": 51
+    },
+    "visitors": {
+      "1d": 13,
+      "7d": 31,
+      "30d": 51,
+      "all": 51
+    },
+    "entrances": {
+      "1d": 13,
+      "7d": 31,
+      "30d": 51,
+      "all": 51
+    }
+  },
+  {
     "path": "/railyard/mods/advanced-analytics",
     "pageviews": {
       "1d": 0,
@@ -275,22 +296,22 @@
   {
     "path": "/railyard/updates",
     "pageviews": {
-      "1d": 0,
-      "7d": 29,
-      "30d": 39,
-      "all": 39
+      "1d": 1,
+      "7d": 30,
+      "30d": 40,
+      "all": 40
     },
     "visitors": {
-      "1d": 0,
-      "7d": 29,
-      "30d": 39,
-      "all": 39
+      "1d": 1,
+      "7d": 30,
+      "30d": 40,
+      "all": 40
     },
     "entrances": {
-      "1d": 0,
-      "7d": 29,
-      "30d": 39,
-      "all": 39
+      "1d": 1,
+      "7d": 30,
+      "30d": 40,
+      "all": 40
     }
   },
   {
@@ -312,27 +333,6 @@
       "7d": 28,
       "30d": 39,
       "all": 39
-    }
-  },
-  {
-    "path": "/railyard/docs/latest/players/github-token",
-    "pageviews": {
-      "1d": 0,
-      "7d": 18,
-      "30d": 38,
-      "all": 38
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 18,
-      "30d": 38,
-      "all": 38
-    },
-    "entrances": {
-      "1d": 0,
-      "7d": 18,
-      "30d": 38,
-      "all": 38
     }
   },
   {
@@ -861,6 +861,27 @@
     }
   },
   {
+    "path": "/registry/maps/yukina-osaka",
+    "pageviews": {
+      "1d": 1,
+      "7d": 15,
+      "30d": 15,
+      "all": 15
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 15,
+      "30d": 15,
+      "all": 15
+    },
+    "entrances": {
+      "1d": 1,
+      "7d": 15,
+      "30d": 15,
+      "all": 15
+    }
+  },
+  {
     "path": "/railyard/docs/v0.2/developers/publishing-projects",
     "pageviews": {
       "1d": 0,
@@ -940,27 +961,6 @@
     "entrances": {
       "1d": 0,
       "7d": 10,
-      "30d": 14,
-      "all": 14
-    }
-  },
-  {
-    "path": "/registry/maps/yukina-osaka",
-    "pageviews": {
-      "1d": 0,
-      "7d": 14,
-      "30d": 14,
-      "all": 14
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 14,
-      "30d": 14,
-      "all": 14
-    },
-    "entrances": {
-      "1d": 0,
-      "7d": 14,
       "30d": 14,
       "all": 14
     }
@@ -1113,6 +1113,27 @@
     }
   },
   {
+    "path": "/railyard/maps/singapore-val",
+    "pageviews": {
+      "1d": 1,
+      "7d": 11,
+      "30d": 12,
+      "all": 12
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 11,
+      "30d": 12,
+      "all": 12
+    },
+    "entrances": {
+      "1d": 1,
+      "7d": 11,
+      "30d": 12,
+      "all": 12
+    }
+  },
+  {
     "path": "/railyard/maps/yukina-hiroshima-kure",
     "pageviews": {
       "1d": 0,
@@ -1150,27 +1171,6 @@
     "entrances": {
       "1d": 0,
       "7d": 11,
-      "30d": 11,
-      "all": 11
-    }
-  },
-  {
-    "path": "/railyard/maps/singapore-val",
-    "pageviews": {
-      "1d": 0,
-      "7d": 10,
-      "30d": 11,
-      "all": 11
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 10,
-      "30d": 11,
-      "all": 11
-    },
-    "entrances": {
-      "1d": 0,
-      "7d": 10,
       "30d": 11,
       "all": 11
     }
@@ -2331,6 +2331,27 @@
     }
   },
   {
+    "path": "/railyard/docs/v0.1/players/install-guide-windows",
+    "pageviews": {
+      "1d": 1,
+      "7d": 6,
+      "30d": 7,
+      "all": 7
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 6,
+      "30d": 7,
+      "all": 7
+    },
+    "entrances": {
+      "1d": 1,
+      "7d": 6,
+      "30d": 7,
+      "all": 7
+    }
+  },
+  {
     "path": "/railyard/docs/v0.2/developers/data-quality",
     "pageviews": {
       "1d": 0,
@@ -2410,6 +2431,27 @@
     "entrances": {
       "1d": 0,
       "7d": 7,
+      "30d": 7,
+      "all": 7
+    }
+  },
+  {
+    "path": "/railyard/mods/danield1909-dantrains/changelog/v1.0.0",
+    "pageviews": {
+      "1d": 1,
+      "7d": 6,
+      "30d": 7,
+      "all": 7
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 6,
+      "30d": 7,
+      "all": 7
+    },
+    "entrances": {
+      "1d": 1,
+      "7d": 6,
       "30d": 7,
       "all": 7
     }
@@ -2562,27 +2604,6 @@
     }
   },
   {
-    "path": "/railyard/docs/v0.1/players/install-guide-windows",
-    "pageviews": {
-      "1d": 0,
-      "7d": 5,
-      "30d": 6,
-      "all": 6
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 5,
-      "30d": 6,
-      "all": 6
-    },
-    "entrances": {
-      "1d": 0,
-      "7d": 5,
-      "30d": 6,
-      "all": 6
-    }
-  },
-  {
     "path": "/railyard/docs/v0.2/developers/dependencies",
     "pageviews": {
       "1d": 0,
@@ -2709,6 +2730,27 @@
     }
   },
   {
+    "path": "/railyard/maps/mfn-hamptonroads",
+    "pageviews": {
+      "1d": 2,
+      "7d": 6,
+      "30d": 6,
+      "all": 6
+    },
+    "visitors": {
+      "1d": 2,
+      "7d": 6,
+      "30d": 6,
+      "all": 6
+    },
+    "entrances": {
+      "1d": 2,
+      "7d": 6,
+      "30d": 6,
+      "all": 6
+    }
+  },
+  {
     "path": "/railyard/maps/pulau-pinang",
     "pageviews": {
       "1d": 0,
@@ -2794,27 +2836,6 @@
   },
   {
     "path": "/railyard/maps/yukina-morioka",
-    "pageviews": {
-      "1d": 0,
-      "7d": 5,
-      "30d": 6,
-      "all": 6
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 5,
-      "30d": 6,
-      "all": 6
-    },
-    "entrances": {
-      "1d": 0,
-      "7d": 5,
-      "30d": 6,
-      "all": 6
-    }
-  },
-  {
-    "path": "/railyard/mods/danield1909-dantrains/changelog/v1.0.0",
     "pageviews": {
       "1d": 0,
       "7d": 5,
@@ -3717,6 +3738,27 @@
     }
   },
   {
+    "path": "/registry/maps/yukina-hakodate",
+    "pageviews": {
+      "1d": 1,
+      "7d": 5,
+      "30d": 5,
+      "all": 5
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 5,
+      "30d": 5,
+      "all": 5
+    },
+    "entrances": {
+      "1d": 1,
+      "7d": 5,
+      "30d": 5,
+      "all": 5
+    }
+  },
+  {
     "path": "/registry/maps/yukina-hiroshima-kure",
     "pageviews": {
       "1d": 0,
@@ -4159,27 +4201,6 @@
   },
   {
     "path": "/railyard/maps/jeju-3",
-    "pageviews": {
-      "1d": 0,
-      "7d": 4,
-      "30d": 4,
-      "all": 4
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 4,
-      "30d": 4,
-      "all": 4
-    },
-    "entrances": {
-      "1d": 0,
-      "7d": 4,
-      "30d": 4,
-      "all": 4
-    }
-  },
-  {
-    "path": "/railyard/maps/mfn-hamptonroads",
     "pageviews": {
       "1d": 0,
       "7d": 4,
@@ -4810,27 +4831,6 @@
   },
   {
     "path": "/registry/maps/yukina-asahikawa",
-    "pageviews": {
-      "1d": 0,
-      "7d": 4,
-      "30d": 4,
-      "all": 4
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 4,
-      "30d": 4,
-      "all": 4
-    },
-    "entrances": {
-      "1d": 0,
-      "7d": 4,
-      "30d": 4,
-      "all": 4
-    }
-  },
-  {
-    "path": "/registry/maps/yukina-hakodate",
     "pageviews": {
       "1d": 0,
       "7d": 4,
@@ -10452,6 +10452,27 @@
     },
     "entrances": {
       "1d": 0,
+      "7d": 1,
+      "30d": 1,
+      "all": 1
+    }
+  },
+  {
+    "path": "/railyard/maps/yukina-cz-praha",
+    "pageviews": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 1,
+      "all": 1
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 1,
+      "all": 1
+    },
+    "entrances": {
+      "1d": 1,
       "7d": 1,
       "30d": 1,
       "all": 1
