@@ -1,8 +1,8 @@
 {
   "sourceRepo": "Subway-Builder-Modded/registry",
   "sourceRef": "main",
-  "commitSha": "25645ee47266ac235e4c5ad29475cbed21901b80",
-  "fetchedAt": "2026-04-25T23:10:19.364Z",
+  "commitSha": "d40c113736a40b2f49557053c00d7a86d5605930",
+  "fetchedAt": "2026-04-26T16:23:42.933Z",
   "materializedFiles": [
     "public/railyard/analytics/railyard_app_by_day.csv",
     "public/railyard/analytics/railyard_app_downloads_history.json",
@@ -123,6 +123,10 @@
     "public/registry/maps/ciudad-de-mexico/gallery/screenshot2.png",
     "public/registry/maps/ciudad-de-mexico/grid.geojson",
     "public/registry/maps/ciudad-de-mexico/manifest.json",
+    "public/registry/maps/ciudad-juarez-el-paso/gallery/screenshot1.png",
+    "public/registry/maps/ciudad-juarez-el-paso/gallery/screenshot2.png",
+    "public/registry/maps/ciudad-juarez-el-paso/grid.geojson",
+    "public/registry/maps/ciudad-juarez-el-paso/manifest.json",
     "public/registry/maps/colorado-ski-country/gallery/screenshot1.png",
     "public/registry/maps/colorado-ski-country/gallery/screenshot2.png",
     "public/registry/maps/colorado-ski-country/grid.geojson",
@@ -557,6 +561,16 @@
     "public/registry/maps/yukina-cz-brno/gallery/screenshot3.png",
     "public/registry/maps/yukina-cz-brno/grid.geojson",
     "public/registry/maps/yukina-cz-brno/manifest.json",
+    "public/registry/maps/yukina-cz-hradec-pardubice/gallery/screenshot1.png",
+    "public/registry/maps/yukina-cz-hradec-pardubice/gallery/screenshot2.png",
+    "public/registry/maps/yukina-cz-hradec-pardubice/gallery/screenshot3.png",
+    "public/registry/maps/yukina-cz-hradec-pardubice/grid.geojson",
+    "public/registry/maps/yukina-cz-hradec-pardubice/manifest.json",
+    "public/registry/maps/yukina-cz-olomouc/gallery/screenshot1.png",
+    "public/registry/maps/yukina-cz-olomouc/gallery/screenshot2.png",
+    "public/registry/maps/yukina-cz-olomouc/gallery/screenshot3.png",
+    "public/registry/maps/yukina-cz-olomouc/grid.geojson",
+    "public/registry/maps/yukina-cz-olomouc/manifest.json",
     "public/registry/maps/yukina-cz-ostrava/gallery/preview.png",
     "public/registry/maps/yukina-cz-ostrava/gallery/screenshot1.png",
     "public/registry/maps/yukina-cz-ostrava/gallery/screenshot2.png",
@@ -575,6 +589,11 @@
     "public/registry/maps/yukina-cz-praha/gallery/screenshot3.png",
     "public/registry/maps/yukina-cz-praha/grid.geojson",
     "public/registry/maps/yukina-cz-praha/manifest.json",
+    "public/registry/maps/yukina-cz-ustecko-chomutov/gallery/screenshot1.png",
+    "public/registry/maps/yukina-cz-ustecko-chomutov/gallery/screenshot2.png",
+    "public/registry/maps/yukina-cz-ustecko-chomutov/gallery/screenshot3.png",
+    "public/registry/maps/yukina-cz-ustecko-chomutov/grid.geojson",
+    "public/registry/maps/yukina-cz-ustecko-chomutov/manifest.json",
     "public/registry/maps/yukina-fukuoka/gallery/preview.png",
     "public/registry/maps/yukina-fukuoka/gallery/screenshot1.png",
     "public/registry/maps/yukina-fukuoka/gallery/screenshot2.png",
@@ -834,5 +853,5 @@
     "public/website/analytics/timeseries.json",
     "public/website/analytics/valid-paths.json"
   ],
-  "websiteAnalyticsSourceGeneratedAt": "2026-04-25T23:03:21.178Z"
+  "websiteAnalyticsSourceGeneratedAt": "2026-04-26T16:02:37.597Z"
 }
