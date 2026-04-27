@@ -2,43 +2,43 @@
   {
     "path": "/",
     "pageviews": {
-      "1d": 4,
-      "7d": 948,
-      "30d": 1784,
-      "all": 1784
+      "1d": 8,
+      "7d": 952,
+      "30d": 1788,
+      "all": 1788
     },
     "visitors": {
-      "1d": 4,
-      "7d": 948,
-      "30d": 1784,
-      "all": 1784
+      "1d": 8,
+      "7d": 952,
+      "30d": 1788,
+      "all": 1788
     },
     "entrances": {
-      "1d": 4,
-      "7d": 948,
-      "30d": 1784,
-      "all": 1784
+      "1d": 8,
+      "7d": 952,
+      "30d": 1788,
+      "all": 1788
     }
   },
   {
     "path": "/railyard",
     "pageviews": {
-      "1d": 2,
-      "7d": 445,
-      "30d": 875,
-      "all": 875
+      "1d": 4,
+      "7d": 447,
+      "30d": 877,
+      "all": 877
     },
     "visitors": {
-      "1d": 2,
-      "7d": 445,
-      "30d": 875,
-      "all": 875
+      "1d": 4,
+      "7d": 447,
+      "30d": 877,
+      "all": 877
     },
     "entrances": {
-      "1d": 2,
-      "7d": 445,
-      "30d": 875,
-      "all": 875
+      "1d": 4,
+      "7d": 447,
+      "30d": 877,
+      "all": 877
     }
   },
   {
@@ -128,22 +128,22 @@
   {
     "path": "/credits",
     "pageviews": {
-      "1d": 1,
-      "7d": 39,
-      "30d": 86,
-      "all": 86
+      "1d": 2,
+      "7d": 40,
+      "30d": 87,
+      "all": 87
     },
     "visitors": {
-      "1d": 1,
-      "7d": 39,
-      "30d": 86,
-      "all": 86
+      "1d": 2,
+      "7d": 40,
+      "30d": 87,
+      "all": 87
     },
     "entrances": {
-      "1d": 1,
-      "7d": 39,
-      "30d": 86,
-      "all": 86
+      "1d": 2,
+      "7d": 40,
+      "30d": 87,
+      "all": 87
     }
   },
   {
@@ -336,6 +336,27 @@
     }
   },
   {
+    "path": "/railyard/mods/kr-ktp",
+    "pageviews": {
+      "1d": 1,
+      "7d": 35,
+      "30d": 35,
+      "all": 35
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 35,
+      "30d": 35,
+      "all": 35
+    },
+    "entrances": {
+      "1d": 1,
+      "7d": 35,
+      "30d": 35,
+      "all": 35
+    }
+  },
+  {
     "path": "/contribute",
     "pageviews": {
       "1d": 0,
@@ -352,27 +373,6 @@
     "entrances": {
       "1d": 0,
       "7d": 14,
-      "30d": 34,
-      "all": 34
-    }
-  },
-  {
-    "path": "/railyard/mods/kr-ktp",
-    "pageviews": {
-      "1d": 0,
-      "7d": 34,
-      "30d": 34,
-      "all": 34
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 34,
-      "30d": 34,
-      "all": 34
-    },
-    "entrances": {
-      "1d": 0,
-      "7d": 34,
       "30d": 34,
       "all": 34
     }
@@ -483,6 +483,27 @@
     }
   },
   {
+    "path": "/website",
+    "pageviews": {
+      "1d": 2,
+      "7d": 18,
+      "30d": 28,
+      "all": 28
+    },
+    "visitors": {
+      "1d": 2,
+      "7d": 18,
+      "30d": 28,
+      "all": 28
+    },
+    "entrances": {
+      "1d": 2,
+      "7d": 18,
+      "30d": 28,
+      "all": 28
+    }
+  },
+  {
     "path": "/registry/trending",
     "pageviews": {
       "1d": 0,
@@ -499,27 +520,6 @@
     "entrances": {
       "1d": 0,
       "7d": 17,
-      "30d": 26,
-      "all": 26
-    }
-  },
-  {
-    "path": "/website",
-    "pageviews": {
-      "1d": 0,
-      "7d": 16,
-      "30d": 26,
-      "all": 26
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 16,
-      "30d": 26,
-      "all": 26
-    },
-    "entrances": {
-      "1d": 0,
-      "7d": 16,
       "30d": 26,
       "all": 26
     }
@@ -924,6 +924,27 @@
     }
   },
   {
+    "path": "/registry/mods/game-speedup",
+    "pageviews": {
+      "1d": 1,
+      "7d": 8,
+      "30d": 15,
+      "all": 15
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 8,
+      "30d": 15,
+      "all": 15
+    },
+    "entrances": {
+      "1d": 1,
+      "7d": 8,
+      "30d": 15,
+      "all": 15
+    }
+  },
+  {
     "path": "/website/updates",
     "pageviews": {
       "1d": 0,
@@ -982,27 +1003,6 @@
     "entrances": {
       "1d": 0,
       "7d": 3,
-      "30d": 14,
-      "all": 14
-    }
-  },
-  {
-    "path": "/registry/mods/game-speedup",
-    "pageviews": {
-      "1d": 0,
-      "7d": 7,
-      "30d": 14,
-      "all": 14
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 7,
-      "30d": 14,
-      "all": 14
-    },
-    "entrances": {
-      "1d": 0,
-      "7d": 7,
       "30d": 14,
       "all": 14
     }
@@ -1176,6 +1176,27 @@
     }
   },
   {
+    "path": "/railyard/mods/subwaybuilder-regions",
+    "pageviews": {
+      "1d": 1,
+      "7d": 6,
+      "30d": 12,
+      "all": 12
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 6,
+      "30d": 12,
+      "all": 12
+    },
+    "entrances": {
+      "1d": 1,
+      "7d": 6,
+      "30d": 12,
+      "all": 12
+    }
+  },
+  {
     "path": "/railyard/docs/v0.2/players/importing-custom-assets",
     "pageviews": {
       "1d": 0,
@@ -1213,27 +1234,6 @@
     "entrances": {
       "1d": 0,
       "7d": 4,
-      "30d": 11,
-      "all": 11
-    }
-  },
-  {
-    "path": "/railyard/mods/subwaybuilder-regions",
-    "pageviews": {
-      "1d": 0,
-      "7d": 5,
-      "30d": 11,
-      "all": 11
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 5,
-      "30d": 11,
-      "all": 11
-    },
-    "entrances": {
-      "1d": 0,
-      "7d": 5,
       "30d": 11,
       "all": 11
     }
@@ -2562,6 +2562,27 @@
     }
   },
   {
+    "path": "/registry/maps/yukina-nagoya",
+    "pageviews": {
+      "1d": 1,
+      "7d": 4,
+      "30d": 7,
+      "all": 7
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 4,
+      "30d": 7,
+      "all": 7
+    },
+    "entrances": {
+      "1d": 1,
+      "7d": 4,
+      "30d": 7,
+      "all": 7
+    }
+  },
+  {
     "path": "/registry/maps/yukina-okinawa",
     "pageviews": {
       "1d": 0,
@@ -3193,27 +3214,6 @@
   },
   {
     "path": "/registry/maps/yukina-morioka",
-    "pageviews": {
-      "1d": 0,
-      "7d": 3,
-      "30d": 6,
-      "all": 6
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 3,
-      "30d": 6,
-      "all": 6
-    },
-    "entrances": {
-      "1d": 0,
-      "7d": 3,
-      "30d": 6,
-      "all": 6
-    }
-  },
-  {
-    "path": "/registry/maps/yukina-nagoya",
     "pageviews": {
       "1d": 0,
       "7d": 3,
@@ -8169,6 +8169,27 @@
     }
   },
   {
+    "path": "/registry/mod/distance-circles",
+    "pageviews": {
+      "1d": 1,
+      "7d": 2,
+      "30d": 2,
+      "all": 2
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 2,
+      "30d": 2,
+      "all": 2
+    },
+    "entrances": {
+      "1d": 1,
+      "7d": 2,
+      "30d": 2,
+      "all": 2
+    }
+  },
+  {
     "path": "/template-mod/updates/v1.0.0",
     "pageviews": {
       "1d": 0,
@@ -13105,27 +13126,6 @@
   },
   {
     "path": "/registry/mod/citymapper",
-    "pageviews": {
-      "1d": 0,
-      "7d": 1,
-      "30d": 1,
-      "all": 1
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 1,
-      "30d": 1,
-      "all": 1
-    },
-    "entrances": {
-      "1d": 0,
-      "7d": 1,
-      "30d": 1,
-      "all": 1
-    }
-  },
-  {
-    "path": "/registry/mod/distance-circles",
     "pageviews": {
       "1d": 0,
       "7d": 1,
