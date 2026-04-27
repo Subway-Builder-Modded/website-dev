@@ -3,64 +3,64 @@
     "country": "United States",
     "countryCode": "US",
     "pageviews": {
-      "1d": 31,
-      "7d": 1434,
-      "30d": 3146,
-      "all": 3146
+      "1d": 57,
+      "7d": 1460,
+      "30d": 3172,
+      "all": 3172
     },
     "visitors": {
-      "1d": 31,
-      "7d": 1434,
-      "30d": 3146,
-      "all": 3146
+      "1d": 57,
+      "7d": 1460,
+      "30d": 3172,
+      "all": 3172
     }
   },
   {
     "country": "Canada",
     "countryCode": "CA",
     "pageviews": {
-      "1d": 4,
-      "7d": 278,
-      "30d": 545,
-      "all": 545
+      "1d": 8,
+      "7d": 282,
+      "30d": 549,
+      "all": 549
     },
     "visitors": {
-      "1d": 4,
-      "7d": 278,
-      "30d": 545,
-      "all": 545
-    }
-  },
-  {
-    "country": "United Kingdom",
-    "countryCode": "GB",
-    "pageviews": {
-      "1d": 2,
-      "7d": 127,
-      "30d": 291,
-      "all": 291
-    },
-    "visitors": {
-      "1d": 2,
-      "7d": 127,
-      "30d": 291,
-      "all": 291
+      "1d": 8,
+      "7d": 282,
+      "30d": 549,
+      "all": 549
     }
   },
   {
     "country": "Germany",
     "countryCode": "DE",
     "pageviews": {
-      "1d": 0,
-      "7d": 175,
-      "30d": 289,
-      "all": 289
+      "1d": 16,
+      "7d": 191,
+      "30d": 305,
+      "all": 305
     },
     "visitors": {
-      "1d": 0,
-      "7d": 175,
-      "30d": 289,
-      "all": 289
+      "1d": 16,
+      "7d": 191,
+      "30d": 305,
+      "all": 305
+    }
+  },
+  {
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "pageviews": {
+      "1d": 3,
+      "7d": 128,
+      "30d": 292,
+      "all": 292
+    },
+    "visitors": {
+      "1d": 3,
+      "7d": 128,
+      "30d": 292,
+      "all": 292
     }
   },
   {
@@ -80,6 +80,22 @@
     }
   },
   {
+    "country": "France",
+    "countryCode": "FR",
+    "pageviews": {
+      "1d": 1,
+      "7d": 79,
+      "30d": 143,
+      "all": 143
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 79,
+      "30d": 143,
+      "all": 143
+    }
+  },
+  {
     "country": "Finland",
     "countryCode": "FI",
     "pageviews": {
@@ -91,22 +107,6 @@
     "visitors": {
       "1d": 0,
       "7d": 121,
-      "30d": 142,
-      "all": 142
-    }
-  },
-  {
-    "country": "France",
-    "countryCode": "FR",
-    "pageviews": {
-      "1d": 0,
-      "7d": 78,
-      "30d": 142,
-      "all": 142
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 78,
       "30d": 142,
       "all": 142
     }
@@ -195,16 +195,16 @@
     "country": "Poland",
     "countryCode": "PL",
     "pageviews": {
-      "1d": 1,
-      "7d": 37,
-      "30d": 90,
-      "all": 90
+      "1d": 2,
+      "7d": 38,
+      "30d": 91,
+      "all": 91
     },
     "visitors": {
-      "1d": 1,
-      "7d": 37,
-      "30d": 90,
-      "all": 90
+      "1d": 2,
+      "7d": 38,
+      "30d": 91,
+      "all": 91
     }
   },
   {
@@ -323,16 +323,16 @@
     "country": "Ireland",
     "countryCode": "IE",
     "pageviews": {
-      "1d": 2,
-      "7d": 30,
-      "30d": 36,
-      "all": 36
+      "1d": 3,
+      "7d": 31,
+      "30d": 37,
+      "all": 37
     },
     "visitors": {
-      "1d": 2,
-      "7d": 30,
-      "30d": 36,
-      "all": 36
+      "1d": 3,
+      "7d": 31,
+      "30d": 37,
+      "all": 37
     }
   },
   {
@@ -467,16 +467,16 @@
     "country": "Switzerland",
     "countryCode": "CH",
     "pageviews": {
-      "1d": 0,
-      "7d": 11,
-      "30d": 23,
-      "all": 23
+      "1d": 1,
+      "7d": 12,
+      "30d": 24,
+      "all": 24
     },
     "visitors": {
-      "1d": 0,
-      "7d": 11,
-      "30d": 23,
-      "all": 23
+      "1d": 1,
+      "7d": 12,
+      "30d": 24,
+      "all": 24
     }
   },
   {
@@ -573,6 +573,22 @@
       "7d": 7,
       "30d": 15,
       "all": 15
+    }
+  },
+  {
+    "country": "Iceland",
+    "countryCode": "IS",
+    "pageviews": {
+      "1d": 11,
+      "7d": 11,
+      "30d": 13,
+      "all": 13
+    },
+    "visitors": {
+      "1d": 11,
+      "7d": 11,
+      "30d": 13,
+      "all": 13
     }
   },
   {
@@ -779,22 +795,6 @@
     "visitors": {
       "1d": 0,
       "7d": 1,
-      "30d": 2,
-      "all": 2
-    }
-  },
-  {
-    "country": "Iceland",
-    "countryCode": "IS",
-    "pageviews": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 2,
-      "all": 2
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 0,
       "30d": 2,
       "all": 2
     }
