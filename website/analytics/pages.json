@@ -5964,6 +5964,27 @@
     }
   },
   {
+    "path": "/registry/map/yukina-fukuoka",
+    "pageviews": {
+      "1d": 1,
+      "7d": 2,
+      "30d": 3,
+      "all": 3
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 2,
+      "30d": 3,
+      "all": 3
+    },
+    "entrances": {
+      "1d": 1,
+      "7d": 2,
+      "30d": 3,
+      "all": 3
+    }
+  },
+  {
     "path": "/registry/maps/garda-lake",
     "pageviews": {
       "1d": 0,
@@ -7744,27 +7765,6 @@
     "entrances": {
       "1d": 0,
       "7d": 2,
-      "30d": 2,
-      "all": 2
-    }
-  },
-  {
-    "path": "/registry/map/yukina-fukuoka",
-    "pageviews": {
-      "1d": 0,
-      "7d": 1,
-      "30d": 2,
-      "all": 2
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 1,
-      "30d": 2,
-      "all": 2
-    },
-    "entrances": {
-      "1d": 0,
-      "7d": 1,
       "30d": 2,
       "all": 2
     }
