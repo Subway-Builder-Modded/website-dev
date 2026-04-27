@@ -2,26 +2,26 @@
   {
     "browser": "Unknown",
     "visits": {
-      "1d": 22,
-      "7d": 1065,
-      "30d": 1680,
-      "all": 1680
+      "1d": 0,
+      "7d": 915,
+      "30d": 1683,
+      "all": 1683
     }
   },
   {
     "browser": "Chrome",
     "visits": {
-      "1d": 34,
-      "7d": 1087,
-      "30d": 1621,
-      "all": 1621
+      "1d": 0,
+      "7d": 843,
+      "30d": 1641,
+      "all": 1641
     }
   },
   {
     "browser": "GoogleBot",
     "visits": {
-      "1d": 2,
-      "7d": 419,
+      "1d": 0,
+      "7d": 346,
       "30d": 602,
       "all": 602
     }
@@ -29,26 +29,26 @@
   {
     "browser": "Firefox",
     "visits": {
-      "1d": 8,
-      "7d": 358,
-      "30d": 585,
-      "all": 585
+      "1d": 0,
+      "7d": 262,
+      "30d": 591,
+      "all": 591
     }
   },
   {
     "browser": "Safari",
     "visits": {
-      "1d": 4,
-      "7d": 254,
-      "30d": 396,
-      "all": 396
+      "1d": 0,
+      "7d": 131,
+      "30d": 397,
+      "all": 397
     }
   },
   {
     "browser": "MobileSafari",
     "visits": {
-      "1d": 9,
-      "7d": 273,
+      "1d": 0,
+      "7d": 196,
       "30d": 364,
       "all": 364
     }
@@ -56,46 +56,46 @@
   {
     "browser": "Edge",
     "visits": {
-      "1d": 1,
-      "7d": 127,
-      "30d": 229,
-      "all": 229
+      "1d": 0,
+      "7d": 95,
+      "30d": 230,
+      "all": 230
     }
   },
   {
     "browser": "ChromeMobile",
     "visits": {
-      "1d": 9,
-      "7d": 131,
-      "30d": 206,
-      "all": 206
+      "1d": 0,
+      "7d": 97,
+      "30d": 207,
+      "all": 207
     }
   },
   {
     "browser": "Opera",
     "visits": {
-      "1d": 11,
-      "7d": 112,
-      "30d": 145,
-      "all": 145
+      "1d": 0,
+      "7d": 103,
+      "30d": 147,
+      "all": 147
+    }
+  },
+  {
+    "browser": "BingBot",
+    "visits": {
+      "1d": 0,
+      "7d": 89,
+      "30d": 143,
+      "all": 143
     }
   },
   {
     "browser": "AppleBot",
     "visits": {
       "1d": 0,
-      "7d": 108,
+      "7d": 60,
       "30d": 142,
       "all": 142
-    }
-  },
-  {
-    "browser": "BingBot",
-    "visits": {
-      "1d": 1,
-      "7d": 99,
-      "30d": 140,
-      "all": 140
     }
   },
   {
@@ -111,7 +111,7 @@
     "browser": "SamsungInternet",
     "visits": {
       "1d": 0,
-      "7d": 5,
+      "7d": 4,
       "30d": 13,
       "all": 13
     }
@@ -156,7 +156,7 @@
     "browser": "MobileSafariWebview",
     "visits": {
       "1d": 0,
-      "7d": 4,
+      "7d": 3,
       "30d": 5,
       "all": 5
     }

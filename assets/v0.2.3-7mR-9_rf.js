@@ -3,7 +3,7 @@ import{a as e}from"./chunk-BEqpzyXh.js";import{t}from"./jsx-runtime-qJqhvtml.js"
 `,(0,n.jsxs)(t.li,{children:[(0,n.jsx)(t.strong,{children:`Library`}),` and `,(0,n.jsx)(t.strong,{children:`Browse`}),` counts now adapt to current filter state, showing number of assets matching tags based on the current filter set`]}),`
 `,(0,n.jsx)(t.li,{children:`Added a credits section within the app (with maintainers and supporters listed)`}),`
 `]})}),`
-`,(0,n.jsx)(r,{type:`upgrades`,children:(0,n.jsxs)(t.ul,{children:[`
+`,(0,n.jsx)(r,{type:`improvements`,children:(0,n.jsxs)(t.ul,{children:[`
 `,(0,n.jsx)(t.li,{children:`Changed the GitHub permission error toast to a dialogue with a link to the documentation`}),`
 `]})}),`
 `,(0,n.jsx)(r,{type:`bugfixes`,children:(0,n.jsxs)(t.ul,{children:[`
