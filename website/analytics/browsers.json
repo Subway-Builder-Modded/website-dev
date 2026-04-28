@@ -2,26 +2,26 @@
   {
     "browser": "Unknown",
     "visits": {
-      "1d": 56,
-      "7d": 971,
-      "30d": 1739,
-      "all": 1739
+      "1d": 2,
+      "7d": 706,
+      "30d": 1741,
+      "all": 1741
     }
   },
   {
     "browser": "Chrome",
     "visits": {
-      "1d": 43,
-      "7d": 886,
-      "30d": 1684,
-      "all": 1684
+      "1d": 4,
+      "7d": 683,
+      "30d": 1688,
+      "all": 1688
     }
   },
   {
     "browser": "Firefox",
     "visits": {
-      "1d": 25,
-      "7d": 287,
+      "1d": 0,
+      "7d": 232,
       "30d": 616,
       "all": 616
     }
@@ -29,8 +29,8 @@
   {
     "browser": "GoogleBot",
     "visits": {
-      "1d": 1,
-      "7d": 347,
+      "1d": 0,
+      "7d": 301,
       "30d": 603,
       "all": 603
     }
@@ -38,8 +38,8 @@
   {
     "browser": "Safari",
     "visits": {
-      "1d": 3,
-      "7d": 134,
+      "1d": 0,
+      "7d": 96,
       "30d": 400,
       "all": 400
     }
@@ -47,8 +47,8 @@
   {
     "browser": "MobileSafari",
     "visits": {
-      "1d": 8,
-      "7d": 204,
+      "1d": 0,
+      "7d": 149,
       "30d": 372,
       "all": 372
     }
@@ -56,8 +56,8 @@
   {
     "browser": "Edge",
     "visits": {
-      "1d": 5,
-      "7d": 100,
+      "1d": 0,
+      "7d": 72,
       "30d": 235,
       "all": 235
     }
@@ -65,8 +65,8 @@
   {
     "browser": "ChromeMobile",
     "visits": {
-      "1d": 1,
-      "7d": 98,
+      "1d": 0,
+      "7d": 76,
       "30d": 208,
       "all": 208
     }
@@ -74,8 +74,8 @@
   {
     "browser": "Opera",
     "visits": {
-      "1d": 4,
-      "7d": 107,
+      "1d": 0,
+      "7d": 99,
       "30d": 151,
       "all": 151
     }
@@ -83,8 +83,8 @@
   {
     "browser": "BingBot",
     "visits": {
-      "1d": 4,
-      "7d": 93,
+      "1d": 0,
+      "7d": 80,
       "30d": 147,
       "all": 147
     }
@@ -93,7 +93,7 @@
     "browser": "AppleBot",
     "visits": {
       "1d": 0,
-      "7d": 60,
+      "7d": 35,
       "30d": 142,
       "all": 142
     }
@@ -102,7 +102,7 @@
     "browser": "ChromeMobileWebview",
     "visits": {
       "1d": 0,
-      "7d": 89,
+      "7d": 70,
       "30d": 90,
       "all": 90
     }
@@ -111,7 +111,7 @@
     "browser": "SamsungInternet",
     "visits": {
       "1d": 0,
-      "7d": 4,
+      "7d": 0,
       "30d": 13,
       "all": 13
     }
@@ -119,7 +119,7 @@
   {
     "browser": "ChromeHeadless",
     "visits": {
-      "1d": 1,
+      "1d": 0,
       "7d": 1,
       "30d": 12,
       "all": 12
@@ -129,7 +129,7 @@
     "browser": "Curl",
     "visits": {
       "1d": 0,
-      "7d": 3,
+      "7d": 1,
       "30d": 12,
       "all": 12
     }
@@ -138,7 +138,7 @@
     "browser": "FirefoxMobile",
     "visits": {
       "1d": 0,
-      "7d": 4,
+      "7d": 1,
       "30d": 9,
       "all": 9
     }
@@ -174,7 +174,7 @@
     "browser": "OperaMobile",
     "visits": {
       "1d": 0,
-      "7d": 1,
+      "7d": 0,
       "30d": 1,
       "all": 1
     }
