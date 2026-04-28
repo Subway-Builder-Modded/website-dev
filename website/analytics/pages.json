@@ -2,43 +2,43 @@
   {
     "path": "/",
     "pageviews": {
-      "1d": 13,
-      "7d": 689,
-      "30d": 1830,
-      "all": 1830
+      "1d": 15,
+      "7d": 691,
+      "30d": 1832,
+      "all": 1832
     },
     "visitors": {
-      "1d": 13,
-      "7d": 689,
-      "30d": 1830,
-      "all": 1830
+      "1d": 15,
+      "7d": 691,
+      "30d": 1832,
+      "all": 1832
     },
     "entrances": {
-      "1d": 13,
-      "7d": 689,
-      "30d": 1830,
-      "all": 1830
+      "1d": 15,
+      "7d": 691,
+      "30d": 1832,
+      "all": 1832
     }
   },
   {
     "path": "/railyard",
     "pageviews": {
-      "1d": 8,
-      "7d": 400,
-      "30d": 907,
-      "all": 907
+      "1d": 16,
+      "7d": 408,
+      "30d": 915,
+      "all": 915
     },
     "visitors": {
-      "1d": 8,
-      "7d": 400,
-      "30d": 907,
-      "all": 907
+      "1d": 16,
+      "7d": 408,
+      "30d": 915,
+      "all": 915
     },
     "entrances": {
-      "1d": 8,
-      "7d": 400,
-      "30d": 907,
-      "all": 907
+      "1d": 16,
+      "7d": 408,
+      "30d": 915,
+      "all": 915
     }
   },
   {
@@ -1239,6 +1239,27 @@
     }
   },
   {
+    "path": "/railyard/maps/madrid",
+    "pageviews": {
+      "1d": 1,
+      "7d": 4,
+      "30d": 11,
+      "all": 11
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 4,
+      "30d": 11,
+      "all": 11
+    },
+    "entrances": {
+      "1d": 1,
+      "7d": 4,
+      "30d": 11,
+      "all": 11
+    }
+  },
+  {
     "path": "/railyard/maps/yukina-fukuoka",
     "pageviews": {
       "1d": 0,
@@ -1366,27 +1387,6 @@
   },
   {
     "path": "/railyard/maps/bangkok",
-    "pageviews": {
-      "1d": 0,
-      "7d": 3,
-      "30d": 10,
-      "all": 10
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 3,
-      "30d": 10,
-      "all": 10
-    },
-    "entrances": {
-      "1d": 0,
-      "7d": 3,
-      "30d": 10,
-      "all": 10
-    }
-  },
-  {
-    "path": "/railyard/maps/madrid",
     "pageviews": {
       "1d": 0,
       "7d": 3,
@@ -3822,6 +3822,27 @@
     }
   },
   {
+    "path": "/registry/maps/warsaw-val",
+    "pageviews": {
+      "1d": 1,
+      "7d": 2,
+      "30d": 5,
+      "all": 5
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 2,
+      "30d": 5,
+      "all": 5
+    },
+    "entrances": {
+      "1d": 1,
+      "7d": 2,
+      "30d": 5,
+      "all": 5
+    }
+  },
+  {
     "path": "/registry/maps/yukina-fukuoka",
     "pageviews": {
       "1d": 0,
@@ -4852,27 +4873,6 @@
   },
   {
     "path": "/registry/maps/tel-aviv",
-    "pageviews": {
-      "1d": 0,
-      "7d": 1,
-      "30d": 4,
-      "all": 4
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 1,
-      "30d": 4,
-      "all": 4
-    },
-    "entrances": {
-      "1d": 0,
-      "7d": 1,
-      "30d": 4,
-      "all": 4
-    }
-  },
-  {
-    "path": "/registry/maps/warsaw-val",
     "pageviews": {
       "1d": 0,
       "7d": 1,
