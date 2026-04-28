@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
   "repo": "Subway-Builder-Modded/railyard",
-  "generated_at": "2026-04-28T08:05:08.360Z",
-  "latest_snapshot": "2026-04-28T08:00:00.000Z",
+  "generated_at": "2026-04-28T12:20:47.378Z",
+  "latest_snapshot": "2026-04-28T12:00:00.000Z",
   "versions": {
     "0.2.3": {
-      "total_downloads": 1173,
-      "last_1d_downloads": 243,
-      "last_3d_downloads": 1067,
-      "last_7d_downloads": 1173,
+      "total_downloads": 1192,
+      "last_1d_downloads": 227,
+      "last_3d_downloads": 999,
+      "last_7d_downloads": 1192,
       "assets": {
         "railyard-v0.2.3-current-linux-amd64.flatpak": {
           "total_downloads": 25,
@@ -17,33 +17,33 @@
           "last_7d_downloads": 25
         },
         "railyard-v0.2.3-macos-universal.dmg": {
-          "total_downloads": 312,
-          "last_1d_downloads": 67,
-          "last_3d_downloads": 283,
-          "last_7d_downloads": 312
+          "total_downloads": 318,
+          "last_1d_downloads": 58,
+          "last_3d_downloads": 269,
+          "last_7d_downloads": 318
         },
         "railyard-v0.2.3-macos-universal.zip": {
           "total_downloads": 15,
           "last_1d_downloads": 4,
-          "last_3d_downloads": 15,
+          "last_3d_downloads": 14,
           "last_7d_downloads": 15
         },
         "railyard-v0.2.3-windows-amd64-installer.exe": {
-          "total_downloads": 792,
-          "last_1d_downloads": 160,
-          "last_3d_downloads": 717,
-          "last_7d_downloads": 792
+          "total_downloads": 804,
+          "last_1d_downloads": 152,
+          "last_3d_downloads": 667,
+          "last_7d_downloads": 804
         },
         "railyard-v0.2.3-windows-amd64-portable.zip": {
-          "total_downloads": 14,
-          "last_1d_downloads": 4,
-          "last_3d_downloads": 14,
-          "last_7d_downloads": 14
+          "total_downloads": 15,
+          "last_1d_downloads": 5,
+          "last_3d_downloads": 13,
+          "last_7d_downloads": 15
         },
         "railyard-v0.2.3-windows-arm64-installer.exe": {
           "total_downloads": 14,
           "last_1d_downloads": 2,
-          "last_3d_downloads": 14,
+          "last_3d_downloads": 12,
           "last_7d_downloads": 14
         },
         "railyard-v0.2.3-windows-arm64-portable.zip": {
@@ -55,22 +55,22 @@
       }
     },
     "0.2.2": {
-      "total_downloads": 2736,
-      "last_1d_downloads": 0,
-      "last_3d_downloads": 0,
-      "last_7d_downloads": 501,
+      "total_downloads": 2737,
+      "last_1d_downloads": 1,
+      "last_3d_downloads": 1,
+      "last_7d_downloads": 489,
       "assets": {
         "railyard-v0.2.2-current-linux-amd64.flatpak": {
           "total_downloads": 74,
           "last_1d_downloads": 0,
           "last_3d_downloads": 0,
-          "last_7d_downloads": 19
+          "last_7d_downloads": 18
         },
         "railyard-v0.2.2-macos-universal.dmg": {
           "total_downloads": 725,
           "last_1d_downloads": 0,
           "last_3d_downloads": 0,
-          "last_7d_downloads": 152
+          "last_7d_downloads": 149
         },
         "railyard-v0.2.2-macos-universal.zip": {
           "total_downloads": 56,
@@ -79,10 +79,10 @@
           "last_7d_downloads": 11
         },
         "railyard-v0.2.2-windows-amd64-installer.exe": {
-          "total_downloads": 1758,
-          "last_1d_downloads": 0,
-          "last_3d_downloads": 0,
-          "last_7d_downloads": 296
+          "total_downloads": 1759,
+          "last_1d_downloads": 1,
+          "last_3d_downloads": 1,
+          "last_7d_downloads": 288
         },
         "railyard-v0.2.2-windows-amd64-portable.zip": {
           "total_downloads": 82,
@@ -106,7 +106,7 @@
     },
     "0.2.1": {
       "total_downloads": 1132,
-      "last_1d_downloads": 2,
+      "last_1d_downloads": 1,
       "last_3d_downloads": 2,
       "last_7d_downloads": 4,
       "assets": {
@@ -130,7 +130,7 @@
         },
         "railyard-v0.2.1-windows-amd64-installer.exe": {
           "total_downloads": 814,
-          "last_1d_downloads": 2,
+          "last_1d_downloads": 1,
           "last_3d_downloads": 2,
           "last_7d_downloads": 4
         },
