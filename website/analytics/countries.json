@@ -3,16 +3,16 @@
     "country": "United States",
     "countryCode": "US",
     "pageviews": {
-      "1d": 39,
-      "7d": 791,
-      "30d": 3267,
-      "all": 3267
+      "1d": 64,
+      "7d": 816,
+      "30d": 3292,
+      "all": 3292
     },
     "visitors": {
-      "1d": 39,
-      "7d": 791,
-      "30d": 3267,
-      "all": 3267
+      "1d": 64,
+      "7d": 816,
+      "30d": 3292,
+      "all": 3292
     }
   },
   {
@@ -35,32 +35,32 @@
     "country": "Germany",
     "countryCode": "DE",
     "pageviews": {
-      "1d": 1,
-      "7d": 112,
-      "30d": 310,
-      "all": 310
+      "1d": 2,
+      "7d": 113,
+      "30d": 311,
+      "all": 311
     },
     "visitors": {
-      "1d": 1,
-      "7d": 112,
-      "30d": 310,
-      "all": 310
+      "1d": 2,
+      "7d": 113,
+      "30d": 311,
+      "all": 311
     }
   },
   {
     "country": "United Kingdom",
     "countryCode": "GB",
     "pageviews": {
-      "1d": 0,
-      "7d": 78,
-      "30d": 305,
-      "all": 305
+      "1d": 2,
+      "7d": 80,
+      "30d": 307,
+      "all": 307
     },
     "visitors": {
-      "1d": 0,
-      "7d": 78,
-      "30d": 305,
-      "all": 305
+      "1d": 2,
+      "7d": 80,
+      "30d": 307,
+      "all": 307
     }
   },
   {
@@ -115,16 +115,16 @@
     "country": "Singapore",
     "countryCode": "SG",
     "pageviews": {
-      "1d": 0,
-      "7d": 41,
-      "30d": 130,
-      "all": 130
+      "1d": 1,
+      "7d": 42,
+      "30d": 131,
+      "all": 131
     },
     "visitors": {
-      "1d": 0,
-      "7d": 41,
-      "30d": 130,
-      "all": 130
+      "1d": 1,
+      "7d": 42,
+      "30d": 131,
+      "all": 131
     }
   },
   {
@@ -323,16 +323,16 @@
     "country": "Hong Kong SAR China",
     "countryCode": "HK",
     "pageviews": {
-      "1d": 4,
-      "7d": 19,
-      "30d": 40,
-      "all": 40
+      "1d": 5,
+      "7d": 20,
+      "30d": 41,
+      "all": 41
     },
     "visitors": {
-      "1d": 4,
-      "7d": 19,
-      "30d": 40,
-      "all": 40
+      "1d": 5,
+      "7d": 20,
+      "30d": 41,
+      "all": 41
     }
   },
   {
@@ -371,16 +371,16 @@
     "country": "Israel",
     "countryCode": "IL",
     "pageviews": {
-      "1d": 0,
-      "7d": 13,
-      "30d": 32,
-      "all": 32
+      "1d": 1,
+      "7d": 14,
+      "30d": 33,
+      "all": 33
     },
     "visitors": {
-      "1d": 0,
-      "7d": 13,
-      "30d": 32,
-      "all": 32
+      "1d": 1,
+      "7d": 14,
+      "30d": 33,
+      "all": 33
     }
   },
   {
@@ -464,6 +464,22 @@
     }
   },
   {
+    "country": "Taiwan",
+    "countryCode": "TW",
+    "pageviews": {
+      "1d": 4,
+      "7d": 16,
+      "30d": 28,
+      "all": 28
+    },
+    "visitors": {
+      "1d": 4,
+      "7d": 16,
+      "30d": 28,
+      "all": 28
+    }
+  },
+  {
     "country": "Switzerland",
     "countryCode": "CH",
     "pageviews": {
@@ -475,22 +491,6 @@
     "visitors": {
       "1d": 0,
       "7d": 6,
-      "30d": 24,
-      "all": 24
-    }
-  },
-  {
-    "country": "Taiwan",
-    "countryCode": "TW",
-    "pageviews": {
-      "1d": 0,
-      "7d": 12,
-      "30d": 24,
-      "all": 24
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 12,
       "30d": 24,
       "all": 24
     }
@@ -509,6 +509,22 @@
       "7d": 3,
       "30d": 23,
       "all": 23
+    }
+  },
+  {
+    "country": "Philippines",
+    "countryCode": "PH",
+    "pageviews": {
+      "1d": 4,
+      "7d": 7,
+      "30d": 20,
+      "all": 20
+    },
+    "visitors": {
+      "1d": 4,
+      "7d": 7,
+      "30d": 20,
+      "all": 20
     }
   },
   {
@@ -541,22 +557,6 @@
       "7d": 1,
       "30d": 17,
       "all": 17
-    }
-  },
-  {
-    "country": "Philippines",
-    "countryCode": "PH",
-    "pageviews": {
-      "1d": 0,
-      "7d": 3,
-      "30d": 16,
-      "all": 16
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 3,
-      "30d": 16,
-      "all": 16
     }
   },
   {
@@ -704,6 +704,22 @@
     }
   },
   {
+    "country": "Türkiye",
+    "countryCode": "TR",
+    "pageviews": {
+      "1d": 1,
+      "7d": 4,
+      "30d": 7,
+      "all": 7
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 4,
+      "30d": 7,
+      "all": 7
+    }
+  },
+  {
     "country": "Bosnia & Herzegovina",
     "countryCode": "BA",
     "pageviews": {
@@ -715,22 +731,6 @@
     "visitors": {
       "1d": 0,
       "7d": 2,
-      "30d": 6,
-      "all": 6
-    }
-  },
-  {
-    "country": "Türkiye",
-    "countryCode": "TR",
-    "pageviews": {
-      "1d": 0,
-      "7d": 3,
-      "30d": 6,
-      "all": 6
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 3,
       "30d": 6,
       "all": 6
     }
