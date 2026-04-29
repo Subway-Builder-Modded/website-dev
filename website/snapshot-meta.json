@@ -1,8 +1,8 @@
 {
   "sourceRepo": "Subway-Builder-Modded/registry",
   "sourceRef": "main",
-  "commitSha": "d8b822c00fe54b816084b9ab3b394fdfe65a9a98",
-  "fetchedAt": "2026-04-29T18:19:10.680Z",
+  "commitSha": "02420be0d057716abca9126683dd4093c0fa959e",
+  "fetchedAt": "2026-04-29T20:17:04.788Z",
   "materializedFiles": [
     "public/railyard/analytics/railyard_app_by_day.csv",
     "public/railyard/analytics/railyard_app_downloads_history.json",
@@ -489,6 +489,12 @@
     "public/registry/maps/sydney/gallery/screenshot3.png",
     "public/registry/maps/sydney/grid.geojson",
     "public/registry/maps/sydney/manifest.json",
+    "public/registry/maps/syracuse-ny/gallery/screenshot1.png",
+    "public/registry/maps/syracuse-ny/gallery/screenshot2.png",
+    "public/registry/maps/syracuse-ny/gallery/screenshot3.png",
+    "public/registry/maps/syracuse-ny/gallery/screenshot4.png",
+    "public/registry/maps/syracuse-ny/grid.geojson",
+    "public/registry/maps/syracuse-ny/manifest.json",
     "public/registry/maps/tampa-bay/gallery/screenshot1.png",
     "public/registry/maps/tampa-bay/grid.geojson",
     "public/registry/maps/tampa-bay/manifest.json",
@@ -859,5 +865,5 @@
     "public/website/analytics/timeseries.json",
     "public/website/analytics/valid-paths.json"
   ],
-  "websiteAnalyticsSourceGeneratedAt": "2026-04-29T16:58:34.786Z"
+  "websiteAnalyticsSourceGeneratedAt": "2026-04-29T18:54:22.078Z"
 }
