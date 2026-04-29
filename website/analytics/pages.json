@@ -2,43 +2,43 @@
   {
     "path": "/",
     "pageviews": {
-      "1d": 18,
-      "7d": 537,
-      "30d": 1858,
-      "all": 1858
+      "1d": 23,
+      "7d": 542,
+      "30d": 1863,
+      "all": 1863
     },
     "visitors": {
-      "1d": 18,
-      "7d": 537,
-      "30d": 1858,
-      "all": 1858
+      "1d": 23,
+      "7d": 542,
+      "30d": 1863,
+      "all": 1863
     },
     "entrances": {
-      "1d": 18,
-      "7d": 537,
-      "30d": 1858,
-      "all": 1858
+      "1d": 23,
+      "7d": 542,
+      "30d": 1863,
+      "all": 1863
     }
   },
   {
     "path": "/railyard",
     "pageviews": {
-      "1d": 7,
-      "7d": 319,
-      "30d": 924,
-      "all": 924
+      "1d": 12,
+      "7d": 324,
+      "30d": 929,
+      "all": 929
     },
     "visitors": {
-      "1d": 7,
-      "7d": 319,
-      "30d": 924,
-      "all": 924
+      "1d": 12,
+      "7d": 324,
+      "30d": 929,
+      "all": 929
     },
     "entrances": {
-      "1d": 7,
-      "7d": 319,
-      "30d": 924,
-      "all": 924
+      "1d": 12,
+      "7d": 324,
+      "30d": 929,
+      "all": 929
     }
   },
   {
@@ -86,22 +86,22 @@
   {
     "path": "/railyard/docs/v0.2/players/github-token",
     "pageviews": {
-      "1d": 1,
-      "7d": 30,
-      "30d": 118,
-      "all": 118
+      "1d": 2,
+      "7d": 31,
+      "30d": 119,
+      "all": 119
     },
     "visitors": {
-      "1d": 1,
-      "7d": 30,
-      "30d": 118,
-      "all": 118
+      "1d": 2,
+      "7d": 31,
+      "30d": 119,
+      "all": 119
     },
     "entrances": {
-      "1d": 1,
-      "7d": 30,
-      "30d": 118,
-      "all": 118
+      "1d": 2,
+      "7d": 31,
+      "30d": 119,
+      "all": 119
     }
   },
   {
@@ -2289,6 +2289,27 @@
     }
   },
   {
+    "path": "/registry/maps/trondheim-val",
+    "pageviews": {
+      "1d": 1,
+      "7d": 3,
+      "30d": 8,
+      "all": 8
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 3,
+      "30d": 8,
+      "all": 8
+    },
+    "entrances": {
+      "1d": 1,
+      "7d": 3,
+      "30d": 8,
+      "all": 8
+    }
+  },
+  {
     "path": "/registry/mods/valdotoriums-trains",
     "pageviews": {
       "1d": 0,
@@ -2641,27 +2662,6 @@
     "entrances": {
       "1d": 0,
       "7d": 0,
-      "30d": 7,
-      "all": 7
-    }
-  },
-  {
-    "path": "/registry/maps/trondheim-val",
-    "pageviews": {
-      "1d": 0,
-      "7d": 2,
-      "30d": 7,
-      "all": 7
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 2,
-      "30d": 7,
-      "all": 7
-    },
-    "entrances": {
-      "1d": 0,
-      "7d": 2,
       "30d": 7,
       "all": 7
     }
@@ -4473,6 +4473,27 @@
     }
   },
   {
+    "path": "/railyard/maps/tel-aviv",
+    "pageviews": {
+      "1d": 1,
+      "7d": 2,
+      "30d": 4,
+      "all": 4
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 2,
+      "30d": 4,
+      "all": 4
+    },
+    "entrances": {
+      "1d": 1,
+      "7d": 2,
+      "30d": 4,
+      "all": 4
+    }
+  },
+  {
     "path": "/railyard/maps/yukina-hakodate",
     "pageviews": {
       "1d": 0,
@@ -4804,6 +4825,27 @@
     "entrances": {
       "1d": 0,
       "7d": 0,
+      "30d": 4,
+      "all": 4
+    }
+  },
+  {
+    "path": "/registry/maps/greater-los-angeles",
+    "pageviews": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 4,
+      "all": 4
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 4,
+      "all": 4
+    },
+    "entrances": {
+      "1d": 1,
+      "7d": 1,
       "30d": 4,
       "all": 4
     }
@@ -5670,27 +5712,6 @@
     }
   },
   {
-    "path": "/railyard/maps/tel-aviv",
-    "pageviews": {
-      "1d": 0,
-      "7d": 1,
-      "30d": 3,
-      "all": 3
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 1,
-      "30d": 3,
-      "all": 3
-    },
-    "entrances": {
-      "1d": 0,
-      "7d": 1,
-      "30d": 3,
-      "all": 3
-    }
-  },
-  {
     "path": "/railyard/maps/turin/changelog/1.0.0",
     "pageviews": {
       "1d": 0,
@@ -6127,27 +6148,6 @@
     "entrances": {
       "1d": 0,
       "7d": 2,
-      "30d": 3,
-      "all": 3
-    }
-  },
-  {
-    "path": "/registry/maps/greater-los-angeles",
-    "pageviews": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 3,
-      "all": 3
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 3,
-      "all": 3
-    },
-    "entrances": {
-      "1d": 0,
-      "7d": 0,
       "30d": 3,
       "all": 3
     }
@@ -8080,6 +8080,27 @@
     "entrances": {
       "1d": 0,
       "7d": 0,
+      "30d": 2,
+      "all": 2
+    }
+  },
+  {
+    "path": "/registry/maps/guangzhou",
+    "pageviews": {
+      "1d": 2,
+      "7d": 2,
+      "30d": 2,
+      "all": 2
+    },
+    "visitors": {
+      "1d": 2,
+      "7d": 2,
+      "30d": 2,
+      "all": 2
+    },
+    "entrances": {
+      "1d": 2,
+      "7d": 2,
       "30d": 2,
       "all": 2
     }
@@ -12427,27 +12448,6 @@
     "entrances": {
       "1d": 0,
       "7d": 0,
-      "30d": 1,
-      "all": 1
-    }
-  },
-  {
-    "path": "/registry/maps/guangzhou",
-    "pageviews": {
-      "1d": 1,
-      "7d": 1,
-      "30d": 1,
-      "all": 1
-    },
-    "visitors": {
-      "1d": 1,
-      "7d": 1,
-      "30d": 1,
-      "all": 1
-    },
-    "entrances": {
-      "1d": 1,
-      "7d": 1,
       "30d": 1,
       "all": 1
     }
