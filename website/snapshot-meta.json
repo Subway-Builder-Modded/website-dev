@@ -1,9 +1,11 @@
 {
   "sourceRepo": "Subway-Builder-Modded/registry",
   "sourceRef": "main",
-  "commitSha": "a9c0e4aa10373391cce9fe99c531ba646cb35991",
-  "fetchedAt": "2026-04-29T03:52:47.045Z",
+  "commitSha": "c919ca0bff7bec9903e1aa84faa6f2b4da1ec285",
+  "fetchedAt": "2026-04-29T05:18:33.746Z",
   "materializedFiles": [
+    "public/community/discord_server_by_day.csv",
+    "public/community/discord_user_message_by_day.csv",
     "public/railyard/analytics/railyard_app_by_day.csv",
     "public/railyard/analytics/railyard_app_downloads_history.json",
     "public/railyard/analytics/railyard_app_downloads.json",
@@ -853,5 +855,5 @@
     "public/website/analytics/timeseries.json",
     "public/website/analytics/valid-paths.json"
   ],
-  "websiteAnalyticsSourceGeneratedAt": "2026-04-29T01:16:54.081Z"
+  "websiteAnalyticsSourceGeneratedAt": "2026-04-29T04:46:13.403Z"
 }
