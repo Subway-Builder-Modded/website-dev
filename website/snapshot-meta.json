@@ -1,8 +1,8 @@
 {
   "sourceRepo": "Subway-Builder-Modded/registry",
   "sourceRef": "main",
-  "commitSha": "12a87bc80802eb3fa980e82ed3d8c399da0d41f1",
-  "fetchedAt": "2026-04-29T16:49:04.216Z",
+  "commitSha": "d8b822c00fe54b816084b9ab3b394fdfe65a9a98",
+  "fetchedAt": "2026-04-29T18:19:10.680Z",
   "materializedFiles": [
     "public/railyard/analytics/railyard_app_by_day.csv",
     "public/railyard/analytics/railyard_app_downloads_history.json",
@@ -463,6 +463,12 @@
     "public/registry/maps/seoul-4/gallery/screenshot1.png",
     "public/registry/maps/seoul-4/grid.geojson",
     "public/registry/maps/seoul-4/manifest.json",
+    "public/registry/maps/shanghai/gallery/screenshot1.png",
+    "public/registry/maps/shanghai/gallery/screenshot2.png",
+    "public/registry/maps/shanghai/gallery/screenshot3.png",
+    "public/registry/maps/shanghai/gallery/screenshot4.png",
+    "public/registry/maps/shanghai/grid.geojson",
+    "public/registry/maps/shanghai/manifest.json",
     "public/registry/maps/singapore-val/gallery/screenshot1.jpg",
     "public/registry/maps/singapore-val/gallery/screenshot1.png",
     "public/registry/maps/singapore-val/gallery/screenshot2.jpg",
@@ -853,5 +859,5 @@
     "public/website/analytics/timeseries.json",
     "public/website/analytics/valid-paths.json"
   ],
-  "websiteAnalyticsSourceGeneratedAt": "2026-04-29T14:35:59.023Z"
+  "websiteAnalyticsSourceGeneratedAt": "2026-04-29T16:58:34.786Z"
 }
