@@ -2,85 +2,85 @@
   {
     "path": "/",
     "pageviews": {
-      "1d": 32,
-      "7d": 451,
-      "30d": 1930,
-      "all": 1930
+      "1d": 40,
+      "7d": 459,
+      "30d": 1938,
+      "all": 1938
     },
     "visitors": {
-      "1d": 32,
-      "7d": 451,
-      "30d": 1930,
-      "all": 1930
+      "1d": 40,
+      "7d": 459,
+      "30d": 1938,
+      "all": 1938
     },
     "entrances": {
-      "1d": 32,
-      "7d": 451,
-      "30d": 1930,
-      "all": 1930
+      "1d": 40,
+      "7d": 459,
+      "30d": 1938,
+      "all": 1938
     }
   },
   {
     "path": "/railyard",
     "pageviews": {
-      "1d": 22,
-      "7d": 283,
-      "30d": 968,
-      "all": 968
+      "1d": 24,
+      "7d": 285,
+      "30d": 970,
+      "all": 970
     },
     "visitors": {
-      "1d": 22,
-      "7d": 283,
-      "30d": 968,
-      "all": 968
+      "1d": 24,
+      "7d": 285,
+      "30d": 970,
+      "all": 970
     },
     "entrances": {
-      "1d": 22,
-      "7d": 283,
-      "30d": 968,
-      "all": 968
+      "1d": 24,
+      "7d": 285,
+      "30d": 970,
+      "all": 970
     }
   },
   {
     "path": "/railyard/browse",
     "pageviews": {
-      "1d": 4,
-      "7d": 60,
-      "30d": 306,
-      "all": 306
+      "1d": 5,
+      "7d": 61,
+      "30d": 307,
+      "all": 307
     },
     "visitors": {
-      "1d": 4,
-      "7d": 60,
-      "30d": 306,
-      "all": 306
+      "1d": 5,
+      "7d": 61,
+      "30d": 307,
+      "all": 307
     },
     "entrances": {
-      "1d": 4,
-      "7d": 60,
-      "30d": 306,
-      "all": 306
+      "1d": 5,
+      "7d": 61,
+      "30d": 307,
+      "all": 307
     }
   },
   {
     "path": "/railyard/docs/latest/players/github-token",
     "pageviews": {
-      "1d": 4,
-      "7d": 113,
-      "30d": 146,
-      "all": 146
+      "1d": 5,
+      "7d": 114,
+      "30d": 147,
+      "all": 147
     },
     "visitors": {
-      "1d": 4,
-      "7d": 113,
-      "30d": 146,
-      "all": 146
+      "1d": 5,
+      "7d": 114,
+      "30d": 147,
+      "all": 147
     },
     "entrances": {
-      "1d": 4,
-      "7d": 113,
-      "30d": 146,
-      "all": 146
+      "1d": 5,
+      "7d": 114,
+      "30d": 147,
+      "all": 147
     }
   },
   {
@@ -149,22 +149,22 @@
   {
     "path": "/registry",
     "pageviews": {
-      "1d": 0,
-      "7d": 17,
-      "30d": 79,
-      "all": 79
+      "1d": 1,
+      "7d": 18,
+      "30d": 80,
+      "all": 80
     },
     "visitors": {
-      "1d": 0,
-      "7d": 17,
-      "30d": 79,
-      "all": 79
+      "1d": 1,
+      "7d": 18,
+      "30d": 80,
+      "all": 80
     },
     "entrances": {
-      "1d": 0,
-      "7d": 17,
-      "30d": 79,
-      "all": 79
+      "1d": 1,
+      "7d": 18,
+      "30d": 80,
+      "all": 80
     }
   },
   {
@@ -357,6 +357,27 @@
     }
   },
   {
+    "path": "/template-mod/docs",
+    "pageviews": {
+      "1d": 1,
+      "7d": 8,
+      "30d": 36,
+      "all": 36
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 8,
+      "30d": 36,
+      "all": 36
+    },
+    "entrances": {
+      "1d": 1,
+      "7d": 8,
+      "30d": 36,
+      "all": 36
+    }
+  },
+  {
     "path": "/railyard/docs/v0.2/players/installing-railyard/macos",
     "pageviews": {
       "1d": 1,
@@ -394,27 +415,6 @@
     "entrances": {
       "1d": 0,
       "7d": 4,
-      "30d": 35,
-      "all": 35
-    }
-  },
-  {
-    "path": "/template-mod/docs",
-    "pageviews": {
-      "1d": 0,
-      "7d": 7,
-      "30d": 35,
-      "all": 35
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 7,
-      "30d": 35,
-      "all": 35
-    },
-    "entrances": {
-      "1d": 0,
-      "7d": 7,
       "30d": 35,
       "all": 35
     }
@@ -966,6 +966,27 @@
     }
   },
   {
+    "path": "/registry/mods/transit-overlay",
+    "pageviews": {
+      "1d": 1,
+      "7d": 7,
+      "30d": 15,
+      "all": 15
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 7,
+      "30d": 15,
+      "all": 15
+    },
+    "entrances": {
+      "1d": 1,
+      "7d": 7,
+      "30d": 15,
+      "all": 15
+    }
+  },
+  {
     "path": "/railyard/maps/greater-kuala-lumpur",
     "pageviews": {
       "1d": 0,
@@ -1050,27 +1071,6 @@
     }
   },
   {
-    "path": "/registry/mods/transit-overlay",
-    "pageviews": {
-      "1d": 0,
-      "7d": 6,
-      "30d": 14,
-      "all": 14
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 6,
-      "30d": 14,
-      "all": 14
-    },
-    "entrances": {
-      "1d": 0,
-      "7d": 6,
-      "30d": 14,
-      "all": 14
-    }
-  },
-  {
     "path": "/railyard/docs/v0.1/players/install-guide-macos",
     "pageviews": {
       "1d": 4,
@@ -1108,6 +1108,27 @@
     "entrances": {
       "1d": 0,
       "7d": 2,
+      "30d": 13,
+      "all": 13
+    }
+  },
+  {
+    "path": "/railyard/mods/subwaybuilder-regions",
+    "pageviews": {
+      "1d": 1,
+      "7d": 6,
+      "30d": 13,
+      "all": 13
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 6,
+      "30d": 13,
+      "all": 13
+    },
+    "entrances": {
+      "1d": 1,
+      "7d": 6,
       "30d": 13,
       "all": 13
     }
@@ -1234,27 +1255,6 @@
     "entrances": {
       "1d": 1,
       "7d": 4,
-      "30d": 12,
-      "all": 12
-    }
-  },
-  {
-    "path": "/railyard/mods/subwaybuilder-regions",
-    "pageviews": {
-      "1d": 0,
-      "7d": 5,
-      "30d": 12,
-      "all": 12
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 5,
-      "30d": 12,
-      "all": 12
-    },
-    "entrances": {
-      "1d": 0,
-      "7d": 5,
       "30d": 12,
       "all": 12
     }
@@ -1743,6 +1743,27 @@
     }
   },
   {
+    "path": "/registry/mods/citymapper",
+    "pageviews": {
+      "1d": 1,
+      "7d": 3,
+      "30d": 10,
+      "all": 10
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 3,
+      "30d": 10,
+      "all": 10
+    },
+    "entrances": {
+      "1d": 1,
+      "7d": 3,
+      "30d": 10,
+      "all": 10
+    }
+  },
+  {
     "path": "/railyard/docs/latest/developers/publishing-projects",
     "pageviews": {
       "1d": 0,
@@ -2016,27 +2037,6 @@
     }
   },
   {
-    "path": "/registry/mods/citymapper",
-    "pageviews": {
-      "1d": 0,
-      "7d": 2,
-      "30d": 9,
-      "all": 9
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 2,
-      "30d": 9,
-      "all": 9
-    },
-    "entrances": {
-      "1d": 0,
-      "7d": 2,
-      "30d": 9,
-      "all": 9
-    }
-  },
-  {
     "path": "/registry/mods/valdotoriums-trains",
     "pageviews": {
       "1d": 1,
@@ -2158,6 +2158,27 @@
     "entrances": {
       "1d": 0,
       "7d": 2,
+      "30d": 8,
+      "all": 8
+    }
+  },
+  {
+    "path": "/railyard/maps/amsterdam",
+    "pageviews": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 8,
+      "all": 8
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 8,
+      "all": 8
+    },
+    "entrances": {
+      "1d": 1,
+      "7d": 1,
       "30d": 8,
       "all": 8
     }
@@ -2458,27 +2479,6 @@
   },
   {
     "path": "/railyard/docs/v0.2/developers/data-quality",
-    "pageviews": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 7,
-      "all": 7
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 7,
-      "all": 7
-    },
-    "entrances": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 7,
-      "all": 7
-    }
-  },
-  {
-    "path": "/railyard/maps/amsterdam",
     "pageviews": {
       "1d": 0,
       "7d": 0,
