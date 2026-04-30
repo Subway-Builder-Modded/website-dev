@@ -2,43 +2,43 @@
   {
     "path": "/",
     "pageviews": {
-      "1d": 1,
-      "7d": 420,
-      "30d": 1899,
-      "all": 1899
+      "1d": 6,
+      "7d": 425,
+      "30d": 1904,
+      "all": 1904
     },
     "visitors": {
-      "1d": 1,
-      "7d": 420,
-      "30d": 1899,
-      "all": 1899
+      "1d": 6,
+      "7d": 425,
+      "30d": 1904,
+      "all": 1904
     },
     "entrances": {
-      "1d": 1,
-      "7d": 420,
-      "30d": 1899,
-      "all": 1899
+      "1d": 6,
+      "7d": 425,
+      "30d": 1904,
+      "all": 1904
     }
   },
   {
     "path": "/railyard",
     "pageviews": {
-      "1d": 5,
-      "7d": 266,
-      "30d": 951,
-      "all": 951
+      "1d": 6,
+      "7d": 267,
+      "30d": 952,
+      "all": 952
     },
     "visitors": {
-      "1d": 5,
-      "7d": 266,
-      "30d": 951,
-      "all": 951
+      "1d": 6,
+      "7d": 267,
+      "30d": 952,
+      "all": 952
     },
     "entrances": {
-      "1d": 5,
-      "7d": 266,
-      "30d": 951,
-      "all": 951
+      "1d": 6,
+      "7d": 267,
+      "30d": 952,
+      "all": 952
     }
   },
   {
@@ -233,22 +233,22 @@
   {
     "path": "/registry/mods/advanced-analytics",
     "pageviews": {
-      "1d": 0,
-      "7d": 10,
-      "30d": 47,
-      "all": 47
+      "1d": 3,
+      "7d": 13,
+      "30d": 50,
+      "all": 50
     },
     "visitors": {
-      "1d": 0,
-      "7d": 10,
-      "30d": 47,
-      "all": 47
+      "1d": 3,
+      "7d": 13,
+      "30d": 50,
+      "all": 50
     },
     "entrances": {
-      "1d": 0,
-      "7d": 10,
-      "30d": 47,
-      "all": 47
+      "1d": 3,
+      "7d": 13,
+      "30d": 50,
+      "all": 50
     }
   },
   {
@@ -819,6 +819,27 @@
     }
   },
   {
+    "path": "/railyard/mods/distance-circles",
+    "pageviews": {
+      "1d": 1,
+      "7d": 2,
+      "30d": 17,
+      "all": 17
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 2,
+      "30d": 17,
+      "all": 17
+    },
+    "entrances": {
+      "1d": 1,
+      "7d": 2,
+      "30d": 17,
+      "all": 17
+    }
+  },
+  {
     "path": "/railyard/docs/v0.2/developers/publishing-projects",
     "pageviews": {
       "1d": 0,
@@ -835,27 +856,6 @@
     "entrances": {
       "1d": 0,
       "7d": 6,
-      "30d": 16,
-      "all": 16
-    }
-  },
-  {
-    "path": "/railyard/mods/distance-circles",
-    "pageviews": {
-      "1d": 0,
-      "7d": 1,
-      "30d": 16,
-      "all": 16
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 1,
-      "30d": 16,
-      "all": 16
-    },
-    "entrances": {
-      "1d": 0,
-      "7d": 1,
       "30d": 16,
       "all": 16
     }
@@ -2037,6 +2037,27 @@
     }
   },
   {
+    "path": "/registry/mods/valdotoriums-trains",
+    "pageviews": {
+      "1d": 1,
+      "7d": 2,
+      "30d": 9,
+      "all": 9
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 2,
+      "30d": 9,
+      "all": 9
+    },
+    "entrances": {
+      "1d": 1,
+      "7d": 2,
+      "30d": 9,
+      "all": 9
+    }
+  },
+  {
     "path": "/template-mod/docs/v1.0/common-patterns",
     "pageviews": {
       "1d": 0,
@@ -2305,27 +2326,6 @@
     "entrances": {
       "1d": 0,
       "7d": 2,
-      "30d": 8,
-      "all": 8
-    }
-  },
-  {
-    "path": "/registry/mods/valdotoriums-trains",
-    "pageviews": {
-      "1d": 0,
-      "7d": 1,
-      "30d": 8,
-      "all": 8
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 1,
-      "30d": 8,
-      "all": 8
-    },
-    "entrances": {
-      "1d": 0,
-      "7d": 1,
       "30d": 8,
       "all": 8
     }
