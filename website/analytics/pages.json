@@ -2,106 +2,106 @@
   {
     "path": "/",
     "pageviews": {
-      "1d": 18,
-      "7d": 437,
-      "30d": 1916,
-      "all": 1916
+      "1d": 32,
+      "7d": 451,
+      "30d": 1930,
+      "all": 1930
     },
     "visitors": {
-      "1d": 18,
-      "7d": 437,
-      "30d": 1916,
-      "all": 1916
+      "1d": 32,
+      "7d": 451,
+      "30d": 1930,
+      "all": 1930
     },
     "entrances": {
-      "1d": 18,
-      "7d": 437,
-      "30d": 1916,
-      "all": 1916
+      "1d": 32,
+      "7d": 451,
+      "30d": 1930,
+      "all": 1930
     }
   },
   {
     "path": "/railyard",
     "pageviews": {
-      "1d": 14,
-      "7d": 275,
-      "30d": 960,
-      "all": 960
+      "1d": 22,
+      "7d": 283,
+      "30d": 968,
+      "all": 968
     },
     "visitors": {
-      "1d": 14,
-      "7d": 275,
-      "30d": 960,
-      "all": 960
+      "1d": 22,
+      "7d": 283,
+      "30d": 968,
+      "all": 968
     },
     "entrances": {
-      "1d": 14,
-      "7d": 275,
-      "30d": 960,
-      "all": 960
+      "1d": 22,
+      "7d": 283,
+      "30d": 968,
+      "all": 968
     }
   },
   {
     "path": "/railyard/browse",
     "pageviews": {
-      "1d": 2,
-      "7d": 58,
-      "30d": 304,
-      "all": 304
+      "1d": 4,
+      "7d": 60,
+      "30d": 306,
+      "all": 306
     },
     "visitors": {
-      "1d": 2,
-      "7d": 58,
-      "30d": 304,
-      "all": 304
+      "1d": 4,
+      "7d": 60,
+      "30d": 306,
+      "all": 306
     },
     "entrances": {
-      "1d": 2,
-      "7d": 58,
-      "30d": 304,
-      "all": 304
+      "1d": 4,
+      "7d": 60,
+      "30d": 306,
+      "all": 306
     }
   },
   {
     "path": "/railyard/docs/latest/players/github-token",
     "pageviews": {
-      "1d": 1,
-      "7d": 110,
-      "30d": 143,
-      "all": 143
+      "1d": 4,
+      "7d": 113,
+      "30d": 146,
+      "all": 146
     },
     "visitors": {
-      "1d": 1,
-      "7d": 110,
-      "30d": 143,
-      "all": 143
+      "1d": 4,
+      "7d": 113,
+      "30d": 146,
+      "all": 146
     },
     "entrances": {
-      "1d": 1,
-      "7d": 110,
-      "30d": 143,
-      "all": 143
+      "1d": 4,
+      "7d": 113,
+      "30d": 146,
+      "all": 146
     }
   },
   {
     "path": "/railyard/docs/v0.2/players/github-token",
     "pageviews": {
-      "1d": 2,
-      "7d": 22,
-      "30d": 124,
-      "all": 124
+      "1d": 3,
+      "7d": 23,
+      "30d": 125,
+      "all": 125
     },
     "visitors": {
-      "1d": 2,
-      "7d": 22,
-      "30d": 124,
-      "all": 124
+      "1d": 3,
+      "7d": 23,
+      "30d": 125,
+      "all": 125
     },
     "entrances": {
-      "1d": 2,
-      "7d": 22,
-      "30d": 124,
-      "all": 124
+      "1d": 3,
+      "7d": 23,
+      "30d": 125,
+      "all": 125
     }
   },
   {
@@ -252,6 +252,27 @@
     }
   },
   {
+    "path": "/railyard/docs/v0.2/players",
+    "pageviews": {
+      "1d": 2,
+      "7d": 9,
+      "30d": 47,
+      "all": 47
+    },
+    "visitors": {
+      "1d": 2,
+      "7d": 9,
+      "30d": 47,
+      "all": 47
+    },
+    "entrances": {
+      "1d": 2,
+      "7d": 9,
+      "30d": 47,
+      "all": 47
+    }
+  },
+  {
     "path": "/template-mod",
     "pageviews": {
       "1d": 0,
@@ -291,27 +312,6 @@
       "7d": 5,
       "30d": 46,
       "all": 46
-    }
-  },
-  {
-    "path": "/railyard/docs/v0.2/players",
-    "pageviews": {
-      "1d": 0,
-      "7d": 7,
-      "30d": 45,
-      "all": 45
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 7,
-      "30d": 45,
-      "all": 45
-    },
-    "entrances": {
-      "1d": 0,
-      "7d": 7,
-      "30d": 45,
-      "all": 45
     }
   },
   {
@@ -1071,6 +1071,27 @@
     }
   },
   {
+    "path": "/railyard/docs/v0.1/players/install-guide-macos",
+    "pageviews": {
+      "1d": 4,
+      "7d": 4,
+      "30d": 13,
+      "all": 13
+    },
+    "visitors": {
+      "1d": 4,
+      "7d": 4,
+      "30d": 13,
+      "all": 13
+    },
+    "entrances": {
+      "1d": 4,
+      "7d": 4,
+      "30d": 13,
+      "all": 13
+    }
+  },
+  {
     "path": "/railyard/maps/singapore-val",
     "pageviews": {
       "1d": 0,
@@ -1449,6 +1470,27 @@
     }
   },
   {
+    "path": "/template-mod/docs/v1.0/project-structure",
+    "pageviews": {
+      "1d": 1,
+      "7d": 3,
+      "30d": 11,
+      "all": 11
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 3,
+      "30d": 11,
+      "all": 11
+    },
+    "entrances": {
+      "1d": 1,
+      "7d": 3,
+      "30d": 11,
+      "all": 11
+    }
+  },
+  {
     "path": "/template-mod/docs/v1.0/react-components",
     "pageviews": {
       "1d": 1,
@@ -1701,49 +1743,7 @@
     }
   },
   {
-    "path": "/template-mod/docs/v1.0/project-structure",
-    "pageviews": {
-      "1d": 0,
-      "7d": 2,
-      "30d": 10,
-      "all": 10
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 2,
-      "30d": 10,
-      "all": 10
-    },
-    "entrances": {
-      "1d": 0,
-      "7d": 2,
-      "30d": 10,
-      "all": 10
-    }
-  },
-  {
     "path": "/railyard/docs/latest/developers/publishing-projects",
-    "pageviews": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 9,
-      "all": 9
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 9,
-      "all": 9
-    },
-    "entrances": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 9,
-      "all": 9
-    }
-  },
-  {
-    "path": "/railyard/docs/v0.1/players/install-guide-macos",
     "pageviews": {
       "1d": 0,
       "7d": 0,
@@ -5812,6 +5812,27 @@
     "entrances": {
       "1d": 0,
       "7d": 0,
+      "30d": 3,
+      "all": 3
+    }
+  },
+  {
+    "path": "/railyard/maps/yukina-cz-ustecko-chomutov",
+    "pageviews": {
+      "1d": 3,
+      "7d": 3,
+      "30d": 3,
+      "all": 3
+    },
+    "visitors": {
+      "1d": 3,
+      "7d": 3,
+      "30d": 3,
+      "all": 3
+    },
+    "entrances": {
+      "1d": 3,
+      "7d": 3,
       "30d": 3,
       "all": 3
     }
