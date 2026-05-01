@@ -2,43 +2,43 @@
   {
     "path": "/",
     "pageviews": {
-      "1d": 19,
-      "7d": 253,
-      "30d": 1960,
-      "all": 1960
+      "1d": 21,
+      "7d": 255,
+      "30d": 1962,
+      "all": 1962
     },
     "visitors": {
-      "1d": 19,
-      "7d": 253,
-      "30d": 1960,
-      "all": 1960
+      "1d": 21,
+      "7d": 255,
+      "30d": 1962,
+      "all": 1962
     },
     "entrances": {
-      "1d": 19,
-      "7d": 253,
-      "30d": 1960,
-      "all": 1960
+      "1d": 21,
+      "7d": 255,
+      "30d": 1962,
+      "all": 1962
     }
   },
   {
     "path": "/railyard",
     "pageviews": {
-      "1d": 7,
-      "7d": 145,
-      "30d": 979,
-      "all": 979
+      "1d": 9,
+      "7d": 147,
+      "30d": 981,
+      "all": 981
     },
     "visitors": {
-      "1d": 7,
-      "7d": 145,
-      "30d": 979,
-      "all": 979
+      "1d": 9,
+      "7d": 147,
+      "30d": 981,
+      "all": 981
     },
     "entrances": {
-      "1d": 7,
-      "7d": 145,
-      "30d": 979,
-      "all": 979
+      "1d": 9,
+      "7d": 147,
+      "30d": 981,
+      "all": 981
     }
   },
   {
@@ -65,43 +65,43 @@
   {
     "path": "/railyard/docs/latest/players/github-token",
     "pageviews": {
-      "1d": 5,
-      "7d": 115,
-      "30d": 153,
-      "all": 153
+      "1d": 7,
+      "7d": 117,
+      "30d": 155,
+      "all": 155
     },
     "visitors": {
-      "1d": 5,
-      "7d": 115,
-      "30d": 153,
-      "all": 153
+      "1d": 7,
+      "7d": 117,
+      "30d": 155,
+      "all": 155
     },
     "entrances": {
-      "1d": 5,
-      "7d": 115,
-      "30d": 153,
-      "all": 153
+      "1d": 7,
+      "7d": 117,
+      "30d": 155,
+      "all": 155
     }
   },
   {
     "path": "/railyard/docs/v0.2/players/github-token",
     "pageviews": {
-      "1d": 2,
-      "7d": 20,
-      "30d": 127,
-      "all": 127
+      "1d": 3,
+      "7d": 21,
+      "30d": 128,
+      "all": 128
     },
     "visitors": {
-      "1d": 2,
-      "7d": 20,
-      "30d": 127,
-      "all": 127
+      "1d": 3,
+      "7d": 21,
+      "30d": 128,
+      "all": 128
     },
     "entrances": {
-      "1d": 2,
-      "7d": 20,
-      "30d": 127,
-      "all": 127
+      "1d": 3,
+      "7d": 21,
+      "30d": 128,
+      "all": 128
     }
   },
   {
@@ -630,6 +630,27 @@
     }
   },
   {
+    "path": "/railyard/mods/valdotoriums-trains",
+    "pageviews": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 21,
+      "all": 21
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 21,
+      "all": 21
+    },
+    "entrances": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 21,
+      "all": 21
+    }
+  },
+  {
     "path": "/railyard/docs/v0.2/players/installing-railyard",
     "pageviews": {
       "1d": 0,
@@ -652,27 +673,6 @@
   },
   {
     "path": "/railyard/mods/transit-overlay",
-    "pageviews": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 20,
-      "all": 20
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 20,
-      "all": 20
-    },
-    "entrances": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 20,
-      "all": 20
-    }
-  },
-  {
-    "path": "/railyard/mods/valdotoriums-trains",
     "pageviews": {
       "1d": 0,
       "7d": 0,
@@ -966,6 +966,27 @@
     }
   },
   {
+    "path": "/railyard/mods/game-speedup",
+    "pageviews": {
+      "1d": 1,
+      "7d": 2,
+      "30d": 15,
+      "all": 15
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 2,
+      "30d": 15,
+      "all": 15
+    },
+    "entrances": {
+      "1d": 1,
+      "7d": 2,
+      "30d": 15,
+      "all": 15
+    }
+  },
+  {
     "path": "/registry/mods/game-speedup",
     "pageviews": {
       "1d": 0,
@@ -1045,27 +1066,6 @@
     "entrances": {
       "1d": 0,
       "7d": 0,
-      "30d": 14,
-      "all": 14
-    }
-  },
-  {
-    "path": "/railyard/mods/game-speedup",
-    "pageviews": {
-      "1d": 0,
-      "7d": 1,
-      "30d": 14,
-      "all": 14
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 1,
-      "30d": 14,
-      "all": 14
-    },
-    "entrances": {
-      "1d": 0,
-      "7d": 1,
       "30d": 14,
       "all": 14
     }
@@ -1257,6 +1257,27 @@
       "7d": 1,
       "30d": 12,
       "all": 12
+    }
+  },
+  {
+    "path": "/railyard/docs/latest/developers/publishing-projects",
+    "pageviews": {
+      "1d": 2,
+      "7d": 2,
+      "30d": 11,
+      "all": 11
+    },
+    "visitors": {
+      "1d": 2,
+      "7d": 2,
+      "30d": 11,
+      "all": 11
+    },
+    "entrances": {
+      "1d": 2,
+      "7d": 2,
+      "30d": 11,
+      "all": 11
     }
   },
   {
@@ -1803,27 +1824,6 @@
       "7d": 1,
       "30d": 10,
       "all": 10
-    }
-  },
-  {
-    "path": "/railyard/docs/latest/developers/publishing-projects",
-    "pageviews": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 9,
-      "all": 9
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 9,
-      "all": 9
-    },
-    "entrances": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 9,
-      "all": 9
     }
   },
   {
@@ -3339,6 +3339,27 @@
     }
   },
   {
+    "path": "/registry/maps/yukina-fukuoka",
+    "pageviews": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 6,
+      "all": 6
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 6,
+      "all": 6
+    },
+    "entrances": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 6,
+      "all": 6
+    }
+  },
+  {
     "path": "/registry/maps/yukina-kagoshima-kirishima",
     "pageviews": {
       "1d": 0,
@@ -3801,6 +3822,27 @@
     }
   },
   {
+    "path": "/registry/authors/nzh0172",
+    "pageviews": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 5,
+      "all": 5
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 5,
+      "all": 5
+    },
+    "entrances": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 5,
+      "all": 5
+    }
+  },
+  {
     "path": "/registry/authors/stefanorigano",
     "pageviews": {
       "1d": 0,
@@ -3964,27 +4006,6 @@
     "entrances": {
       "1d": 0,
       "7d": 1,
-      "30d": 5,
-      "all": 5
-    }
-  },
-  {
-    "path": "/registry/maps/yukina-fukuoka",
-    "pageviews": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 5,
-      "all": 5
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 5,
-      "all": 5
-    },
-    "entrances": {
-      "1d": 0,
-      "7d": 0,
       "30d": 5,
       "all": 5
     }
@@ -4873,27 +4894,6 @@
   },
   {
     "path": "/registry/authors/Maximilian284",
-    "pageviews": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 4,
-      "all": 4
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 4,
-      "all": 4
-    },
-    "entrances": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 4,
-      "all": 4
-    }
-  },
-  {
-    "path": "/registry/authors/nzh0172",
     "pageviews": {
       "1d": 0,
       "7d": 0,
