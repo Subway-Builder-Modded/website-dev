@@ -2,22 +2,22 @@
   {
     "path": "/",
     "pageviews": {
-      "1d": 27,
-      "7d": 261,
-      "30d": 1968,
-      "all": 1968
+      "1d": 38,
+      "7d": 272,
+      "30d": 1979,
+      "all": 1979
     },
     "visitors": {
-      "1d": 27,
-      "7d": 261,
-      "30d": 1968,
-      "all": 1968
+      "1d": 38,
+      "7d": 272,
+      "30d": 1979,
+      "all": 1979
     },
     "entrances": {
-      "1d": 27,
-      "7d": 261,
-      "30d": 1968,
-      "all": 1968
+      "1d": 38,
+      "7d": 272,
+      "30d": 1979,
+      "all": 1979
     }
   },
   {
@@ -44,43 +44,43 @@
   {
     "path": "/railyard/browse",
     "pageviews": {
-      "1d": 2,
-      "7d": 38,
-      "30d": 309,
-      "all": 309
+      "1d": 3,
+      "7d": 39,
+      "30d": 310,
+      "all": 310
     },
     "visitors": {
-      "1d": 2,
-      "7d": 38,
-      "30d": 309,
-      "all": 309
+      "1d": 3,
+      "7d": 39,
+      "30d": 310,
+      "all": 310
     },
     "entrances": {
-      "1d": 2,
-      "7d": 38,
-      "30d": 309,
-      "all": 309
+      "1d": 3,
+      "7d": 39,
+      "30d": 310,
+      "all": 310
     }
   },
   {
     "path": "/railyard/docs/latest/players/github-token",
     "pageviews": {
-      "1d": 11,
-      "7d": 121,
-      "30d": 159,
-      "all": 159
+      "1d": 16,
+      "7d": 126,
+      "30d": 164,
+      "all": 164
     },
     "visitors": {
-      "1d": 11,
-      "7d": 121,
-      "30d": 159,
-      "all": 159
+      "1d": 16,
+      "7d": 126,
+      "30d": 164,
+      "all": 164
     },
     "entrances": {
-      "1d": 11,
-      "7d": 121,
-      "30d": 159,
-      "all": 159
+      "1d": 16,
+      "7d": 126,
+      "30d": 164,
+      "all": 164
     }
   },
   {
@@ -107,22 +107,22 @@
   {
     "path": "/credits",
     "pageviews": {
-      "1d": 1,
-      "7d": 13,
-      "30d": 96,
-      "all": 96
+      "1d": 2,
+      "7d": 14,
+      "30d": 97,
+      "all": 97
     },
     "visitors": {
-      "1d": 1,
-      "7d": 13,
-      "30d": 96,
-      "all": 96
+      "1d": 2,
+      "7d": 14,
+      "30d": 97,
+      "all": 97
     },
     "entrances": {
-      "1d": 1,
-      "7d": 13,
-      "30d": 96,
-      "all": 96
+      "1d": 2,
+      "7d": 14,
+      "30d": 97,
+      "all": 97
     }
   },
   {
@@ -170,22 +170,22 @@
   {
     "path": "/registry/world-map",
     "pageviews": {
-      "1d": 1,
-      "7d": 10,
-      "30d": 62,
-      "all": 62
+      "1d": 4,
+      "7d": 13,
+      "30d": 65,
+      "all": 65
     },
     "visitors": {
-      "1d": 1,
-      "7d": 10,
-      "30d": 62,
-      "all": 62
+      "1d": 4,
+      "7d": 13,
+      "30d": 65,
+      "all": 65
     },
     "entrances": {
-      "1d": 1,
-      "7d": 10,
-      "30d": 62,
-      "all": 62
+      "1d": 4,
+      "7d": 13,
+      "30d": 65,
+      "all": 65
     }
   },
   {
@@ -338,22 +338,22 @@
   {
     "path": "/contribute",
     "pageviews": {
-      "1d": 0,
-      "7d": 2,
-      "30d": 36,
-      "all": 36
+      "1d": 1,
+      "7d": 3,
+      "30d": 37,
+      "all": 37
     },
     "visitors": {
-      "1d": 0,
-      "7d": 2,
-      "30d": 36,
-      "all": 36
+      "1d": 1,
+      "7d": 3,
+      "30d": 37,
+      "all": 37
     },
     "entrances": {
-      "1d": 0,
-      "7d": 2,
-      "30d": 36,
-      "all": 36
+      "1d": 1,
+      "7d": 3,
+      "30d": 37,
+      "all": 37
     }
   },
   {
@@ -651,6 +651,27 @@
     }
   },
   {
+    "path": "/registry/mods/simple-trains",
+    "pageviews": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 21,
+      "all": 21
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 21,
+      "all": 21
+    },
+    "entrances": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 21,
+      "all": 21
+    }
+  },
+  {
     "path": "/railyard/docs/v0.2/players/installing-railyard",
     "pageviews": {
       "1d": 0,
@@ -673,27 +694,6 @@
   },
   {
     "path": "/railyard/mods/transit-overlay",
-    "pageviews": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 20,
-      "all": 20
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 20,
-      "all": 20
-    },
-    "entrances": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 20,
-      "all": 20
-    }
-  },
-  {
-    "path": "/registry/mods/simple-trains",
     "pageviews": {
       "1d": 0,
       "7d": 0,
@@ -1155,6 +1155,27 @@
     }
   },
   {
+    "path": "/railyard/updates/v0.2.0",
+    "pageviews": {
+      "1d": 2,
+      "7d": 3,
+      "30d": 13,
+      "all": 13
+    },
+    "visitors": {
+      "1d": 2,
+      "7d": 3,
+      "30d": 13,
+      "all": 13
+    },
+    "entrances": {
+      "1d": 2,
+      "7d": 3,
+      "30d": 13,
+      "all": 13
+    }
+  },
+  {
     "path": "/registry/maps/mfn-hong-kong",
     "pageviews": {
       "1d": 0,
@@ -1255,27 +1276,6 @@
     "entrances": {
       "1d": 0,
       "7d": 1,
-      "30d": 12,
-      "all": 12
-    }
-  },
-  {
-    "path": "/railyard/updates/v0.2.0",
-    "pageviews": {
-      "1d": 1,
-      "7d": 2,
-      "30d": 12,
-      "all": 12
-    },
-    "visitors": {
-      "1d": 1,
-      "7d": 2,
-      "30d": 12,
-      "all": 12
-    },
-    "entrances": {
-      "1d": 1,
-      "7d": 2,
       "30d": 12,
       "all": 12
     }
@@ -4683,6 +4683,27 @@
     }
   },
   {
+    "path": "/railyard/maps/yukina-cz-ustecko-chomutov",
+    "pageviews": {
+      "1d": 1,
+      "7d": 4,
+      "30d": 4,
+      "all": 4
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 4,
+      "30d": 4,
+      "all": 4
+    },
+    "entrances": {
+      "1d": 1,
+      "7d": 4,
+      "30d": 4,
+      "all": 4
+    }
+  },
+  {
     "path": "/railyard/maps/yukina-hakodate",
     "pageviews": {
       "1d": 0,
@@ -5649,6 +5670,27 @@
     }
   },
   {
+    "path": "/railyard/maps/los-angeles-county",
+    "pageviews": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 3,
+      "all": 3
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 3,
+      "all": 3
+    },
+    "entrances": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 3,
+      "all": 3
+    }
+  },
+  {
     "path": "/railyard/maps/monterrey",
     "pageviews": {
       "1d": 0,
@@ -5859,21 +5901,21 @@
     }
   },
   {
-    "path": "/railyard/maps/yukina-cz-ustecko-chomutov",
+    "path": "/railyard/maps/yukina-cz-brno",
     "pageviews": {
-      "1d": 0,
+      "1d": 1,
       "7d": 3,
       "30d": 3,
       "all": 3
     },
     "visitors": {
-      "1d": 0,
+      "1d": 1,
       "7d": 3,
       "30d": 3,
       "all": 3
     },
     "entrances": {
-      "1d": 0,
+      "1d": 1,
       "7d": 3,
       "30d": 3,
       "all": 3
@@ -6846,27 +6888,6 @@
     }
   },
   {
-    "path": "/railyard/maps/los-angeles-county",
-    "pageviews": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 2,
-      "all": 2
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 2,
-      "all": 2
-    },
-    "entrances": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 2,
-      "all": 2
-    }
-  },
-  {
     "path": "/railyard/maps/los-angeles-county/changelog/1.1.0",
     "pageviews": {
       "1d": 0,
@@ -7492,27 +7513,6 @@
     "entrances": {
       "1d": 0,
       "7d": 0,
-      "30d": 2,
-      "all": 2
-    }
-  },
-  {
-    "path": "/railyard/maps/yukina-cz-brno",
-    "pageviews": {
-      "1d": 0,
-      "7d": 2,
-      "30d": 2,
-      "all": 2
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 2,
-      "30d": 2,
-      "all": 2
-    },
-    "entrances": {
-      "1d": 0,
-      "7d": 2,
       "30d": 2,
       "all": 2
     }
