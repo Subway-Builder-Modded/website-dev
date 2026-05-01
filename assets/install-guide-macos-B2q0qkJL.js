@@ -1,6 +1,6 @@
 import{a as e}from"./chunk-BEqpzyXh.js";import{t}from"./jsx-runtime-qJqhvtml.js";var n=e(t());function r(e){let t={a:`a`,code:`code`,figure:`figure`,h2:`h2`,h3:`h3`,hr:`hr`,li:`li`,ol:`ol`,p:`p`,pre:`pre`,span:`span`,strong:`strong`,ul:`ul`,...e.components},{Alert:r,Caution:i,Image:o,Note:s,Tip:c}=t;return r||a(`Alert`,!0),i||a(`Caution`,!0),o||a(`Image`,!0),s||a(`Note`,!0),c||a(`Tip`,!0),(0,n.jsxs)(n.Fragment,{children:[(0,n.jsx)(t.p,{children:`This guide will walk you through installing and setting up Railyard on macOS-based systems.`}),`
 `,(0,n.jsx)(t.h2,{id:`downloading-railyard`,children:`Step 1 - Downloading Railyard`}),`
-`,(0,n.jsxs)(t.p,{children:[`To install Railyard on macOS, navigate to the `,(0,n.jsx)(t.a,{href:`/railyard`,children:`download page`}),` and select your version from the `,(0,n.jsx)(t.strong,{children:`Downloads`}),` section.`]}),`
+`,(0,n.jsxs)(t.p,{children:[`To install Railyard on macOS, navigate to the `,(0,n.jsx)(t.a,{href:`/railyard`,children:`download page`}),`. You should see a button with the auto-detected download for your operating system.`]}),`
 `,(0,n.jsx)(t.hr,{}),`
 `,(0,n.jsx)(t.h2,{id:`dequarantining-railyard`,children:`Step 2 - Dequarantining Railyard`}),`
 `,(0,n.jsx)(t.p,{children:`When you first try to open Railyard, macOS will show a dialog saying the app can't be opened because Apple cannot check it for malicious software. This is expected for unsigned apps.`}),`
