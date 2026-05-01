@@ -1,8 +1,8 @@
 {
   "sourceRepo": "Subway-Builder-Modded/registry",
   "sourceRef": "main",
-  "commitSha": "978fee2dc2acfb118f5373e48b50e412b4e3a52f",
-  "fetchedAt": "2026-05-01T17:06:30.436Z",
+  "commitSha": "79407732155c4ebe047ac0fd6da2d9fe5255dbf7",
+  "fetchedAt": "2026-05-01T19:23:14.138Z",
   "materializedFiles": [
     "public/railyard/analytics/railyard_app_by_day.csv",
     "public/railyard/analytics/railyard_app_downloads_history.json",
@@ -208,6 +208,11 @@
     "public/registry/maps/greater-los-angeles/gallery/screenshot4.png",
     "public/registry/maps/greater-los-angeles/grid.geojson",
     "public/registry/maps/greater-los-angeles/manifest.json",
+    "public/registry/maps/greater-newyork/gallery/screenshot1.png",
+    "public/registry/maps/greater-newyork/gallery/screenshot2.png",
+    "public/registry/maps/greater-newyork/gallery/screenshot3.png",
+    "public/registry/maps/greater-newyork/grid.geojson",
+    "public/registry/maps/greater-newyork/manifest.json",
     "public/registry/maps/greatertwincities/gallery/screenshot1.png",
     "public/registry/maps/greatertwincities/gallery/screenshot2.png",
     "public/registry/maps/greatertwincities/grid.geojson",
@@ -868,5 +873,5 @@
     "public/website/analytics/timeseries.json",
     "public/website/analytics/valid-paths.json"
   ],
-  "websiteAnalyticsSourceGeneratedAt": "2026-05-01T15:31:23.246Z"
+  "websiteAnalyticsSourceGeneratedAt": "2026-05-01T17:31:33.234Z"
 }

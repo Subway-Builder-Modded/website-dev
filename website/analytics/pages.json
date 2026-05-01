@@ -2,43 +2,43 @@
   {
     "path": "/",
     "pageviews": {
-      "1d": 38,
-      "7d": 272,
-      "30d": 1979,
-      "all": 1979
+      "1d": 40,
+      "7d": 274,
+      "30d": 1981,
+      "all": 1981
     },
     "visitors": {
-      "1d": 38,
-      "7d": 272,
-      "30d": 1979,
-      "all": 1979
+      "1d": 40,
+      "7d": 274,
+      "30d": 1981,
+      "all": 1981
     },
     "entrances": {
-      "1d": 38,
-      "7d": 272,
-      "30d": 1979,
-      "all": 1979
+      "1d": 40,
+      "7d": 274,
+      "30d": 1981,
+      "all": 1981
     }
   },
   {
     "path": "/railyard",
     "pageviews": {
-      "1d": 12,
-      "7d": 150,
-      "30d": 984,
-      "all": 984
+      "1d": 16,
+      "7d": 154,
+      "30d": 988,
+      "all": 988
     },
     "visitors": {
-      "1d": 12,
-      "7d": 150,
-      "30d": 984,
-      "all": 984
+      "1d": 16,
+      "7d": 154,
+      "30d": 988,
+      "all": 988
     },
     "entrances": {
-      "1d": 12,
-      "7d": 150,
-      "30d": 984,
-      "all": 984
+      "1d": 16,
+      "7d": 154,
+      "30d": 988,
+      "all": 988
     }
   },
   {
@@ -86,22 +86,22 @@
   {
     "path": "/railyard/docs/v0.2/players/github-token",
     "pageviews": {
-      "1d": 4,
-      "7d": 22,
-      "30d": 129,
-      "all": 129
+      "1d": 7,
+      "7d": 25,
+      "30d": 132,
+      "all": 132
     },
     "visitors": {
-      "1d": 4,
-      "7d": 22,
-      "30d": 129,
-      "all": 129
+      "1d": 7,
+      "7d": 25,
+      "30d": 132,
+      "all": 132
     },
     "entrances": {
-      "1d": 4,
-      "7d": 22,
-      "30d": 129,
-      "all": 129
+      "1d": 7,
+      "7d": 25,
+      "30d": 132,
+      "all": 132
     }
   },
   {
@@ -651,6 +651,27 @@
     }
   },
   {
+    "path": "/railyard/mods/transit-overlay",
+    "pageviews": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 21,
+      "all": 21
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 21,
+      "all": 21
+    },
+    "entrances": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 21,
+      "all": 21
+    }
+  },
+  {
     "path": "/registry/mods/simple-trains",
     "pageviews": {
       "1d": 1,
@@ -688,27 +709,6 @@
     "entrances": {
       "1d": 0,
       "7d": 1,
-      "30d": 20,
-      "all": 20
-    }
-  },
-  {
-    "path": "/railyard/mods/transit-overlay",
-    "pageviews": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 20,
-      "all": 20
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 20,
-      "all": 20
-    },
-    "entrances": {
-      "1d": 0,
-      "7d": 0,
       "30d": 20,
       "all": 20
     }
@@ -4284,6 +4284,27 @@
     }
   },
   {
+    "path": "/registry/mods/cinematic-camera",
+    "pageviews": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 5,
+      "all": 5
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 5,
+      "all": 5
+    },
+    "entrances": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 5,
+      "all": 5
+    }
+  },
+  {
     "path": "/registry/mods/station-dots",
     "pageviews": {
       "1d": 0,
@@ -5209,27 +5230,6 @@
   },
   {
     "path": "/registry/maps/zurich",
-    "pageviews": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 4,
-      "all": 4
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 4,
-      "all": 4
-    },
-    "entrances": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 4,
-      "all": 4
-    }
-  },
-  {
-    "path": "/registry/mods/cinematic-camera",
     "pageviews": {
       "1d": 0,
       "7d": 0,

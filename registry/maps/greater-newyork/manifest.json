@@ -1,0 +1,120 @@
+{
+  "schema_version": 1,
+  "id": "greater-newyork",
+  "name": "New York City",
+  "author": "chasemanning040911-afk",
+  "github_id": 252085126,
+  "description": "Custom map of the New York City metropolitan area for Railyard/Subway Builder. The map focuses on NYC and nearby Long Island, Westchester, and Connecticut suburbs, with realistic roads, coastline, water boundaries, buildings, parks, and transit-relevant geography. Demand data is designed to represent real-world home/work patterns, including dense NYC commuting, suburban car-heavy areas, major job centers, and regional travel patterns.\n\n<img width=\"1707\" height=\"1068\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/052c77b6-ce44-44d2-af20-40f3a46087da\" />\n\n<img width=\"1708\" height=\"1067\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/3f7fc627-5d33-4a18-848d-a1aab250e401\" />\n\n<img width=\"1708\" height=\"1067\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/5207e10a-3374-4140-b606-bcbe0bb71011\" />\n\n<img width=\"1702\" height=\"1068\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/4ef1eb39-7f3f-43e4-9c27-6c13b1469d96\" />\n\n<img width=\"1277\" height=\"597\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/6ad86889-1ac2-4538-a1c7-3884e1d35feb\" />",
+  "tags": [
+    "north-america",
+    "airports"
+  ],
+  "gallery": [
+    "gallery/screenshot1.png",
+    "gallery/screenshot2.png",
+    "gallery/screenshot3.png"
+  ],
+  "is_test": false,
+  "source": "https://github.com/chasemanning040911-afk/greater-new-york",
+  "update": {
+    "type": "github",
+    "repo": "chasemanning040911-afk/greater-new-york"
+  },
+  "city_code": "GNYC",
+  "country": "US",
+  "population": 4096710,
+  "residents_total": 4096710,
+  "points_count": 5975,
+  "population_count": 316444,
+  "initial_view_state": {
+    "latitude": 40.8503417703501,
+    "longitude": -73.57173512054293,
+    "zoom": 8.8,
+    "bearing": 0
+  },
+  "data_source": "LODES",
+  "source_quality": "high-quality",
+  "level_of_detail": "medium-detail",
+  "location": "north-america",
+  "special_demand": [
+    "airports"
+  ],
+  "file_sizes": {},
+  "grid_statistics": {
+    "residentWeightedNearestNeighborKm": {
+      "p10": 0.23795948119840638,
+      "p25": 0.27087292744529234,
+      "p50": 0.3287885632046215,
+      "p75": 0.46004448914327595,
+      "p90": 0.6481022374826446,
+      "mean": 0.39485460472674627
+    },
+    "workerWeightedNearestNeighborKm": {
+      "p10": 0.1724227764322742,
+      "p25": 0.19984143137680194,
+      "p50": 0.2769811783106766,
+      "p75": 0.388119984503598,
+      "p90": 0.569986061233995,
+      "mean": 0.33045923517505915
+    },
+    "commuteDistanceKm": {
+      "p10": 4042,
+      "p25": 10026,
+      "p50": 20840,
+      "p75": 38095,
+      "p90": 57694,
+      "mean": 26408.31621076715
+    },
+    "residentCellDensity": {
+      "p10": 123,
+      "p25": 286,
+      "p50": 642,
+      "p75": 1406,
+      "p90": 3713,
+      "mean": 1534.2704119850187
+    },
+    "workerCellDensity": {
+      "p10": 69,
+      "p25": 172,
+      "p50": 461,
+      "p75": 1150,
+      "p90": 2605,
+      "mean": 1534.9921289355323
+    },
+    "detail": {
+      "radiusKm": 0.3017751541321625,
+      "expectedPointSpacingKm": 0.6694780331124268,
+      "normalizedRadius": 0.4507618461044931,
+      "activityPerPoint": 685.6418410041841,
+      "playableAreaKm2": 3296,
+      "playableAreaPerPointKm2": 0.55163179916318,
+      "playableCatchmentRadiusKm": 0.41903443200647783,
+      "localityScore": 0.7321161752245906,
+      "deaggregationScore": 1,
+      "score": 0.8556378762213549
+    },
+    "polycentrism": {
+      "activity": {
+        "score": 0,
+        "continuousScore": 0.8020010228231832,
+        "detectedCenterCount": 1,
+        "effectiveCenterCount": 1,
+        "largestCenterShare": 1,
+        "bandwidthKm": 1.3,
+        "reliabilityScore": 1,
+        "supportLevel": "high",
+        "usedFallback": false,
+        "topCenters": [
+          {
+            "longitude": -73.82014598638062,
+            "latitude": 40.7613665854035,
+            "massShare": 1,
+            "assignedMass": 8193420,
+            "assignedPointCount": 5975,
+            "prominenceRatio": 1
+          }
+        ]
+      }
+    }
+  }
+}
