@@ -2,43 +2,43 @@
   {
     "path": "/",
     "pageviews": {
-      "1d": 40,
-      "7d": 274,
-      "30d": 1981,
-      "all": 1981
+      "1d": 49,
+      "7d": 283,
+      "30d": 1990,
+      "all": 1990
     },
     "visitors": {
-      "1d": 40,
-      "7d": 274,
-      "30d": 1981,
-      "all": 1981
+      "1d": 49,
+      "7d": 283,
+      "30d": 1990,
+      "all": 1990
     },
     "entrances": {
-      "1d": 40,
-      "7d": 274,
-      "30d": 1981,
-      "all": 1981
+      "1d": 49,
+      "7d": 283,
+      "30d": 1990,
+      "all": 1990
     }
   },
   {
     "path": "/railyard",
     "pageviews": {
-      "1d": 16,
-      "7d": 154,
-      "30d": 988,
-      "all": 988
+      "1d": 20,
+      "7d": 158,
+      "30d": 992,
+      "all": 992
     },
     "visitors": {
-      "1d": 16,
-      "7d": 154,
-      "30d": 988,
-      "all": 988
+      "1d": 20,
+      "7d": 158,
+      "30d": 992,
+      "all": 992
     },
     "entrances": {
-      "1d": 16,
-      "7d": 154,
-      "30d": 988,
-      "all": 988
+      "1d": 20,
+      "7d": 158,
+      "30d": 992,
+      "all": 992
     }
   },
   {
@@ -231,6 +231,27 @@
     }
   },
   {
+    "path": "/registry/mods/advanced-analytics",
+    "pageviews": {
+      "1d": 1,
+      "7d": 8,
+      "30d": 51,
+      "all": 51
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 8,
+      "30d": 51,
+      "all": 51
+    },
+    "entrances": {
+      "1d": 1,
+      "7d": 8,
+      "30d": 51,
+      "all": 51
+    }
+  },
+  {
     "path": "/railyard/docs/v0.2/players",
     "pageviews": {
       "1d": 3,
@@ -247,27 +268,6 @@
     "entrances": {
       "1d": 3,
       "7d": 8,
-      "30d": 50,
-      "all": 50
-    }
-  },
-  {
-    "path": "/registry/mods/advanced-analytics",
-    "pageviews": {
-      "1d": 0,
-      "7d": 7,
-      "30d": 50,
-      "all": 50
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 7,
-      "30d": 50,
-      "all": 50
-    },
-    "entrances": {
-      "1d": 0,
-      "7d": 7,
       "30d": 50,
       "all": 50
     }
@@ -420,6 +420,27 @@
     }
   },
   {
+    "path": "/railyard/mods/simple-trains",
+    "pageviews": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 34,
+      "all": 34
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 34,
+      "all": 34
+    },
+    "entrances": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 34,
+      "all": 34
+    }
+  },
+  {
     "path": "/railyard/analytics",
     "pageviews": {
       "1d": 2,
@@ -436,27 +457,6 @@
     "entrances": {
       "1d": 2,
       "7d": 4,
-      "30d": 33,
-      "all": 33
-    }
-  },
-  {
-    "path": "/railyard/mods/simple-trains",
-    "pageviews": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 33,
-      "all": 33
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 33,
-      "all": 33
-    },
-    "entrances": {
-      "1d": 0,
-      "7d": 0,
       "30d": 33,
       "all": 33
     }
@@ -480,6 +480,27 @@
       "7d": 7,
       "30d": 32,
       "all": 32
+    }
+  },
+  {
+    "path": "/railyard/mods/network-status",
+    "pageviews": {
+      "1d": 1,
+      "7d": 3,
+      "30d": 28,
+      "all": 28
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 3,
+      "30d": 28,
+      "all": 28
+    },
+    "entrances": {
+      "1d": 1,
+      "7d": 3,
+      "30d": 28,
+      "all": 28
     }
   },
   {
@@ -525,27 +546,6 @@
     }
   },
   {
-    "path": "/railyard/mods/network-status",
-    "pageviews": {
-      "1d": 0,
-      "7d": 2,
-      "30d": 27,
-      "all": 27
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 2,
-      "30d": 27,
-      "all": 27
-    },
-    "entrances": {
-      "1d": 0,
-      "7d": 2,
-      "30d": 27,
-      "all": 27
-    }
-  },
-  {
     "path": "/tools/md-playground",
     "pageviews": {
       "1d": 0,
@@ -564,6 +564,27 @@
       "7d": 3,
       "30d": 25,
       "all": 25
+    }
+  },
+  {
+    "path": "/license",
+    "pageviews": {
+      "1d": 1,
+      "7d": 3,
+      "30d": 22,
+      "all": 22
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 3,
+      "30d": 22,
+      "all": 22
+    },
+    "entrances": {
+      "1d": 1,
+      "7d": 3,
+      "30d": 22,
+      "all": 22
     }
   },
   {
@@ -606,27 +627,6 @@
       "7d": 2,
       "30d": 22,
       "all": 22
-    }
-  },
-  {
-    "path": "/license",
-    "pageviews": {
-      "1d": 0,
-      "7d": 2,
-      "30d": 21,
-      "all": 21
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 2,
-      "30d": 21,
-      "all": 21
-    },
-    "entrances": {
-      "1d": 0,
-      "7d": 2,
-      "30d": 21,
-      "all": 21
     }
   },
   {
@@ -2856,6 +2856,27 @@
     }
   },
   {
+    "path": "/railyard/maps",
+    "pageviews": {
+      "1d": 2,
+      "7d": 3,
+      "30d": 6,
+      "all": 6
+    },
+    "visitors": {
+      "1d": 2,
+      "7d": 3,
+      "30d": 6,
+      "all": 6
+    },
+    "entrances": {
+      "1d": 2,
+      "7d": 3,
+      "30d": 6,
+      "all": 6
+    }
+  },
+  {
     "path": "/railyard/maps/baltimore-dc-corridor",
     "pageviews": {
       "1d": 0,
@@ -3166,6 +3187,27 @@
     "entrances": {
       "1d": 0,
       "7d": 0,
+      "30d": 6,
+      "all": 6
+    }
+  },
+  {
+    "path": "/registry/authors/stefanorigano",
+    "pageviews": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 6,
+      "all": 6
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 6,
+      "all": 6
+    },
+    "entrances": {
+      "1d": 1,
+      "7d": 1,
       "30d": 6,
       "all": 6
     }
@@ -3528,27 +3570,6 @@
     }
   },
   {
-    "path": "/railyard/maps",
-    "pageviews": {
-      "1d": 1,
-      "7d": 2,
-      "30d": 5,
-      "all": 5
-    },
-    "visitors": {
-      "1d": 1,
-      "7d": 2,
-      "30d": 5,
-      "all": 5
-    },
-    "entrances": {
-      "1d": 1,
-      "7d": 2,
-      "30d": 5,
-      "all": 5
-    }
-  },
-  {
     "path": "/railyard/maps/albany",
     "pageviews": {
       "1d": 0,
@@ -3859,27 +3880,6 @@
     "entrances": {
       "1d": 1,
       "7d": 1,
-      "30d": 5,
-      "all": 5
-    }
-  },
-  {
-    "path": "/registry/authors/stefanorigano",
-    "pageviews": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 5,
-      "all": 5
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 5,
-      "all": 5
-    },
-    "entrances": {
-      "1d": 0,
-      "7d": 0,
       "30d": 5,
       "all": 5
     }
@@ -9172,6 +9172,27 @@
     "entrances": {
       "1d": 0,
       "7d": 0,
+      "30d": 1,
+      "all": 1
+    }
+  },
+  {
+    "path": "/railyard/maps/guangzhou",
+    "pageviews": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 1,
+      "all": 1
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 1,
+      "all": 1
+    },
+    "entrances": {
+      "1d": 1,
+      "7d": 1,
       "30d": 1,
       "all": 1
     }
