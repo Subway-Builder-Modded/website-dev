@@ -2,35 +2,35 @@
   {
     "browser": "Chrome",
     "visits": {
-      "1d": 51,
-      "7d": 472,
-      "30d": 1841,
-      "all": 1841
+      "1d": 2,
+      "7d": 292,
+      "30d": 1843,
+      "all": 1843
     }
   },
   {
     "browser": "Unknown",
     "visits": {
-      "1d": 15,
-      "7d": 367,
-      "30d": 1813,
-      "all": 1813
+      "1d": 1,
+      "7d": 173,
+      "30d": 1814,
+      "all": 1814
     }
   },
   {
     "browser": "Firefox",
     "visits": {
-      "1d": 17,
-      "7d": 176,
-      "30d": 651,
-      "all": 651
+      "1d": 6,
+      "7d": 88,
+      "30d": 657,
+      "all": 657
     }
   },
   {
     "browser": "GoogleBot",
     "visits": {
-      "1d": 3,
-      "7d": 65,
+      "1d": 0,
+      "7d": 21,
       "30d": 618,
       "all": 618
     }
@@ -38,8 +38,8 @@
   {
     "browser": "Safari",
     "visits": {
-      "1d": 5,
-      "7d": 67,
+      "1d": 0,
+      "7d": 42,
       "30d": 429,
       "all": 429
     }
@@ -47,8 +47,8 @@
   {
     "browser": "MobileSafari",
     "visits": {
-      "1d": 10,
-      "7d": 87,
+      "1d": 0,
+      "7d": 54,
       "30d": 407,
       "all": 407
     }
@@ -56,8 +56,8 @@
   {
     "browser": "Edge",
     "visits": {
-      "1d": 5,
-      "7d": 41,
+      "1d": 0,
+      "7d": 30,
       "30d": 250,
       "all": 250
     }
@@ -65,8 +65,8 @@
   {
     "browser": "ChromeMobile",
     "visits": {
-      "1d": 7,
-      "7d": 44,
+      "1d": 0,
+      "7d": 20,
       "30d": 217,
       "all": 217
     }
@@ -74,8 +74,8 @@
   {
     "browser": "BingBot",
     "visits": {
-      "1d": 10,
-      "7d": 54,
+      "1d": 0,
+      "7d": 32,
       "30d": 169,
       "all": 169
     }
@@ -83,8 +83,8 @@
   {
     "browser": "Opera",
     "visits": {
-      "1d": 12,
-      "7d": 62,
+      "1d": 0,
+      "7d": 49,
       "30d": 169,
       "all": 169
     }
@@ -93,7 +93,7 @@
     "browser": "AppleBot",
     "visits": {
       "1d": 0,
-      "7d": 2,
+      "7d": 0,
       "30d": 142,
       "all": 142
     }
@@ -102,7 +102,7 @@
     "browser": "ChromeMobileWebview",
     "visits": {
       "1d": 0,
-      "7d": 69,
+      "7d": 0,
       "30d": 90,
       "all": 90
     }
@@ -138,7 +138,7 @@
     "browser": "YandexBot",
     "visits": {
       "1d": 0,
-      "7d": 6,
+      "7d": 2,
       "30d": 11,
       "all": 11
     }
@@ -192,7 +192,7 @@
     "browser": "UCBrowserMobile",
     "visits": {
       "1d": 0,
-      "7d": 1,
+      "7d": 0,
       "30d": 1,
       "all": 1
     }
