@@ -1,8 +1,8 @@
 {
   "sourceRepo": "Subway-Builder-Modded/registry",
   "sourceRef": "main",
-  "commitSha": "6173f5e5724a3c6bb4abf1bab4de3d038664d9dc",
-  "fetchedAt": "2026-05-06T04:42:15.273Z",
+  "commitSha": "aee3fc516e62c24463033311ed5a51536c2d510d",
+  "fetchedAt": "2026-05-07T20:35:41.079Z",
   "materializedFiles": [
     "public/community/discord_server_by_day.csv",
     "public/community/discord_user_message_by_day.csv",
@@ -510,6 +510,12 @@
     "public/registry/maps/tel-aviv/gallery/screenshot3.png",
     "public/registry/maps/tel-aviv/grid.geojson",
     "public/registry/maps/tel-aviv/manifest.json",
+    "public/registry/maps/tijuana-san-diego/gallery/screenshot1.png",
+    "public/registry/maps/tijuana-san-diego/gallery/screenshot2.png",
+    "public/registry/maps/tijuana-san-diego/gallery/screenshot3.png",
+    "public/registry/maps/tijuana-san-diego/gallery/screenshot4.png",
+    "public/registry/maps/tijuana-san-diego/grid.geojson",
+    "public/registry/maps/tijuana-san-diego/manifest.json",
     "public/registry/maps/toledo-oh/gallery/screenshot1.png",
     "public/registry/maps/toledo-oh/gallery/screenshot2.png",
     "public/registry/maps/toledo-oh/grid.geojson",
@@ -905,5 +911,5 @@
     "public/website/analytics/timeseries.json",
     "public/website/analytics/valid-paths.json"
   ],
-  "websiteAnalyticsSourceGeneratedAt": "2026-05-06T04:11:04.654Z"
+  "websiteAnalyticsSourceGeneratedAt": "2026-05-07T19:11:43.558Z"
 }
