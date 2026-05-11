@@ -1,8 +1,8 @@
 {
   "sourceRepo": "Subway-Builder-Modded/registry",
   "sourceRef": "main",
-  "commitSha": "aee3fc516e62c24463033311ed5a51536c2d510d",
-  "fetchedAt": "2026-05-07T20:35:41.079Z",
+  "commitSha": "1bc6b27965b196f832d37c4cbce34e403200a635",
+  "fetchedAt": "2026-05-11T21:39:23.290Z",
   "materializedFiles": [
     "public/community/discord_server_by_day.csv",
     "public/community/discord_user_message_by_day.csv",
@@ -108,6 +108,10 @@
     "public/registry/maps/catania/gallery/screenshot3.png",
     "public/registry/maps/catania/grid.geojson",
     "public/registry/maps/catania/manifest.json",
+    "public/registry/maps/cdmx-core/gallery/screenshot1.png",
+    "public/registry/maps/cdmx-core/gallery/screenshot2.png",
+    "public/registry/maps/cdmx-core/grid.geojson",
+    "public/registry/maps/cdmx-core/manifest.json",
     "public/registry/maps/charleston-huntington-wv/gallery/screenshot1.png",
     "public/registry/maps/charleston-huntington-wv/gallery/screenshot2.png",
     "public/registry/maps/charleston-huntington-wv/gallery/screenshot3.png",
@@ -844,6 +848,8 @@
     "public/registry/mods/any-money/gallery/screenshot1.png",
     "public/registry/mods/any-money/gallery/screenshot2.png",
     "public/registry/mods/any-money/manifest.json",
+    "public/registry/mods/chinese-trains/gallery/screenshot1.png",
+    "public/registry/mods/chinese-trains/manifest.json",
     "public/registry/mods/cinematic-camera/gallery/screenshot1.png",
     "public/registry/mods/cinematic-camera/gallery/screenshot2.png",
     "public/registry/mods/cinematic-camera/manifest.json",
@@ -873,6 +879,11 @@
     "public/registry/mods/network-status/gallery/screenshot2.jpg",
     "public/registry/mods/network-status/gallery/screenshot3.png",
     "public/registry/mods/network-status/manifest.json",
+    "public/registry/mods/satellite-overlay/gallery/screenshot1.png",
+    "public/registry/mods/satellite-overlay/gallery/screenshot2.png",
+    "public/registry/mods/satellite-overlay/gallery/screenshot3.png",
+    "public/registry/mods/satellite-overlay/gallery/screenshot4.png",
+    "public/registry/mods/satellite-overlay/manifest.json",
     "public/registry/mods/simple-trains/gallery/screenshot1.png",
     "public/registry/mods/simple-trains/manifest.json",
     "public/registry/mods/station-dots/gallery/screenshot1.png",
@@ -911,5 +922,5 @@
     "public/website/analytics/timeseries.json",
     "public/website/analytics/valid-paths.json"
   ],
-  "websiteAnalyticsSourceGeneratedAt": "2026-05-07T19:11:43.558Z"
+  "websiteAnalyticsSourceGeneratedAt": "2026-05-11T20:12:30.950Z"
 }

@@ -131,6 +131,7 @@ map,pyongyang-nk,Pyongyang,pswbsf/pyongyang-nk,pyongyang-nk
 map,syracuse-ny,"Syracuse, NY",pswbsf/syracuse-ny,syracuse-ny
 map,wilmington-nc,"Wilmington, NC",pswbsf/wilmington-nc,wilmington-nc
 map,baltimore-dc-corridor,Baltimore-DC Corridor,rslurry/subwaybuilder-maps,subwaybuilder-maps
+map,cdmx-core,CDMX Core,rslurry/subwaybuilder-maps,subwaybuilder-maps
 map,ciudad-de-mexico,Ciudad de México,rslurry/subwaybuilder-maps,subwaybuilder-maps
 map,ciudad-juarez-el-paso,Ciudad Juárez-El Paso,rslurry/subwaybuilder-maps,subwaybuilder-maps
 map,greater-baltimore,Greater Baltimore,rslurry/subwaybuilder-maps,subwaybuilder-maps
@@ -153,6 +154,7 @@ map,san-antonio,San Antonio,rslurry/subwaybuilder-maps,subwaybuilder-maps
 map,san-juan,San Juan,rslurry/subwaybuilder-maps,subwaybuilder-maps
 map,santa-barbara,Santa Barbara,rslurry/subwaybuilder-maps,subwaybuilder-maps
 map,tampa-bay,Tampa Bay,rslurry/subwaybuilder-maps,subwaybuilder-maps
+map,tijuana-san-diego,Tijuana-San Diego,rslurry/subwaybuilder-maps,subwaybuilder-maps
 map,amsterdam,Amsterdam,ryandicicco/subway-builder-maps,Subway-Builder-Maps
 map,cairo,Cairo,ryandicicco/subway-builder-maps,Subway-Builder-Maps
 map,dubai,Dubai,ryandicicco/subway-builder-maps,Subway-Builder-Maps
@@ -169,6 +171,7 @@ map,sacramento,Sacramento,soccerjonj/sacramento,Sacramento
 mod,advanced-analytics,Advanced Analytics,stefanorigano/advanced_analytics,advanced_analytics
 mod,tathan-casino,TATHAN Casino,tathandev/tathancasino,TathanCasino
 mod,cinematic-camera,Cinematic Camera,transitcore/cinematic-camera,cinematic-camera
+mod,satellite-overlay,Satellite Overlay,transitcore/satellite-overview,Satellite-Overview
 mod,network-status,Network Status,valdotorium/network-status,network-status
 map,berlin-val,Berlin,valdotorium/railyard-maps-2,Railyard-Maps-2
 map,singapore-val,Singapore,valdotorium/railyard-maps-2,Railyard-Maps-2
