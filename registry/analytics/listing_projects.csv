@@ -7,9 +7,16 @@ map,yukina-cz-ostrava,Ostrava,ahkimn/subwaybuilder-eu-maps,subwaybuilder-eu-maps
 map,yukina-cz-plzen,Plzeň,ahkimn/subwaybuilder-eu-maps,subwaybuilder-eu-maps
 map,yukina-cz-praha,Praha,ahkimn/subwaybuilder-eu-maps,subwaybuilder-eu-maps
 map,yukina-cz-ustecko-chomutov,Ústí nad Labem - Chomutov,ahkimn/subwaybuilder-eu-maps,subwaybuilder-eu-maps
+map,yukina-pl-bialystok,Białystok,ahkimn/subwaybuilder-eu-maps,subwaybuilder-eu-maps
 map,yukina-pl-gdansk,Gdańsk,ahkimn/subwaybuilder-eu-maps,subwaybuilder-eu-maps
+map,yukina-pl-katowice-gzm,Katowice - GZM,ahkimn/subwaybuilder-eu-maps,subwaybuilder-eu-maps
 map,yukina-pl-krakow,Kraków,ahkimn/subwaybuilder-eu-maps,subwaybuilder-eu-maps
 map,yukina-pl-lodz,Łódź,ahkimn/subwaybuilder-eu-maps,subwaybuilder-eu-maps
+map,yukina-pl-lublin,Lublin,ahkimn/subwaybuilder-eu-maps,subwaybuilder-eu-maps
+map,yukina-pl-poznan,Poznań,ahkimn/subwaybuilder-eu-maps,subwaybuilder-eu-maps
+map,yukina-pl-rzeszow,Rzeszów,ahkimn/subwaybuilder-eu-maps,subwaybuilder-eu-maps
+map,yukina-pl-szczecin,Szczecin,ahkimn/subwaybuilder-eu-maps,subwaybuilder-eu-maps
+map,yukina-pl-warszawa,Warszawa,ahkimn/subwaybuilder-eu-maps,subwaybuilder-eu-maps
 map,yukina-pl-wroclaw,Wrocław,ahkimn/subwaybuilder-eu-maps,subwaybuilder-eu-maps
 map,yukina-asahikawa,旭川 (Asahikawa),ahkimn/subwaybuilder-jp-maps,subwaybuilder-jp-maps
 map,yukina-fukuoka,福岡 (Fukuoka),ahkimn/subwaybuilder-jp-maps,subwaybuilder-jp-maps
@@ -66,6 +73,7 @@ map,vancouver,Vancouver,devenperez/subway-builder-canadian-maps,subway-builder-c
 map,winnipeg,Winnipeg,devenperez/subway-builder-canadian-maps,subway-builder-canadian-maps
 mod,citymapper,Citymapper,gio1112/subway-builder-citymapper,subway-builder-citymapper
 map,jelegend-tokyo,東京 (Tokyo),jelegend/subwaybuilder,subwaybuilder
+mod,chinese-trains,Chinese Trains,kaicardenas0618/chinese-trains,chinese-trains
 map,south-florida,South Florida,kaicardenas0618/subway-builder-sfl,subway-builder-sfl
 map,busan-3,Busan (30km×30km),kimth9/sb_korean_map_pack,sb_korean_map_pack
 map,busan-4,Busan (40km×40km),kimth9/sb_korean_map_pack,sb_korean_map_pack
@@ -89,6 +97,7 @@ map,ulsan-4,Ulsan (40km×40km),kimth9/sb_korean_map_pack,sb_korean_map_pack
 mod,kr-ktp,Korean Transit Pack,kimth9/sb_korean_transit_pack_v2,sb_korean_transit_pack_v2
 map,guangzhou,Guangzhou,kronifer/sb-chinese-maps,sb-chinese-maps
 map,shanghai,Shanghai,kronifer/sb-chinese-maps,sb-chinese-maps
+map,shenzhen,Shenzhen,kronifer/sb-chinese-maps,sb-chinese-maps
 map,dublin,Dublin,kronifer/sb-dublin-map,sb-dublin-map
 map,glasgow-edinburgh,Glasgow-Edinburgh,kronifer/sb-glasgow-edinburgh-map,sb-glasgow-edinburgh-map
 map,waterloo,Region of Waterloo,kronifer/sb-waterloo-map,sb-waterloo-map
@@ -113,6 +122,7 @@ map,riviera-romagnola,Riviera Romagnola,maximilian284/subwaybuilder-it-maps,subw
 map,rome,Rome,maximilian284/subwaybuilder-it-maps,subwaybuilder-it-maps
 map,turin,Turin,maximilian284/subwaybuilder-it-maps,subwaybuilder-it-maps
 map,bucharest-medium,Bucharest,metatablestudios/subwaybuilder-romania,subwaybuilder-romania
+mod,mode-manager,Mode Manager,mpfk/subway-builder-mode-manager,subway-builder-mode-manager
 mod,any-money,anyMoney,nzh0172/sb-anymoney,sb-anymoney
 map,bangkok,Bangkok,nzh0172/sb-bangkok,sb-bangkok
 map,greater-kuala-lumpur,Greater Kuala Lumpur,nzh0172/sb-malaysia-map-pack,sb-malaysia-map-pack
@@ -136,6 +146,7 @@ map,ciudad-de-mexico,Ciudad de México,rslurry/subwaybuilder-maps,subwaybuilder-
 map,ciudad-juarez-el-paso,Ciudad Juárez-El Paso,rslurry/subwaybuilder-maps,subwaybuilder-maps
 map,greater-baltimore,Greater Baltimore,rslurry/subwaybuilder-maps,subwaybuilder-maps
 map,greater-los-angeles,Greater Los Angeles,rslurry/subwaybuilder-maps,subwaybuilder-maps
+map,greater-portland,Greater Portland,rslurry/subwaybuilder-maps,subwaybuilder-maps
 map,guadalajara,Guadalajara,rslurry/subwaybuilder-maps,subwaybuilder-maps
 map,helsinki,Helsinki,rslurry/subwaybuilder-maps,subwaybuilder-maps
 map,jacksonville,Jacksonville,rslurry/subwaybuilder-maps,subwaybuilder-maps
@@ -147,6 +158,7 @@ map,orange-county,Orange County,rslurry/subwaybuilder-maps,subwaybuilder-maps
 map,orlando,Orlando,rslurry/subwaybuilder-maps,subwaybuilder-maps
 map,puebla,Puebla,rslurry/subwaybuilder-maps,subwaybuilder-maps
 map,puerto-rico,Puerto Rico,rslurry/subwaybuilder-maps,subwaybuilder-maps
+map,rhode-island,Rhode Island,rslurry/subwaybuilder-maps,subwaybuilder-maps
 map,richmond,Richmond,rslurry/subwaybuilder-maps,subwaybuilder-maps
 map,rochester,Rochester,rslurry/subwaybuilder-maps,subwaybuilder-maps
 map,saltillo,Saltillo,rslurry/subwaybuilder-maps,subwaybuilder-maps
@@ -161,6 +173,7 @@ map,dubai,Dubai,ryandicicco/subway-builder-maps,Subway-Builder-Maps
 map,oklahoma-city,Oklahoma City,ryandicicco/subway-builder-maps,Subway-Builder-Maps
 map,rotterdam-the-hague,Rotterdam-The Hague,ryandicicco/subway-builder-maps,Subway-Builder-Maps
 map,spokane,Spokane,ryandicicco/subway-builder-maps,Subway-Builder-Maps
+map,tri-cities,Tri-Cities,ryandicicco/subway-builder-maps,Subway-Builder-Maps
 map,albany,Albany,soccerjonj/albany,Albany
 map,colorado-ski-country,Colorado Ski Country,soccerjonj/colorado-ski-country,Colorado-Ski-Country
 map,daytonatti,Daytonatti,soccerjonj/daytonnati,Daytonnati

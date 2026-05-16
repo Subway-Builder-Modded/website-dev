@@ -2,100 +2,100 @@
   {
     "browser": "Unknown",
     "visits": {
-      "1d": 11,
-      "7d": 652,
-      "30d": 2670,
-      "all": 2670
+      "1d": 51,
+      "7d": 254,
+      "30d": 2882,
+      "all": 2882
     }
   },
   {
     "browser": "Chrome",
     "visits": {
-      "1d": 18,
-      "7d": 355,
-      "30d": 2400,
-      "all": 2400
+      "1d": 24,
+      "7d": 269,
+      "30d": 2601,
+      "all": 2601
     }
   },
   {
     "browser": "Firefox",
     "visits": {
-      "1d": 11,
-      "7d": 86,
-      "30d": 775,
-      "all": 775
+      "1d": 24,
+      "7d": 80,
+      "30d": 831,
+      "all": 831
     }
   },
   {
     "browser": "GoogleBot",
     "visits": {
-      "1d": 13,
-      "7d": 77,
-      "30d": 711,
-      "all": 711
+      "1d": 12,
+      "7d": 64,
+      "30d": 753,
+      "all": 753
     }
   },
   {
     "browser": "Safari",
     "visits": {
-      "1d": 2,
-      "7d": 56,
-      "30d": 548,
-      "all": 548
+      "1d": 1,
+      "7d": 23,
+      "30d": 567,
+      "all": 567
     }
   },
   {
     "browser": "MobileSafari",
     "visits": {
-      "1d": 13,
-      "7d": 101,
-      "30d": 532,
-      "all": 532
+      "1d": 2,
+      "7d": 55,
+      "30d": 561,
+      "all": 561
     }
   },
   {
     "browser": "Edge",
     "visits": {
-      "1d": 1,
-      "7d": 31,
-      "30d": 306,
-      "all": 306
-    }
-  },
-  {
-    "browser": "ChromeMobile",
-    "visits": {
-      "1d": 7,
-      "7d": 33,
-      "30d": 269,
-      "all": 269
+      "1d": 10,
+      "7d": 29,
+      "30d": 333,
+      "all": 333
     }
   },
   {
     "browser": "BingBot",
     "visits": {
-      "1d": 11,
-      "7d": 61,
-      "30d": 252,
-      "all": 252
+      "1d": 9,
+      "7d": 66,
+      "30d": 296,
+      "all": 296
+    }
+  },
+  {
+    "browser": "ChromeMobile",
+    "visits": {
+      "1d": 2,
+      "7d": 28,
+      "30d": 287,
+      "all": 287
     }
   },
   {
     "browser": "Opera",
     "visits": {
-      "1d": 3,
-      "7d": 52,
-      "30d": 228,
-      "all": 228
+      "1d": 5,
+      "7d": 42,
+      "30d": 253,
+      "all": 253
     }
   },
   {
     "browser": "AppleBot",
     "visits": {
       "1d": 0,
-      "7d": 0,
-      "30d": 142,
-      "all": 142
+      "7d": 1,
+      "30d": 143,
+      "all": 143
     }
   },
   {
@@ -110,19 +110,28 @@
   {
     "browser": "YandexBot",
     "visits": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 24,
-      "all": 24
+      "1d": 5,
+      "7d": 6,
+      "30d": 30,
+      "all": 30
     }
   },
   {
     "browser": "SamsungInternet",
     "visits": {
       "1d": 0,
-      "7d": 3,
+      "7d": 0,
       "30d": 16,
       "all": 16
+    }
+  },
+  {
+    "browser": "FirefoxMobile",
+    "visits": {
+      "1d": 0,
+      "7d": 1,
+      "30d": 13,
+      "all": 13
     }
   },
   {
@@ -144,19 +153,10 @@
     }
   },
   {
-    "browser": "FirefoxMobile",
-    "visits": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 12,
-      "all": 12
-    }
-  },
-  {
     "browser": "MobileSafariWebview",
     "visits": {
       "1d": 0,
-      "7d": 1,
+      "7d": 0,
       "30d": 7,
       "all": 7
     }
@@ -165,7 +165,7 @@
     "browser": "OperaMobile",
     "visits": {
       "1d": 0,
-      "7d": 1,
+      "7d": 0,
       "30d": 2,
       "all": 2
     }
