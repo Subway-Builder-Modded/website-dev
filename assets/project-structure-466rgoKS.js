@@ -46,7 +46,7 @@ import{a as e}from"./chunk-BEqpzyXh.js";import{t}from"./jsx-runtime-qJqhvtml.js"
 `,(0,n.jsx)(t.span,{"data-line":``,children:(0,n.jsx)(t.span,{style:{"--shiki-dark":`#E1E4E8`,"--shiki-light":`#0E1116`},children:`}`})})]})})}),`
 `,(0,n.jsxs)(t.ul,{children:[`
 `,(0,n.jsxs)(t.li,{children:[(0,n.jsx)(t.code,{children:`id`}),`: unique identifier in reverse-domain notation`]}),`
-`,(0,n.jsxs)(t.li,{children:[(0,n.jsx)(t.code,{children:`main`}),`: always `,(0,n.jsx)(t.code,{children:`"index.js"`}),` (the Vite build output)`]}),`
+`,(0,n.jsxs)(t.li,{children:[(0,n.jsx)(t.code,{children:`main`}),`: always `,(0,n.jsx)(t.code,{children:`index.js`}),` (the Vite build output)`]}),`
 `]}),`
 `,(0,n.jsx)(t.h3,{id:`main.ts`,children:`src/main.ts`}),`
 `,(0,n.jsx)(t.p,{children:`This is your mod's entry point. This is where you register hooks, add UI elements, and set up your mod's logic. The template comes with a working example:`}),`

@@ -62,7 +62,7 @@ import{a as e}from"./chunk-BEqpzyXh.js";import{t}from"./jsx-runtime-qJqhvtml.js"
 `,(0,n.jsx)(t.h3,{id:`api-not-found`,children:`"SubwayBuilderAPI Not Found"`}),`
 `,(0,n.jsx)(t.p,{children:`This means your mod script ran before the game initialized the API. This shouldn't happen with the template's structure, but if it does:`}),`
 `,(0,n.jsxs)(t.ul,{children:[`
-`,(0,n.jsxs)(t.li,{children:[`Make sure `,(0,n.jsx)(t.code,{children:`main`}),` in `,(0,n.jsx)(t.code,{children:`manifest.json`}),` is `,(0,n.jsx)(t.code,{children:`"index.js"`})]}),`
+`,(0,n.jsxs)(t.li,{children:[`Make sure `,(0,n.jsx)(t.code,{children:`main`}),` in `,(0,n.jsx)(t.code,{children:`manifest.json`}),` is `,(0,n.jsx)(t.code,{children:`index.js`})]}),`
 `,(0,n.jsxs)(t.li,{children:[`Make sure you're checking `,(0,n.jsx)(t.code,{children:`if (!api)`}),` before using the API`]}),`
 `]}),`
 `,(0,n.jsx)(t.h3,{id:`ui-not-showing-up`,children:`UI Not Showing Up`}),`
