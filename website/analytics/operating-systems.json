@@ -2,64 +2,64 @@
   {
     "operatingSystem": "Unknown",
     "visits": {
-      "1d": 40,
-      "7d": 326,
-      "30d": 2142,
-      "all": 3515
+      "1d": 37,
+      "7d": 329,
+      "30d": 1830,
+      "all": 3682
     }
   },
   {
     "operatingSystem": "Windows",
     "visits": {
-      "1d": 40,
-      "7d": 263,
-      "30d": 1742,
-      "all": 3001
+      "1d": 42,
+      "7d": 313,
+      "30d": 1465,
+      "all": 3183
     }
   },
   {
     "operatingSystem": "MacOSX",
     "visits": {
-      "1d": 13,
-      "7d": 96,
-      "30d": 809,
-      "all": 1815
+      "1d": 15,
+      "7d": 112,
+      "30d": 666,
+      "all": 1885
     }
   },
   {
     "operatingSystem": "Android",
     "visits": {
-      "1d": 17,
-      "7d": 98,
-      "30d": 543,
-      "all": 1144
+      "1d": 10,
+      "7d": 118,
+      "30d": 364,
+      "all": 1192
     }
   },
   {
     "operatingSystem": "iOS",
     "visits": {
-      "1d": 20,
-      "7d": 72,
-      "30d": 405,
-      "all": 735
+      "1d": 9,
+      "7d": 91,
+      "30d": 348,
+      "all": 774
     }
   },
   {
     "operatingSystem": "Linux",
     "visits": {
       "1d": 6,
-      "7d": 22,
-      "30d": 103,
-      "all": 203
+      "7d": 25,
+      "30d": 102,
+      "all": 219
     }
   },
   {
     "operatingSystem": "ChromeOS",
     "visits": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 9,
-      "all": 11
+      "1d": 1,
+      "7d": 2,
+      "30d": 11,
+      "all": 13
     }
   }
 ]

@@ -26,7 +26,7 @@ functions, and basic syntax.`]}),(0,n.jsx)(t.p,{children:`You'll also need:`}),(
 `,(0,n.jsxs)(t.span,{"data-line":``,children:[(0,n.jsx)(t.span,{style:{"--shiki-dark":`#79B8FF`,"--shiki-light":`#024C1A`},children:`  "main"`}),(0,n.jsx)(t.span,{style:{"--shiki-dark":`#E1E4E8`,"--shiki-light":`#0E1116`},children:`: `}),(0,n.jsx)(t.span,{style:{"--shiki-dark":`#9ECBFF`,"--shiki-light":`#032563`},children:`"index.js"`})]}),`
 `,(0,n.jsx)(t.span,{"data-line":``,children:(0,n.jsx)(t.span,{style:{"--shiki-dark":`#E1E4E8`,"--shiki-light":`#0E1116`},children:`}`})})]})})}),`
 `,(0,n.jsxs)(t.p,{children:[`The `,(0,n.jsx)(t.code,{children:`id`}),` should be a unique reverse-domain identifier. The `,(0,n.jsx)(t.code,{children:`main`}),` field should always be
-`,(0,n.jsx)(t.code,{children:`"index.js"`}),`, as that's what the build outputs.`]}),`
+`,(0,n.jsx)(t.code,{children:`index.js`}),`, as that's what the build outputs.`]}),`
 `,(0,n.jsx)(t.hr,{}),`
 `,(0,n.jsx)(t.h2,{id:`build`,children:`Step 3 - Build`}),`
 `,(0,n.jsx)(t.figure,{"data-rehype-pretty-code-figure":``,children:(0,n.jsx)(t.pre,{tabIndex:`0`,"data-language":`bash`,"data-theme":`github-dark github-light-high-contrast`,children:(0,n.jsx)(t.code,{"data-language":`bash`,"data-theme":`github-dark github-light-high-contrast`,style:{display:`grid`},children:(0,n.jsxs)(t.span,{"data-line":``,children:[(0,n.jsx)(t.span,{style:{"--shiki-dark":`#B392F0`,"--shiki-light":`#702C00`},children:`pnpm`}),(0,n.jsx)(t.span,{style:{"--shiki-dark":`#9ECBFF`,"--shiki-light":`#032563`},children:` build`})]})})})}),`
