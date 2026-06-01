@@ -1,0 +1,135 @@
+{
+  "schema_version": 1,
+  "id": "lima",
+  "name": "Lima",
+  "author": "kaicardenas0618",
+  "github_id": 150625530,
+  "description": "# Lima + Callao (LIM)\n\n**Donde el desierto encuentra el mar, tu metro mueve la ciudad.**\n\n![Map Preview](https://github.com/user-attachments/assets/0a2178af-4b48-41a1-8f0b-ab04e00075b8)\n\n## Coverage\n\n<table style=\"width: auto\">\n  <tr>\n    <td><strong>Region</strong></td>\n    <td>Lima Province + Constitutional Province of Callao, Peru</td>\n  </tr>\n  <tr>\n    <td><strong>Districts / Municipalities</strong></td>\n    <td>50</td>\n  </tr>\n  <tr>\n    <td><strong>Playable Area</strong></td>\n    <td>~2,819 km²</td>\n  </tr>\n</table>\n\n<details>\n<summary>District list</summary>\n\n<table style=\"width: auto\">\n  <tr>\n    <th align=\"left\">Code</th>\n    <th align=\"left\">District</th>\n  </tr>\n  <tr><td>150101</td><td>Lima</td></tr>\n  <tr><td>150102</td><td>Ancón</td></tr>\n  <tr><td>150103</td><td>Ate</td></tr>\n  <tr><td>150105</td><td>Breña</td></tr>\n  <tr><td>150106</td><td>Carabayllo</td></tr>\n  <tr><td>150107</td><td>Chaclacayo</td></tr>\n  <tr><td>150108</td><td>Chorrillos</td></tr>\n  <tr><td>150109</td><td>Cieneguilla</td></tr>\n  <tr><td>150110</td><td>Comas</td></tr>\n  <tr><td>150111</td><td>El Agustino</td></tr>\n  <tr><td>150112</td><td>Independencia</td></tr>\n  <tr><td>150113</td><td>Jesús María</td></tr>\n  <tr><td>150114</td><td>La Molina</td></tr>\n  <tr><td>150115</td><td>La Victoria</td></tr>\n  <tr><td>150116</td><td>Lince</td></tr>\n  <tr><td>150117</td><td>Los Olivos</td></tr>\n  <tr><td>150118</td><td>Lurigancho</td></tr>\n  <tr><td>150119</td><td>Lurín</td></tr>\n  <tr><td>150120</td><td>Magdalena del Mar</td></tr>\n  <tr><td>150121</td><td>Pueblo Libre</td></tr>\n  <tr><td>150122</td><td>Miraflores</td></tr>\n  <tr><td>150123</td><td>Pachacámac</td></tr>\n  <tr><td>150124</td><td>Pucusana</td></tr>\n  <tr><td>150125</td><td>Puente Piedra</td></tr>\n  <tr><td>150126</td><td>Punta Hermosa</td></tr>\n  <tr><td>150127</td><td>Punta Negra</td></tr>\n  <tr><td>150128</td><td>Rímac</td></tr>\n  <tr><td>150129</td><td>San Bartolo</td></tr>\n  <tr><td>150130</td><td>San Borja</td></tr>\n  <tr><td>150131</td><td>San Isidro</td></tr>\n  <tr><td>150132</td><td>San Juan de Lurigancho</td></tr>\n  <tr><td>150133</td><td>San Juan de Miraflores</td></tr>\n  <tr><td>150134</td><td>San Luis</td></tr>\n  <tr><td>150135</td><td>San Martín de Porres</td></tr>\n  <tr><td>150136</td><td>San Miguel</td></tr>\n  <tr><td>150137</td><td>Santa Anita</td></tr>\n  <tr><td>150138</td><td>Santa María del Mar</td></tr>\n  <tr><td>150139</td><td>Santa Rosa</td></tr>\n  <tr><td>150140</td><td>Santiago de Surco</td></tr>\n  <tr><td>150141</td><td>Surquillo</td></tr>\n  <tr><td>150142</td><td>Villa El Salvador</td></tr>\n  <tr><td>150143</td><td>Villa María del Triunfo</td></tr>\n  <tr><td>070101</td><td>Callao</td></tr>\n  <tr><td>070102</td><td>Bellavista</td></tr>\n  <tr><td>070103</td><td>Carmen de la Legua Reynoso</td></tr>\n  <tr><td>070104</td><td>La Perla</td></tr>\n  <tr><td>070105</td><td>La Punta</td></tr>\n  <tr><td>070106</td><td>Ventanilla</td></tr>\n  <tr><td>070107</td><td>Mi Perú</td></tr>\n</table>\n\n</details>\n\n## Population Summary\n\n<table style=\"width: auto\">\n  <tr>\n    <td><strong>Total Population</strong></td>\n    <td align=\"right\">12,379,698</td>\n  </tr>\n  <tr>\n    <td><strong>Total Modeled Demand</strong></td>\n    <td align=\"right\">6,646,806</td>\n  </tr>\n  <tr>\n    <td><strong>Modeled Normal Demand</strong></td>\n    <td align=\"right\">5,504,306</td>\n  </tr>\n  <tr>\n    <td><strong>Modeled Special Demand</strong></td>\n    <td align=\"right\">1,142,500</td>\n  </tr>\n</table>\n\n## Special Demand\n\n#### Infrastructure\n\n<details>\n<summary>Airport — 28,500 (2.5% of special demand)</summary>\n\n<table style=\"width: auto\">\n  <tr>\n    <th align=\"left\">Name</th>\n    <th align=\"right\">Modeled Demand</th>\n    <th align=\"right\">% of Category</th>\n  </tr>\n  <tr><td>Jorge Chávez International Airport</td><td align=\"right\">28,500</td><td align=\"right\">100.0%</td></tr>\n</table>\n\n</details>\n\n<details>\n<summary>Bus Terminals — 55,000 (4.8% of special demand)</summary>\n\n<table style=\"width: auto\">\n  <tr>\n    <th align=\"left\">Name</th>\n    <th align=\"right\">Modeled Demand</th>\n    <th align=\"right\">% of Category</th>\n  </tr>\n  <tr><td>Yerbateros intercity bus terminal cluster</td><td align=\"right\">30,000</td><td align=\"right\">54.5%</td></tr>\n  <tr><td>Atocongo / south bus terminal cluster</td><td align=\"right\">25,000</td><td align=\"right\">45.5%</td></tr>\n</table>\n\n</details>\n\n<details>\n<summary>Hospitals — 28,000 (2.5% of special demand)</summary>\n\n<table style=\"width: auto\">\n  <tr>\n    <th align=\"left\">Name</th>\n    <th align=\"right\">Modeled Demand</th>\n    <th align=\"right\">% of Category</th>\n  </tr>\n  <tr><td>Hospital Edgardo Rebagliati Martins</td><td align=\"right\">10,000</td><td align=\"right\">35.7%</td></tr>\n  <tr><td>Hospital Guillermo Almenara Irigoyen</td><td align=\"right\">10,000</td><td align=\"right\">35.7%</td></tr>\n  <tr><td>Instituto Nacional de Enfermedades Neoplásicas</td><td align=\"right\">8,000</td><td align=\"right\">28.6%</td></tr>\n</table>\n\n</details>\n\n#### Education\n\n<details>\n<summary>Universities — 304,000 (26.6% of special demand)</summary>\n\n<table style=\"width: auto\">\n  <tr>\n    <th align=\"left\">Name</th>\n    <th align=\"right\">Modeled Demand</th>\n    <th align=\"right\">% of Category</th>\n  </tr>\n  <tr><td>Universidad Nacional Mayor de San Marcos</td><td align=\"right\">48,000</td><td align=\"right\">15.8%</td></tr>\n  <tr><td>Pontificia Universidad Católica del Perú</td><td align=\"right\">20,000</td><td align=\"right\">6.6%</td></tr>\n  <tr><td>UPC Monterrico</td><td align=\"right\">20,000</td><td align=\"right\">6.6%</td></tr>\n  <tr><td>UPC San Isidro</td><td align=\"right\">15,000</td><td align=\"right\">4.9%</td></tr>\n  <tr><td>UPC Villa</td><td align=\"right\">15,000</td><td align=\"right\">4.9%</td></tr>\n  <tr><td>UPC San Miguel</td><td align=\"right\">10,000</td><td align=\"right\">3.3%</td></tr>\n  <tr><td>Universidad de Lima</td><td align=\"right\">28,000</td><td align=\"right\">9.2%</td></tr>\n  <tr><td>Universidad Nacional de Ingeniería</td><td align=\"right\">12,000</td><td align=\"right\">3.9%</td></tr>\n  <tr><td>Universidad San Ignacio de Loyola - La Molina</td><td align=\"right\">17,000</td><td align=\"right\">5.6%</td></tr>\n  <tr><td>Universidad de San Martín de Porres / Santa Anita cluster</td><td align=\"right\">35,000</td><td align=\"right\">11.5%</td></tr>\n  <tr><td>UTP Lima Centro</td><td align=\"right\">20,000</td><td align=\"right\">6.6%</td></tr>\n  <tr><td>UTP Ate</td><td align=\"right\">15,000</td><td align=\"right\">4.9%</td></tr>\n  <tr><td>UTP San Juan de Lurigancho</td><td align=\"right\">15,000</td><td align=\"right\">4.9%</td></tr>\n  <tr><td>Universidad Ricardo Palma</td><td align=\"right\">12,000</td><td align=\"right\">3.9%</td></tr>\n  <tr><td>Universidad Peruana Cayetano Heredia</td><td align=\"right\">7,000</td><td align=\"right\">2.3%</td></tr>\n  <tr><td>Universidad Científica del Sur</td><td align=\"right\">15,000</td><td align=\"right\">4.9%</td></tr>\n</table>\n\n</details>\n\n#### Attractions and Entertainment\n\n<details>\n<summary>Landmarks and Attractions — 87,000 (7.6% of special demand)</summary>\n\n<table style=\"width: auto\">\n  <tr>\n    <th align=\"left\">Name</th>\n    <th align=\"right\">Modeled Demand</th>\n    <th align=\"right\">% of Category</th>\n  </tr>\n  <tr><td>Historic Centre of Lima / Plaza Mayor</td><td align=\"right\">35,000</td><td align=\"right\">40.2%</td></tr>\n  <tr><td>Magic Water Circuit / Parque de la Reserva</td><td align=\"right\">15,000</td><td align=\"right\">17.2%</td></tr>\n  <tr><td>Parque de las Leyendas</td><td align=\"right\">12,000</td><td align=\"right\">13.8%</td></tr>\n  <tr><td>Miraflores Malecón / Kennedy tourism cluster</td><td align=\"right\">25,000</td><td align=\"right\">28.7%</td></tr>\n</table>\n\n</details>\n\n<details>\n<summary>Stadiums and Event Venues — 35,000 (3.1% of special demand)</summary>\n\n<table style=\"width: auto\">\n  <tr>\n    <th align=\"left\">Name</th>\n    <th align=\"right\">Modeled Demand</th>\n    <th align=\"right\">% of Category</th>\n  </tr>\n  <tr><td>Estadio Nacional</td><td align=\"right\">12,000</td><td align=\"right\">34.3%</td></tr>\n  <tr><td>Estadio Monumental / Ate event cluster</td><td align=\"right\">15,000</td><td align=\"right\">42.9%</td></tr>\n  <tr><td>Estadio Alejandro Villanueva - Matute</td><td align=\"right\">8,000</td><td align=\"right\">22.9%</td></tr>\n</table>\n\n</details>\n\n#### Commerce\n\n<details>\n<summary>Markets and Shopping Centers — 605,000 (53.0% of special demand)</summary>\n\n<table style=\"width: auto\">\n  <tr>\n    <th align=\"left\">Name</th>\n    <th align=\"right\">Modeled Demand</th>\n    <th align=\"right\">% of Category</th>\n  </tr>\n  <tr><td>Gamarra Commercial Emporium</td><td align=\"right\">150,000</td><td align=\"right\">24.8%</td></tr>\n  <tr><td>Mesa Redonda / Mercado Central cluster</td><td align=\"right\">80,000</td><td align=\"right\">13.2%</td></tr>\n  <tr><td>Gran Mercado Mayorista de Lima - Santa Anita</td><td align=\"right\">45,000</td><td align=\"right\">7.4%</td></tr>\n  <tr><td>Wholesale fruit market / La Victoria market cluster</td><td align=\"right\">30,000</td><td align=\"right\">5.0%</td></tr>\n  <tr><td>Jockey Plaza</td><td align=\"right\">60,000</td><td align=\"right\">9.9%</td></tr>\n  <tr><td>Plaza Norte + bus terminal</td><td align=\"right\">70,000</td><td align=\"right\">11.6%</td></tr>\n  <tr><td>MegaPlaza Norte</td><td align=\"right\">45,000</td><td align=\"right\">7.4%</td></tr>\n  <tr><td>Mall del Sur</td><td align=\"right\">45,000</td><td align=\"right\">7.4%</td></tr>\n  <tr><td>Larcomar / Miraflores cliff retail</td><td align=\"right\">25,000</td><td align=\"right\">4.1%</td></tr>\n  <tr><td>Real Plaza Salaverry</td><td align=\"right\">30,000</td><td align=\"right\">5.0%</td></tr>\n  <tr><td>Open Plaza Angamos</td><td align=\"right\">25,000</td><td align=\"right\">4.1%</td></tr>\n</table>\n\n</details>\n\n## Additional Features\n\n* **Population Grid** — Resident demand is generated from census-block/manzana-level population data and aggregated into 200-meter hexagonal cells.\n* **Workplace Grid** — Workplace demand is generated from VCENEC 2022 economic-census employment data and aggregated into the same grid.\n* **Special Demand** — Major universities, malls, markets, attractions, hospitals, terminals, stadiums, and the airport are modled in the map.\n* **Municipal Coverage** — The map covers Lima Province and the Constitutional Province of Callao.\n* **OSRM Commute Modeling** — The demand generation process uses OSRM road routing to estimate driving distance and travel time between generated residence and job pairs.\n\n## Methodology\n\nThis map uses a two-stage demand model.\n\nFirst, Lima + Callao are divided into a 200-meter hexagonal grid. Resident demand is allocated from manzana-level population data into hexes. Job demand is allocated from VCENEC 2022 workplace/economic-census data into the same grid. The result is a base grid where each cell contains `RESIDENTS` and `JOBS`.\n\nSecond, the demand generator converts the grid into Subway Builder demand points. Each grid cell becomes a base point with residential capacity and workplace demand. Additional special demand points are added for major trip generators that are not fully represented by the base employment grid, such as Jorge Chávez International Airport, Gamarra, major shopping centers, universities, hospitals, stadiums, attractions, and intercity bus terminal clusters.\n\n## Data Sources\n\n* **Population** — Manzana-level 2017 census population shapefiles for Lima Province and Callao, using `T_TOTAL` as resident population.\n* **Workplaces / Jobs** — Peru VCENEC 2022 economic-census data, aggregated to manzana-level workplace/job demand.\n* **Administrative Boundaries** — INEI district and manzana boundary shapefiles.\n* **Special Demand** — Curated major-destination list including airport, universities, markets, malls, hospitals, attractions, stadiums, and bus terminals. Values are modeled as daily commuter-equivalent destination demand using a mix of sourced public figures and conservative planning estimates.\n* **Routing** — OSRM road network routing, when available, for generated commute distances and travel times.\n\n## License\n\nMap metadata and authored configuration: CC BY-NC-SA 4.0 unless otherwise specified. Source datasets retain their original licenses and terms.\n\n## Credits\n\nMap authored by **kaicardenas0618**.",
+  "tags": [
+    "south-america",
+    "airports",
+    "entertainment",
+    "hospitals",
+    "universities"
+  ],
+  "gallery": [
+    "gallery/screenshot1.png",
+    "gallery/screenshot2.png",
+    "gallery/screenshot3.png",
+    "gallery/screenshot4.png",
+    "gallery/screenshot5.png"
+  ],
+  "is_test": false,
+  "source": "https://github.com/kaicardenas0618/subway-builder-peru",
+  "update": {
+    "type": "custom",
+    "url": "https://raw.githubusercontent.com/kaicardenas0618/subway-builder-peru/refs/heads/master/maps/LIM.json"
+  },
+  "city_code": "LIM",
+  "country": "PE",
+  "population": 6646806,
+  "residents_total": 6646806,
+  "points_count": 29250,
+  "population_count": 141631,
+  "initial_view_state": {
+    "latitude": -12.07,
+    "longitude": -77.06,
+    "zoom": 10,
+    "bearing": 0
+  },
+  "data_source": "VCENEC & INEI 2017 National Census",
+  "source_quality": "high-quality",
+  "level_of_detail": "high-detail",
+  "location": "south-america",
+  "special_demand": [
+    "airports",
+    "entertainment",
+    "hospitals",
+    "universities"
+  ],
+  "file_sizes": {
+    "LIM.pmtiles": 61.69,
+    "buildings_index.json": 225.93,
+    "config.json": 0,
+    "demand_data.json": 33.68,
+    "roads.geojson": 32.78,
+    "runways_taxiways.geojson": 0.37
+  },
+  "grid_statistics": {
+    "residentWeightedNearestNeighborKm": {
+      "p10": 0.34643033546034163,
+      "p25": 0.34643829878653354,
+      "p50": 0.34644893526922665,
+      "p75": 0.3464581556398051,
+      "p90": 0.34646713057407486,
+      "mean": 0.34385984980089973
+    },
+    "workerWeightedNearestNeighborKm": {
+      "p10": 0.13245446668057537,
+      "p25": 0.3464256955353107,
+      "p50": 0.34644352119221206,
+      "p75": 0.34645228562896097,
+      "p90": 0.3464620168691269,
+      "mean": 0.2999317699644623
+    },
+    "commuteDistanceKm": {
+      "p10": 3638,
+      "p25": 6473,
+      "p50": 11346,
+      "p75": 17904,
+      "p90": 24982,
+      "mean": 13158.141550931647
+    },
+    "residentCellDensity": {
+      "p10": 17,
+      "p25": 202,
+      "p50": 1744,
+      "p75": 6575,
+      "p90": 11921,
+      "mean": 3982.5080886758537
+    },
+    "workerCellDensity": {
+      "p10": 19,
+      "p25": 120,
+      "p50": 822,
+      "p75": 3748,
+      "p90": 9309,
+      "mean": 4258.043561819347
+    },
+    "detail": {
+      "radiusKm": 0.3464462282201433,
+      "expectedPointSpacingKm": 0.33548026551051935,
+      "normalizedRadius": 1.032687355522795,
+      "activityPerPoint": 227.24123076923078,
+      "playableAreaKm2": 3520,
+      "playableAreaPerPointKm2": 0.12034188034188034,
+      "playableCatchmentRadiusKm": 0.19571921273796114,
+      "localityScore": 0,
+      "deaggregationScore": 1,
+      "score": 0
+    },
+    "polycentrism": {
+      "activity": {
+        "score": 0,
+        "continuousScore": 0.744411010319722,
+        "detectedCenterCount": 1,
+        "effectiveCenterCount": 1,
+        "largestCenterShare": 1,
+        "bandwidthKm": 1.3,
+        "reliabilityScore": 1,
+        "supportLevel": "high",
+        "usedFallback": false,
+        "topCenters": [
+          {
+            "longitude": -77.01462182327577,
+            "latitude": -12.05540925208645,
+            "massShare": 1,
+            "assignedMass": 13293612,
+            "assignedPointCount": 12969,
+            "prominenceRatio": 1
+          }
+        ]
+      }
+    }
+  }
+}

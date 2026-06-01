@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-05-27T22:01:38.891Z",
+  "generated_at": "2026-05-31T22:21:38.606Z",
   "listings": {
     "akron-oh": {
       "has_complete_version": true,
@@ -595,6 +595,112 @@
           },
           "fingerprint": "rules:v6:sha256:fbe628e9901eb82cfb0a97c595e00ef02631951e2d9cb1d19947ab23a20a69c9",
           "checked_at": "2026-04-10T17:31:22.373Z"
+        }
+      }
+    },
+    "beijing": {
+      "has_complete_version": true,
+      "latest_semver_version": "1.0.0",
+      "latest_semver_complete": true,
+      "complete_versions": [
+        "1.0.0"
+      ],
+      "incomplete_versions": [],
+      "versions": {
+        "1.0.0": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "config_json": true,
+            "demand_data": true,
+            "demand_point_spacing": true,
+            "buildings_index": true,
+            "roads_geojson": true,
+            "runways_taxiways_geojson": true,
+            "city_pmtiles": true,
+            "config_version_matches_tag": true
+          },
+          "matched_files": {
+            "config_json": "config.json",
+            "demand_data": "demand_data.json",
+            "demand_point_spacing": "demand_data.json",
+            "buildings_index": "buildings_index.json",
+            "roads_geojson": "roads.geojson",
+            "runways_taxiways_geojson": "runways_taxiways.geojson",
+            "city_pmtiles": "PEK.pmtiles",
+            "config_version_matches_tag": "config.json"
+          },
+          "release_size": 217.21,
+          "file_sizes": {
+            "PEK.pmtiles": 155.33,
+            "buildings_index.json": 276.37,
+            "config.json": 0,
+            "demand_data.json": 43.81,
+            "roads.geojson": 42.47,
+            "runways_taxiways.geojson": 3.36
+          },
+          "source": {
+            "update_type": "custom",
+            "repo": "kronifer/sb-chinese-maps",
+            "tag": "v1.4.0",
+            "asset_name": "PEK.zip",
+            "download_url": "https://github.com/Kronifer/sb-chinese-maps/releases/download/v1.4.0/PEK.zip"
+          },
+          "fingerprint": "rules:v6:sha256:580959a3b7f38a874b07e82b75fa6b42fe60d73b201a68c435a71124a36b0cfe",
+          "checked_at": "2026-05-28T23:12:58.254Z"
+        }
+      }
+    },
+    "bergen-stavanger-no": {
+      "has_complete_version": true,
+      "latest_semver_version": "1.0.0",
+      "latest_semver_complete": true,
+      "complete_versions": [
+        "1.0.0"
+      ],
+      "incomplete_versions": [],
+      "versions": {
+        "1.0.0": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "config_json": true,
+            "demand_data": true,
+            "demand_point_spacing": true,
+            "buildings_index": true,
+            "roads_geojson": true,
+            "runways_taxiways_geojson": true,
+            "city_pmtiles": true,
+            "config_version_matches_tag": true
+          },
+          "matched_files": {
+            "config_json": "config.json",
+            "demand_data": "demand_data.json",
+            "demand_point_spacing": "demand_data.json",
+            "buildings_index": "buildings_index.json",
+            "roads_geojson": "roads.geojson",
+            "runways_taxiways_geojson": "runways_taxiways.geojson",
+            "city_pmtiles": "BGSV.pmtiles",
+            "config_version_matches_tag": "config.json"
+          },
+          "release_size": 198.11,
+          "file_sizes": {
+            "BGSV.pmtiles": 171.95,
+            "buildings_index.json": 94.53,
+            "config.json": 0,
+            "demand_data.json": 6.34,
+            "roads.geojson": 29.57,
+            "runways_taxiways.geojson": 0.36
+          },
+          "source": {
+            "update_type": "custom",
+            "repo": "rslurry/subwaybuilder-maps",
+            "tag": "1.2.2",
+            "asset_name": "BGSV.zip",
+            "download_url": "https://github.com/rslurry/subwaybuilder-maps/releases/download/1.2.2/BGSV.zip"
+          },
+          "fingerprint": "rules:v6:sha256:3c57d6b59ee5883bac39b6dd32df2187f94513f8add6ffedf4b4d74e9ea01a8e",
+          "checked_at": "2026-05-28T05:15:47.458Z"
         }
       }
     },
@@ -4233,9 +4339,10 @@
     },
     "guangzhou": {
       "has_complete_version": true,
-      "latest_semver_version": "1.1.0",
+      "latest_semver_version": "1.2.0",
       "latest_semver_complete": true,
       "complete_versions": [
+        "1.2.0",
         "1.1.0",
         "1.0.0"
       ],
@@ -4324,6 +4431,48 @@
           },
           "fingerprint": "rules:v6:sha256:9792085ebecb1d2b66e9879ebc485a0cc5763e3c033c5025a05565d7fe3fc3a0",
           "checked_at": "2026-05-09T03:37:33.267Z"
+        },
+        "1.2.0": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "config_json": true,
+            "demand_data": true,
+            "demand_point_spacing": true,
+            "buildings_index": true,
+            "roads_geojson": true,
+            "runways_taxiways_geojson": true,
+            "city_pmtiles": true,
+            "config_version_matches_tag": true
+          },
+          "matched_files": {
+            "config_json": "config.json",
+            "demand_data": "demand_data.json",
+            "demand_point_spacing": "demand_data.json",
+            "buildings_index": "buildings_index.json",
+            "roads_geojson": "roads.geojson",
+            "runways_taxiways_geojson": "runways_taxiways.geojson",
+            "city_pmtiles": "CAN.pmtiles",
+            "config_version_matches_tag": "config.json"
+          },
+          "release_size": 376.01,
+          "file_sizes": {
+            "CAN.pmtiles": 245.89,
+            "buildings_index.json": 488.95,
+            "config.json": 0,
+            "demand_data.json": 45.08,
+            "roads.geojson": 61.79,
+            "runways_taxiways.geojson": 2.61
+          },
+          "source": {
+            "update_type": "custom",
+            "repo": "kronifer/sb-chinese-maps",
+            "tag": "v1.5.0",
+            "asset_name": "CAN.zip",
+            "download_url": "https://github.com/Kronifer/sb-chinese-maps/releases/download/v1.5.0/CAN.zip"
+          },
+          "fingerprint": "rules:v6:sha256:28032e8bef8427ad3085dbe69ba1855ff4c69eafb61e39ffce623d77676ad8a7",
+          "checked_at": "2026-05-31T14:43:31.028Z"
         }
       }
     },
@@ -6198,6 +6347,102 @@
         }
       }
     },
+    "lima": {
+      "has_complete_version": true,
+      "latest_semver_version": "1.0.1",
+      "latest_semver_complete": true,
+      "complete_versions": [
+        "1.0.1",
+        "1.0.0"
+      ],
+      "incomplete_versions": [],
+      "versions": {
+        "1.0.0": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "config_json": true,
+            "demand_data": true,
+            "demand_point_spacing": true,
+            "buildings_index": true,
+            "roads_geojson": true,
+            "runways_taxiways_geojson": true,
+            "city_pmtiles": true,
+            "config_version_matches_tag": true
+          },
+          "matched_files": {
+            "config_json": "config.json",
+            "demand_data": "demand_data.json",
+            "demand_point_spacing": "demand_data.json",
+            "buildings_index": "buildings_index.json",
+            "roads_geojson": "roads.geojson",
+            "runways_taxiways_geojson": "runways_taxiways.geojson",
+            "city_pmtiles": "LIM.pmtiles",
+            "config_version_matches_tag": "config.json"
+          },
+          "release_size": 99.73,
+          "file_sizes": {
+            "LIM.pmtiles": 61.69,
+            "buildings_index.json": 225.93,
+            "config.json": 0,
+            "demand_data.json": 15.95,
+            "roads.geojson": 32.78,
+            "runways_taxiways.geojson": 0.37
+          },
+          "source": {
+            "update_type": "custom",
+            "repo": "kaicardenas0618/subway-builder-peru",
+            "tag": "v1.0.0",
+            "asset_name": "LIM.zip",
+            "download_url": "https://github.com/kaicardenas0618/subway-builder-peru/releases/download/v1.0.0/LIM.zip"
+          },
+          "fingerprint": "rules:v6:sha256:724b800a4c1e1a126b15c982da62c381633fae489c2597a7390a3e9b5d9d77be",
+          "checked_at": "2026-05-31T20:01:27.696Z"
+        },
+        "1.0.1": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "config_json": true,
+            "demand_data": true,
+            "demand_point_spacing": true,
+            "buildings_index": true,
+            "roads_geojson": true,
+            "runways_taxiways_geojson": true,
+            "city_pmtiles": true,
+            "config_version_matches_tag": true
+          },
+          "matched_files": {
+            "config_json": "config.json",
+            "demand_data": "demand_data.json",
+            "demand_point_spacing": "demand_data.json",
+            "buildings_index": "buildings_index.json",
+            "roads_geojson": "roads.geojson",
+            "runways_taxiways_geojson": "runways_taxiways.geojson",
+            "city_pmtiles": "LIM.pmtiles",
+            "config_version_matches_tag": "config.json"
+          },
+          "release_size": 101.44,
+          "file_sizes": {
+            "LIM.pmtiles": 61.69,
+            "buildings_index.json": 225.93,
+            "config.json": 0,
+            "demand_data.json": 33.68,
+            "roads.geojson": 32.78,
+            "runways_taxiways.geojson": 0.37
+          },
+          "source": {
+            "update_type": "custom",
+            "repo": "kaicardenas0618/subway-builder-peru",
+            "tag": "1.0.1",
+            "asset_name": "LIM.zip",
+            "download_url": "https://github.com/kaicardenas0618/subway-builder-peru/releases/download/1.0.1/LIM.zip"
+          },
+          "fingerprint": "rules:v6:sha256:00805136defa122c51b7160adf4d8fd2efae22ae911b5160d8052ae012e70669",
+          "checked_at": "2026-05-31T22:21:38.606Z"
+        }
+      }
+    },
     "los-angeles-county": {
       "has_complete_version": true,
       "latest_semver_version": "1.2.0",
@@ -7775,6 +8020,183 @@
           },
           "fingerprint": "rules:v6:sha256:1526b5211b50ec139f72647e6dc450f970c4a858f1b26be5369f374a285b7a86",
           "checked_at": "2026-04-10T17:31:22.373Z"
+        }
+      }
+    },
+    "opo-pt-metropolitan": {
+      "has_complete_version": true,
+      "latest_semver_version": "v0.2.1",
+      "latest_semver_complete": true,
+      "complete_versions": [
+        "v0.2.1",
+        "v0.1.1"
+      ],
+      "incomplete_versions": [
+        "v0.2.0",
+        "v0.1.0"
+      ],
+      "versions": {
+        "v0.1.0": {
+          "is_complete": false,
+          "errors": [
+            "asset 'OPO_porto_amp_v0.1.0.zip': missing top-level config.json",
+            "asset 'OPO_porto_amp_v0.1.0.zip': missing top-level demand_data.json or demand_data.json.gz",
+            "asset 'OPO_porto_amp_v0.1.0.zip': missing top-level buildings_index.json or buildings_index.json.gz",
+            "asset 'OPO_porto_amp_v0.1.0.zip': missing top-level roads.geojson or roads.geojson.gz",
+            "asset 'OPO_porto_amp_v0.1.0.zip': missing top-level runways_taxiways.geojson or runways_taxiways.geojson.gz",
+            "asset 'OPO_porto_amp_v0.1.0.zip': missing code in config.json for PMTiles validation (registry city_code 'OPO')",
+            "asset 'OPO_porto_amp_v0.1.0.zip': config.json version '(missing)' does not match release tag 'v0.1.0' (expected '0.1.0')"
+          ],
+          "required_checks": {
+            "config_json": false,
+            "demand_data": false,
+            "buildings_index": false,
+            "roads_geojson": false,
+            "runways_taxiways_geojson": false,
+            "city_pmtiles": false,
+            "config_version_matches_tag": false
+          },
+          "matched_files": {
+            "config_json": null,
+            "demand_data": null,
+            "buildings_index": null,
+            "roads_geojson": null,
+            "runways_taxiways_geojson": null,
+            "city_pmtiles": null,
+            "config_version_matches_tag": null
+          },
+          "release_size": 63.91,
+          "source": {
+            "update_type": "github",
+            "repo": "bquelhas/subwaybuilder-map-opo",
+            "tag": "v0.1.0",
+            "asset_name": "OPO_porto_amp_v0.1.0.zip",
+            "download_url": "https://github.com/bquelhas/subwaybuilder-map-opo/releases/download/v0.1.0/OPO_porto_amp_v0.1.0.zip"
+          },
+          "fingerprint": "rules:v6:github:bquelhas/subwaybuilder-map-opo:v0.1.0:OPO_porto_amp_v0.1.0.zip",
+          "checked_at": "2026-05-29T23:01:53.768Z"
+        },
+        "v0.1.1": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "config_json": true,
+            "demand_data": true,
+            "demand_point_spacing": true,
+            "buildings_index": true,
+            "roads_geojson": true,
+            "runways_taxiways_geojson": true,
+            "city_pmtiles": true,
+            "config_version_matches_tag": true
+          },
+          "matched_files": {
+            "config_json": "config.json",
+            "demand_data": "demand_data.json.gz",
+            "demand_point_spacing": "demand_data.json.gz",
+            "buildings_index": "buildings_index.json.gz",
+            "roads_geojson": "roads.geojson.gz",
+            "runways_taxiways_geojson": "runways_taxiways.geojson.gz",
+            "city_pmtiles": "OPO.pmtiles",
+            "config_version_matches_tag": "config.json"
+          },
+          "release_size": 63.9,
+          "file_sizes": {
+            "OPO.pmtiles": 41.94,
+            "buildings_index.json.gz": 15.25,
+            "config.json": 0,
+            "demand_data.json.gz": 1.48,
+            "ocean_depth_index.json.gz": 0,
+            "roads.geojson.gz": 5.15,
+            "runways_taxiways.geojson.gz": 0.1
+          },
+          "source": {
+            "update_type": "github",
+            "repo": "bquelhas/subwaybuilder-map-opo",
+            "tag": "v0.1.1",
+            "asset_name": "OPO_porto_amp_v0.1.1.zip",
+            "download_url": "https://github.com/bquelhas/subwaybuilder-map-opo/releases/download/v0.1.1/OPO_porto_amp_v0.1.1.zip"
+          },
+          "fingerprint": "rules:v6:github:bquelhas/subwaybuilder-map-opo:v0.1.1:OPO_porto_amp_v0.1.1.zip",
+          "checked_at": "2026-05-30T03:54:14.680Z"
+        },
+        "v0.2.0": {
+          "is_complete": false,
+          "errors": [
+            "asset 'OPO_porto_amp_v0.2.0.zip': demand_data contains 1 isolated point(s) with nearest-neighbor distance >100km: j_025006=153.4km"
+          ],
+          "required_checks": {
+            "config_json": true,
+            "demand_data": true,
+            "demand_point_spacing": false,
+            "buildings_index": true,
+            "roads_geojson": true,
+            "runways_taxiways_geojson": true,
+            "city_pmtiles": true,
+            "config_version_matches_tag": true
+          },
+          "matched_files": {
+            "config_json": "config.json",
+            "demand_data": "demand_data.json.gz",
+            "demand_point_spacing": "demand_data.json.gz",
+            "buildings_index": "buildings_index.json.gz",
+            "roads_geojson": "roads.geojson.gz",
+            "runways_taxiways_geojson": "runways_taxiways.geojson.gz",
+            "city_pmtiles": "OPO.pmtiles",
+            "config_version_matches_tag": "config.json"
+          },
+          "release_size": 64.22,
+          "source": {
+            "update_type": "github",
+            "repo": "bquelhas/subwaybuilder-map-opo",
+            "tag": "v0.2.0",
+            "asset_name": "OPO_porto_amp_v0.2.0.zip",
+            "download_url": "https://github.com/bquelhas/subwaybuilder-map-opo/releases/download/v0.2.0/OPO_porto_amp_v0.2.0.zip"
+          },
+          "fingerprint": "rules:v6:github:bquelhas/subwaybuilder-map-opo:v0.2.0:OPO_porto_amp_v0.2.0.zip",
+          "checked_at": "2026-05-30T10:06:14.520Z"
+        },
+        "v0.2.1": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "config_json": true,
+            "demand_data": true,
+            "demand_point_spacing": true,
+            "buildings_index": true,
+            "roads_geojson": true,
+            "runways_taxiways_geojson": true,
+            "city_pmtiles": true,
+            "config_version_matches_tag": true
+          },
+          "matched_files": {
+            "config_json": "config.json",
+            "demand_data": "demand_data.json",
+            "demand_point_spacing": "demand_data.json",
+            "buildings_index": "buildings_index.json",
+            "roads_geojson": "roads.geojson",
+            "runways_taxiways_geojson": "runways_taxiways.geojson",
+            "city_pmtiles": "OPO.pmtiles",
+            "config_version_matches_tag": "config.json"
+          },
+          "release_size": 64.6,
+          "file_sizes": {
+            "OPO.pmtiles": 41.94,
+            "buildings_index.json": 68.32,
+            "config.json": 0,
+            "demand_data.json": 14.1,
+            "ocean_depth_index.json": 0,
+            "roads.geojson": 26.1,
+            "runways_taxiways.geojson": 0.31
+          },
+          "source": {
+            "update_type": "github",
+            "repo": "bquelhas/subwaybuilder-map-opo",
+            "tag": "v0.2.1",
+            "asset_name": "OPO_porto_amp_v0.2.1.zip",
+            "download_url": "https://github.com/bquelhas/subwaybuilder-map-opo/releases/download/v0.2.1/OPO_porto_amp_v0.2.1.zip"
+          },
+          "fingerprint": "rules:v6:github:bquelhas/subwaybuilder-map-opo:v0.2.1:OPO_porto_amp_v0.2.1.zip",
+          "checked_at": "2026-05-30T21:07:06.845Z"
         }
       }
     },
@@ -10122,9 +10544,10 @@
     },
     "shanghai": {
       "has_complete_version": true,
-      "latest_semver_version": "1.0.0",
+      "latest_semver_version": "1.1.0",
       "latest_semver_complete": true,
       "complete_versions": [
+        "1.1.0",
         "1.0.0"
       ],
       "incomplete_versions": [],
@@ -10170,14 +10593,57 @@
           },
           "fingerprint": "rules:v6:sha256:91aca774ac3c0a872d8afc6a28aa40de551d2f2d7bd83e7fb799a7d1ca12e0b3",
           "checked_at": "2026-04-29T18:05:29.349Z"
+        },
+        "1.1.0": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "config_json": true,
+            "demand_data": true,
+            "demand_point_spacing": true,
+            "buildings_index": true,
+            "roads_geojson": true,
+            "runways_taxiways_geojson": true,
+            "city_pmtiles": true,
+            "config_version_matches_tag": true
+          },
+          "matched_files": {
+            "config_json": "config.json",
+            "demand_data": "demand_data.json",
+            "demand_point_spacing": "demand_data.json",
+            "buildings_index": "buildings_index.json",
+            "roads_geojson": "roads.geojson",
+            "runways_taxiways_geojson": "runways_taxiways.geojson",
+            "city_pmtiles": "SHA.pmtiles",
+            "config_version_matches_tag": "config.json"
+          },
+          "release_size": 225.02,
+          "file_sizes": {
+            "SHA.pmtiles": 160.27,
+            "buildings_index.json": 281.73,
+            "config.json": 0,
+            "demand_data.json": 48.63,
+            "roads.geojson": 42,
+            "runways_taxiways.geojson": 2.04
+          },
+          "source": {
+            "update_type": "custom",
+            "repo": "kronifer/sb-chinese-maps",
+            "tag": "v1.5.0",
+            "asset_name": "SHA.zip",
+            "download_url": "https://github.com/Kronifer/sb-chinese-maps/releases/download/v1.5.0/SHA.zip"
+          },
+          "fingerprint": "rules:v6:sha256:02a08f7c46d8df6657a2343f3c34ead196ad8896958e23b4cd551f75406b4777",
+          "checked_at": "2026-05-31T14:43:31.028Z"
         }
       }
     },
     "shenzhen": {
       "has_complete_version": true,
-      "latest_semver_version": "1.0.0",
+      "latest_semver_version": "1.1.0",
       "latest_semver_complete": true,
       "complete_versions": [
+        "1.1.0",
         "1.0.0"
       ],
       "incomplete_versions": [],
@@ -10223,6 +10689,48 @@
           },
           "fingerprint": "rules:v6:sha256:88fd3cea5d484e3767076a8e7e6923a4e0d1824ce50af81afcfe54ba19c4cf39",
           "checked_at": "2026-05-11T22:27:00.050Z"
+        },
+        "1.1.0": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "config_json": true,
+            "demand_data": true,
+            "demand_point_spacing": true,
+            "buildings_index": true,
+            "roads_geojson": true,
+            "runways_taxiways_geojson": true,
+            "city_pmtiles": true,
+            "config_version_matches_tag": true
+          },
+          "matched_files": {
+            "config_json": "config.json",
+            "demand_data": "demand_data.json",
+            "demand_point_spacing": "demand_data.json",
+            "buildings_index": "buildings_index.json",
+            "roads_geojson": "roads.geojson",
+            "runways_taxiways_geojson": "runways_taxiways.geojson",
+            "city_pmtiles": "SZX.pmtiles",
+            "config_version_matches_tag": "config.json"
+          },
+          "release_size": 238.33,
+          "file_sizes": {
+            "SZX.pmtiles": 167.14,
+            "buildings_index.json": 329.39,
+            "config.json": 0,
+            "demand_data.json": 50.26,
+            "roads.geojson": 36.97,
+            "runways_taxiways.geojson": 1.11
+          },
+          "source": {
+            "update_type": "custom",
+            "repo": "kronifer/sb-chinese-maps",
+            "tag": "v1.5.0",
+            "asset_name": "SZX.zip",
+            "download_url": "https://github.com/Kronifer/sb-chinese-maps/releases/download/v1.5.0/SZX.zip"
+          },
+          "fingerprint": "rules:v6:sha256:398ca15864a66c828b679e2ac1d226d908fde634fccb43b55a35ecd0ec87d1fa",
+          "checked_at": "2026-05-31T14:43:31.028Z"
         }
       }
     },
@@ -10941,9 +11449,10 @@
     },
     "tijuana-san-diego": {
       "has_complete_version": true,
-      "latest_semver_version": "1.0.1",
+      "latest_semver_version": "1.0.2",
       "latest_semver_complete": true,
       "complete_versions": [
+        "1.0.2",
         "1.0.1",
         "1.0.0"
       ],
@@ -11032,6 +11541,48 @@
           },
           "fingerprint": "rules:v6:sha256:bb71d0efbac60df8180d7a20ad832a245d44b8324bce21b9616a1b9c9df95ff1",
           "checked_at": "2026-05-08T03:36:56.258Z"
+        },
+        "1.0.2": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "config_json": true,
+            "demand_data": true,
+            "demand_point_spacing": true,
+            "buildings_index": true,
+            "roads_geojson": true,
+            "runways_taxiways_geojson": true,
+            "city_pmtiles": true,
+            "config_version_matches_tag": true
+          },
+          "matched_files": {
+            "config_json": "config.json",
+            "demand_data": "demand_data.json",
+            "demand_point_spacing": "demand_data.json",
+            "buildings_index": "buildings_index.json",
+            "roads_geojson": "roads.geojson",
+            "runways_taxiways_geojson": "runways_taxiways.geojson",
+            "city_pmtiles": "TIJ.pmtiles",
+            "config_version_matches_tag": "config.json"
+          },
+          "release_size": 188.41,
+          "file_sizes": {
+            "TIJ.pmtiles": 118.46,
+            "buildings_index.json": 290.46,
+            "config.json": 0,
+            "demand_data.json": 19.87,
+            "roads.geojson": 49.65,
+            "runways_taxiways.geojson": 0.88
+          },
+          "source": {
+            "update_type": "custom",
+            "repo": "rslurry/subwaybuilder-maps",
+            "tag": "1.2.3",
+            "asset_name": "TIJ.zip",
+            "download_url": "https://github.com/rslurry/subwaybuilder-maps/releases/download/1.2.3/TIJ.zip"
+          },
+          "fingerprint": "rules:v6:sha256:d056f9607dc09ea0f7a1398a1a5aef52d69a7902d95f1f61f1aa45635f1dff17",
+          "checked_at": "2026-05-31T04:24:22.920Z"
         }
       }
     },

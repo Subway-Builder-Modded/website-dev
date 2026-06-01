@@ -62,6 +62,7 @@ mod,transit-overlay,Transit Overlay,barkuperman/transit-overlay-subway-builder-m
 map,akron-oh,"Akron, OH",bean1322/akron-oh-map,akron-oh-map
 map,toledo-oh,Toledo,bean1322/toledo-oh-map.git,toledo-oh-map.git
 mod,simple-trains,Simple Trains,bobby-047/some-new-trains,Some-new-Trains
+map,opo-pt-metropolitan,"Porto, Portugal",bquelhas/subwaybuilder-map-opo,subwaybuilder-map-opo
 map,mfn-hong-kong,Hong Kong,crumpetime/sb-maps-hkg,sb-maps-hkg
 map,mfn-lasvegas,Las Vegas,crumpetime/sb-maps-las,sb-maps-las
 map,mfn-madisonwi,Madison,crumpetime/sb-maps-msn,sb-maps-msn
@@ -104,6 +105,7 @@ map,seoul-4,Seoul (40km×40km),kimth9/sb_korean_map_pack,sb_korean_map_pack
 map,ulsan-3,Ulsan (30km×30km),kimth9/sb_korean_map_pack,sb_korean_map_pack
 map,ulsan-4,Ulsan (40km×40km),kimth9/sb_korean_map_pack,sb_korean_map_pack
 mod,kr-ktp,Korean Transit Pack,kimth9/sb_korean_transit_pack_v2,sb_korean_transit_pack_v2
+map,beijing,Beijing,kronifer/sb-chinese-maps,sb-chinese-maps
 map,guangzhou,Guangzhou,kronifer/sb-chinese-maps,sb-chinese-maps
 map,shanghai,Shanghai,kronifer/sb-chinese-maps,sb-chinese-maps
 map,shenzhen,Shenzhen,kronifer/sb-chinese-maps,sb-chinese-maps
@@ -151,6 +153,7 @@ map,pyongyang-nk,Pyongyang,pswbsf/pyongyang-nk,pyongyang-nk
 map,syracuse-ny,"Syracuse, NY",pswbsf/syracuse-ny,syracuse-ny
 map,wilmington-nc,"Wilmington, NC",pswbsf/wilmington-nc,wilmington-nc
 map,baltimore-dc-corridor,Baltimore-DC Corridor,rslurry/subwaybuilder-maps,subwaybuilder-maps
+map,bergen-stavanger-no,Bergen-Stavanger,rslurry/subwaybuilder-maps,subwaybuilder-maps
 map,cdmx-core,CDMX Core,rslurry/subwaybuilder-maps,subwaybuilder-maps
 map,ciudad-de-mexico,Ciudad de México,rslurry/subwaybuilder-maps,subwaybuilder-maps
 map,ciudad-juarez-el-paso,Ciudad Juárez-El Paso,rslurry/subwaybuilder-maps,subwaybuilder-maps
