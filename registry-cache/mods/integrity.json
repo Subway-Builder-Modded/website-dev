@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-05-31T22:21:34.361Z",
+  "generated_at": "2026-06-19T05:01:33.556Z",
   "listings": {
     "advanced-analytics": {
       "has_complete_version": true,
@@ -45,7 +45,7 @@
             "tag": "target-1.1.0"
           },
           "fingerprint": "rules:v6:github:stefanorigano/advanced_analytics:target-1.1.0:no-zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
-          "checked_at": "2026-05-31T22:21:34.361Z"
+          "checked_at": "2026-06-19T05:01:33.556Z"
         },
         "v0.9.1": {
           "is_complete": false,
@@ -1397,6 +1397,43 @@
         }
       }
     },
+    "copy-paste": {
+      "has_complete_version": true,
+      "latest_semver_version": "v1.0.0",
+      "latest_semver_complete": true,
+      "complete_versions": [
+        "v1.0.0"
+      ],
+      "incomplete_versions": [],
+      "versions": {
+        "v1.0.0": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.01,
+          "source": {
+            "update_type": "github",
+            "repo": "seanyushoumori/copy-paste",
+            "tag": "v1.0.0",
+            "asset_name": "copy-paste-v1.0.0.zip",
+            "download_url": "https://github.com/seanyushoumori/copy-paste/releases/download/v1.0.0/copy-paste-v1.0.0.zip"
+          },
+          "fingerprint": "rules:v6:github:seanyushoumori/copy-paste:v1.0.0:copy-paste-v1.0.0.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-06-18T06:08:56.984Z"
+        }
+      }
+    },
     "danield1909-dantrains": {
       "has_complete_version": true,
       "latest_semver_version": "v1.3.2",
@@ -1840,13 +1877,16 @@
     },
     "distance-circles": {
       "has_complete_version": true,
-      "latest_semver_version": "0.4.0",
-      "latest_semver_complete": true,
+      "latest_semver_version": "0.5.2",
+      "latest_semver_complete": false,
       "complete_versions": [
         "0.4.0",
         "0.3.3"
       ],
-      "incomplete_versions": [],
+      "incomplete_versions": [
+        "0.5.2",
+        "0.5.1"
+      ],
       "versions": {
         "0.3.3": {
           "is_complete": true,
@@ -1899,6 +1939,62 @@
           },
           "fingerprint": "rules:v6:github:crumpetime/subway_builder_distance_circles:0.4.0:distanceCircles.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
           "checked_at": "2026-04-10T17:31:23.904Z"
+        },
+        "0.5.1": {
+          "is_complete": false,
+          "errors": [
+            "asset 'distanceCircles.zip': release asset manifest.json is missing"
+          ],
+          "required_checks": {
+            "release_manifest_asset": false,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": null,
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.01,
+          "source": {
+            "update_type": "github",
+            "repo": "crumpetime/subway_builder_distance_circles",
+            "tag": "0.5.1",
+            "asset_name": "distanceCircles.zip",
+            "download_url": "https://github.com/crumpetime/subway_builder_distance_circles/releases/download/0.5.1/distanceCircles.zip"
+          },
+          "fingerprint": "rules:v6:github:crumpetime/subway_builder_distance_circles:0.5.1:distanceCircles.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-06-19T05:01:33.556Z"
+        },
+        "0.5.2": {
+          "is_complete": false,
+          "errors": [
+            "asset 'distanceCircles.zip': release asset manifest.json is missing"
+          ],
+          "required_checks": {
+            "release_manifest_asset": false,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": null,
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.01,
+          "source": {
+            "update_type": "github",
+            "repo": "crumpetime/subway_builder_distance_circles",
+            "tag": "0.5.2",
+            "asset_name": "distanceCircles.zip",
+            "download_url": "https://github.com/crumpetime/subway_builder_distance_circles/releases/download/0.5.2/distanceCircles.zip"
+          },
+          "fingerprint": "rules:v6:github:crumpetime/subway_builder_distance_circles:0.5.2:distanceCircles.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-06-19T05:01:33.556Z"
         }
       }
     },
@@ -1936,6 +2032,188 @@
           },
           "fingerprint": "rules:v6:github:valdotorium/speed-mod:v0.1.0:SpeedUp_0_1_0.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
           "checked_at": "2026-04-11T16:46:07.329Z"
+        }
+      }
+    },
+    "improved-schematics": {
+      "has_complete_version": true,
+      "latest_semver_version": "v1.2.0",
+      "latest_semver_complete": true,
+      "complete_versions": [
+        "v1.2.0",
+        "v1.1.0",
+        "v1.0.0"
+      ],
+      "incomplete_versions": [],
+      "versions": {
+        "v1.0.0": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.07,
+          "source": {
+            "update_type": "github",
+            "repo": "martig7/improved-schematics",
+            "tag": "v1.0.0",
+            "asset_name": "improved-schematics-v1.0.0.zip",
+            "download_url": "https://github.com/martig7/Improved-Schematics/releases/download/v1.0.0/improved-schematics-v1.0.0.zip"
+          },
+          "fingerprint": "rules:v6:github:martig7/improved-schematics:v1.0.0:improved-schematics-v1.0.0.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-06-16T03:43:22.220Z"
+        },
+        "v1.1.0": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.07,
+          "source": {
+            "update_type": "github",
+            "repo": "martig7/improved-schematics",
+            "tag": "v1.1.0",
+            "asset_name": "improved-schematics-v1.1.0.zip",
+            "download_url": "https://github.com/martig7/Improved-Schematics/releases/download/v1.1.0/improved-schematics-v1.1.0.zip"
+          },
+          "fingerprint": "rules:v6:github:martig7/improved-schematics:v1.1.0:improved-schematics-v1.1.0.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-06-16T03:43:22.220Z"
+        },
+        "v1.2.0": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.08,
+          "source": {
+            "update_type": "github",
+            "repo": "martig7/improved-schematics",
+            "tag": "v1.2.0",
+            "asset_name": "improved-schematics-v1.2.0.zip",
+            "download_url": "https://github.com/martig7/Improved-Schematics/releases/download/v1.2.0/improved-schematics-v1.2.0.zip"
+          },
+          "fingerprint": "rules:v6:github:martig7/improved-schematics:v1.2.0:improved-schematics-v1.2.0.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-06-17T20:31:01.770Z"
+        }
+      }
+    },
+    "japanese-trains": {
+      "has_complete_version": true,
+      "latest_semver_version": "v1.0.2",
+      "latest_semver_complete": true,
+      "complete_versions": [
+        "v1.0.2",
+        "v1.0.1",
+        "v1.0.0"
+      ],
+      "incomplete_versions": [],
+      "versions": {
+        "v1.0.0": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.01,
+          "source": {
+            "update_type": "github",
+            "repo": "kaicardenas0618/japanese-trains",
+            "tag": "v1.0.0",
+            "asset_name": "japanese-trains-v1.0.0.zip",
+            "download_url": "https://github.com/kaicardenas0618/japanese-trains/releases/download/v1.0.0/japanese-trains-v1.0.0.zip"
+          },
+          "fingerprint": "rules:v6:github:kaicardenas0618/japanese-trains:v1.0.0:japanese-trains-v1.0.0.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-06-07T09:54:23.274Z"
+        },
+        "v1.0.1": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.01,
+          "source": {
+            "update_type": "github",
+            "repo": "kaicardenas0618/japanese-trains",
+            "tag": "v1.0.1",
+            "asset_name": "japanese-trains-v1.0.1.zip",
+            "download_url": "https://github.com/kaicardenas0618/japanese-trains/releases/download/v1.0.1/japanese-trains-v1.0.1.zip"
+          },
+          "fingerprint": "rules:v6:github:kaicardenas0618/japanese-trains:v1.0.1:japanese-trains-v1.0.1.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-06-12T15:30:01.549Z"
+        },
+        "v1.0.2": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.01,
+          "source": {
+            "update_type": "github",
+            "repo": "kaicardenas0618/japanese-trains",
+            "tag": "v1.0.2",
+            "asset_name": "japanese-trains-v1.0.2.zip",
+            "download_url": "https://github.com/kaicardenas0618/japanese-trains/releases/download/v1.0.2/japanese-trains-v1.0.2.zip"
+          },
+          "fingerprint": "rules:v6:github:kaicardenas0618/japanese-trains:v1.0.2:japanese-trains-v1.0.2.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-06-13T15:14:19.645Z"
         }
       }
     },
@@ -2030,6 +2308,97 @@
           },
           "fingerprint": "rules:v6:github:kimth9/sb_korean_transit_pack_v2:v1.0.3:kr-ktp_v1.0.3.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
           "checked_at": "2026-04-23T09:50:18.074Z"
+        }
+      }
+    },
+    "lrt-trains": {
+      "has_complete_version": true,
+      "latest_semver_version": "v1.1.0",
+      "latest_semver_complete": true,
+      "complete_versions": [
+        "v1.1.0",
+        "v1.0.1",
+        "v1.0.0"
+      ],
+      "incomplete_versions": [],
+      "versions": {
+        "v1.0.0": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.01,
+          "source": {
+            "update_type": "github",
+            "repo": "kaicardenas0618/lrt-trains",
+            "tag": "v1.0.0",
+            "asset_name": "lrt-trains-v1.0.0.zip",
+            "download_url": "https://github.com/kaicardenas0618/lrt-trains/releases/download/v1.0.0/lrt-trains-v1.0.0.zip"
+          },
+          "fingerprint": "rules:v6:github:kaicardenas0618/lrt-trains:v1.0.0:lrt-trains-v1.0.0.zip|lrt-v1.0.0.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-06-02T05:56:33.204Z"
+        },
+        "v1.0.1": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.01,
+          "source": {
+            "update_type": "github",
+            "repo": "kaicardenas0618/lrt-trains",
+            "tag": "v1.0.1",
+            "asset_name": "lrt-trains-v1.0.1.zip",
+            "download_url": "https://github.com/kaicardenas0618/lrt-trains/releases/download/v1.0.1/lrt-trains-v1.0.1.zip"
+          },
+          "fingerprint": "rules:v6:github:kaicardenas0618/lrt-trains:v1.0.1:lrt-trains-v1.0.1.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-06-02T06:21:41.816Z"
+        },
+        "v1.1.0": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.01,
+          "source": {
+            "update_type": "github",
+            "repo": "kaicardenas0618/lrt-trains",
+            "tag": "v1.1.0",
+            "asset_name": "lrt-trains-v1.1.0.zip",
+            "download_url": "https://github.com/kaicardenas0618/lrt-trains/releases/download/v1.1.0/lrt-trains-v1.1.0.zip"
+          },
+          "fingerprint": "rules:v6:github:kaicardenas0618/lrt-trains:v1.1.0:lrt-trains-v1.1.0.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-06-02T15:15:44.718Z"
         }
       }
     },
@@ -2190,6 +2559,43 @@
           },
           "fingerprint": "rules:v6:github:valdotorium/network-status:v0.1.2:network_status_0_1_2.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
           "checked_at": "2026-04-10T17:31:23.904Z"
+        }
+      }
+    },
+    "orbital-surveyor": {
+      "has_complete_version": true,
+      "latest_semver_version": "v1.1.1",
+      "latest_semver_complete": true,
+      "complete_versions": [
+        "v1.1.1"
+      ],
+      "incomplete_versions": [],
+      "versions": {
+        "v1.1.1": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.02,
+          "source": {
+            "update_type": "github",
+            "repo": "barkuperman/orbital-surveyor",
+            "tag": "v1.1.1",
+            "asset_name": "orbital-surveyor-v1.1.1.zip",
+            "download_url": "https://github.com/BarKuperman/orbital-surveyor/releases/download/v1.1.1/orbital-surveyor-v1.1.1.zip"
+          },
+          "fingerprint": "rules:v6:github:barkuperman/orbital-surveyor:v1.1.1:orbital-surveyor-v1.1.1.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-06-05T19:40:37.079Z"
         }
       }
     },
@@ -3014,6 +3420,242 @@
         }
       }
     },
+    "track-anarchy": {
+      "has_complete_version": true,
+      "latest_semver_version": "v1.1.1",
+      "latest_semver_complete": true,
+      "complete_versions": [
+        "v1.1.1",
+        "v1.1.0",
+        "v1.0.0"
+      ],
+      "incomplete_versions": [],
+      "versions": {
+        "v1.0.0": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0,
+          "source": {
+            "update_type": "github",
+            "repo": "seanyushoumori/track-anarchy",
+            "tag": "v1.0.0",
+            "asset_name": "track-anarchy-v1.0.0.zip",
+            "download_url": "https://github.com/seanyushoumori/track-anarchy/releases/download/v1.0.0/track-anarchy-v1.0.0.zip"
+          },
+          "fingerprint": "rules:v6:github:seanyushoumori/track-anarchy:v1.0.0:track-anarchy-v1.0.0.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-06-07T00:13:48.845Z"
+        },
+        "v1.1.0": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0,
+          "source": {
+            "update_type": "github",
+            "repo": "seanyushoumori/track-anarchy",
+            "tag": "v1.1.0",
+            "asset_name": "track-anarchy-v1.1.0.zip",
+            "download_url": "https://github.com/seanyushoumori/track-anarchy/releases/download/v1.1.0/track-anarchy-v1.1.0.zip"
+          },
+          "fingerprint": "rules:v6:github:seanyushoumori/track-anarchy:v1.1.0:track-anarchy-v1.1.0.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-06-13T02:31:38.354Z"
+        },
+        "v1.1.1": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0,
+          "source": {
+            "update_type": "github",
+            "repo": "seanyushoumori/track-anarchy",
+            "tag": "v1.1.1",
+            "asset_name": "track-anarchy-v1.1.1.zip",
+            "download_url": "https://github.com/seanyushoumori/track-anarchy/releases/download/v1.1.1/track-anarchy-v1.1.1.zip"
+          },
+          "fingerprint": "rules:v6:github:seanyushoumori/track-anarchy:v1.1.1:track-anarchy-v1.1.1.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-06-13T02:31:38.354Z"
+        }
+      }
+    },
+    "track-visualizer": {
+      "has_complete_version": true,
+      "latest_semver_version": "v1.2.1",
+      "latest_semver_complete": true,
+      "complete_versions": [
+        "v1.2.1",
+        "v1.2.0",
+        "v1.1.1",
+        "v1.1.0",
+        "v1.0.0"
+      ],
+      "incomplete_versions": [],
+      "versions": {
+        "v1.0.0": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.01,
+          "source": {
+            "update_type": "github",
+            "repo": "seanyushoumori/track-visualizer",
+            "tag": "v1.0.0",
+            "asset_name": "track-visualizer-v1.0.0.zip",
+            "download_url": "https://github.com/seanyushoumori/track-visualizer/releases/download/v1.0.0/track-visualizer-v1.0.0.zip"
+          },
+          "fingerprint": "rules:v6:github:seanyushoumori/track-visualizer:v1.0.0:track-visualizer-v1.0.0.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-06-01T04:54:18.037Z"
+        },
+        "v1.1.0": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.01,
+          "source": {
+            "update_type": "github",
+            "repo": "seanyushoumori/track-visualizer",
+            "tag": "v1.1.0",
+            "asset_name": "track-visualizer-v1.1.0.zip",
+            "download_url": "https://github.com/seanyushoumori/track-visualizer/releases/download/v1.1.0/track-visualizer-v1.1.0.zip"
+          },
+          "fingerprint": "rules:v6:github:seanyushoumori/track-visualizer:v1.1.0:track-visualizer-v1.1.0.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-06-02T03:38:50.961Z"
+        },
+        "v1.1.1": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.01,
+          "source": {
+            "update_type": "github",
+            "repo": "seanyushoumori/track-visualizer",
+            "tag": "v1.1.1",
+            "asset_name": "track-visualizer-v1.1.1.zip",
+            "download_url": "https://github.com/seanyushoumori/track-visualizer/releases/download/v1.1.1/track-visualizer-v1.1.1.zip"
+          },
+          "fingerprint": "rules:v6:github:seanyushoumori/track-visualizer:v1.1.1:track-visualizer-v1.1.1.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-06-04T11:20:53.412Z"
+        },
+        "v1.2.0": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.01,
+          "source": {
+            "update_type": "github",
+            "repo": "seanyushoumori/track-visualizer",
+            "tag": "v1.2.0",
+            "asset_name": "track-visualizer-v1.2.0.zip",
+            "download_url": "https://github.com/seanyushoumori/track-visualizer/releases/download/v1.2.0/track-visualizer-v1.2.0.zip"
+          },
+          "fingerprint": "rules:v6:github:seanyushoumori/track-visualizer:v1.2.0:track-visualizer-v1.2.0.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-06-12T04:42:54.869Z"
+        },
+        "v1.2.1": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.01,
+          "source": {
+            "update_type": "github",
+            "repo": "seanyushoumori/track-visualizer",
+            "tag": "v1.2.1",
+            "asset_name": "track-visualizer-v1.2.1.zip",
+            "download_url": "https://github.com/seanyushoumori/track-visualizer/releases/download/v1.2.1/track-visualizer-v1.2.1.zip"
+          },
+          "fingerprint": "rules:v6:github:seanyushoumori/track-visualizer:v1.2.1:track-visualizer-v1.2.1.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-06-12T04:42:54.869Z"
+        }
+      }
+    },
     "transit-overlay": {
       "has_complete_version": true,
       "latest_semver_version": "1.5.1",
@@ -3273,7 +3915,7 @@
             "tag": "v1.0"
           },
           "fingerprint": "rules:v6:github:valdotorium/valdotoriums_trains:v1.0:Valdotoriums_Trains_1_0.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
-          "checked_at": "2026-05-31T22:21:34.361Z"
+          "checked_at": "2026-06-19T05:01:33.556Z"
         },
         "v1.1": {
           "is_complete": false,
@@ -3288,7 +3930,7 @@
             "tag": "v1.1"
           },
           "fingerprint": "rules:v6:github:valdotorium/valdotoriums_trains:v1.1:Valdotoriums_Trains_1_1.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
-          "checked_at": "2026-05-31T22:21:34.361Z"
+          "checked_at": "2026-06-19T05:01:33.556Z"
         }
       }
     }
