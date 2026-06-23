@@ -11,7 +11,7 @@
     "universities"
   ],
   "gallery": [
-    "gallery/screenshot1.png"
+    "gallery/screenshot1.webp"
   ],
   "source": "https://github.com/rslurry/subwaybuilder-maps",
   "update": {
@@ -125,5 +125,6 @@
         ]
       }
     }
-  }
+  },
+  "last_updated": 1772928000
 }

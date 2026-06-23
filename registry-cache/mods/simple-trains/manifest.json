@@ -9,12 +9,13 @@
     "trains"
   ],
   "gallery": [
-    "gallery/screenshot1.png"
+    "gallery/screenshot1.webp"
   ],
   "is_test": false,
   "source": "https://github.com/Bobby-047/Some-new-Trains",
   "update": {
     "type": "github",
     "repo": "Bobby-047/Some-new-Trains"
-  }
+  },
+  "last_updated": 1777504907
 }

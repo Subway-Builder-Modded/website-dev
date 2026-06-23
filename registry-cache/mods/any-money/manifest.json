@@ -10,13 +10,14 @@
     "ui"
   ],
   "gallery": [
-    "gallery/screenshot1.png",
-    "gallery/screenshot2.png"
+    "gallery/screenshot1.webp",
+    "gallery/screenshot2.webp"
   ],
   "source": "https://github.com/nzh0172/sb-anymoney",
   "update": {
     "type": "github",
     "repo": "nzh0172/sb-anymoney"
   },
-  "is_test": false
+  "is_test": false,
+  "last_updated": 1774513094
 }

@@ -12,12 +12,13 @@
     "ui"
   ],
   "gallery": [
-    "gallery/screenshot1.png"
+    "gallery/screenshot1.webp"
   ],
   "is_test": false,
   "source": "https://github.com/seanyushoumori/track-visualizer",
   "update": {
     "type": "github",
     "repo": "seanyushoumori/track-visualizer"
-  }
+  },
+  "last_updated": 1781227979
 }

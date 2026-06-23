@@ -11,12 +11,13 @@
     "ui"
   ],
   "gallery": [
-    "gallery/screenshot1.png"
+    "gallery/screenshot1.webp"
   ],
   "is_test": false,
   "source": "https://github.com/seanyushoumori/copy-paste",
   "update": {
     "type": "github",
     "repo": "seanyushoumori/copy-paste"
-  }
+  },
+  "last_updated": 1781759549
 }

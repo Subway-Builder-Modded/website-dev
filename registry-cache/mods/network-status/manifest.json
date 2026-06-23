@@ -12,14 +12,15 @@
     "ui"
   ],
   "gallery": [
-    "gallery/screenshot1.png",
-    "gallery/screenshot2.jpg",
-    "gallery/screenshot3.png"
+    "gallery/screenshot1.webp",
+    "gallery/screenshot2.webp",
+    "gallery/screenshot3.webp"
   ],
   "is_test": false,
   "source": "https://github.com/Valdotorium/network-status",
   "update": {
     "type": "github",
     "repo": "Valdotorium/network-status"
-  }
+  },
+  "last_updated": 1775548550
 }
