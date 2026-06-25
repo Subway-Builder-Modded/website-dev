@@ -2,43 +2,43 @@
   {
     "path": "/",
     "pageviews": {
-      "1d": 61,
-      "7d": 324,
-      "30d": 1360,
-      "all": 4642
+      "1d": 74,
+      "7d": 337,
+      "30d": 1373,
+      "all": 4655
     },
     "visitors": {
-      "1d": 61,
-      "7d": 324,
-      "30d": 1360,
-      "all": 4642
+      "1d": 74,
+      "7d": 337,
+      "30d": 1373,
+      "all": 4655
     },
     "entrances": {
-      "1d": 61,
-      "7d": 324,
-      "30d": 1360,
-      "all": 4642
+      "1d": 74,
+      "7d": 337,
+      "30d": 1373,
+      "all": 4655
     }
   },
   {
     "path": "/railyard",
     "pageviews": {
-      "1d": 29,
-      "7d": 156,
-      "30d": 551,
-      "all": 1961
+      "1d": 31,
+      "7d": 158,
+      "30d": 553,
+      "all": 1963
     },
     "visitors": {
-      "1d": 29,
-      "7d": 156,
-      "30d": 551,
-      "all": 1961
+      "1d": 31,
+      "7d": 158,
+      "30d": 553,
+      "all": 1963
     },
     "entrances": {
-      "1d": 29,
-      "7d": 156,
-      "30d": 551,
-      "all": 1961
+      "1d": 31,
+      "7d": 158,
+      "30d": 553,
+      "all": 1963
     }
   },
   {
@@ -3255,6 +3255,27 @@
     }
   },
   {
+    "path": "/registry/maps/yukina-tottori",
+    "pageviews": {
+      "1d": 1,
+      "7d": 2,
+      "30d": 5,
+      "all": 15
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 2,
+      "30d": 5,
+      "all": 15
+    },
+    "entrances": {
+      "1d": 1,
+      "7d": 2,
+      "30d": 5,
+      "all": 15
+    }
+  },
+  {
     "path": "/updates/template-mod",
     "pageviews": {
       "1d": 0,
@@ -3629,27 +3650,6 @@
       "1d": 0,
       "7d": 1,
       "30d": 5,
-      "all": 14
-    }
-  },
-  {
-    "path": "/registry/maps/yukina-tottori",
-    "pageviews": {
-      "1d": 0,
-      "7d": 1,
-      "30d": 4,
-      "all": 14
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 1,
-      "30d": 4,
-      "all": 14
-    },
-    "entrances": {
-      "1d": 0,
-      "7d": 1,
-      "30d": 4,
       "all": 14
     }
   },
@@ -13314,6 +13314,27 @@
     }
   },
   {
+    "path": "/registry/map/yukina-yamagata",
+    "pageviews": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 1,
+      "all": 2
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 1,
+      "all": 2
+    },
+    "entrances": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 1,
+      "all": 2
+    }
+  },
+  {
     "path": "/registry/maps",
     "pageviews": {
       "1d": 0,
@@ -18985,27 +19006,6 @@
   },
   {
     "path": "/registry/map/yukina-toyama",
-    "pageviews": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 0,
-      "all": 1
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 0,
-      "all": 1
-    },
-    "entrances": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 0,
-      "all": 1
-    }
-  },
-  {
-    "path": "/registry/map/yukina-yamagata",
     "pageviews": {
       "1d": 0,
       "7d": 0,

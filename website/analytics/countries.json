@@ -3,32 +3,32 @@
     "country": "United States",
     "countryCode": "US",
     "pageviews": {
-      "1d": 148,
-      "7d": 716,
-      "30d": 2923,
-      "all": 8188
+      "1d": 155,
+      "7d": 723,
+      "30d": 2930,
+      "all": 8195
     },
     "visitors": {
-      "1d": 148,
-      "7d": 716,
-      "30d": 2923,
-      "all": 8188
+      "1d": 155,
+      "7d": 723,
+      "30d": 2930,
+      "all": 8195
     }
   },
   {
     "country": "Canada",
     "countryCode": "CA",
     "pageviews": {
-      "1d": 7,
-      "7d": 60,
-      "30d": 244,
-      "all": 993
+      "1d": 9,
+      "7d": 62,
+      "30d": 246,
+      "all": 995
     },
     "visitors": {
-      "1d": 7,
-      "7d": 60,
-      "30d": 244,
-      "all": 993
+      "1d": 9,
+      "7d": 62,
+      "30d": 246,
+      "all": 995
     }
   },
   {
@@ -51,16 +51,16 @@
     "country": "Germany",
     "countryCode": "DE",
     "pageviews": {
-      "1d": 3,
-      "7d": 31,
-      "30d": 192,
-      "all": 759
+      "1d": 4,
+      "7d": 32,
+      "30d": 193,
+      "all": 760
     },
     "visitors": {
-      "1d": 3,
-      "7d": 31,
-      "30d": 192,
-      "all": 759
+      "1d": 4,
+      "7d": 32,
+      "30d": 193,
+      "all": 760
     }
   },
   {
@@ -99,16 +99,16 @@
     "country": "Spain",
     "countryCode": "ES",
     "pageviews": {
-      "1d": 3,
-      "7d": 73,
-      "30d": 199,
-      "all": 365
+      "1d": 4,
+      "7d": 74,
+      "30d": 200,
+      "all": 366
     },
     "visitors": {
-      "1d": 3,
-      "7d": 73,
-      "30d": 199,
-      "all": 365
+      "1d": 4,
+      "7d": 74,
+      "30d": 200,
+      "all": 366
     }
   },
   {
@@ -147,16 +147,16 @@
     "country": "Poland",
     "countryCode": "PL",
     "pageviews": {
-      "1d": 0,
-      "7d": 21,
-      "30d": 115,
-      "all": 308
+      "1d": 1,
+      "7d": 22,
+      "30d": 116,
+      "all": 309
     },
     "visitors": {
-      "1d": 0,
-      "7d": 21,
-      "30d": 115,
-      "all": 308
+      "1d": 1,
+      "7d": 22,
+      "30d": 116,
+      "all": 309
     }
   },
   {
@@ -275,16 +275,16 @@
     "country": "Japan",
     "countryCode": "JP",
     "pageviews": {
-      "1d": 1,
-      "7d": 18,
-      "30d": 43,
-      "all": 129
+      "1d": 2,
+      "7d": 19,
+      "30d": 44,
+      "all": 130
     },
     "visitors": {
-      "1d": 1,
-      "7d": 18,
-      "30d": 43,
-      "all": 129
+      "1d": 2,
+      "7d": 19,
+      "30d": 44,
+      "all": 130
     }
   },
   {
@@ -627,16 +627,16 @@
     "country": "Austria",
     "countryCode": "AT",
     "pageviews": {
-      "1d": 0,
-      "7d": 2,
-      "30d": 17,
-      "all": 35
+      "1d": 2,
+      "7d": 4,
+      "30d": 19,
+      "all": 37
     },
     "visitors": {
-      "1d": 0,
-      "7d": 2,
-      "30d": 17,
-      "all": 35
+      "1d": 2,
+      "7d": 4,
+      "30d": 19,
+      "all": 37
     }
   },
   {
@@ -992,6 +992,22 @@
     }
   },
   {
+    "country": "South Africa",
+    "countryCode": "ZA",
+    "pageviews": {
+      "1d": 1,
+      "7d": 2,
+      "30d": 4,
+      "all": 8
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 2,
+      "30d": 4,
+      "all": 8
+    }
+  },
+  {
     "country": "T1",
     "pageviews": {
       "1d": 0,
@@ -1003,22 +1019,6 @@
       "1d": 0,
       "7d": 1,
       "30d": 2,
-      "all": 7
-    }
-  },
-  {
-    "country": "South Africa",
-    "countryCode": "ZA",
-    "pageviews": {
-      "1d": 0,
-      "7d": 1,
-      "30d": 3,
-      "all": 7
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 1,
-      "30d": 3,
       "all": 7
     }
   },
@@ -1231,6 +1231,22 @@
     }
   },
   {
+    "country": "Lebanon",
+    "countryCode": "LB",
+    "pageviews": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 1,
+      "all": 3
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 1,
+      "all": 3
+    }
+  },
+  {
     "country": "Sri Lanka",
     "countryCode": "LK",
     "pageviews": {
@@ -1387,22 +1403,6 @@
       "1d": 0,
       "7d": 1,
       "30d": 1,
-      "all": 2
-    }
-  },
-  {
-    "country": "Lebanon",
-    "countryCode": "LB",
-    "pageviews": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 0,
-      "all": 2
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 0,
       "all": 2
     }
   },
