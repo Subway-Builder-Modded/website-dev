@@ -1,10 +1,10 @@
 {
   "sourceRepo": "Subway-Builder-Modded/registry",
   "sourceRef": "main",
-  "commitSha": "f997965e2eef28d4be914a66ce00bb18461f4b05",
+  "commitSha": "ebe5aae9bfeb89a04b79ba959102faffbc85f8df",
   "mapDataSourceRef": "map-data",
   "mapDataCommitSha": "cd051bae969b07ae67d96b7fc1a00ac549bd9e3c",
-  "fetchedAt": "2026-06-25T03:58:01.895Z",
+  "fetchedAt": "2026-06-25T04:59:30.106Z",
   "materializedFiles": [
     "public/community/discord_server_by_day.csv",
     "public/community/discord_user_message_by_day.csv",
@@ -29,6 +29,7 @@
     "public/registry-cache/authors/index.json",
     "public/registry-cache/credits/maintainers.json",
     "public/registry-cache/credits/supporters.json",
+    "public/registry-cache/github-releases-cache.json",
     "public/registry-cache/maps/akron-oh/basemap.svg",
     "public/registry-cache/maps/akron-oh/gallery/screenshot1.webp",
     "public/registry-cache/maps/akron-oh/grid.geojson",
@@ -1482,5 +1483,5 @@
     "public/website/analytics/timeseries.json",
     "public/website/analytics/valid-paths.json"
   ],
-  "websiteAnalyticsSourceGeneratedAt": "2026-06-24T23:49:17.252Z"
+  "websiteAnalyticsSourceGeneratedAt": "2026-06-25T04:50:55.471Z"
 }
