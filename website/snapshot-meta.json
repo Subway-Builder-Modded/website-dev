@@ -1,10 +1,10 @@
 {
   "sourceRepo": "Subway-Builder-Modded/registry",
   "sourceRef": "main",
-  "commitSha": "8b943c0774afdca988ffd4f7a2dd6d4049185c07",
+  "commitSha": "e8530b54dd5b7d42de748c018102ac89cc0c9ba3",
   "mapDataSourceRef": "map-data",
   "mapDataCommitSha": "000072ecd41db3821a916ac072a2ae2d66deead1",
-  "fetchedAt": "2026-06-28T17:46:49.243Z",
+  "fetchedAt": "2026-06-28T20:42:43.096Z",
   "materializedFiles": [
     "public/community/discord_server_by_day.csv",
     "public/community/discord_user_message_by_day.csv",
@@ -1395,7 +1395,7 @@
     "public/registry-cache/mods/cinematic-camera/manifest.json",
     "public/registry-cache/mods/citymapper/gallery/screenshot1.webp",
     "public/registry-cache/mods/citymapper/manifest.json",
-    "public/registry-cache/mods/compatibility-test-mod/gallery/screenshot1.webp",
+    "public/registry-cache/mods/compatibility-test-mod/gallery/screenshot-1.webp",
     "public/registry-cache/mods/compatibility-test-mod/gallery/screenshot2.webp",
     "public/registry-cache/mods/compatibility-test-mod/gallery/screenshot3.webp",
     "public/registry-cache/mods/compatibility-test-mod/gallery/screenshot4.webp",
@@ -1496,5 +1496,5 @@
     "public/website/analytics/timeseries.json",
     "public/website/analytics/valid-paths.json"
   ],
-  "websiteAnalyticsSourceGeneratedAt": "2026-06-28T15:57:28.880Z"
+  "websiteAnalyticsSourceGeneratedAt": "2026-06-28T19:59:41.845Z"
 }
