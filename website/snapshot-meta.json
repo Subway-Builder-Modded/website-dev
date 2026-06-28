@@ -1,10 +1,10 @@
 {
   "sourceRepo": "Subway-Builder-Modded/registry",
   "sourceRef": "main",
-  "commitSha": "a63722f366adf5cead2cb06940226c1f80c6b1be",
+  "commitSha": "72111328cf68302e396afd78984ef3119766f902",
   "mapDataSourceRef": "map-data",
-  "mapDataCommitSha": "694a6a7578f8ac70e0864c12d503d36bce3fafcc",
-  "fetchedAt": "2026-06-28T04:07:53.350Z",
+  "mapDataCommitSha": "b37a45a266f8149965cda4f8ede8135b81397d11",
+  "fetchedAt": "2026-06-28T06:59:22.811Z",
   "materializedFiles": [
     "public/community/discord_server_by_day.csv",
     "public/community/discord_user_message_by_day.csv",
@@ -1392,6 +1392,11 @@
     "public/registry-cache/mods/cinematic-camera/manifest.json",
     "public/registry-cache/mods/citymapper/gallery/screenshot1.webp",
     "public/registry-cache/mods/citymapper/manifest.json",
+    "public/registry-cache/mods/compatibility-test-mod/gallery/screenshot1.webp",
+    "public/registry-cache/mods/compatibility-test-mod/gallery/screenshot2.webp",
+    "public/registry-cache/mods/compatibility-test-mod/gallery/screenshot3.webp",
+    "public/registry-cache/mods/compatibility-test-mod/gallery/screenshot4.webp",
+    "public/registry-cache/mods/compatibility-test-mod/manifest.json",
     "public/registry-cache/mods/copy-paste/gallery/screenshot1.webp",
     "public/registry-cache/mods/copy-paste/manifest.json",
     "public/registry-cache/mods/danield1909-dantrains/gallery/screenshot1.webp",
@@ -1488,5 +1493,5 @@
     "public/website/analytics/timeseries.json",
     "public/website/analytics/valid-paths.json"
   ],
-  "websiteAnalyticsSourceGeneratedAt": "2026-06-28T01:52:48.851Z"
+  "websiteAnalyticsSourceGeneratedAt": "2026-06-28T06:46:36.160Z"
 }
