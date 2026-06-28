@@ -2,22 +2,22 @@
   {
     "path": "/",
     "pageviews": {
-      "1d": 97,
-      "7d": 365,
-      "30d": 1444,
-      "all": 4796
+      "1d": 109,
+      "7d": 377,
+      "30d": 1456,
+      "all": 4808
     },
     "visitors": {
-      "1d": 97,
-      "7d": 365,
-      "30d": 1444,
-      "all": 4796
+      "1d": 109,
+      "7d": 377,
+      "30d": 1456,
+      "all": 4808
     },
     "entrances": {
-      "1d": 97,
-      "7d": 365,
-      "30d": 1444,
-      "all": 4796
+      "1d": 109,
+      "7d": 377,
+      "30d": 1456,
+      "all": 4808
     }
   },
   {
@@ -65,43 +65,43 @@
   {
     "path": "/railyard/docs/latest/players/github-token",
     "pageviews": {
-      "1d": 31,
-      "7d": 119,
-      "30d": 347,
-      "all": 808
+      "1d": 34,
+      "7d": 122,
+      "30d": 350,
+      "all": 811
     },
     "visitors": {
-      "1d": 31,
-      "7d": 119,
-      "30d": 347,
-      "all": 808
+      "1d": 34,
+      "7d": 122,
+      "30d": 350,
+      "all": 811
     },
     "entrances": {
-      "1d": 31,
-      "7d": 119,
-      "30d": 347,
-      "all": 808
+      "1d": 34,
+      "7d": 122,
+      "30d": 350,
+      "all": 811
     }
   },
   {
     "path": "/railyard/docs/v0.2/players/github-token",
     "pageviews": {
-      "1d": 13,
-      "7d": 50,
-      "30d": 121,
-      "all": 378
+      "1d": 14,
+      "7d": 51,
+      "30d": 122,
+      "all": 379
     },
     "visitors": {
-      "1d": 13,
-      "7d": 50,
-      "30d": 121,
-      "all": 378
+      "1d": 14,
+      "7d": 51,
+      "30d": 122,
+      "all": 379
     },
     "entrances": {
-      "1d": 13,
-      "7d": 50,
-      "30d": 121,
-      "all": 378
+      "1d": 14,
+      "7d": 51,
+      "30d": 122,
+      "all": 379
     }
   },
   {
@@ -233,22 +233,22 @@
   {
     "path": "/railyard/mods/tod",
     "pageviews": {
-      "1d": 0,
-      "7d": 6,
-      "30d": 63,
-      "all": 106
+      "1d": 2,
+      "7d": 8,
+      "30d": 65,
+      "all": 108
     },
     "visitors": {
-      "1d": 0,
-      "7d": 6,
-      "30d": 63,
-      "all": 106
+      "1d": 2,
+      "7d": 8,
+      "30d": 65,
+      "all": 108
     },
     "entrances": {
-      "1d": 0,
-      "7d": 6,
-      "30d": 63,
-      "all": 106
+      "1d": 2,
+      "7d": 8,
+      "30d": 65,
+      "all": 108
     }
   },
   {
@@ -567,6 +567,27 @@
     }
   },
   {
+    "path": "/railyard/mods/subwaybuilder-regions",
+    "pageviews": {
+      "1d": 7,
+      "7d": 11,
+      "30d": 27,
+      "all": 52
+    },
+    "visitors": {
+      "1d": 7,
+      "7d": 11,
+      "30d": 27,
+      "all": 52
+    },
+    "entrances": {
+      "1d": 7,
+      "7d": 11,
+      "30d": 27,
+      "all": 52
+    }
+  },
+  {
     "path": "/railyard/mods/valdotoriums-trains",
     "pageviews": {
       "1d": 4,
@@ -627,27 +648,6 @@
       "7d": 2,
       "30d": 22,
       "all": 48
-    }
-  },
-  {
-    "path": "/railyard/mods/subwaybuilder-regions",
-    "pageviews": {
-      "1d": 1,
-      "7d": 5,
-      "30d": 21,
-      "all": 46
-    },
-    "visitors": {
-      "1d": 1,
-      "7d": 5,
-      "30d": 21,
-      "all": 46
-    },
-    "entrances": {
-      "1d": 1,
-      "7d": 5,
-      "30d": 21,
-      "all": 46
     }
   },
   {
@@ -840,6 +840,27 @@
     }
   },
   {
+    "path": "/registry/mods/simple-trains",
+    "pageviews": {
+      "1d": 1,
+      "7d": 3,
+      "30d": 9,
+      "all": 38
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 3,
+      "30d": 9,
+      "all": 38
+    },
+    "entrances": {
+      "1d": 1,
+      "7d": 3,
+      "30d": 9,
+      "all": 38
+    }
+  },
+  {
     "path": "/railyard/mods/citymapper",
     "pageviews": {
       "1d": 4,
@@ -857,27 +878,6 @@
       "1d": 4,
       "7d": 6,
       "30d": 12,
-      "all": 37
-    }
-  },
-  {
-    "path": "/registry/mods/simple-trains",
-    "pageviews": {
-      "1d": 0,
-      "7d": 2,
-      "30d": 8,
-      "all": 37
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 2,
-      "30d": 8,
-      "all": 37
-    },
-    "entrances": {
-      "1d": 0,
-      "7d": 2,
-      "30d": 8,
       "all": 37
     }
   },
@@ -1155,6 +1155,27 @@
     }
   },
   {
+    "path": "/template-mod/docs/v1.0/project-structure",
+    "pageviews": {
+      "1d": 1,
+      "7d": 5,
+      "30d": 13,
+      "all": 32
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 5,
+      "30d": 13,
+      "all": 32
+    },
+    "entrances": {
+      "1d": 1,
+      "7d": 5,
+      "30d": 13,
+      "all": 32
+    }
+  },
+  {
     "path": "/railyard/mods/station-dots",
     "pageviews": {
       "1d": 1,
@@ -1214,27 +1235,6 @@
       "1d": 0,
       "7d": 0,
       "30d": 3,
-      "all": 31
-    }
-  },
-  {
-    "path": "/template-mod/docs/v1.0/project-structure",
-    "pageviews": {
-      "1d": 0,
-      "7d": 4,
-      "30d": 12,
-      "all": 31
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 4,
-      "30d": 12,
-      "all": 31
-    },
-    "entrances": {
-      "1d": 0,
-      "7d": 4,
-      "30d": 12,
       "all": 31
     }
   },
@@ -1386,6 +1386,27 @@
     }
   },
   {
+    "path": "/railyard/maps/bucharest-medium",
+    "pageviews": {
+      "1d": 6,
+      "7d": 7,
+      "30d": 15,
+      "all": 28
+    },
+    "visitors": {
+      "1d": 6,
+      "7d": 7,
+      "30d": 15,
+      "all": 28
+    },
+    "entrances": {
+      "1d": 6,
+      "7d": 7,
+      "30d": 15,
+      "all": 28
+    }
+  },
+  {
     "path": "/registry/mods/citymapper",
     "pageviews": {
       "1d": 0,
@@ -1404,27 +1425,6 @@
       "7d": 0,
       "30d": 9,
       "all": 28
-    }
-  },
-  {
-    "path": "/railyard/maps/bucharest-medium",
-    "pageviews": {
-      "1d": 4,
-      "7d": 5,
-      "30d": 13,
-      "all": 26
-    },
-    "visitors": {
-      "1d": 4,
-      "7d": 5,
-      "30d": 13,
-      "all": 26
-    },
-    "entrances": {
-      "1d": 4,
-      "7d": 5,
-      "30d": 13,
-      "all": 26
     }
   },
   {
@@ -1680,6 +1680,27 @@
     }
   },
   {
+    "path": "/registry/maps/glasgow-edinburgh",
+    "pageviews": {
+      "1d": 5,
+      "7d": 7,
+      "30d": 11,
+      "all": 23
+    },
+    "visitors": {
+      "1d": 5,
+      "7d": 7,
+      "30d": 11,
+      "all": 23
+    },
+    "entrances": {
+      "1d": 5,
+      "7d": 7,
+      "30d": 11,
+      "all": 23
+    }
+  },
+  {
     "path": "/railyard/docs/v0.2/developers/data-quality",
     "pageviews": {
       "1d": 0,
@@ -1764,6 +1785,27 @@
     }
   },
   {
+    "path": "/registry/mods/station-dots",
+    "pageviews": {
+      "1d": 2,
+      "7d": 5,
+      "30d": 10,
+      "all": 22
+    },
+    "visitors": {
+      "1d": 2,
+      "7d": 5,
+      "30d": 10,
+      "all": 22
+    },
+    "entrances": {
+      "1d": 2,
+      "7d": 5,
+      "30d": 10,
+      "all": 22
+    }
+  },
+  {
     "path": "/railyard/maps/singapore-val",
     "pageviews": {
       "1d": 0,
@@ -1823,27 +1865,6 @@
       "1d": 0,
       "7d": 4,
       "30d": 10,
-      "all": 21
-    }
-  },
-  {
-    "path": "/registry/mods/station-dots",
-    "pageviews": {
-      "1d": 1,
-      "7d": 4,
-      "30d": 9,
-      "all": 21
-    },
-    "visitors": {
-      "1d": 1,
-      "7d": 4,
-      "30d": 9,
-      "all": 21
-    },
-    "entrances": {
-      "1d": 1,
-      "7d": 4,
-      "30d": 9,
       "all": 21
     }
   },
@@ -1949,27 +1970,6 @@
       "1d": 0,
       "7d": 1,
       "30d": 6,
-      "all": 20
-    }
-  },
-  {
-    "path": "/registry/maps/glasgow-edinburgh",
-    "pageviews": {
-      "1d": 2,
-      "7d": 4,
-      "30d": 8,
-      "all": 20
-    },
-    "visitors": {
-      "1d": 2,
-      "7d": 4,
-      "30d": 8,
-      "all": 20
-    },
-    "entrances": {
-      "1d": 2,
-      "7d": 4,
-      "30d": 8,
       "all": 20
     }
   },
@@ -2121,6 +2121,27 @@
     }
   },
   {
+    "path": "/railyard/mods/cinematic-camera",
+    "pageviews": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 7,
+      "all": 19
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 7,
+      "all": 19
+    },
+    "entrances": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 7,
+      "all": 19
+    }
+  },
+  {
     "path": "/registry/authors/BarKuperman",
     "pageviews": {
       "1d": 1,
@@ -2201,6 +2222,27 @@
       "1d": 1,
       "7d": 2,
       "30d": 7,
+      "all": 19
+    }
+  },
+  {
+    "path": "/registry/maps/yukina-okinawa",
+    "pageviews": {
+      "1d": 1,
+      "7d": 2,
+      "30d": 4,
+      "all": 19
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 2,
+      "30d": 4,
+      "all": 19
+    },
+    "entrances": {
+      "1d": 1,
+      "7d": 2,
+      "30d": 4,
       "all": 19
     }
   },
@@ -2289,27 +2331,6 @@
     }
   },
   {
-    "path": "/railyard/mods/cinematic-camera",
-    "pageviews": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 6,
-      "all": 18
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 6,
-      "all": 18
-    },
-    "entrances": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 6,
-      "all": 18
-    }
-  },
-  {
     "path": "/railyard/mods/satellite-overlay",
     "pageviews": {
       "1d": 1,
@@ -2348,6 +2369,27 @@
       "1d": 0,
       "7d": 2,
       "30d": 18,
+      "all": 18
+    }
+  },
+  {
+    "path": "/railyard/updates/v0.1.5",
+    "pageviews": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 8,
+      "all": 18
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 8,
+      "all": 18
+    },
+    "entrances": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 8,
       "all": 18
     }
   },
@@ -2453,27 +2495,6 @@
       "1d": 1,
       "7d": 1,
       "30d": 6,
-      "all": 18
-    }
-  },
-  {
-    "path": "/registry/maps/yukina-okinawa",
-    "pageviews": {
-      "1d": 0,
-      "7d": 1,
-      "30d": 3,
-      "all": 18
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 1,
-      "30d": 3,
-      "all": 18
-    },
-    "entrances": {
-      "1d": 0,
-      "7d": 1,
-      "30d": 3,
       "all": 18
     }
   },
@@ -2625,27 +2646,6 @@
     }
   },
   {
-    "path": "/railyard/updates/v0.1.5",
-    "pageviews": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 7,
-      "all": 17
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 7,
-      "all": 17
-    },
-    "entrances": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 7,
-      "all": 17
-    }
-  },
-  {
     "path": "/registry/authors/stefanorigano",
     "pageviews": {
       "1d": 1,
@@ -2705,6 +2705,27 @@
       "1d": 1,
       "7d": 1,
       "30d": 6,
+      "all": 17
+    }
+  },
+  {
+    "path": "/registry/maps/mfn-madisonwi",
+    "pageviews": {
+      "1d": 1,
+      "7d": 4,
+      "30d": 5,
+      "all": 17
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 4,
+      "30d": 5,
+      "all": 17
+    },
+    "entrances": {
+      "1d": 1,
+      "7d": 4,
+      "30d": 5,
       "all": 17
     }
   },
@@ -2919,27 +2940,6 @@
     }
   },
   {
-    "path": "/registry/maps/mfn-madisonwi",
-    "pageviews": {
-      "1d": 0,
-      "7d": 3,
-      "30d": 4,
-      "all": 16
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 3,
-      "30d": 4,
-      "all": 16
-    },
-    "entrances": {
-      "1d": 0,
-      "7d": 3,
-      "30d": 4,
-      "all": 16
-    }
-  },
-  {
     "path": "/registry/maps/yukina-nakadoori",
     "pageviews": {
       "1d": 0,
@@ -3041,6 +3041,27 @@
       "1d": 0,
       "7d": 0,
       "30d": 6,
+      "all": 16
+    }
+  },
+  {
+    "path": "/registry/mods/satellite-overlay",
+    "pageviews": {
+      "1d": 3,
+      "7d": 3,
+      "30d": 12,
+      "all": 16
+    },
+    "visitors": {
+      "1d": 3,
+      "7d": 3,
+      "30d": 12,
+      "all": 16
+    },
+    "entrances": {
+      "1d": 3,
+      "7d": 3,
+      "30d": 12,
       "all": 16
     }
   },
@@ -3339,6 +3360,27 @@
     }
   },
   {
+    "path": "/registry/maps/yukina-hakodate",
+    "pageviews": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 2,
+      "all": 15
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 2,
+      "all": 15
+    },
+    "entrances": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 2,
+      "all": 15
+    }
+  },
+  {
     "path": "/registry/maps/yukina-kobe-akashi",
     "pageviews": {
       "1d": 1,
@@ -3398,27 +3440,6 @@
       "1d": 0,
       "7d": 1,
       "30d": 6,
-      "all": 15
-    }
-  },
-  {
-    "path": "/registry/mods/satellite-overlay",
-    "pageviews": {
-      "1d": 2,
-      "7d": 2,
-      "30d": 11,
-      "all": 15
-    },
-    "visitors": {
-      "1d": 2,
-      "7d": 2,
-      "30d": 11,
-      "all": 15
-    },
-    "entrances": {
-      "1d": 2,
-      "7d": 2,
-      "30d": 11,
       "all": 15
     }
   },
@@ -3759,27 +3780,6 @@
     }
   },
   {
-    "path": "/registry/maps/yukina-hakodate",
-    "pageviews": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 1,
-      "all": 14
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 1,
-      "all": 14
-    },
-    "entrances": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 1,
-      "all": 14
-    }
-  },
-  {
     "path": "/registry/mods/lrt-trains",
     "pageviews": {
       "1d": 0,
@@ -3969,6 +3969,27 @@
     }
   },
   {
+    "path": "/railyard/maps/yukina-nakaumi",
+    "pageviews": {
+      "1d": 1,
+      "7d": 2,
+      "30d": 3,
+      "all": 13
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 2,
+      "30d": 3,
+      "all": 13
+    },
+    "entrances": {
+      "1d": 1,
+      "7d": 2,
+      "30d": 3,
+      "all": 13
+    }
+  },
+  {
     "path": "/registry/authors/soccerjonj",
     "pageviews": {
       "1d": 0,
@@ -4133,27 +4154,6 @@
       "1d": 0,
       "7d": 0,
       "30d": 4,
-      "all": 12
-    }
-  },
-  {
-    "path": "/railyard/maps/yukina-nakaumi",
-    "pageviews": {
-      "1d": 0,
-      "7d": 1,
-      "30d": 2,
-      "all": 12
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 1,
-      "30d": 2,
-      "all": 12
-    },
-    "entrances": {
-      "1d": 0,
-      "7d": 1,
-      "30d": 2,
       "all": 12
     }
   },
@@ -4452,6 +4452,27 @@
     }
   },
   {
+    "path": "/railyard/docs/v0.1/developers/publishing-projects",
+    "pageviews": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 3,
+      "all": 11
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 3,
+      "all": 11
+    },
+    "entrances": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 3,
+      "all": 11
+    }
+  },
+  {
     "path": "/railyard/maps/jelegend-tokyo/changelog/v0.5.0",
     "pageviews": {
       "1d": 1,
@@ -4532,6 +4553,27 @@
       "1d": 0,
       "7d": 11,
       "30d": 11,
+      "all": 11
+    }
+  },
+  {
+    "path": "/railyard/maps/yukina-hakodate",
+    "pageviews": {
+      "1d": 1,
+      "7d": 2,
+      "30d": 6,
+      "all": 11
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 2,
+      "30d": 6,
+      "all": 11
+    },
+    "entrances": {
+      "1d": 1,
+      "7d": 2,
+      "30d": 6,
       "all": 11
     }
   },
@@ -4809,27 +4851,6 @@
     }
   },
   {
-    "path": "/railyard/docs/v0.1/developers/publishing-projects",
-    "pageviews": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 2,
-      "all": 10
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 2,
-      "all": 10
-    },
-    "entrances": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 2,
-      "all": 10
-    }
-  },
-  {
     "path": "/railyard/maps/baltimore-dc-corridor",
     "pageviews": {
       "1d": 0,
@@ -4952,27 +4973,6 @@
       "1d": 0,
       "7d": 1,
       "30d": 3,
-      "all": 10
-    }
-  },
-  {
-    "path": "/railyard/maps/yukina-hakodate",
-    "pageviews": {
-      "1d": 0,
-      "7d": 1,
-      "30d": 5,
-      "all": 10
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 1,
-      "30d": 5,
-      "all": 10
-    },
-    "entrances": {
-      "1d": 0,
-      "7d": 1,
-      "30d": 5,
       "all": 10
     }
   },
@@ -5691,6 +5691,27 @@
     }
   },
   {
+    "path": "/registry/maps/yukina-pl-szczecin",
+    "pageviews": {
+      "1d": 2,
+      "7d": 3,
+      "30d": 6,
+      "all": 9
+    },
+    "visitors": {
+      "1d": 2,
+      "7d": 3,
+      "30d": 6,
+      "all": 9
+    },
+    "entrances": {
+      "1d": 2,
+      "7d": 3,
+      "30d": 6,
+      "all": 9
+    }
+  },
+  {
     "path": "/registry/maps/yukina-tw-hsinchu",
     "pageviews": {
       "1d": 0,
@@ -6027,6 +6048,27 @@
     }
   },
   {
+    "path": "/registry/authors/TransitCore",
+    "pageviews": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 2,
+      "all": 8
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 2,
+      "all": 8
+    },
+    "entrances": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 2,
+      "all": 8
+    }
+  },
+  {
     "path": "/registry/maps/cdmx-core",
     "pageviews": {
       "1d": 0,
@@ -6168,27 +6210,6 @@
     },
     "entrances": {
       "1d": 0,
-      "7d": 2,
-      "30d": 5,
-      "all": 8
-    }
-  },
-  {
-    "path": "/registry/maps/yukina-pl-szczecin",
-    "pageviews": {
-      "1d": 1,
-      "7d": 2,
-      "30d": 5,
-      "all": 8
-    },
-    "visitors": {
-      "1d": 1,
-      "7d": 2,
-      "30d": 5,
-      "all": 8
-    },
-    "entrances": {
-      "1d": 1,
       "7d": 2,
       "30d": 5,
       "all": 8
@@ -6716,27 +6737,6 @@
       "1d": 0,
       "7d": 0,
       "30d": 0,
-      "all": 7
-    }
-  },
-  {
-    "path": "/registry/authors/TransitCore",
-    "pageviews": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 1,
-      "all": 7
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 1,
-      "all": 7
-    },
-    "entrances": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 1,
       "all": 7
     }
   },
@@ -8316,6 +8316,27 @@
     }
   },
   {
+    "path": "/registry/maps/palermo",
+    "pageviews": {
+      "1d": 2,
+      "7d": 2,
+      "30d": 3,
+      "all": 5
+    },
+    "visitors": {
+      "1d": 2,
+      "7d": 2,
+      "30d": 3,
+      "all": 5
+    },
+    "entrances": {
+      "1d": 2,
+      "7d": 2,
+      "30d": 3,
+      "all": 5
+    }
+  },
+  {
     "path": "/registry/maps/vancouver",
     "pageviews": {
       "1d": 0,
@@ -9424,27 +9445,6 @@
     "entrances": {
       "1d": 0,
       "7d": 0,
-      "30d": 2,
-      "all": 4
-    }
-  },
-  {
-    "path": "/registry/maps/palermo",
-    "pageviews": {
-      "1d": 1,
-      "7d": 1,
-      "30d": 2,
-      "all": 4
-    },
-    "visitors": {
-      "1d": 1,
-      "7d": 1,
-      "30d": 2,
-      "all": 4
-    },
-    "entrances": {
-      "1d": 1,
-      "7d": 1,
       "30d": 2,
       "all": 4
     }
@@ -11083,6 +11083,27 @@
     "entrances": {
       "1d": 0,
       "7d": 0,
+      "30d": 3,
+      "all": 3
+    }
+  },
+  {
+    "path": "/registry/maps/yukina-pl-czestochowa",
+    "pageviews": {
+      "1d": 1,
+      "7d": 2,
+      "30d": 3,
+      "all": 3
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 2,
+      "30d": 3,
+      "all": 3
+    },
+    "entrances": {
+      "1d": 1,
+      "7d": 2,
       "30d": 3,
       "all": 3
     }
@@ -14175,6 +14196,27 @@
     }
   },
   {
+    "path": "/registry/maps/yukina-cz-zlin",
+    "pageviews": {
+      "1d": 2,
+      "7d": 2,
+      "30d": 2,
+      "all": 2
+    },
+    "visitors": {
+      "1d": 2,
+      "7d": 2,
+      "30d": 2,
+      "all": 2
+    },
+    "entrances": {
+      "1d": 2,
+      "7d": 2,
+      "30d": 2,
+      "all": 2
+    }
+  },
+  {
     "path": "/registry/maps/yukina-ee-tallinn",
     "pageviews": {
       "1d": 1,
@@ -14191,27 +14233,6 @@
     "entrances": {
       "1d": 1,
       "7d": 2,
-      "30d": 2,
-      "all": 2
-    }
-  },
-  {
-    "path": "/registry/maps/yukina-pl-czestochowa",
-    "pageviews": {
-      "1d": 0,
-      "7d": 1,
-      "30d": 2,
-      "all": 2
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 1,
-      "30d": 2,
-      "all": 2
-    },
-    "entrances": {
-      "1d": 0,
-      "7d": 1,
       "30d": 2,
       "all": 2
     }
@@ -19824,27 +19845,6 @@
     }
   },
   {
-    "path": "/registry/maps/yukina-cz-zlin",
-    "pageviews": {
-      "1d": 1,
-      "7d": 1,
-      "30d": 1,
-      "all": 1
-    },
-    "visitors": {
-      "1d": 1,
-      "7d": 1,
-      "30d": 1,
-      "all": 1
-    },
-    "entrances": {
-      "1d": 1,
-      "7d": 1,
-      "30d": 1,
-      "all": 1
-    }
-  },
-  {
     "path": "/registry/maps/yukina-ee-tartu",
     "pageviews": {
       "1d": 0,
@@ -19888,6 +19888,27 @@
   },
   {
     "path": "/registry/maps/yukina-pl-radom",
+    "pageviews": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 1,
+      "all": 1
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 1,
+      "all": 1
+    },
+    "entrances": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 1,
+      "all": 1
+    }
+  },
+  {
+    "path": "/registry/maps/yukina-pl-zielona-gora",
     "pageviews": {
       "1d": 1,
       "7d": 1,
