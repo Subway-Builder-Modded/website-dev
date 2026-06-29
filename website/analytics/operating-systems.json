@@ -2,54 +2,54 @@
   {
     "operatingSystem": "Unknown",
     "visits": {
-      "1d": 280,
-      "7d": 731,
-      "30d": 2273,
-      "all": 6139
+      "1d": 0,
+      "7d": 733,
+      "30d": 2229,
+      "all": 6160
     }
   },
   {
     "operatingSystem": "Windows",
     "visits": {
-      "1d": 86,
-      "7d": 493,
-      "30d": 1671,
-      "all": 5078
+      "1d": 2,
+      "7d": 498,
+      "30d": 1663,
+      "all": 5098
     }
   },
   {
     "operatingSystem": "MacOSX",
     "visits": {
-      "1d": 55,
+      "1d": 0,
       "7d": 348,
-      "30d": 1300,
-      "all": 3273
+      "30d": 1276,
+      "all": 3275
     }
   },
   {
     "operatingSystem": "Android",
     "visits": {
-      "1d": 18,
-      "7d": 106,
-      "30d": 553,
-      "all": 1814
+      "1d": 9,
+      "7d": 118,
+      "30d": 550,
+      "all": 1830
     }
   },
   {
     "operatingSystem": "iOS",
     "visits": {
-      "1d": 23,
-      "7d": 108,
-      "30d": 447,
-      "all": 1268
+      "1d": 0,
+      "7d": 117,
+      "30d": 451,
+      "all": 1281
     }
   },
   {
     "operatingSystem": "Linux",
     "visits": {
-      "1d": 2,
-      "7d": 29,
-      "30d": 88,
+      "1d": 0,
+      "7d": 28,
+      "30d": 80,
       "all": 320
     }
   },
