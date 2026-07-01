@@ -1,10 +1,10 @@
 {
   "sourceRepo": "Subway-Builder-Modded/registry",
   "sourceRef": "main",
-  "commitSha": "dfcc91b9bb2a30f7a842520ae84030b47820f69a",
+  "commitSha": "8fbfd7bf2d174144e9f9358b7858a4d933fe4ada",
   "mapDataSourceRef": "map-data",
-  "mapDataCommitSha": "bdf12a332fad4ee7ac4b23f7492ade89d44b6fed",
-  "fetchedAt": "2026-06-29T05:42:20.606Z",
+  "mapDataCommitSha": "acf3685d9947dc5364a028eb03966fac803be3df",
+  "fetchedAt": "2026-07-01T03:59:28.876Z",
   "materializedFiles": [
     "public/community/discord_server_by_day.csv",
     "public/community/discord_user_message_by_day.csv",
@@ -1422,6 +1422,8 @@
     "public/registry-cache/mods/improved-schematics/gallery/screenshot2.webp",
     "public/registry-cache/mods/improved-schematics/manifest.json",
     "public/registry-cache/mods/index.json",
+    "public/registry-cache/mods/induced-demand/gallery/screenshot1.webp",
+    "public/registry-cache/mods/induced-demand/manifest.json",
     "public/registry-cache/mods/integrity.json",
     "public/registry-cache/mods/japanese-trains/gallery/screenshot1.webp",
     "public/registry-cache/mods/japanese-trains/manifest.json",
@@ -1496,5 +1498,5 @@
     "public/website/analytics/timeseries.json",
     "public/website/analytics/valid-paths.json"
   ],
-  "websiteAnalyticsSourceGeneratedAt": "2026-06-29T05:18:35.614Z"
+  "websiteAnalyticsSourceGeneratedAt": "2026-07-01T03:00:47.411Z"
 }
