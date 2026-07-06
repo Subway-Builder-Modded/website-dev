@@ -1,7 +1,7 @@
 import{a as e}from"./chunk-BEqpzyXh.js";import{t}from"./jsx-runtime-qJqhvtml.js";var n=e(t());function r(e){let t={code:`code`,li:`li`,ul:`ul`,...e.components},{ChangelogSection:r}=t;return r||a(`ChangelogSection`,!0),(0,n.jsxs)(n.Fragment,{children:[(0,n.jsx)(r,{type:`improvements`,children:(0,n.jsxs)(t.ul,{children:[`
 `,(0,n.jsxs)(t.li,{children:[`Added support for maps with separate building foundations tiles.`,`
 `,(0,n.jsxs)(t.ul,{children:[`
-`,(0,n.jsxs)(t.li,{children:[`Put a `,(0,n.jsx)(t.code,{children:`{CITY CODE}_foundations.pmtiles`}),` file in your zip and Railyard will handle the rest.`]}),`
+`,(0,n.jsxs)(t.li,{children:[`Put a `,(0,n.jsx)(t.code,{children:`<city-code>_foundations.pmtiles`}),` file in your zip and Railyard will handle the rest.`]}),`
 `]}),`
 `]}),`
 `,(0,n.jsx)(t.li,{children:`The Map Loader will now show ocean depth by default (if the map includes it)`}),`

@@ -2,43 +2,43 @@
   {
     "path": "/",
     "pageviews": {
-      "1d": 26,
-      "7d": 526,
-      "30d": 1994,
-      "all": 5698
+      "1d": 37,
+      "7d": 537,
+      "30d": 2005,
+      "all": 5709
     },
     "visitors": {
-      "1d": 26,
-      "7d": 526,
-      "30d": 1994,
-      "all": 5698
+      "1d": 37,
+      "7d": 537,
+      "30d": 2005,
+      "all": 5709
     },
     "entrances": {
-      "1d": 26,
-      "7d": 526,
-      "30d": 1994,
-      "all": 5698
+      "1d": 37,
+      "7d": 537,
+      "30d": 2005,
+      "all": 5709
     }
   },
   {
     "path": "/railyard",
     "pageviews": {
-      "1d": 32,
-      "7d": 189,
-      "30d": 705,
-      "all": 2302
+      "1d": 36,
+      "7d": 193,
+      "30d": 709,
+      "all": 2306
     },
     "visitors": {
-      "1d": 32,
-      "7d": 189,
-      "30d": 705,
-      "all": 2302
+      "1d": 36,
+      "7d": 193,
+      "30d": 709,
+      "all": 2306
     },
     "entrances": {
-      "1d": 32,
-      "7d": 189,
-      "30d": 705,
-      "all": 2302
+      "1d": 36,
+      "7d": 193,
+      "30d": 709,
+      "all": 2306
     }
   },
   {
@@ -128,22 +128,22 @@
   {
     "path": "/railyard/docs",
     "pageviews": {
-      "1d": 1,
-      "7d": 23,
-      "30d": 80,
-      "all": 238
+      "1d": 2,
+      "7d": 24,
+      "30d": 81,
+      "all": 239
     },
     "visitors": {
-      "1d": 1,
-      "7d": 23,
-      "30d": 80,
-      "all": 238
+      "1d": 2,
+      "7d": 24,
+      "30d": 81,
+      "all": 239
     },
     "entrances": {
-      "1d": 1,
-      "7d": 23,
-      "30d": 80,
-      "all": 238
+      "1d": 2,
+      "7d": 24,
+      "30d": 81,
+      "all": 239
     }
   },
   {
@@ -317,22 +317,22 @@
   {
     "path": "/website",
     "pageviews": {
-      "1d": 0,
-      "7d": 7,
-      "30d": 34,
-      "all": 91
+      "1d": 1,
+      "7d": 8,
+      "30d": 35,
+      "all": 92
     },
     "visitors": {
-      "1d": 0,
-      "7d": 7,
-      "30d": 34,
-      "all": 91
+      "1d": 1,
+      "7d": 8,
+      "30d": 35,
+      "all": 92
     },
     "entrances": {
-      "1d": 0,
-      "7d": 7,
-      "30d": 34,
-      "all": 91
+      "1d": 1,
+      "7d": 8,
+      "30d": 35,
+      "all": 92
     }
   },
   {
@@ -569,22 +569,22 @@
   {
     "path": "/railyard/updates/v0.2.0",
     "pageviews": {
-      "1d": 23,
-      "7d": 27,
-      "30d": 31,
-      "all": 58
+      "1d": 24,
+      "7d": 28,
+      "30d": 32,
+      "all": 59
     },
     "visitors": {
-      "1d": 23,
-      "7d": 27,
-      "30d": 31,
-      "all": 58
+      "1d": 24,
+      "7d": 28,
+      "30d": 32,
+      "all": 59
     },
     "entrances": {
-      "1d": 23,
-      "7d": 27,
-      "30d": 31,
-      "all": 58
+      "1d": 24,
+      "7d": 28,
+      "30d": 32,
+      "all": 59
     }
   },
   {
@@ -1932,6 +1932,27 @@
     }
   },
   {
+    "path": "/registry/mods/track-anarchy",
+    "pageviews": {
+      "1d": 17,
+      "7d": 20,
+      "30d": 23,
+      "all": 23
+    },
+    "visitors": {
+      "1d": 17,
+      "7d": 20,
+      "30d": 23,
+      "all": 23
+    },
+    "entrances": {
+      "1d": 17,
+      "7d": 20,
+      "30d": 23,
+      "all": 23
+    }
+  },
+  {
     "path": "/railyard/docs/v0.2/developers/data-quality",
     "pageviews": {
       "1d": 0,
@@ -2201,27 +2222,6 @@
       "1d": 0,
       "7d": 0,
       "30d": 8,
-      "all": 21
-    }
-  },
-  {
-    "path": "/registry/mods/track-anarchy",
-    "pageviews": {
-      "1d": 15,
-      "7d": 18,
-      "30d": 21,
-      "all": 21
-    },
-    "visitors": {
-      "1d": 15,
-      "7d": 18,
-      "30d": 21,
-      "all": 21
-    },
-    "entrances": {
-      "1d": 15,
-      "7d": 18,
-      "30d": 21,
       "all": 21
     }
   },
@@ -2667,6 +2667,27 @@
     }
   },
   {
+    "path": "/registry/mods/satellite-overlay",
+    "pageviews": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 13,
+      "all": 19
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 13,
+      "all": 19
+    },
+    "entrances": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 13,
+      "all": 19
+    }
+  },
+  {
     "path": "/railyard/docs/v0.2/players/profile-management",
     "pageviews": {
       "1d": 0,
@@ -2936,27 +2957,6 @@
       "1d": 0,
       "7d": 0,
       "30d": 8,
-      "all": 18
-    }
-  },
-  {
-    "path": "/registry/mods/satellite-overlay",
-    "pageviews": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 12,
-      "all": 18
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 12,
-      "all": 18
-    },
-    "entrances": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 12,
       "all": 18
     }
   },
@@ -14280,6 +14280,27 @@
     }
   },
   {
+    "path": "/registry/authors",
+    "pageviews": {
+      "1d": 1,
+      "7d": 2,
+      "30d": 2,
+      "all": 2
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 2,
+      "30d": 2,
+      "all": 2
+    },
+    "entrances": {
+      "1d": 1,
+      "7d": 2,
+      "30d": 2,
+      "all": 2
+    }
+  },
+  {
     "path": "/registry/authors/bean1322",
     "pageviews": {
       "1d": 0,
@@ -14738,6 +14759,27 @@
       "1d": 0,
       "7d": 0,
       "30d": 1,
+      "all": 2
+    }
+  },
+  {
+    "path": "/registry/maps/greater-kuala-lumpur/versions",
+    "pageviews": {
+      "1d": 1,
+      "7d": 2,
+      "30d": 2,
+      "all": 2
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 2,
+      "30d": 2,
+      "all": 2
+    },
+    "entrances": {
+      "1d": 1,
+      "7d": 2,
+      "30d": 2,
       "all": 2
     }
   },
@@ -19593,27 +19635,6 @@
     }
   },
   {
-    "path": "/registry/authors",
-    "pageviews": {
-      "1d": 0,
-      "7d": 1,
-      "30d": 1,
-      "all": 1
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 1,
-      "30d": 1,
-      "all": 1
-    },
-    "entrances": {
-      "1d": 0,
-      "7d": 1,
-      "30d": 1,
-      "all": 1
-    }
-  },
-  {
     "path": "/registry/authors/chasemanning040911-afk",
     "pageviews": {
       "1d": 0,
@@ -20538,21 +20559,21 @@
     }
   },
   {
-    "path": "/registry/maps/greater-kuala-lumpur/versions",
+    "path": "/registry/maps/greater-los-angeles/versions/1.1.0",
     "pageviews": {
-      "1d": 0,
+      "1d": 1,
       "7d": 1,
       "30d": 1,
       "all": 1
     },
     "visitors": {
-      "1d": 0,
+      "1d": 1,
       "7d": 1,
       "30d": 1,
       "all": 1
     },
     "entrances": {
-      "1d": 0,
+      "1d": 1,
       "7d": 1,
       "30d": 1,
       "all": 1
