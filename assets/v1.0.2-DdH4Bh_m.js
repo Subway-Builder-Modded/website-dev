@@ -7,6 +7,7 @@ import{a as e}from"./chunk-BEqpzyXh.js";import{t}from"./jsx-runtime-qJqhvtml.js"
 `]})}),`
 `,(0,n.jsx)(r,{type:`bugfixes`,children:(0,n.jsxs)(t.ul,{children:[`
 `,(0,n.jsx)(t.li,{children:`Fixed analytics tables having extra vertical space on the bottom row`}),`
+`,(0,n.jsxs)(t.li,{children:[`Fixed the `,(0,n.jsx)(t.strong,{children:`Edit`}),` link in documentation and changelogs`]}),`
 `]})}),`
 `,(0,n.jsx)(r,{type:`notes`,children:(0,n.jsxs)(t.ul,{children:[`
 `,(0,n.jsxs)(t.li,{children:[`Removed sorting from `,(0,n.jsx)(t.strong,{children:`Versions`}),` on the Registry listing pages`]}),`
