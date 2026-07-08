@@ -2,55 +2,55 @@
   {
     "operatingSystem": "Unknown",
     "visits": {
-      "1d": 33,
-      "7d": 527,
-      "30d": 2278,
-      "all": 6709
+      "1d": 26,
+      "7d": 528,
+      "30d": 2260,
+      "all": 6808
     }
   },
   {
     "operatingSystem": "Windows",
     "visits": {
-      "1d": 16,
-      "7d": 334,
-      "30d": 1703,
-      "all": 5492
+      "1d": 2,
+      "7d": 352,
+      "30d": 1682,
+      "all": 5578
     }
   },
   {
     "operatingSystem": "MacOSX",
     "visits": {
-      "1d": 147,
-      "7d": 416,
-      "30d": 1444,
-      "all": 3729
+      "1d": 4,
+      "7d": 427,
+      "30d": 1419,
+      "all": 3801
     }
   },
   {
     "operatingSystem": "Android",
     "visits": {
-      "1d": 10,
-      "7d": 124,
-      "30d": 571,
-      "all": 1968
+      "1d": 1,
+      "7d": 115,
+      "30d": 538,
+      "all": 1983
     }
   },
   {
     "operatingSystem": "iOS",
     "visits": {
-      "1d": 6,
-      "7d": 75,
-      "30d": 447,
-      "all": 1365
+      "1d": 0,
+      "7d": 71,
+      "30d": 415,
+      "all": 1370
     }
   },
   {
     "operatingSystem": "Linux",
     "visits": {
       "1d": 3,
-      "7d": 45,
-      "30d": 102,
-      "all": 368
+      "7d": 30,
+      "30d": 105,
+      "all": 371
     }
   },
   {
@@ -58,7 +58,7 @@
     "visits": {
       "1d": 0,
       "7d": 2,
-      "30d": 14,
+      "30d": 13,
       "all": 30
     }
   }

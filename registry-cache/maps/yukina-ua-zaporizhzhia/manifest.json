@@ -1,0 +1,143 @@
+{
+  "schema_version": 1,
+  "id": "yukina-ua-zaporizhzhia",
+  "name": "Запоріжжя / Zaporizhzhia",
+  "author": "ahkimn",
+  "github_id": 19807509,
+  "description": "Part of the [EU Map Pack](https://ahkimn.github.io/subwaybuilder-eu-maps).\n\nHighly-detailed map of the Запоріжжя (Zaporizhzhia) metropolitan region using pre-Feb-2022 Ukrainian government statistics.\n\n![Map Coverage](preview.webp)\n\n## Coverage\n\n<table style=\"width: auto\">\n<tr><td><strong>Metropolitan Area(s)</strong></td><td>Запоріжжя (Zaporizhzhia)</td></tr>\n<tr><td><strong>Hromadas (територіальні громади)</strong></td><td>25</td></tr>\n<tr><td><strong>Playable Area</strong></td><td>5,523 km²</td></tr>\n</table>\n\n<details>\n<summary>Hromada list</summary>\n\n<table style=\"width: auto\">\n<tr><th align=\"left\">Code</th><th align=\"left\">Громада</th><th align=\"left\">Hromada</th><th align=\"right\">Population</th></tr>\n<tr><td align=\"left\">UA2306007D07</td><td align=\"left\">Запорізька</td><td align=\"left\">Запорізька</td><td align=\"right\">175,507</td></tr>\n<tr><td align=\"left\">UA2306007D02</td><td align=\"left\">Запорізька</td><td align=\"left\">Запорізька</td><td align=\"right\">121,985</td></tr>\n<tr><td align=\"left\">UA2306007D03</td><td align=\"left\">Запорізька</td><td align=\"left\">Запорізька</td><td align=\"right\">118,066</td></tr>\n<tr><td align=\"left\">UA2306007D05</td><td align=\"left\">Запорізька</td><td align=\"left\">Запорізька</td><td align=\"right\">108,596</td></tr>\n<tr><td align=\"left\">UA2306007D04</td><td align=\"left\">Запорізька</td><td align=\"left\">Запорізька</td><td align=\"right\">72,099</td></tr>\n<tr><td align=\"left\">UA2306007D01</td><td align=\"left\">Запорізька</td><td align=\"left\">Запорізька</td><td align=\"right\">62,963</td></tr>\n<tr><td align=\"left\">UA2306007D06</td><td align=\"left\">Запорізька</td><td align=\"left\">Запорізька</td><td align=\"right\">50,836</td></tr>\n<tr><td align=\"left\">UA2306033</td><td align=\"left\">Широківська</td><td align=\"left\">Shyrokivska</td><td align=\"right\">41,795</td></tr>\n<tr><td align=\"left\">UA2304003</td><td align=\"left\">Василівська</td><td align=\"left\">Vasylivska</td><td align=\"right\">39,498</td></tr>\n<tr><td align=\"left\">UA2306003</td><td align=\"left\">Вільнянська</td><td align=\"left\">Vilnianska</td><td align=\"right\">26,452</td></tr>\n<tr><td align=\"left\">UA2306011</td><td align=\"left\">Кушугумська</td><td align=\"left\">Kushuhumska</td><td align=\"right\">24,701</td></tr>\n<tr><td align=\"left\">UA2306015</td><td align=\"left\">Михайлівська</td><td align=\"left\">Mykhailivska</td><td align=\"right\">23,711</td></tr>\n<tr><td align=\"left\">UA2306009</td><td align=\"left\">Комишуваська</td><td align=\"left\">Komyshuvaska</td><td align=\"right\">22,655</td></tr>\n<tr><td align=\"left\">UA2306005</td><td align=\"left\">Долинська</td><td align=\"left\">Dolynska</td><td align=\"right\">21,851</td></tr>\n<tr><td align=\"left\">UA2306001</td><td align=\"left\">Біленьківська</td><td align=\"left\">Bilenkivska</td><td align=\"right\">19,525</td></tr>\n<tr><td align=\"left\">UA2304021</td><td align=\"left\">Степногірська</td><td align=\"left\">Stepnohirska</td><td align=\"right\">18,177</td></tr>\n<tr><td align=\"left\">UA2306013</td><td align=\"left\">Матвіївська</td><td align=\"left\">Matviivska</td><td align=\"right\">16,490</td></tr>\n<tr><td align=\"left\">UA1208013</td><td align=\"left\">Томаківська</td><td align=\"left\">Tomakivska</td><td align=\"right\">14,892</td></tr>\n<tr><td align=\"left\">UA2306021</td><td align=\"left\">Новоолександрівська</td><td align=\"left\">Novooleksandrivska</td><td align=\"right\">11,103</td></tr>\n<tr><td align=\"left\">UA2306017</td><td align=\"left\">Михайло-Лукашівська</td><td align=\"left\">Mykhailo-Lukashivska</td><td align=\"right\">10,492</td></tr>\n<tr><td align=\"left\">UA2306027</td><td align=\"left\">Степненська</td><td align=\"left\">Stepnenska</td><td align=\"right\">9,099</td></tr>\n<tr><td align=\"left\">UA2306025</td><td align=\"left\">Петро-Михайлівська</td><td align=\"left\">Petro-Mykhailivska</td><td align=\"right\">8,832</td></tr>\n<tr><td align=\"left\">UA1208003</td><td align=\"left\">Мирівська</td><td align=\"left\">Myrivska</td><td align=\"right\">8,329</td></tr>\n<tr><td align=\"left\">UA2306023</td><td align=\"left\">Павлівська</td><td align=\"left\">Pavlivska</td><td align=\"right\">7,468</td></tr>\n<tr><td align=\"left\">UA2306007999</td><td align=\"left\">Запорізька</td><td align=\"left\">Запорізька</td><td align=\"right\">0</td></tr>\n</table>\n\n</details>\n\n## Population Summary\n\n<table style=\"width: auto\">\n<tr><td><strong>Total Population</strong></td><td align=\"right\">1,035,122</td></tr>\n<tr><td><strong>Working Age Population</strong></td><td align=\"right\">781,338</td></tr>\n<tr><td><strong>Total Modeled Demand</strong></td><td align=\"right\">460,563</td></tr>\n<tr><td><strong>Modeled Normal Demand</strong></td><td align=\"right\">434,630</td></tr>\n<tr><td><strong>Modeled Special Demand</strong></td><td align=\"right\">25,933</td></tr>\n</table>\n\n## Map Statistics\n\n<table style=\"width: auto\">\n<tr><td><strong>Buildings Indexed</strong></td><td align=\"right\">379,226</td></tr>\n<tr><td><strong>Demand Points</strong></td><td align=\"right\">9,818</td></tr>\n<tr><td><strong>Populations</strong></td><td align=\"right\">17,139</td></tr>\n<tr><td><strong>Median Point Size</strong></td><td align=\"right\">39</td></tr>\n<tr><td><strong>Mean Point Size</strong></td><td align=\"right\">93.8</td></tr>\n<tr><td><strong>Median Population Size</strong></td><td align=\"right\">21</td></tr>\n<tr><td><strong>Mean Population Size</strong></td><td align=\"right\">26.9</td></tr>\n<tr><td><strong>Median Commute Distance</strong></td><td align=\"right\">14.56 km</td></tr>\n<tr><td><strong>Mean Commute Distance</strong></td><td align=\"right\">22.55 km</td></tr>\n</table>",
+  "tags": [
+    "europe",
+    "airports",
+    "entertainment",
+    "parks",
+    "universities"
+  ],
+  "gallery": [
+    "gallery/screenshot1.webp",
+    "gallery/screenshot2.webp",
+    "gallery/screenshot3.webp"
+  ],
+  "is_test": false,
+  "source": "https://ahkimn.github.io/subwaybuilder-eu-maps/",
+  "update": {
+    "type": "custom",
+    "url": "https://ahkimn.github.io/subwaybuilder-eu-maps/OZH.json"
+  },
+  "city_code": "OZH",
+  "country": "UA",
+  "population": 460563,
+  "residents_total": 460563,
+  "points_count": 9818,
+  "population_count": 17139,
+  "initial_view_state": {
+    "latitude": 47.82132,
+    "longitude": 35.165173,
+    "zoom": 12,
+    "bearing": 0
+  },
+  "data_source": "Держстат наявне населення | GHS GULU R2025A | Overture Maps | OSM",
+  "source_quality": "medium-quality",
+  "level_of_detail": "high-detail",
+  "location": "europe",
+  "sub_location": "east-europe",
+  "special_demand": [
+    "airports",
+    "entertainment",
+    "parks",
+    "universities"
+  ],
+  "file_sizes": {
+    ".railyard_map/landuse_provenance.parquet": 11.63,
+    ".railyard_map/special_demand_points.json": 0.02,
+    ".railyard_map/special_demand_types.json": 0.06,
+    "OZH.pmtiles": 52.15,
+    "buildings_index.bin.gz": 27.17,
+    "buildings_index.json": 70.69,
+    "config.json": 0.01,
+    "demand_data.json": 60.43,
+    "ocean_depth_index.json": 7.86,
+    "roads.geojson": 3.22,
+    "runways_taxiways.geojson": 0.27
+  },
+  "included_cities": [
+    "Vasylivka"
+  ],
+  "grid_statistics": {
+    "residentWeightedNearestNeighborKm": {
+      "p10": 0.08108635114552269,
+      "p25": 0.09229191659942437,
+      "p50": 0.1122124537236867,
+      "p75": 0.14770735731735957,
+      "p90": 0.18616175170788535,
+      "mean": 0.131422802561953
+    },
+    "workerWeightedNearestNeighborKm": {
+      "p10": 0.08404543104476128,
+      "p25": 0.1000800488908546,
+      "p50": 0.132699747705733,
+      "p75": 0.19209332865015455,
+      "p90": 0.25950145505058353,
+      "mean": 0.16025742853365363
+    },
+    "commuteDistanceKm": {
+      "p10": 4758,
+      "p25": 8522,
+      "p50": 14558,
+      "p75": 28506,
+      "p90": 47238,
+      "mean": 22543.777641636036
+    },
+    "residentCellDensity": {
+      "p10": 13,
+      "p25": 22,
+      "p50": 56,
+      "p75": 188,
+      "p90": 785,
+      "mean": 292.68849332485695
+    },
+    "workerCellDensity": {
+      "p10": 10,
+      "p25": 20,
+      "p50": 64,
+      "p75": 393,
+      "p90": 1772,
+      "mean": 515.7368421052631
+    },
+    "detail": {
+      "radiusKm": 0.12202689989741797,
+      "expectedPointSpacingKm": 0.4180681935560642,
+      "normalizedRadius": 0.2918827640521134,
+      "activityPerPoint": 46.91006314931758,
+      "playableAreaKm2": 3424,
+      "playableAreaPerPointKm2": 0.34874719902220414,
+      "playableCatchmentRadiusKm": 0.33318115377024793,
+      "localityScore": 1,
+      "deaggregationScore": 1,
+      "score": 1
+    },
+    "polycentrism": {
+      "activity": {
+        "score": 0,
+        "continuousScore": 0.384362130274601,
+        "detectedCenterCount": 1,
+        "effectiveCenterCount": 1,
+        "largestCenterShare": 1,
+        "bandwidthKm": 1.3,
+        "reliabilityScore": 1,
+        "supportLevel": "high",
+        "usedFallback": false,
+        "topCenters": [
+          {
+            "longitude": 35.16093071091242,
+            "latitude": 47.828484042469185,
+            "massShare": 1,
+            "assignedMass": 921126,
+            "assignedPointCount": 9818,
+            "prominenceRatio": 1
+          }
+        ]
+      }
+    }
+  },
+  "last_updated": 1783468800
+}
