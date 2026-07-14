@@ -8,4 +8,5 @@ import{a as e}from"./chunk-BEqpzyXh.js";import{t}from"./jsx-runtime-qJqhvtml.js"
 `]})}),`
 `,(0,n.jsx)(r,{type:`notes`,children:(0,n.jsxs)(t.ul,{children:[`
 `,(0,n.jsxs)(t.li,{children:[`Renamed `,(0,n.jsx)(t.strong,{children:`Creator Database`}),` to `,(0,n.jsx)(t.strong,{children:`Creators`})]}),`
+`,(0,n.jsxs)(t.li,{children:[`Updated the images on the homepage and `,(0,n.jsx)(t.code,{children:`/railyard`})]}),`
 `]})})]})}function i(e={}){let{wrapper:t}=e.components||{};return t?(0,n.jsx)(t,{...e,children:(0,n.jsx)(r,{...e})}):r(e)}function a(e,t){throw Error(`Expected `+(t?`component`:`object`)+" `"+e+"` to be defined: you likely forgot to import, pass, or provide it.")}export{i as default};
