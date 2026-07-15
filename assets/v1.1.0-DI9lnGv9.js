@@ -7,6 +7,7 @@ import{a as e}from"./chunk-BEqpzyXh.js";import{t}from"./jsx-runtime-qJqhvtml.js"
 `]})]}),`
 `,(0,n.jsxs)(r,{type:`bugfixes`,children:[(0,n.jsx)(t.h3,{children:`Registry`}),(0,n.jsxs)(t.ul,{children:[`
 `,(0,n.jsxs)(t.li,{children:[`Fixed links still pointing to the old website's browse page (`,(0,n.jsx)(t.code,{children:`/railyard/browse/...`}),` --> `,(0,n.jsx)(t.code,{children:`/registry/...`}),`)`]}),`
+`,(0,n.jsxs)(t.li,{children:[`Fixed the author/project page `,(0,n.jsx)(t.strong,{children:`Load More`}),` button color`]}),`
 `]})]}),`
 `,(0,n.jsxs)(r,{type:`notes`,children:[(0,n.jsx)(t.h3,{children:`General`}),(0,n.jsxs)(t.ul,{children:[`
 `,(0,n.jsxs)(t.li,{children:[`Updated the images on the homepage and `,(0,n.jsx)(t.code,{children:`/railyard`})]}),`
