@@ -1,10 +1,10 @@
 {
   "sourceRepo": "Subway-Builder-Modded/registry",
   "sourceRef": "main",
-  "commitSha": "04b5fc009876ed27de983136542e975a16c48063",
+  "commitSha": "1d18f364e6a0323d720e373d7159902300b1920a",
   "mapDataSourceRef": "map-data",
-  "mapDataCommitSha": "d7116869ada592550441895343e3a910dd9cdba5",
-  "fetchedAt": "2026-07-15T01:25:01.211Z",
+  "mapDataCommitSha": "27920026f71ace41e6ab9090dd2273842fcc8466",
+  "fetchedAt": "2026-07-17T07:17:16.664Z",
   "materializedFiles": [
     "public/community/discord_server_by_day.csv",
     "public/community/discord_user_message_by_day.csv",
@@ -29,6 +29,7 @@
     "public/registry-cache/authors/index.json",
     "public/registry-cache/credits/maintainers.json",
     "public/registry-cache/credits/supporters.json",
+    "public/registry-cache/docs/terms-of-service.mdx",
     "public/registry-cache/github-releases-cache.json",
     "public/registry-cache/maps/akron-oh/grid.geojson",
     "public/registry-cache/maps/akron-oh/manifest.json",
@@ -58,6 +59,8 @@
     "public/registry-cache/maps/bilbao/manifest.json",
     "public/registry-cache/maps/bologna/grid.geojson",
     "public/registry-cache/maps/bologna/manifest.json",
+    "public/registry-cache/maps/bordeaux-arcachon-libourne/grid.geojson",
+    "public/registry-cache/maps/bordeaux-arcachon-libourne/manifest.json",
     "public/registry-cache/maps/bucharest-medium/grid.geojson",
     "public/registry-cache/maps/bucharest-medium/manifest.json",
     "public/registry-cache/maps/buffalo-ny/grid.geojson",
@@ -387,6 +390,16 @@
     "public/registry-cache/maps/yukina-kumamoto/manifest.json",
     "public/registry-cache/maps/yukina-kyoto/grid.geojson",
     "public/registry-cache/maps/yukina-kyoto/manifest.json",
+    "public/registry-cache/maps/yukina-lt-kaunas/grid.geojson",
+    "public/registry-cache/maps/yukina-lt-kaunas/manifest.json",
+    "public/registry-cache/maps/yukina-lt-klaipeda/grid.geojson",
+    "public/registry-cache/maps/yukina-lt-klaipeda/manifest.json",
+    "public/registry-cache/maps/yukina-lt-panevezys/grid.geojson",
+    "public/registry-cache/maps/yukina-lt-panevezys/manifest.json",
+    "public/registry-cache/maps/yukina-lt-siauliai/grid.geojson",
+    "public/registry-cache/maps/yukina-lt-siauliai/manifest.json",
+    "public/registry-cache/maps/yukina-lt-vilnius/grid.geojson",
+    "public/registry-cache/maps/yukina-lt-vilnius/manifest.json",
     "public/registry-cache/maps/yukina-lv-daugavpils/grid.geojson",
     "public/registry-cache/maps/yukina-lv-daugavpils/manifest.json",
     "public/registry-cache/maps/yukina-lv-liepaja/grid.geojson",
@@ -519,6 +532,7 @@
     "public/registry-cache/mods/japanese-trains/manifest.json",
     "public/registry-cache/mods/kr-ktp/manifest.json",
     "public/registry-cache/mods/lrt-trains/manifest.json",
+    "public/registry-cache/mods/map-markers/manifest.json",
     "public/registry-cache/mods/mode-manager/manifest.json",
     "public/registry-cache/mods/network-status/manifest.json",
     "public/registry-cache/mods/orbital-surveyor/manifest.json",
@@ -545,5 +559,5 @@
     "public/website/analytics/timeseries.json",
     "public/website/analytics/valid-paths.json"
   ],
-  "websiteAnalyticsSourceGeneratedAt": "2026-07-15T01:00:46.013Z"
+  "websiteAnalyticsSourceGeneratedAt": "2026-07-17T07:00:59.288Z"
 }

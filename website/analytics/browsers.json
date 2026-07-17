@@ -2,100 +2,100 @@
   {
     "browser": "Unknown",
     "visits": {
-      "1d": 6,
-      "7d": 507,
-      "30d": 2124,
-      "all": 6336
+      "1d": 12,
+      "7d": 585,
+      "30d": 2201,
+      "all": 6480
     }
   },
   {
     "browser": "Chrome",
     "visits": {
-      "1d": 13,
-      "7d": 285,
-      "30d": 1952,
-      "all": 5988
+      "1d": 20,
+      "7d": 456,
+      "30d": 2099,
+      "all": 6212
     }
   },
   {
     "browser": "Firefox",
     "visits": {
-      "1d": 0,
-      "7d": 54,
-      "30d": 397,
-      "all": 1653
+      "1d": 1,
+      "7d": 88,
+      "30d": 409,
+      "all": 1695
     }
   },
   {
     "browser": "GoogleBot",
     "visits": {
-      "1d": 10,
-      "7d": 146,
-      "30d": 495,
-      "all": 1579
+      "1d": 5,
+      "7d": 189,
+      "30d": 502,
+      "all": 1638
     }
   },
   {
     "browser": "Safari",
     "visits": {
       "1d": 1,
-      "7d": 88,
-      "30d": 428,
-      "all": 1362
+      "7d": 84,
+      "30d": 397,
+      "all": 1382
     }
   },
   {
     "browser": "MobileSafari",
     "visits": {
       "1d": 0,
-      "7d": 62,
-      "30d": 329,
-      "all": 1245
+      "7d": 76,
+      "30d": 324,
+      "all": 1266
     }
   },
   {
     "browser": "BingBot",
     "visits": {
-      "1d": 2,
-      "7d": 53,
-      "30d": 202,
-      "all": 946
+      "1d": 3,
+      "7d": 54,
+      "30d": 205,
+      "all": 958
     }
   },
   {
     "browser": "Edge",
     "visits": {
-      "1d": 1,
-      "7d": 38,
-      "30d": 228,
-      "all": 769
+      "1d": 0,
+      "7d": 42,
+      "30d": 223,
+      "all": 776
     }
   },
   {
     "browser": "ChromeMobile",
     "visits": {
-      "1d": 0,
-      "7d": 28,
-      "30d": 159,
-      "all": 617
+      "1d": 2,
+      "7d": 58,
+      "30d": 184,
+      "all": 650
     }
   },
   {
     "browser": "Opera",
     "visits": {
-      "1d": 2,
+      "1d": 0,
       "7d": 36,
-      "30d": 105,
-      "all": 451
+      "30d": 104,
+      "all": 455
     }
   },
   {
     "browser": "AppleBot",
     "visits": {
       "1d": 0,
-      "7d": 10,
-      "30d": 14,
-      "all": 161
+      "7d": 12,
+      "30d": 16,
+      "all": 164
     }
   },
   {
@@ -126,12 +126,30 @@
     }
   },
   {
+    "browser": "Curl",
+    "visits": {
+      "1d": 0,
+      "7d": 12,
+      "30d": 12,
+      "all": 25
+    }
+  },
+  {
     "browser": "FirefoxMobile",
     "visits": {
       "1d": 0,
       "7d": 0,
       "30d": 2,
       "all": 21
+    }
+  },
+  {
+    "browser": "ChromeDerivative",
+    "visits": {
+      "1d": 0,
+      "7d": 7,
+      "30d": 15,
+      "all": 17
     }
   },
   {
@@ -150,24 +168,6 @@
       "7d": 1,
       "30d": 4,
       "all": 14
-    }
-  },
-  {
-    "browser": "Curl",
-    "visits": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 0,
-      "all": 13
-    }
-  },
-  {
-    "browser": "ChromeDerivative",
-    "visits": {
-      "1d": 0,
-      "7d": 2,
-      "30d": 10,
-      "all": 12
     }
   },
   {
@@ -220,7 +220,7 @@
     "visits": {
       "1d": 0,
       "7d": 0,
-      "30d": 1,
+      "30d": 0,
       "all": 1
     }
   }

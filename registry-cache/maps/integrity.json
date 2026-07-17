@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-15T00:00:47.036Z",
+  "generated_at": "2026-07-17T06:30:22.084Z",
   "listings": {
     "akron-oh": {
       "has_complete_version": true,
@@ -121,16 +121,17 @@
     },
     "amsterdam": {
       "has_complete_version": true,
-      "latest_semver_version": "1.2.0",
+      "latest_semver_version": "1.2.1",
       "latest_semver_complete": true,
       "complete_versions": [
+        "1.2.1",
         "1.2.0",
         "1.0.0"
       ],
       "incomplete_versions": [
         "1.1.0"
       ],
-      "last_updated": 1773619200,
+      "last_updated": 1784073600,
       "versions": {
         "1.0.0": {
           "is_complete": true,
@@ -264,6 +265,57 @@
           "fingerprint": "rules:v6:sha256:c9fd2cca033d35a5617fe2a41543cb2a9cddaea464908545de83ec7fcc308aaf",
           "checked_at": "2026-07-07T03:43:59.556Z",
           "released_at": "2026-03-16T00:00:00.000Z"
+        },
+        "1.2.1": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "config_json": true,
+            "demand_data": true,
+            "demand_point_spacing": true,
+            "demand_phantom_points": true,
+            "demand_residents_match": true,
+            "buildings_index": true,
+            "roads_geojson": true,
+            "runways_taxiways_geojson": true,
+            "city_pmtiles": true,
+            "config_version_matches_tag": true
+          },
+          "matched_files": {
+            "config_json": "config.json",
+            "demand_data": "demand_data.json",
+            "demand_point_spacing": "demand_data.json",
+            "demand_phantom_points": "demand_data.json",
+            "demand_residents_match": "demand_data.json",
+            "buildings_index": "buildings_index.json",
+            "buildings_index_json": "buildings_index.json",
+            "buildings_index_bin": "buildings_index.bin",
+            "roads_geojson": "roads.geojson",
+            "runways_taxiways_geojson": "runways_taxiways.geojson",
+            "city_pmtiles": "AMS.pmtiles",
+            "config_version_matches_tag": "config.json"
+          },
+          "release_size": 215.63,
+          "file_sizes": {
+            "AMS.pmtiles": 96.59,
+            "buildings_index.bin": 111.45,
+            "buildings_index.json": 158.74,
+            "config.json": 0,
+            "demand_data.json": 1.33,
+            "roads.geojson": 21.38,
+            "runways_taxiways.geojson": 1.19
+          },
+          "game_version": ">=1.0.0",
+          "source": {
+            "update_type": "custom",
+            "repo": "ryandicicco/subway-builder-maps",
+            "tag": "v1.2.1-ams",
+            "asset_name": "AMS.zip",
+            "download_url": "https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.2.1-ams/AMS.zip"
+          },
+          "fingerprint": "rules:v6:sha256:fce9babb2cc133dc0bb9bd84bda3171971626bcf611dccd733236d0b7a9de992",
+          "checked_at": "2026-07-16T08:01:05.256Z",
+          "released_at": "2026-07-15T00:00:00.000Z"
         }
       }
     },
@@ -387,13 +439,14 @@
     },
     "baltimore-dc-corridor": {
       "has_complete_version": true,
-      "latest_semver_version": "1.1.1",
+      "latest_semver_version": "1.2.0",
       "latest_semver_complete": true,
       "complete_versions": [
+        "1.2.0",
         "1.1.1"
       ],
       "incomplete_versions": [],
-      "last_updated": 1773792000,
+      "last_updated": 1784160000,
       "versions": {
         "1.1.1": {
           "is_complete": true,
@@ -442,6 +495,61 @@
           "fingerprint": "rules:v6:sha256:a6117386faecfdef85d2f43f5c1b9a01c28d046d409259c02072c9986a901ff4",
           "checked_at": "2026-07-07T03:43:59.556Z",
           "released_at": "2026-03-18T00:00:00.000Z"
+        },
+        "1.2.0": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "config_json": true,
+            "demand_data": true,
+            "demand_point_spacing": true,
+            "demand_phantom_points": true,
+            "demand_residents_match": true,
+            "buildings_index": true,
+            "roads_geojson": true,
+            "runways_taxiways_geojson": true,
+            "city_pmtiles": true,
+            "config_version_matches_tag": true
+          },
+          "matched_files": {
+            "config_json": "config.json",
+            "demand_data": "demand_data.json",
+            "demand_point_spacing": "demand_data.json",
+            "demand_phantom_points": "demand_data.json",
+            "demand_residents_match": "demand_data.json",
+            "buildings_index": "buildings_index.json.gz",
+            "buildings_index_json": "buildings_index.json.gz",
+            "buildings_index_bin": "buildings_index.bin.gz",
+            "roads_geojson": "roads.geojson",
+            "runways_taxiways_geojson": "runways_taxiways.geojson",
+            "city_pmtiles": "DCA.pmtiles",
+            "config_version_matches_tag": "config.json"
+          },
+          "release_size": 330.23,
+          "file_sizes": {
+            ".railyard_map/special_demand_points.json": 0.08,
+            ".railyard_map/special_demand_types.json": 0.03,
+            "DCA.pmtiles": 143.63,
+            "DCA_foundations.pmtiles": 68.29,
+            "buildings_index.bin.gz": 50.78,
+            "buildings_index.json.gz": 35.68,
+            "config.json": 0,
+            "demand_data.json": 18.05,
+            "ocean_depth_index.json.gz": 16.36,
+            "roads.geojson": 71.3,
+            "runways_taxiways.geojson": 1.97
+          },
+          "game_version": ">=1.0.0",
+          "source": {
+            "update_type": "custom",
+            "repo": "rslurry/subwaybuilder-maps",
+            "tag": "1.3.7",
+            "asset_name": "DCA.zip",
+            "download_url": "https://github.com/rslurry/subwaybuilder-maps/releases/download/1.3.7/DCA.zip"
+          },
+          "fingerprint": "rules:v6:sha256:53fc5483b33aae44b9a1a2a8254be76a99c249d8ebf928f144a26845392608a2",
+          "checked_at": "2026-07-17T04:01:08.021Z",
+          "released_at": "2026-07-16T00:00:00.000Z"
         }
       }
     },
@@ -1194,6 +1302,69 @@
         }
       }
     },
+    "bordeaux-arcachon-libourne": {
+      "has_complete_version": true,
+      "latest_semver_version": "v1.4.0",
+      "latest_semver_complete": true,
+      "complete_versions": [
+        "v1.4.0"
+      ],
+      "incomplete_versions": [],
+      "last_updated": 1784034777,
+      "versions": {
+        "v1.4.0": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "config_json": true,
+            "demand_data": true,
+            "demand_point_spacing": true,
+            "demand_phantom_points": true,
+            "demand_residents_match": true,
+            "buildings_index": true,
+            "roads_geojson": true,
+            "runways_taxiways_geojson": true,
+            "city_pmtiles": true,
+            "config_version_matches_tag": true
+          },
+          "matched_files": {
+            "config_json": "config.json",
+            "demand_data": "demand_data.json.gz",
+            "demand_point_spacing": "demand_data.json.gz",
+            "demand_phantom_points": "demand_data.json.gz",
+            "demand_residents_match": "demand_data.json.gz",
+            "buildings_index": "buildings_index.json.gz",
+            "buildings_index_json": "buildings_index.json.gz",
+            "buildings_index_bin": "buildings_index.bin.gz",
+            "roads_geojson": "roads.geojson.gz",
+            "runways_taxiways_geojson": "runways_taxiways.geojson.gz",
+            "city_pmtiles": "BOD.pmtiles",
+            "config_version_matches_tag": "config.json"
+          },
+          "release_size": 167.79,
+          "file_sizes": {
+            "BOD.pmtiles": 51.47,
+            "buildings_index.bin.gz": 108.49,
+            "buildings_index.json.gz": 0,
+            "config.json": 0,
+            "demand_data.json.gz": 0.85,
+            "roads.geojson.gz": 6.91,
+            "runways_taxiways.geojson.gz": 0.06
+          },
+          "game_version": ">=1.0.0",
+          "source": {
+            "update_type": "github",
+            "repo": "pierreggt/subway-builder-bordeaux",
+            "tag": "v1.4.0",
+            "asset_name": "bordeaux-arcachon-libourne_v1.4.0.1.zip",
+            "download_url": "https://github.com/pierreggt/subway-builder-bordeaux/releases/download/v1.4.0/bordeaux-arcachon-libourne_v1.4.0.1.zip"
+          },
+          "fingerprint": "rules:v6:github:pierreggt/subway-builder-bordeaux:v1.4.0:bordeaux-arcachon-libourne_v1.4.0.1.zip",
+          "checked_at": "2026-07-15T20:01:05.647Z",
+          "released_at": "2026-07-14T13:12:57.000Z"
+        }
+      }
+    },
     "bucharest-medium": {
       "has_complete_version": true,
       "latest_semver_version": "1.1.3",
@@ -1621,16 +1792,17 @@
     },
     "cairo": {
       "has_complete_version": true,
-      "latest_semver_version": "2.2.0",
+      "latest_semver_version": "2.2.1",
       "latest_semver_complete": true,
       "complete_versions": [
+        "2.2.1",
         "2.2.0",
         "2.1.0",
         "2.0.1",
         "2.0.0"
       ],
       "incomplete_versions": [],
-      "last_updated": 1775779200,
+      "last_updated": 1784073600,
       "versions": {
         "2.0.0": {
           "is_complete": true,
@@ -1815,6 +1987,57 @@
           "fingerprint": "rules:v6:sha256:653d9e21e488639e8b2dcb91a50dfe7a3a8c9c9c0e0ead15cc44be38e750ad6b",
           "checked_at": "2026-07-07T03:43:59.556Z",
           "released_at": "2026-04-10T00:00:00.000Z"
+        },
+        "2.2.1": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "config_json": true,
+            "demand_data": true,
+            "demand_point_spacing": true,
+            "demand_phantom_points": true,
+            "demand_residents_match": true,
+            "buildings_index": true,
+            "roads_geojson": true,
+            "runways_taxiways_geojson": true,
+            "city_pmtiles": true,
+            "config_version_matches_tag": true
+          },
+          "matched_files": {
+            "config_json": "config.json",
+            "demand_data": "demand_data.json",
+            "demand_point_spacing": "demand_data.json",
+            "demand_phantom_points": "demand_data.json",
+            "demand_residents_match": "demand_data.json",
+            "buildings_index": "buildings_index.json",
+            "buildings_index_json": "buildings_index.json",
+            "buildings_index_bin": "buildings_index.bin",
+            "roads_geojson": "roads.geojson",
+            "runways_taxiways_geojson": "runways_taxiways.geojson",
+            "city_pmtiles": "CAI.pmtiles",
+            "config_version_matches_tag": "config.json"
+          },
+          "release_size": 367.77,
+          "file_sizes": {
+            "CAI.pmtiles": 106.26,
+            "buildings_index.bin": 221.77,
+            "buildings_index.json": 335.48,
+            "config.json": 0,
+            "demand_data.json": 1.81,
+            "roads.geojson": 67.5,
+            "runways_taxiways.geojson": 1.47
+          },
+          "game_version": ">=1.0.0",
+          "source": {
+            "update_type": "custom",
+            "repo": "ryandicicco/subway-builder-maps",
+            "tag": "v2.2.1-cai",
+            "asset_name": "CAI.zip",
+            "download_url": "https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v2.2.1-cai/CAI.zip"
+          },
+          "fingerprint": "rules:v6:sha256:375a5fbc9cc2548ac861364724c7950917ab88c53ca51687f3db2841f1095419",
+          "checked_at": "2026-07-16T08:01:05.256Z",
+          "released_at": "2026-07-15T00:00:00.000Z"
         }
       }
     },
@@ -2824,15 +3047,18 @@
     },
     "ciudad-juarez-el-paso": {
       "has_complete_version": true,
-      "latest_semver_version": "1.0.2",
+      "latest_semver_version": "1.1.1",
       "latest_semver_complete": true,
       "complete_versions": [
+        "1.1.1",
         "1.0.2",
         "1.0.1",
         "1.0.0"
       ],
-      "incomplete_versions": [],
-      "last_updated": 1778112000,
+      "incomplete_versions": [
+        "1.1.0"
+      ],
+      "last_updated": 1784073600,
       "versions": {
         "1.0.0": {
           "is_complete": true,
@@ -2971,6 +3197,103 @@
           "fingerprint": "rules:v6:sha256:6fe845a03a395cbab0a1e90631a53bdba39a83a37abea2ebc1cf0016e9df8b56",
           "checked_at": "2026-07-07T03:43:59.556Z",
           "released_at": "2026-05-07T00:00:00.000Z"
+        },
+        "1.1.0": {
+          "is_complete": false,
+          "errors": [
+            "demand_data contains 66 of 2832 points (2.3%) with neither residents nor jobs (e.g. 080370990, 080371014, 080371009)"
+          ],
+          "required_checks": {
+            "config_json": true,
+            "demand_data": true,
+            "demand_point_spacing": true,
+            "demand_phantom_points": false,
+            "demand_residents_match": true,
+            "buildings_index": true,
+            "roads_geojson": true,
+            "runways_taxiways_geojson": true,
+            "city_pmtiles": true,
+            "config_version_matches_tag": true
+          },
+          "matched_files": {
+            "config_json": "config.json",
+            "demand_data": "demand_data.json",
+            "demand_point_spacing": "demand_data.json",
+            "demand_phantom_points": "demand_data.json",
+            "demand_residents_match": "demand_data.json",
+            "buildings_index": "buildings_index.json.gz",
+            "buildings_index_json": "buildings_index.json.gz",
+            "buildings_index_bin": "buildings_index.bin.gz",
+            "roads_geojson": "roads.geojson",
+            "runways_taxiways_geojson": "runways_taxiways.geojson",
+            "city_pmtiles": "CJS.pmtiles",
+            "config_version_matches_tag": "config.json"
+          },
+          "release_size": 127.11,
+          "game_version": ">=1.0.0",
+          "source": {
+            "update_type": "custom",
+            "repo": "rslurry/subwaybuilder-maps",
+            "tag": "1.3.5",
+            "asset_name": "CJS.zip",
+            "download_url": "https://github.com/rslurry/subwaybuilder-maps/releases/download/1.3.5/CJS.zip"
+          },
+          "fingerprint": "rules:v6:sha256:33605c53d19ca757d209aa6677d75c432791d9ee454f8d11148c9ca416096392",
+          "checked_at": "2026-07-15T04:00:49.366Z",
+          "released_at": "2026-07-14T00:00:00.000Z"
+        },
+        "1.1.1": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "config_json": true,
+            "demand_data": true,
+            "demand_point_spacing": true,
+            "demand_phantom_points": true,
+            "demand_residents_match": true,
+            "buildings_index": true,
+            "roads_geojson": true,
+            "runways_taxiways_geojson": true,
+            "city_pmtiles": true,
+            "config_version_matches_tag": true
+          },
+          "matched_files": {
+            "config_json": "config.json",
+            "demand_data": "demand_data.json",
+            "demand_point_spacing": "demand_data.json",
+            "demand_phantom_points": "demand_data.json",
+            "demand_residents_match": "demand_data.json",
+            "buildings_index": "buildings_index.json.gz",
+            "buildings_index_json": "buildings_index.json.gz",
+            "buildings_index_bin": "buildings_index.bin.gz",
+            "roads_geojson": "roads.geojson",
+            "runways_taxiways_geojson": "runways_taxiways.geojson",
+            "city_pmtiles": "CJS.pmtiles",
+            "config_version_matches_tag": "config.json"
+          },
+          "release_size": 127.11,
+          "file_sizes": {
+            "CJS.pmtiles": 41.84,
+            "CJS_foundations.pmtiles": 31.88,
+            "buildings_index.bin.gz": 28.42,
+            "buildings_index.json.gz": 21.28,
+            "config.json": 0,
+            "demand_data.json": 7.72,
+            "ocean_depth_index.json.gz": 0.94,
+            "roads.geojson": 17.11,
+            "runways_taxiways.geojson": 0.7
+          },
+          "game_version": ">=1.0.0",
+          "source": {
+            "update_type": "custom",
+            "repo": "rslurry/subwaybuilder-maps",
+            "tag": "1.3.6",
+            "asset_name": "CJS.zip",
+            "download_url": "https://github.com/rslurry/subwaybuilder-maps/releases/download/1.3.6/CJS.zip"
+          },
+          "fingerprint": "rules:v6:sha256:1df9dc35be7855a8f859865bb557006a1b8899ca408c346a8ec6233429bdf046",
+          "checked_at": "2026-07-15T05:04:04.043Z",
+          "released_at": "2026-07-15T00:00:00.000Z"
         }
       }
     },
@@ -3949,13 +4272,14 @@
     },
     "dubai": {
       "has_complete_version": true,
-      "latest_semver_version": "1.2.0",
+      "latest_semver_version": "1.2.1",
       "latest_semver_complete": true,
       "complete_versions": [
+        "1.2.1",
         "1.2.0"
       ],
       "incomplete_versions": [],
-      "last_updated": 1776729600,
+      "last_updated": 1784073600,
       "versions": {
         "1.2.0": {
           "is_complete": true,
@@ -4018,6 +4342,57 @@
           "fingerprint": "rules:v6:sha256:2304942c21aa0bcbe93bb5add45f51367ed6bcb3db60db051a15976cdb216926",
           "checked_at": "2026-07-09T00:49:01.651Z",
           "released_at": "2026-04-21T00:00:00.000Z"
+        },
+        "1.2.1": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "config_json": true,
+            "demand_data": true,
+            "demand_point_spacing": true,
+            "demand_phantom_points": true,
+            "demand_residents_match": true,
+            "buildings_index": true,
+            "roads_geojson": true,
+            "runways_taxiways_geojson": true,
+            "city_pmtiles": true,
+            "config_version_matches_tag": true
+          },
+          "matched_files": {
+            "config_json": "config.json",
+            "demand_data": "demand_data.json",
+            "demand_point_spacing": "demand_data.json",
+            "demand_phantom_points": "demand_data.json",
+            "demand_residents_match": "demand_data.json",
+            "buildings_index": "buildings_index.json",
+            "buildings_index_json": "buildings_index.json",
+            "buildings_index_bin": "buildings_index.bin",
+            "roads_geojson": "roads.geojson",
+            "runways_taxiways_geojson": "runways_taxiways.geojson",
+            "city_pmtiles": "DXB.pmtiles",
+            "config_version_matches_tag": "config.json"
+          },
+          "release_size": 98.42,
+          "file_sizes": {
+            "DXB.pmtiles": 30.19,
+            "buildings_index.bin": 55.32,
+            "buildings_index.json": 81.2,
+            "config.json": 0,
+            "demand_data.json": 27.23,
+            "roads.geojson": 31.31,
+            "runways_taxiways.geojson": 2.19
+          },
+          "game_version": ">=1.0.0",
+          "source": {
+            "update_type": "custom",
+            "repo": "ryandicicco/subway-builder-maps",
+            "tag": "v1.2.1-dxb",
+            "asset_name": "DXB.zip",
+            "download_url": "https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.2.1-dxb/DXB.zip"
+          },
+          "fingerprint": "rules:v6:sha256:8cf0c05ff9f78ac09ec80cbfa2952bf7ce447a69c67c2847107853f86bf8fb93",
+          "checked_at": "2026-07-16T02:26:57.621Z",
+          "released_at": "2026-07-15T00:00:00.000Z"
         }
       }
     },
@@ -4462,13 +4837,14 @@
     },
     "greater-baltimore": {
       "has_complete_version": true,
-      "latest_semver_version": "1.1.0",
+      "latest_semver_version": "1.2.0",
       "latest_semver_complete": true,
       "complete_versions": [
+        "1.2.0",
         "1.1.0"
       ],
       "incomplete_versions": [],
-      "last_updated": 1772928000,
+      "last_updated": 1784160000,
       "versions": {
         "1.1.0": {
           "is_complete": true,
@@ -4517,6 +4893,59 @@
           "fingerprint": "rules:v6:sha256:83309c193d6a7782a38a280d51aab996bfecd9665fe1d358c80e1b0e3d8ad5e2",
           "checked_at": "2026-07-07T03:43:59.556Z",
           "released_at": "2026-03-08T00:00:00.000Z"
+        },
+        "1.2.0": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "config_json": true,
+            "demand_data": true,
+            "demand_point_spacing": true,
+            "demand_phantom_points": true,
+            "demand_residents_match": true,
+            "buildings_index": true,
+            "roads_geojson": true,
+            "runways_taxiways_geojson": true,
+            "city_pmtiles": true,
+            "config_version_matches_tag": true
+          },
+          "matched_files": {
+            "config_json": "config.json",
+            "demand_data": "demand_data.json",
+            "demand_point_spacing": "demand_data.json",
+            "demand_phantom_points": "demand_data.json",
+            "demand_residents_match": "demand_data.json",
+            "buildings_index": "buildings_index.json.gz",
+            "buildings_index_json": "buildings_index.json.gz",
+            "buildings_index_bin": "buildings_index.bin.gz",
+            "roads_geojson": "roads.geojson",
+            "runways_taxiways_geojson": "runways_taxiways.geojson",
+            "city_pmtiles": "BWI.pmtiles",
+            "config_version_matches_tag": "config.json"
+          },
+          "release_size": 219.48,
+          "file_sizes": {
+            "BWI.pmtiles": 86.54,
+            "BWI_foundations.pmtiles": 45.33,
+            "buildings_index.bin.gz": 41.79,
+            "buildings_index.json.gz": 30.51,
+            "config.json": 0,
+            "demand_data.json": 12.18,
+            "ocean_depth_index.json.gz": 9.11,
+            "roads.geojson": 30.19,
+            "runways_taxiways.geojson": 0.47
+          },
+          "game_version": ">=1.0.0",
+          "source": {
+            "update_type": "custom",
+            "repo": "rslurry/subwaybuilder-maps",
+            "tag": "1.3.7",
+            "asset_name": "BWI.zip",
+            "download_url": "https://github.com/rslurry/subwaybuilder-maps/releases/download/1.3.7/BWI.zip"
+          },
+          "fingerprint": "rules:v6:sha256:53c58715f77a00cd789764fe7a71128fc0894b6fa3c2038f882bdcc626e8efa2",
+          "checked_at": "2026-07-16T05:30:06.678Z",
+          "released_at": "2026-07-16T00:00:00.000Z"
         }
       }
     },
@@ -4781,17 +5210,20 @@
     },
     "greater-los-angeles": {
       "has_complete_version": true,
-      "latest_semver_version": "1.2.0",
+      "latest_semver_version": "1.3.1",
       "latest_semver_complete": true,
       "complete_versions": [
+        "1.3.1",
         "1.2.0",
         "1.1.2",
         "1.1.1",
         "1.1.0",
         "1.0.1"
       ],
-      "incomplete_versions": [],
-      "last_updated": 1777161600,
+      "incomplete_versions": [
+        "1.3.0"
+      ],
+      "last_updated": 1784073600,
       "versions": {
         "1.0.1": {
           "is_complete": true,
@@ -5027,6 +5459,103 @@
           "fingerprint": "rules:v6:sha256:2965e8bcb082f72b042ffc383b41e2185b0f9688d76baa3715011426a72e2826",
           "checked_at": "2026-07-07T03:43:59.556Z",
           "released_at": "2026-04-26T00:00:00.000Z"
+        },
+        "1.3.0": {
+          "is_complete": false,
+          "errors": [
+            "demand_data phantom-points check failed: grid commute at index 171223 has negative drivingDistance"
+          ],
+          "required_checks": {
+            "config_json": true,
+            "demand_data": true,
+            "demand_point_spacing": true,
+            "demand_phantom_points": false,
+            "demand_residents_match": true,
+            "buildings_index": true,
+            "roads_geojson": true,
+            "runways_taxiways_geojson": true,
+            "city_pmtiles": true,
+            "config_version_matches_tag": true
+          },
+          "matched_files": {
+            "config_json": "config.json",
+            "demand_data": "demand_data.json",
+            "demand_point_spacing": "demand_data.json",
+            "demand_phantom_points": "demand_data.json",
+            "demand_residents_match": "demand_data.json",
+            "buildings_index": "buildings_index.json.gz",
+            "buildings_index_json": "buildings_index.json.gz",
+            "buildings_index_bin": "buildings_index.bin.gz",
+            "roads_geojson": "roads.geojson",
+            "runways_taxiways_geojson": "runways_taxiways.geojson",
+            "city_pmtiles": "LAX.pmtiles",
+            "config_version_matches_tag": "config.json"
+          },
+          "release_size": 486.81,
+          "game_version": ">=1.0.0",
+          "source": {
+            "update_type": "custom",
+            "repo": "rslurry/subwaybuilder-maps",
+            "tag": "1.3.6",
+            "asset_name": "LAX.zip",
+            "download_url": "https://github.com/rslurry/subwaybuilder-maps/releases/download/1.3.6/LAX.zip"
+          },
+          "fingerprint": "rules:v6:sha256:aabeb228dea07696228c88ad207dbc39833f56a87ed28b5ced9c91f476892138",
+          "checked_at": "2026-07-15T05:04:04.043Z",
+          "released_at": "2026-07-15T00:00:00.000Z"
+        },
+        "1.3.1": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "config_json": true,
+            "demand_data": true,
+            "demand_point_spacing": true,
+            "demand_phantom_points": true,
+            "demand_residents_match": true,
+            "buildings_index": true,
+            "roads_geojson": true,
+            "runways_taxiways_geojson": true,
+            "city_pmtiles": true,
+            "config_version_matches_tag": true
+          },
+          "matched_files": {
+            "config_json": "config.json",
+            "demand_data": "demand_data.json",
+            "demand_point_spacing": "demand_data.json",
+            "demand_phantom_points": "demand_data.json",
+            "demand_residents_match": "demand_data.json",
+            "buildings_index": "buildings_index.json.gz",
+            "buildings_index_json": "buildings_index.json.gz",
+            "buildings_index_bin": "buildings_index.bin.gz",
+            "roads_geojson": "roads.geojson",
+            "runways_taxiways_geojson": "runways_taxiways.geojson",
+            "city_pmtiles": "LAX.pmtiles",
+            "config_version_matches_tag": "config.json"
+          },
+          "release_size": 486.81,
+          "file_sizes": {
+            "LAX.pmtiles": 179.81,
+            "LAX_foundations.pmtiles": 132.57,
+            "buildings_index.bin.gz": 86.01,
+            "buildings_index.json.gz": 63.18,
+            "config.json": 0,
+            "demand_data.json": 28.39,
+            "ocean_depth_index.json.gz": 9.35,
+            "roads.geojson": 92.36,
+            "runways_taxiways.geojson": 2.01
+          },
+          "game_version": ">=1.0.0",
+          "source": {
+            "update_type": "custom",
+            "repo": "rslurry/subwaybuilder-maps",
+            "tag": "1.3.7",
+            "asset_name": "LAX.zip",
+            "download_url": "https://github.com/rslurry/subwaybuilder-maps/releases/download/1.3.7/LAX.zip"
+          },
+          "fingerprint": "rules:v6:sha256:2bf6d0601892229bbbedae9d04925b35f9c2398513822b8029433343f06315fe",
+          "checked_at": "2026-07-15T05:33:01.433Z",
+          "released_at": "2026-07-15T00:00:00.000Z"
         }
       }
     },
@@ -5327,9 +5856,10 @@
     },
     "guadalajara": {
       "has_complete_version": true,
-      "latest_semver_version": "1.2.0",
+      "latest_semver_version": "1.3.1",
       "latest_semver_complete": true,
       "complete_versions": [
+        "1.3.1",
         "1.2.0",
         "1.1.2",
         "1.1.1",
@@ -5337,8 +5867,10 @@
         "1.0.1",
         "1.0.0"
       ],
-      "incomplete_versions": [],
-      "last_updated": 1777593600,
+      "incomplete_versions": [
+        "1.3.0"
+      ],
+      "last_updated": 1784073600,
       "versions": {
         "1.0.0": {
           "is_complete": true,
@@ -5615,6 +6147,103 @@
           "fingerprint": "rules:v6:sha256:803c752a0c41ae5337e416283e9d5f4108237110db2aeafa832743d317a9268a",
           "checked_at": "2026-07-07T03:43:59.556Z",
           "released_at": "2026-05-01T00:00:00.000Z"
+        },
+        "1.3.0": {
+          "is_complete": false,
+          "errors": [
+            "demand_data contains 20 of 5858 points (0.3%) with neither residents nor jobs (e.g. 140510039, 141200143, 141200714)"
+          ],
+          "required_checks": {
+            "config_json": true,
+            "demand_data": true,
+            "demand_point_spacing": true,
+            "demand_phantom_points": false,
+            "demand_residents_match": true,
+            "buildings_index": true,
+            "roads_geojson": true,
+            "runways_taxiways_geojson": true,
+            "city_pmtiles": true,
+            "config_version_matches_tag": true
+          },
+          "matched_files": {
+            "config_json": "config.json",
+            "demand_data": "demand_data.json",
+            "demand_point_spacing": "demand_data.json",
+            "demand_phantom_points": "demand_data.json",
+            "demand_residents_match": "demand_data.json",
+            "buildings_index": "buildings_index.json.gz",
+            "buildings_index_json": "buildings_index.json.gz",
+            "buildings_index_bin": "buildings_index.bin.gz",
+            "roads_geojson": "roads.geojson",
+            "runways_taxiways_geojson": "runways_taxiways.geojson",
+            "city_pmtiles": "GDL.pmtiles",
+            "config_version_matches_tag": "config.json"
+          },
+          "release_size": 195.94,
+          "game_version": ">=1.0.0",
+          "source": {
+            "update_type": "custom",
+            "repo": "rslurry/subwaybuilder-maps",
+            "tag": "1.3.5",
+            "asset_name": "GDL.zip",
+            "download_url": "https://github.com/rslurry/subwaybuilder-maps/releases/download/1.3.5/GDL.zip"
+          },
+          "fingerprint": "rules:v6:sha256:9160d13f994d894ec1e5f72da88127a313340cd4748046d79a8611f1a8139ad3",
+          "checked_at": "2026-07-15T04:00:49.366Z",
+          "released_at": "2026-07-14T00:00:00.000Z"
+        },
+        "1.3.1": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "config_json": true,
+            "demand_data": true,
+            "demand_point_spacing": true,
+            "demand_phantom_points": true,
+            "demand_residents_match": true,
+            "buildings_index": true,
+            "roads_geojson": true,
+            "runways_taxiways_geojson": true,
+            "city_pmtiles": true,
+            "config_version_matches_tag": true
+          },
+          "matched_files": {
+            "config_json": "config.json",
+            "demand_data": "demand_data.json",
+            "demand_point_spacing": "demand_data.json",
+            "demand_phantom_points": "demand_data.json",
+            "demand_residents_match": "demand_data.json",
+            "buildings_index": "buildings_index.json.gz",
+            "buildings_index_json": "buildings_index.json.gz",
+            "buildings_index_bin": "buildings_index.bin.gz",
+            "roads_geojson": "roads.geojson",
+            "runways_taxiways_geojson": "runways_taxiways.geojson",
+            "city_pmtiles": "GDL.pmtiles",
+            "config_version_matches_tag": "config.json"
+          },
+          "release_size": 195.94,
+          "file_sizes": {
+            "GDL.pmtiles": 49.65,
+            "GDL_foundations.pmtiles": 46.56,
+            "buildings_index.bin.gz": 56.34,
+            "buildings_index.json.gz": 38.5,
+            "config.json": 0,
+            "demand_data.json": 9.69,
+            "ocean_depth_index.json.gz": 1.13,
+            "roads.geojson": 24.31,
+            "runways_taxiways.geojson": 0.42
+          },
+          "game_version": ">=1.0.0",
+          "source": {
+            "update_type": "custom",
+            "repo": "rslurry/subwaybuilder-maps",
+            "tag": "1.3.6",
+            "asset_name": "GDL.zip",
+            "download_url": "https://github.com/rslurry/subwaybuilder-maps/releases/download/1.3.6/GDL.zip"
+          },
+          "fingerprint": "rules:v6:sha256:5eaf59c07b8ae05a09bbce289c33b203a1709da5e3cbc3c5353e4005e8b2cbb2",
+          "checked_at": "2026-07-15T05:04:04.043Z",
+          "released_at": "2026-07-15T00:00:00.000Z"
         }
       }
     },
@@ -8540,16 +9169,19 @@
     },
     "los-angeles-county": {
       "has_complete_version": true,
-      "latest_semver_version": "1.2.0",
+      "latest_semver_version": "1.3.1",
       "latest_semver_complete": true,
       "complete_versions": [
+        "1.3.1",
         "1.2.0",
         "1.1.1",
         "1.1.0",
         "1.0.0"
       ],
-      "incomplete_versions": [],
-      "last_updated": 1777161600,
+      "incomplete_versions": [
+        "1.3.0"
+      ],
+      "last_updated": 1784073600,
       "versions": {
         "1.0.0": {
           "is_complete": true,
@@ -8738,6 +9370,103 @@
           "fingerprint": "rules:v6:sha256:01553105ecb53a5e355b454b761accad2f444bb4906bc81c335acf5fea1a67ff",
           "checked_at": "2026-07-07T03:43:59.556Z",
           "released_at": "2026-04-26T00:00:00.000Z"
+        },
+        "1.3.0": {
+          "is_complete": false,
+          "errors": [
+            "demand_data phantom-points check failed: grid commute at index 76629 has negative drivingDistance"
+          ],
+          "required_checks": {
+            "config_json": true,
+            "demand_data": true,
+            "demand_point_spacing": true,
+            "demand_phantom_points": false,
+            "demand_residents_match": true,
+            "buildings_index": true,
+            "roads_geojson": true,
+            "runways_taxiways_geojson": true,
+            "city_pmtiles": true,
+            "config_version_matches_tag": true
+          },
+          "matched_files": {
+            "config_json": "config.json",
+            "demand_data": "demand_data.json",
+            "demand_point_spacing": "demand_data.json",
+            "demand_phantom_points": "demand_data.json",
+            "demand_residents_match": "demand_data.json",
+            "buildings_index": "buildings_index.json.gz",
+            "buildings_index_json": "buildings_index.json.gz",
+            "buildings_index_bin": "buildings_index.bin.gz",
+            "roads_geojson": "roads.geojson",
+            "runways_taxiways_geojson": "runways_taxiways.geojson",
+            "city_pmtiles": "LAXM.pmtiles",
+            "config_version_matches_tag": "config.json"
+          },
+          "release_size": 285.34,
+          "game_version": ">=1.0.0",
+          "source": {
+            "update_type": "custom",
+            "repo": "rslurry/subwaybuilder-maps",
+            "tag": "1.3.6",
+            "asset_name": "LAXM.zip",
+            "download_url": "https://github.com/rslurry/subwaybuilder-maps/releases/download/1.3.6/LAXM.zip"
+          },
+          "fingerprint": "rules:v6:sha256:1897a00e3352529bd1010a190b080d29555ba8af6dd1e99746bdf90ec567b097",
+          "checked_at": "2026-07-15T05:04:04.043Z",
+          "released_at": "2026-07-15T00:00:00.000Z"
+        },
+        "1.3.1": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "config_json": true,
+            "demand_data": true,
+            "demand_point_spacing": true,
+            "demand_phantom_points": true,
+            "demand_residents_match": true,
+            "buildings_index": true,
+            "roads_geojson": true,
+            "runways_taxiways_geojson": true,
+            "city_pmtiles": true,
+            "config_version_matches_tag": true
+          },
+          "matched_files": {
+            "config_json": "config.json",
+            "demand_data": "demand_data.json",
+            "demand_point_spacing": "demand_data.json",
+            "demand_phantom_points": "demand_data.json",
+            "demand_residents_match": "demand_data.json",
+            "buildings_index": "buildings_index.json.gz",
+            "buildings_index_json": "buildings_index.json.gz",
+            "buildings_index_bin": "buildings_index.bin.gz",
+            "roads_geojson": "roads.geojson",
+            "runways_taxiways_geojson": "runways_taxiways.geojson",
+            "city_pmtiles": "LAXM.pmtiles",
+            "config_version_matches_tag": "config.json"
+          },
+          "release_size": 285.34,
+          "file_sizes": {
+            "LAXM.pmtiles": 104.21,
+            "LAXM_foundations.pmtiles": 79.35,
+            "buildings_index.bin.gz": 50.88,
+            "buildings_index.json.gz": 37.36,
+            "config.json": 0,
+            "demand_data.json": 12.74,
+            "ocean_depth_index.json.gz": 4.77,
+            "roads.geojson": 53.2,
+            "runways_taxiways.geojson": 1.5
+          },
+          "game_version": ">=1.0.0",
+          "source": {
+            "update_type": "custom",
+            "repo": "rslurry/subwaybuilder-maps",
+            "tag": "1.3.7",
+            "asset_name": "LAXM.zip",
+            "download_url": "https://github.com/rslurry/subwaybuilder-maps/releases/download/1.3.7/LAXM.zip"
+          },
+          "fingerprint": "rules:v6:sha256:81d3da71198bfbdfbca197535463f79d985c96ffe951044f1d5d4aef71e397b1",
+          "checked_at": "2026-07-15T05:33:01.433Z",
+          "released_at": "2026-07-15T00:00:00.000Z"
         }
       }
     },
@@ -8948,13 +9677,14 @@
     },
     "memphis": {
       "has_complete_version": true,
-      "latest_semver_version": "1.1.0",
+      "latest_semver_version": "1.2.0",
       "latest_semver_complete": true,
       "complete_versions": [
+        "1.2.0",
         "1.1.0"
       ],
       "incomplete_versions": [],
-      "last_updated": 1772928000,
+      "last_updated": 1784160000,
       "versions": {
         "1.1.0": {
           "is_complete": true,
@@ -9003,18 +9733,74 @@
           "fingerprint": "rules:v6:sha256:87d8f1440c45def305cb017f6c7f4875d15f00014c5bb4700f16ede557162bed",
           "checked_at": "2026-07-07T03:43:59.556Z",
           "released_at": "2026-03-08T00:00:00.000Z"
+        },
+        "1.2.0": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "config_json": true,
+            "demand_data": true,
+            "demand_point_spacing": true,
+            "demand_phantom_points": true,
+            "demand_residents_match": true,
+            "buildings_index": true,
+            "roads_geojson": true,
+            "runways_taxiways_geojson": true,
+            "city_pmtiles": true,
+            "config_version_matches_tag": true
+          },
+          "matched_files": {
+            "config_json": "config.json",
+            "demand_data": "demand_data.json",
+            "demand_point_spacing": "demand_data.json",
+            "demand_phantom_points": "demand_data.json",
+            "demand_residents_match": "demand_data.json",
+            "buildings_index": "buildings_index.json.gz",
+            "buildings_index_json": "buildings_index.json.gz",
+            "buildings_index_bin": "buildings_index.bin.gz",
+            "roads_geojson": "roads.geojson",
+            "runways_taxiways_geojson": "runways_taxiways.geojson",
+            "city_pmtiles": "MEM.pmtiles",
+            "config_version_matches_tag": "config.json"
+          },
+          "release_size": 108.59,
+          "file_sizes": {
+            "MEM.pmtiles": 40.06,
+            "MEM_foundations.pmtiles": 25.57,
+            "buildings_index.bin.gz": 22.5,
+            "buildings_index.json.gz": 16.2,
+            "config.json": 0,
+            "demand_data.json": 6.29,
+            "ocean_depth_index.json.gz": 1.38,
+            "roads.geojson": 14.57,
+            "runways_taxiways.geojson": 0.46
+          },
+          "game_version": ">=1.0.0",
+          "source": {
+            "update_type": "custom",
+            "repo": "rslurry/subwaybuilder-maps",
+            "tag": "1.3.7",
+            "asset_name": "MEM.zip",
+            "download_url": "https://github.com/rslurry/subwaybuilder-maps/releases/download/1.3.7/MEM.zip"
+          },
+          "fingerprint": "rules:v6:sha256:a730bd7290fa1b8605a3861d03902fdf00ff0a1ac2b1add49963ace3ba0c1147",
+          "checked_at": "2026-07-16T05:30:06.678Z",
+          "released_at": "2026-07-16T00:00:00.000Z"
         }
       }
     },
     "mexicali": {
       "has_complete_version": true,
-      "latest_semver_version": "1.0.0",
+      "latest_semver_version": "1.1.1",
       "latest_semver_complete": true,
       "complete_versions": [
+        "1.1.1",
         "1.0.0"
       ],
-      "incomplete_versions": [],
-      "last_updated": 1778976000,
+      "incomplete_versions": [
+        "1.1.0"
+      ],
+      "last_updated": 1784073600,
       "versions": {
         "1.0.0": {
           "is_complete": true,
@@ -9061,6 +9847,103 @@
           "fingerprint": "rules:v6:sha256:1381db3865dd35e1593a7d31ba1b371d3403f068009c0b0f6601c263fe632578",
           "checked_at": "2026-07-07T03:43:59.556Z",
           "released_at": "2026-05-17T00:00:00.000Z"
+        },
+        "1.1.0": {
+          "is_complete": false,
+          "errors": [
+            "demand_data contains 469 of 3093 points (15.2%) with neither residents nor jobs (e.g. merged_40270118011072, merged_60250124001081, merged_60250124001080)"
+          ],
+          "required_checks": {
+            "config_json": true,
+            "demand_data": true,
+            "demand_point_spacing": true,
+            "demand_phantom_points": false,
+            "demand_residents_match": true,
+            "buildings_index": true,
+            "roads_geojson": true,
+            "runways_taxiways_geojson": true,
+            "city_pmtiles": true,
+            "config_version_matches_tag": true
+          },
+          "matched_files": {
+            "config_json": "config.json",
+            "demand_data": "demand_data.json",
+            "demand_point_spacing": "demand_data.json",
+            "demand_phantom_points": "demand_data.json",
+            "demand_residents_match": "demand_data.json",
+            "buildings_index": "buildings_index.json.gz",
+            "buildings_index_json": "buildings_index.json.gz",
+            "buildings_index_bin": "buildings_index.bin.gz",
+            "roads_geojson": "roads.geojson",
+            "runways_taxiways_geojson": "runways_taxiways.geojson",
+            "city_pmtiles": "MXL.pmtiles",
+            "config_version_matches_tag": "config.json"
+          },
+          "release_size": 101.08,
+          "game_version": ">=1.0.0",
+          "source": {
+            "update_type": "custom",
+            "repo": "rslurry/subwaybuilder-maps",
+            "tag": "1.3.5",
+            "asset_name": "MXL.zip",
+            "download_url": "https://github.com/rslurry/subwaybuilder-maps/releases/download/1.3.5/MXL.zip"
+          },
+          "fingerprint": "rules:v6:sha256:cd0c1f4f077f87acf4839da2237c464dcfdce502e000ab6b0e3384e92f048512",
+          "checked_at": "2026-07-15T04:00:49.366Z",
+          "released_at": "2026-07-14T00:00:00.000Z"
+        },
+        "1.1.1": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "config_json": true,
+            "demand_data": true,
+            "demand_point_spacing": true,
+            "demand_phantom_points": true,
+            "demand_residents_match": true,
+            "buildings_index": true,
+            "roads_geojson": true,
+            "runways_taxiways_geojson": true,
+            "city_pmtiles": true,
+            "config_version_matches_tag": true
+          },
+          "matched_files": {
+            "config_json": "config.json",
+            "demand_data": "demand_data.json",
+            "demand_point_spacing": "demand_data.json",
+            "demand_phantom_points": "demand_data.json",
+            "demand_residents_match": "demand_data.json",
+            "buildings_index": "buildings_index.json.gz",
+            "buildings_index_json": "buildings_index.json.gz",
+            "buildings_index_bin": "buildings_index.bin.gz",
+            "roads_geojson": "roads.geojson",
+            "runways_taxiways_geojson": "runways_taxiways.geojson",
+            "city_pmtiles": "MXL.pmtiles",
+            "config_version_matches_tag": "config.json"
+          },
+          "release_size": 101.08,
+          "file_sizes": {
+            "MXL.pmtiles": 30,
+            "MXL_foundations.pmtiles": 23.37,
+            "buildings_index.bin.gz": 26.42,
+            "buildings_index.json.gz": 18.21,
+            "config.json": 0,
+            "demand_data.json": 5.88,
+            "ocean_depth_index.json.gz": 1.63,
+            "roads.geojson": 12.01,
+            "runways_taxiways.geojson": 0.36
+          },
+          "game_version": ">=1.0.0",
+          "source": {
+            "update_type": "custom",
+            "repo": "rslurry/subwaybuilder-maps",
+            "tag": "1.3.6",
+            "asset_name": "MXL.zip",
+            "download_url": "https://github.com/rslurry/subwaybuilder-maps/releases/download/1.3.6/MXL.zip"
+          },
+          "fingerprint": "rules:v6:sha256:2e84829851cbd28a0f0ec8953f45081dbcd6fcbb19f980f184d6a59316c27f96",
+          "checked_at": "2026-07-15T05:04:04.043Z",
+          "released_at": "2026-07-15T00:00:00.000Z"
         }
       }
     },
@@ -9727,9 +10610,10 @@
     },
     "monterrey": {
       "has_complete_version": true,
-      "latest_semver_version": "1.2.0",
+      "latest_semver_version": "1.3.1",
       "latest_semver_complete": true,
       "complete_versions": [
+        "1.3.1",
         "1.2.0",
         "1.1.3",
         "1.1.2",
@@ -9738,8 +10622,10 @@
         "1.0.1",
         "1.0.0"
       ],
-      "incomplete_versions": [],
-      "last_updated": 1777593600,
+      "incomplete_versions": [
+        "1.3.0"
+      ],
+      "last_updated": 1784073600,
       "versions": {
         "1.0.0": {
           "is_complete": true,
@@ -10062,6 +10948,103 @@
           "fingerprint": "rules:v6:sha256:209ffca67465424982aa6e95d3bf34d49a02c2e8528bca7a67ef6df28a156603",
           "checked_at": "2026-07-07T03:43:59.556Z",
           "released_at": "2026-05-01T00:00:00.000Z"
+        },
+        "1.3.0": {
+          "is_complete": false,
+          "errors": [
+            "demand_data contains 99 of 6657 points (1.5%) with neither residents nor jobs (e.g. 050040340, 190480150, 190310135)"
+          ],
+          "required_checks": {
+            "config_json": true,
+            "demand_data": true,
+            "demand_point_spacing": true,
+            "demand_phantom_points": false,
+            "demand_residents_match": true,
+            "buildings_index": true,
+            "roads_geojson": true,
+            "runways_taxiways_geojson": true,
+            "city_pmtiles": true,
+            "config_version_matches_tag": true
+          },
+          "matched_files": {
+            "config_json": "config.json",
+            "demand_data": "demand_data.json",
+            "demand_point_spacing": "demand_data.json",
+            "demand_phantom_points": "demand_data.json",
+            "demand_residents_match": "demand_data.json",
+            "buildings_index": "buildings_index.json.gz",
+            "buildings_index_json": "buildings_index.json.gz",
+            "buildings_index_bin": "buildings_index.bin.gz",
+            "roads_geojson": "roads.geojson",
+            "runways_taxiways_geojson": "runways_taxiways.geojson",
+            "city_pmtiles": "MTY.pmtiles",
+            "config_version_matches_tag": "config.json"
+          },
+          "release_size": 222.64,
+          "game_version": ">=1.0.0",
+          "source": {
+            "update_type": "custom",
+            "repo": "rslurry/subwaybuilder-maps",
+            "tag": "1.3.5",
+            "asset_name": "MTY.zip",
+            "download_url": "https://github.com/rslurry/subwaybuilder-maps/releases/download/1.3.5/MTY.zip"
+          },
+          "fingerprint": "rules:v6:sha256:55ded5b9be3ad431dbcdf276f5a8d2246fc769a696a0eea2941802ba2b6398ef",
+          "checked_at": "2026-07-15T04:00:49.366Z",
+          "released_at": "2026-07-14T00:00:00.000Z"
+        },
+        "1.3.1": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "config_json": true,
+            "demand_data": true,
+            "demand_point_spacing": true,
+            "demand_phantom_points": true,
+            "demand_residents_match": true,
+            "buildings_index": true,
+            "roads_geojson": true,
+            "runways_taxiways_geojson": true,
+            "city_pmtiles": true,
+            "config_version_matches_tag": true
+          },
+          "matched_files": {
+            "config_json": "config.json",
+            "demand_data": "demand_data.json",
+            "demand_point_spacing": "demand_data.json",
+            "demand_phantom_points": "demand_data.json",
+            "demand_residents_match": "demand_data.json",
+            "buildings_index": "buildings_index.json.gz",
+            "buildings_index_json": "buildings_index.json.gz",
+            "buildings_index_bin": "buildings_index.bin.gz",
+            "roads_geojson": "roads.geojson",
+            "runways_taxiways_geojson": "runways_taxiways.geojson",
+            "city_pmtiles": "MTY.pmtiles",
+            "config_version_matches_tag": "config.json"
+          },
+          "release_size": 222.64,
+          "file_sizes": {
+            "MTY.pmtiles": 57.51,
+            "MTY_foundations.pmtiles": 51.75,
+            "buildings_index.bin.gz": 63.38,
+            "buildings_index.json.gz": 42.94,
+            "config.json": 0,
+            "demand_data.json": 10.21,
+            "ocean_depth_index.json.gz": 1.58,
+            "roads.geojson": 34.56,
+            "runways_taxiways.geojson": 0.32
+          },
+          "game_version": ">=1.0.0",
+          "source": {
+            "update_type": "custom",
+            "repo": "rslurry/subwaybuilder-maps",
+            "tag": "1.3.6",
+            "asset_name": "MTY.zip",
+            "download_url": "https://github.com/rslurry/subwaybuilder-maps/releases/download/1.3.6/MTY.zip"
+          },
+          "fingerprint": "rules:v6:sha256:e7f1e1f221ba9a95c01711a595490fd3f6f9dc219402e11751a82d4c9bf2dfdc",
+          "checked_at": "2026-07-15T05:04:04.043Z",
+          "released_at": "2026-07-15T00:00:00.000Z"
         }
       }
     },
@@ -10304,14 +11287,15 @@
     },
     "oklahoma-city": {
       "has_complete_version": true,
-      "latest_semver_version": "1.1.0",
+      "latest_semver_version": "1.1.1",
       "latest_semver_complete": true,
       "complete_versions": [
+        "1.1.1",
         "1.1.0",
         "1.0.0"
       ],
       "incomplete_versions": [],
-      "last_updated": 1775779200,
+      "last_updated": 1784073600,
       "versions": {
         "1.0.0": {
           "is_complete": true,
@@ -10404,6 +11388,57 @@
           "fingerprint": "rules:v6:sha256:1526b5211b50ec139f72647e6dc450f970c4a858f1b26be5369f374a285b7a86",
           "checked_at": "2026-07-07T03:43:59.556Z",
           "released_at": "2026-04-10T00:00:00.000Z"
+        },
+        "1.1.1": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "config_json": true,
+            "demand_data": true,
+            "demand_point_spacing": true,
+            "demand_phantom_points": true,
+            "demand_residents_match": true,
+            "buildings_index": true,
+            "roads_geojson": true,
+            "runways_taxiways_geojson": true,
+            "city_pmtiles": true,
+            "config_version_matches_tag": true
+          },
+          "matched_files": {
+            "config_json": "config.json",
+            "demand_data": "demand_data.json",
+            "demand_point_spacing": "demand_data.json",
+            "demand_phantom_points": "demand_data.json",
+            "demand_residents_match": "demand_data.json",
+            "buildings_index": "buildings_index.json",
+            "buildings_index_json": "buildings_index.json",
+            "buildings_index_bin": "buildings_index.bin",
+            "roads_geojson": "roads.geojson",
+            "runways_taxiways_geojson": "runways_taxiways.geojson",
+            "city_pmtiles": "OKC.pmtiles",
+            "config_version_matches_tag": "config.json"
+          },
+          "release_size": 145.35,
+          "file_sizes": {
+            "OKC.pmtiles": 72.15,
+            "buildings_index.bin": 71.77,
+            "buildings_index.json": 111.31,
+            "config.json": 0,
+            "demand_data.json": 3.34,
+            "roads.geojson": 8.71,
+            "runways_taxiways.geojson": 0.91
+          },
+          "game_version": ">=1.0.0",
+          "source": {
+            "update_type": "custom",
+            "repo": "ryandicicco/subway-builder-maps",
+            "tag": "v1.1.1-okc",
+            "asset_name": "OKC.zip",
+            "download_url": "https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.1.1-okc/OKC.zip"
+          },
+          "fingerprint": "rules:v6:sha256:bae7f8a0ef773b92b877e23402c3202674a332e3581c67584801538dedd214b4",
+          "checked_at": "2026-07-16T02:26:57.621Z",
+          "released_at": "2026-07-15T00:00:00.000Z"
         }
       }
     },
@@ -10808,13 +11843,14 @@
     },
     "orange-county": {
       "has_complete_version": true,
-      "latest_semver_version": "1.0.3",
+      "latest_semver_version": "1.1.0",
       "latest_semver_complete": true,
       "complete_versions": [
+        "1.1.0",
         "1.0.3"
       ],
       "incomplete_versions": [],
-      "last_updated": 1772323200,
+      "last_updated": 1784073600,
       "versions": {
         "1.0.3": {
           "is_complete": true,
@@ -10862,6 +11898,59 @@
           "fingerprint": "rules:v6:sha256:a0a71a638c41799b47f58471cbf6b2571bccda2d84ffd79f5ed55d2bedff63d5",
           "checked_at": "2026-07-07T03:43:59.556Z",
           "released_at": "2026-03-01T00:00:00.000Z"
+        },
+        "1.1.0": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "config_json": true,
+            "demand_data": true,
+            "demand_point_spacing": true,
+            "demand_phantom_points": true,
+            "demand_residents_match": true,
+            "buildings_index": true,
+            "roads_geojson": true,
+            "runways_taxiways_geojson": true,
+            "city_pmtiles": true,
+            "config_version_matches_tag": true
+          },
+          "matched_files": {
+            "config_json": "config.json",
+            "demand_data": "demand_data.json",
+            "demand_point_spacing": "demand_data.json",
+            "demand_phantom_points": "demand_data.json",
+            "demand_residents_match": "demand_data.json",
+            "buildings_index": "buildings_index.json.gz",
+            "buildings_index_json": "buildings_index.json.gz",
+            "buildings_index_bin": "buildings_index.bin.gz",
+            "roads_geojson": "roads.geojson",
+            "runways_taxiways_geojson": "runways_taxiways.geojson",
+            "city_pmtiles": "OC.pmtiles",
+            "config_version_matches_tag": "config.json"
+          },
+          "release_size": 215.1,
+          "file_sizes": {
+            "OC.pmtiles": 75.07,
+            "OC_foundations.pmtiles": 56.26,
+            "buildings_index.bin.gz": 42.7,
+            "buildings_index.json.gz": 32.21,
+            "config.json": 0,
+            "demand_data.json": 22.12,
+            "ocean_depth_index.json.gz": 2.46,
+            "roads.geojson": 34.06,
+            "runways_taxiways.geojson": 0.18
+          },
+          "game_version": ">=1.0.0",
+          "source": {
+            "update_type": "custom",
+            "repo": "rslurry/subwaybuilder-maps",
+            "tag": "1.3.6",
+            "asset_name": "OC.zip",
+            "download_url": "https://github.com/rslurry/subwaybuilder-maps/releases/download/1.3.6/OC.zip"
+          },
+          "fingerprint": "rules:v6:sha256:ec1654e7f1533cba0952a6f5c67d665ea21da4279b00d0d5c159da0c13d56c5b",
+          "checked_at": "2026-07-15T05:04:04.043Z",
+          "released_at": "2026-07-15T00:00:00.000Z"
         }
       }
     },
@@ -11550,16 +12639,17 @@
     },
     "puebla": {
       "has_complete_version": true,
-      "latest_semver_version": "1.2.0",
+      "latest_semver_version": "1.3.1",
       "latest_semver_complete": true,
       "complete_versions": [
+        "1.3.1",
         "1.2.0",
         "1.1.1",
         "1.1.0",
         "1.0.0"
       ],
       "incomplete_versions": [],
-      "last_updated": 1777593600,
+      "last_updated": 1784073600,
       "versions": {
         "1.0.0": {
           "is_complete": true,
@@ -11744,18 +12834,72 @@
           "fingerprint": "rules:v6:sha256:f95b59aea0b159caa015a2698066fb85d0953a99883252eef39bc17853864747",
           "checked_at": "2026-07-07T03:43:59.556Z",
           "released_at": "2026-05-01T00:00:00.000Z"
+        },
+        "1.3.1": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "config_json": true,
+            "demand_data": true,
+            "demand_point_spacing": true,
+            "demand_phantom_points": true,
+            "demand_residents_match": true,
+            "buildings_index": true,
+            "roads_geojson": true,
+            "runways_taxiways_geojson": true,
+            "city_pmtiles": true,
+            "config_version_matches_tag": true
+          },
+          "matched_files": {
+            "config_json": "config.json",
+            "demand_data": "demand_data.json",
+            "demand_point_spacing": "demand_data.json",
+            "demand_phantom_points": "demand_data.json",
+            "demand_residents_match": "demand_data.json",
+            "buildings_index": "buildings_index.json.gz",
+            "buildings_index_json": "buildings_index.json.gz",
+            "buildings_index_bin": "buildings_index.bin.gz",
+            "roads_geojson": "roads.geojson",
+            "runways_taxiways_geojson": "runways_taxiways.geojson",
+            "city_pmtiles": "PBC.pmtiles",
+            "config_version_matches_tag": "config.json"
+          },
+          "release_size": 245.2,
+          "file_sizes": {
+            "PBC.pmtiles": 62.17,
+            "PBC_foundations.pmtiles": 57.45,
+            "buildings_index.bin.gz": 70.74,
+            "buildings_index.json.gz": 47.56,
+            "config.json": 0,
+            "demand_data.json": 12.06,
+            "ocean_depth_index.json.gz": 1.73,
+            "roads.geojson": 37.54,
+            "runways_taxiways.geojson": 0.07
+          },
+          "game_version": ">=1.0.0",
+          "source": {
+            "update_type": "custom",
+            "repo": "rslurry/subwaybuilder-maps",
+            "tag": "1.3.6",
+            "asset_name": "PBC.zip",
+            "download_url": "https://github.com/rslurry/subwaybuilder-maps/releases/download/1.3.6/PBC.zip"
+          },
+          "fingerprint": "rules:v6:sha256:b8a799bf1142a71a9a3b93c0bf33f3afc1b013142fb0b7d2112d07a962b539c1",
+          "checked_at": "2026-07-15T05:04:04.043Z",
+          "released_at": "2026-07-15T00:00:00.000Z"
         }
       }
     },
     "puerto-rico": {
       "has_complete_version": true,
-      "latest_semver_version": "1.0.1",
+      "latest_semver_version": "1.1.0",
       "latest_semver_complete": true,
       "complete_versions": [
+        "1.1.0",
         "1.0.1"
       ],
       "incomplete_versions": [],
-      "last_updated": 1773792000,
+      "last_updated": 1784160000,
       "versions": {
         "1.0.1": {
           "is_complete": true,
@@ -11803,6 +12947,59 @@
           "fingerprint": "rules:v6:sha256:b144d52d0d34c60c90ae72c4a1943f809c0b2784fcf74a1c82463243e4dc278a",
           "checked_at": "2026-07-07T03:43:59.556Z",
           "released_at": "2026-03-18T00:00:00.000Z"
+        },
+        "1.1.0": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "config_json": true,
+            "demand_data": true,
+            "demand_point_spacing": true,
+            "demand_phantom_points": true,
+            "demand_residents_match": true,
+            "buildings_index": true,
+            "roads_geojson": true,
+            "runways_taxiways_geojson": true,
+            "city_pmtiles": true,
+            "config_version_matches_tag": true
+          },
+          "matched_files": {
+            "config_json": "config.json",
+            "demand_data": "demand_data.json",
+            "demand_point_spacing": "demand_data.json",
+            "demand_phantom_points": "demand_data.json",
+            "demand_residents_match": "demand_data.json",
+            "buildings_index": "buildings_index.json.gz",
+            "buildings_index_json": "buildings_index.json.gz",
+            "buildings_index_bin": "buildings_index.bin.gz",
+            "roads_geojson": "roads.geojson",
+            "runways_taxiways_geojson": "runways_taxiways.geojson",
+            "city_pmtiles": "PR.pmtiles",
+            "config_version_matches_tag": "config.json"
+          },
+          "release_size": 249.39,
+          "file_sizes": {
+            "PR.pmtiles": 77.16,
+            "PR_foundations.pmtiles": 62.09,
+            "buildings_index.bin.gz": 55.79,
+            "buildings_index.json.gz": 40.09,
+            "config.json": 0,
+            "demand_data.json": 5.41,
+            "ocean_depth_index.json.gz": 9,
+            "roads.geojson": 40.27,
+            "runways_taxiways.geojson": 0.27
+          },
+          "game_version": ">=1.0.0",
+          "source": {
+            "update_type": "custom",
+            "repo": "rslurry/subwaybuilder-maps",
+            "tag": "1.3.7",
+            "asset_name": "PR.zip",
+            "download_url": "https://github.com/rslurry/subwaybuilder-maps/releases/download/1.3.7/PR.zip"
+          },
+          "fingerprint": "rules:v6:sha256:038178ec44f013fcf778683c8c7e78df887f65bb491ddfa9379e8b846ca2216b",
+          "checked_at": "2026-07-16T05:30:06.678Z",
+          "released_at": "2026-07-16T00:00:00.000Z"
         }
       }
     },
@@ -12146,13 +13343,14 @@
     },
     "richmond": {
       "has_complete_version": true,
-      "latest_semver_version": "1.1.0",
+      "latest_semver_version": "1.2.0",
       "latest_semver_complete": true,
       "complete_versions": [
+        "1.2.0",
         "1.1.0"
       ],
       "incomplete_versions": [],
-      "last_updated": 1772150400,
+      "last_updated": 1784160000,
       "versions": {
         "1.1.0": {
           "is_complete": true,
@@ -12201,6 +13399,59 @@
           "fingerprint": "rules:v6:sha256:740281654ca081db1b326d2d7335c4069ed428d81e796db7fe3adaba3b9128ce",
           "checked_at": "2026-07-07T03:43:59.556Z",
           "released_at": "2026-02-27T00:00:00.000Z"
+        },
+        "1.2.0": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "config_json": true,
+            "demand_data": true,
+            "demand_point_spacing": true,
+            "demand_phantom_points": true,
+            "demand_residents_match": true,
+            "buildings_index": true,
+            "roads_geojson": true,
+            "runways_taxiways_geojson": true,
+            "city_pmtiles": true,
+            "config_version_matches_tag": true
+          },
+          "matched_files": {
+            "config_json": "config.json",
+            "demand_data": "demand_data.json",
+            "demand_point_spacing": "demand_data.json",
+            "demand_phantom_points": "demand_data.json",
+            "demand_residents_match": "demand_data.json",
+            "buildings_index": "buildings_index.json.gz",
+            "buildings_index_json": "buildings_index.json.gz",
+            "buildings_index_bin": "buildings_index.bin.gz",
+            "roads_geojson": "roads.geojson",
+            "runways_taxiways_geojson": "runways_taxiways.geojson",
+            "city_pmtiles": "RIC.pmtiles",
+            "config_version_matches_tag": "config.json"
+          },
+          "release_size": 128.37,
+          "file_sizes": {
+            "RIC.pmtiles": 48.21,
+            "RIC_foundations.pmtiles": 27.88,
+            "buildings_index.bin.gz": 26.01,
+            "buildings_index.json.gz": 18.67,
+            "config.json": 0,
+            "demand_data.json": 10.21,
+            "ocean_depth_index.json.gz": 3.02,
+            "roads.geojson": 19.43,
+            "runways_taxiways.geojson": 0.39
+          },
+          "game_version": ">=1.0.0",
+          "source": {
+            "update_type": "custom",
+            "repo": "rslurry/subwaybuilder-maps",
+            "tag": "1.3.7",
+            "asset_name": "RIC.zip",
+            "download_url": "https://github.com/rslurry/subwaybuilder-maps/releases/download/1.3.7/RIC.zip"
+          },
+          "fingerprint": "rules:v6:sha256:6edaf86fcda147463471fc93b052b794ea3a62a2cda4ed5d96484fb9bc6af73a",
+          "checked_at": "2026-07-16T05:30:06.678Z",
+          "released_at": "2026-07-16T00:00:00.000Z"
         }
       }
     },
@@ -12264,13 +13515,14 @@
     },
     "rochester": {
       "has_complete_version": true,
-      "latest_semver_version": "1.1.0",
+      "latest_semver_version": "1.2.0",
       "latest_semver_complete": true,
       "complete_versions": [
+        "1.2.0",
         "1.1.0"
       ],
       "incomplete_versions": [],
-      "last_updated": 1772928000,
+      "last_updated": 1784160000,
       "versions": {
         "1.1.0": {
           "is_complete": true,
@@ -12319,6 +13571,61 @@
           "fingerprint": "rules:v6:sha256:09f0d2f40418f60af2eea9c26935d83e9403f35d32fd99a22de49cab8d913ba2",
           "checked_at": "2026-07-07T03:43:59.556Z",
           "released_at": "2026-03-08T00:00:00.000Z"
+        },
+        "1.2.0": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "config_json": true,
+            "demand_data": true,
+            "demand_point_spacing": true,
+            "demand_phantom_points": true,
+            "demand_residents_match": true,
+            "buildings_index": true,
+            "roads_geojson": true,
+            "runways_taxiways_geojson": true,
+            "city_pmtiles": true,
+            "config_version_matches_tag": true
+          },
+          "matched_files": {
+            "config_json": "config.json",
+            "demand_data": "demand_data.json",
+            "demand_point_spacing": "demand_data.json",
+            "demand_phantom_points": "demand_data.json",
+            "demand_residents_match": "demand_data.json",
+            "buildings_index": "buildings_index.json.gz",
+            "buildings_index_json": "buildings_index.json.gz",
+            "buildings_index_bin": "buildings_index.bin.gz",
+            "roads_geojson": "roads.geojson",
+            "runways_taxiways_geojson": "runways_taxiways.geojson",
+            "city_pmtiles": "ROC.pmtiles",
+            "config_version_matches_tag": "config.json"
+          },
+          "release_size": 57.32,
+          "file_sizes": {
+            ".railyard_map/special_demand_points.json": 0.03,
+            ".railyard_map/special_demand_types.json": 0.03,
+            "ROC.pmtiles": 22.41,
+            "ROC_foundations.pmtiles": 12.61,
+            "buildings_index.bin.gz": 11.34,
+            "buildings_index.json.gz": 8.15,
+            "config.json": 0,
+            "demand_data.json": 4.55,
+            "ocean_depth_index.json.gz": 1.26,
+            "roads.geojson": 6.56,
+            "runways_taxiways.geojson": 0.13
+          },
+          "game_version": ">=1.0.0",
+          "source": {
+            "update_type": "custom",
+            "repo": "rslurry/subwaybuilder-maps",
+            "tag": "1.3.7",
+            "asset_name": "ROC.zip",
+            "download_url": "https://github.com/rslurry/subwaybuilder-maps/releases/download/1.3.7/ROC.zip"
+          },
+          "fingerprint": "rules:v6:sha256:fc31ebaa8277ebf11ff08aeabd73ef55b9046b60668aaba47c3db4ee040dc697",
+          "checked_at": "2026-07-16T05:30:06.678Z",
+          "released_at": "2026-07-16T00:00:00.000Z"
         }
       }
     },
@@ -12382,14 +13689,15 @@
     },
     "rotterdam-the-hague": {
       "has_complete_version": true,
-      "latest_semver_version": "1.1.0",
+      "latest_semver_version": "1.1.1",
       "latest_semver_complete": true,
       "complete_versions": [
+        "1.1.1",
         "1.1.0",
         "1.0.0"
       ],
       "incomplete_versions": [],
-      "last_updated": 1775779200,
+      "last_updated": 1784073600,
       "versions": {
         "1.0.0": {
           "is_complete": true,
@@ -12482,6 +13790,57 @@
           "fingerprint": "rules:v6:sha256:e7902ae23af19bad046bf9fb4bb54dffc92fc69cad53bbaf4b50884ac6405ac6",
           "checked_at": "2026-07-07T03:43:59.556Z",
           "released_at": "2026-04-10T00:00:00.000Z"
+        },
+        "1.1.1": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "config_json": true,
+            "demand_data": true,
+            "demand_point_spacing": true,
+            "demand_phantom_points": true,
+            "demand_residents_match": true,
+            "buildings_index": true,
+            "roads_geojson": true,
+            "runways_taxiways_geojson": true,
+            "city_pmtiles": true,
+            "config_version_matches_tag": true
+          },
+          "matched_files": {
+            "config_json": "config.json",
+            "demand_data": "demand_data.json",
+            "demand_point_spacing": "demand_data.json",
+            "demand_phantom_points": "demand_data.json",
+            "demand_residents_match": "demand_data.json",
+            "buildings_index": "buildings_index.json",
+            "buildings_index_json": "buildings_index.json",
+            "buildings_index_bin": "buildings_index.bin",
+            "roads_geojson": "roads.geojson",
+            "runways_taxiways_geojson": "runways_taxiways.geojson",
+            "city_pmtiles": "RTM.pmtiles",
+            "config_version_matches_tag": "config.json"
+          },
+          "release_size": 282.89,
+          "file_sizes": {
+            "RTM.pmtiles": 87.07,
+            "buildings_index.bin": 183.89,
+            "buildings_index.json": 262.53,
+            "config.json": 0,
+            "demand_data.json": 1.28,
+            "roads.geojson": 21.27,
+            "runways_taxiways.geojson": 0.1
+          },
+          "game_version": ">=1.0.0",
+          "source": {
+            "update_type": "custom",
+            "repo": "ryandicicco/subway-builder-maps",
+            "tag": "v1.1.1-rtm",
+            "asset_name": "RTM.zip",
+            "download_url": "https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.1.1-rtm/RTM.zip"
+          },
+          "fingerprint": "rules:v6:sha256:26c6edd9008ba8baf099b195a4240eab280f2845e5f21ff15b9aab2e447155e8",
+          "checked_at": "2026-07-16T08:01:05.256Z",
+          "released_at": "2026-07-15T00:00:00.000Z"
         }
       }
     },
@@ -12545,9 +13904,11 @@
     },
     "saltillo": {
       "has_complete_version": true,
-      "latest_semver_version": "1.2.0",
+      "latest_semver_version": "1.3.1",
       "latest_semver_complete": true,
       "complete_versions": [
+        "1.3.1",
+        "1.3.0",
         "1.2.0",
         "1.1.2",
         "1.1.1",
@@ -12555,7 +13916,7 @@
         "1.0.0"
       ],
       "incomplete_versions": [],
-      "last_updated": 1777593600,
+      "last_updated": 1784073600,
       "versions": {
         "1.0.0": {
           "is_complete": true,
@@ -12786,18 +14147,125 @@
           "fingerprint": "rules:v6:sha256:84d773aaa34649a915dc5b0af0a93f3ed953a39babdaf853ba98d054319a9339",
           "checked_at": "2026-07-07T03:43:59.556Z",
           "released_at": "2026-05-01T00:00:00.000Z"
+        },
+        "1.3.0": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "config_json": true,
+            "demand_data": true,
+            "demand_point_spacing": true,
+            "demand_phantom_points": true,
+            "demand_residents_match": true,
+            "buildings_index": true,
+            "roads_geojson": true,
+            "runways_taxiways_geojson": true,
+            "city_pmtiles": true,
+            "config_version_matches_tag": true
+          },
+          "matched_files": {
+            "config_json": "config.json",
+            "demand_data": "demand_data.json",
+            "demand_point_spacing": "demand_data.json",
+            "demand_phantom_points": "demand_data.json",
+            "demand_residents_match": "demand_data.json",
+            "buildings_index": "buildings_index.json.gz",
+            "buildings_index_json": "buildings_index.json.gz",
+            "buildings_index_bin": "buildings_index.bin.gz",
+            "roads_geojson": "roads.geojson",
+            "runways_taxiways_geojson": "runways_taxiways.geojson",
+            "city_pmtiles": "SLW.pmtiles",
+            "config_version_matches_tag": "config.json"
+          },
+          "release_size": 45.69,
+          "file_sizes": {
+            "SLW.pmtiles": 11.43,
+            "SLW_foundations.pmtiles": 10.83,
+            "buildings_index.bin.gz": 12.96,
+            "buildings_index.json.gz": 9.01,
+            "config.json": 0,
+            "demand_data.json": 3.1,
+            "ocean_depth_index.json.gz": 0.14,
+            "roads.geojson": 7.41,
+            "runways_taxiways.geojson": 0.1
+          },
+          "game_version": ">=1.0.0",
+          "source": {
+            "update_type": "custom",
+            "repo": "rslurry/subwaybuilder-maps",
+            "tag": "1.3.5",
+            "asset_name": "SLW.zip",
+            "download_url": "https://github.com/rslurry/subwaybuilder-maps/releases/download/1.3.5/SLW.zip"
+          },
+          "fingerprint": "rules:v6:sha256:7e4c9c92884f41f0ce8b0a23c482ca8c5346657a7dfa2b45def9a1da6cfcb4c5",
+          "checked_at": "2026-07-15T04:00:49.366Z",
+          "released_at": "2026-07-14T00:00:00.000Z"
+        },
+        "1.3.1": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "config_json": true,
+            "demand_data": true,
+            "demand_point_spacing": true,
+            "demand_phantom_points": true,
+            "demand_residents_match": true,
+            "buildings_index": true,
+            "roads_geojson": true,
+            "runways_taxiways_geojson": true,
+            "city_pmtiles": true,
+            "config_version_matches_tag": true
+          },
+          "matched_files": {
+            "config_json": "config.json",
+            "demand_data": "demand_data.json",
+            "demand_point_spacing": "demand_data.json",
+            "demand_phantom_points": "demand_data.json",
+            "demand_residents_match": "demand_data.json",
+            "buildings_index": "buildings_index.json.gz",
+            "buildings_index_json": "buildings_index.json.gz",
+            "buildings_index_bin": "buildings_index.bin.gz",
+            "roads_geojson": "roads.geojson",
+            "runways_taxiways_geojson": "runways_taxiways.geojson",
+            "city_pmtiles": "SLW.pmtiles",
+            "config_version_matches_tag": "config.json"
+          },
+          "release_size": 45.69,
+          "file_sizes": {
+            "SLW.pmtiles": 11.43,
+            "SLW_foundations.pmtiles": 10.83,
+            "buildings_index.bin.gz": 12.96,
+            "buildings_index.json.gz": 9.01,
+            "config.json": 0,
+            "demand_data.json": 3.1,
+            "ocean_depth_index.json.gz": 0.14,
+            "roads.geojson": 7.41,
+            "runways_taxiways.geojson": 0.1
+          },
+          "game_version": ">=1.0.0",
+          "source": {
+            "update_type": "custom",
+            "repo": "rslurry/subwaybuilder-maps",
+            "tag": "1.3.6",
+            "asset_name": "SLW.zip",
+            "download_url": "https://github.com/rslurry/subwaybuilder-maps/releases/download/1.3.6/SLW.zip"
+          },
+          "fingerprint": "rules:v6:sha256:31c77cd12bd98bc339f7b16600a90d48717bd30119603a5839d24f11d17274bb",
+          "checked_at": "2026-07-15T05:04:04.043Z",
+          "released_at": "2026-07-15T00:00:00.000Z"
         }
       }
     },
     "san-antonio": {
       "has_complete_version": true,
-      "latest_semver_version": "1.1.1",
+      "latest_semver_version": "1.2.0",
       "latest_semver_complete": true,
       "complete_versions": [
+        "1.2.0",
         "1.1.1"
       ],
       "incomplete_versions": [],
-      "last_updated": 1773878400,
+      "last_updated": 1784160000,
       "versions": {
         "1.1.1": {
           "is_complete": true,
@@ -12846,18 +14314,72 @@
           "fingerprint": "rules:v6:sha256:06876d0f0c80db6df3d534716c2ba2525d68412cc582156290cecc8be9906180",
           "checked_at": "2026-07-07T03:43:59.556Z",
           "released_at": "2026-03-19T00:00:00.000Z"
+        },
+        "1.2.0": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "config_json": true,
+            "demand_data": true,
+            "demand_point_spacing": true,
+            "demand_phantom_points": true,
+            "demand_residents_match": true,
+            "buildings_index": true,
+            "roads_geojson": true,
+            "runways_taxiways_geojson": true,
+            "city_pmtiles": true,
+            "config_version_matches_tag": true
+          },
+          "matched_files": {
+            "config_json": "config.json",
+            "demand_data": "demand_data.json",
+            "demand_point_spacing": "demand_data.json",
+            "demand_phantom_points": "demand_data.json",
+            "demand_residents_match": "demand_data.json",
+            "buildings_index": "buildings_index.json.gz",
+            "buildings_index_json": "buildings_index.json.gz",
+            "buildings_index_bin": "buildings_index.bin.gz",
+            "roads_geojson": "roads.geojson",
+            "runways_taxiways_geojson": "runways_taxiways.geojson",
+            "city_pmtiles": "SAT.pmtiles",
+            "config_version_matches_tag": "config.json"
+          },
+          "release_size": 217.63,
+          "file_sizes": {
+            "SAT.pmtiles": 83.47,
+            "SAT_foundations.pmtiles": 48.28,
+            "buildings_index.bin.gz": 42.8,
+            "buildings_index.json.gz": 30.45,
+            "config.json": 0,
+            "demand_data.json": 17.33,
+            "ocean_depth_index.json.gz": 6.28,
+            "roads.geojson": 31,
+            "runways_taxiways.geojson": 0.7
+          },
+          "game_version": ">=1.0.0",
+          "source": {
+            "update_type": "custom",
+            "repo": "rslurry/subwaybuilder-maps",
+            "tag": "1.3.7",
+            "asset_name": "SAT.zip",
+            "download_url": "https://github.com/rslurry/subwaybuilder-maps/releases/download/1.3.7/SAT.zip"
+          },
+          "fingerprint": "rules:v6:sha256:d2dc4587a342b228192f4e002480dd1d76e71de8448034f1c762b7ea913f2e21",
+          "checked_at": "2026-07-16T05:30:06.678Z",
+          "released_at": "2026-07-16T00:00:00.000Z"
         }
       }
     },
     "san-juan": {
       "has_complete_version": true,
-      "latest_semver_version": "1.0.0",
+      "latest_semver_version": "1.1.0",
       "latest_semver_complete": true,
       "complete_versions": [
+        "1.1.0",
         "1.0.0"
       ],
       "incomplete_versions": [],
-      "last_updated": 1773964800,
+      "last_updated": 1784160000,
       "versions": {
         "1.0.0": {
           "is_complete": true,
@@ -12905,18 +14427,72 @@
           "fingerprint": "rules:v6:sha256:e3c6bf3d319439fc3eb2ee1dc7d4b7ad54e0599b63ff7fb0a614d695148ebe04",
           "checked_at": "2026-07-07T03:43:59.556Z",
           "released_at": "2026-03-20T00:00:00.000Z"
+        },
+        "1.1.0": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "config_json": true,
+            "demand_data": true,
+            "demand_point_spacing": true,
+            "demand_phantom_points": true,
+            "demand_residents_match": true,
+            "buildings_index": true,
+            "roads_geojson": true,
+            "runways_taxiways_geojson": true,
+            "city_pmtiles": true,
+            "config_version_matches_tag": true
+          },
+          "matched_files": {
+            "config_json": "config.json",
+            "demand_data": "demand_data.json",
+            "demand_point_spacing": "demand_data.json",
+            "demand_phantom_points": "demand_data.json",
+            "demand_residents_match": "demand_data.json",
+            "buildings_index": "buildings_index.json.gz",
+            "buildings_index_json": "buildings_index.json.gz",
+            "buildings_index_bin": "buildings_index.bin.gz",
+            "roads_geojson": "roads.geojson",
+            "runways_taxiways_geojson": "runways_taxiways.geojson",
+            "city_pmtiles": "SJU.pmtiles",
+            "config_version_matches_tag": "config.json"
+          },
+          "release_size": 113.55,
+          "file_sizes": {
+            "SJU.pmtiles": 34.19,
+            "SJU_foundations.pmtiles": 29.19,
+            "buildings_index.bin.gz": 27.17,
+            "buildings_index.json.gz": 20.3,
+            "config.json": 0,
+            "demand_data.json": 1.74,
+            "ocean_depth_index.json.gz": 1.3,
+            "roads.geojson": 14.47,
+            "runways_taxiways.geojson": 0.14
+          },
+          "game_version": ">=1.0.0",
+          "source": {
+            "update_type": "custom",
+            "repo": "rslurry/subwaybuilder-maps",
+            "tag": "1.3.7",
+            "asset_name": "SJU.zip",
+            "download_url": "https://github.com/rslurry/subwaybuilder-maps/releases/download/1.3.7/SJU.zip"
+          },
+          "fingerprint": "rules:v6:sha256:ae81173d9bb1ac04f4264477c59271ff1db2a40c84b5b6fb702bbeda97c968da",
+          "checked_at": "2026-07-16T05:30:06.678Z",
+          "released_at": "2026-07-16T00:00:00.000Z"
         }
       }
     },
     "santa-barbara": {
       "has_complete_version": true,
-      "latest_semver_version": "1.0.1",
+      "latest_semver_version": "1.1.0",
       "latest_semver_complete": true,
       "complete_versions": [
+        "1.1.0",
         "1.0.1"
       ],
       "incomplete_versions": [],
-      "last_updated": 1773273600,
+      "last_updated": 1784160000,
       "versions": {
         "1.0.1": {
           "is_complete": true,
@@ -12964,6 +14540,59 @@
           "fingerprint": "rules:v6:sha256:8c7e15c5fa31e73dd3e9b40585fe41ae125d106bba0860a16039425ac7f3383e",
           "checked_at": "2026-07-07T03:43:59.556Z",
           "released_at": "2026-03-12T00:00:00.000Z"
+        },
+        "1.1.0": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "config_json": true,
+            "demand_data": true,
+            "demand_point_spacing": true,
+            "demand_phantom_points": true,
+            "demand_residents_match": true,
+            "buildings_index": true,
+            "roads_geojson": true,
+            "runways_taxiways_geojson": true,
+            "city_pmtiles": true,
+            "config_version_matches_tag": true
+          },
+          "matched_files": {
+            "config_json": "config.json",
+            "demand_data": "demand_data.json",
+            "demand_point_spacing": "demand_data.json",
+            "demand_phantom_points": "demand_data.json",
+            "demand_residents_match": "demand_data.json",
+            "buildings_index": "buildings_index.json.gz",
+            "buildings_index_json": "buildings_index.json.gz",
+            "buildings_index_bin": "buildings_index.bin.gz",
+            "roads_geojson": "roads.geojson",
+            "runways_taxiways_geojson": "runways_taxiways.geojson",
+            "city_pmtiles": "SBA.pmtiles",
+            "config_version_matches_tag": "config.json"
+          },
+          "release_size": 97.72,
+          "file_sizes": {
+            "SBA.pmtiles": 44.1,
+            "SBA_foundations.pmtiles": 15.43,
+            "buildings_index.bin.gz": 12.72,
+            "buildings_index.json.gz": 9.27,
+            "config.json": 0,
+            "demand_data.json": 4.82,
+            "ocean_depth_index.json.gz": 14.08,
+            "roads.geojson": 12.96,
+            "runways_taxiways.geojson": 0.56
+          },
+          "game_version": ">=1.0.0",
+          "source": {
+            "update_type": "custom",
+            "repo": "rslurry/subwaybuilder-maps",
+            "tag": "1.3.7",
+            "asset_name": "SBA.zip",
+            "download_url": "https://github.com/rslurry/subwaybuilder-maps/releases/download/1.3.7/SBA.zip"
+          },
+          "fingerprint": "rules:v6:sha256:347beff0a32f4ed24eeede593dba463fd615947c1a8f83e23e8bce094bd5658c",
+          "checked_at": "2026-07-16T05:30:06.678Z",
+          "released_at": "2026-07-16T00:00:00.000Z"
         }
       }
     },
@@ -14127,9 +15756,10 @@
     },
     "spokane": {
       "has_complete_version": true,
-      "latest_semver_version": "2.2.0",
+      "latest_semver_version": "2.2.1",
       "latest_semver_complete": true,
       "complete_versions": [
+        "2.2.1",
         "2.2.0",
         "2.1.0",
         "1.0.0"
@@ -14137,7 +15767,7 @@
       "incomplete_versions": [
         "2.0.0"
       ],
-      "last_updated": 1775779200,
+      "last_updated": 1784073600,
       "versions": {
         "1.0.0": {
           "is_complete": true,
@@ -14316,6 +15946,57 @@
           "fingerprint": "rules:v6:sha256:62a84fb8e7fc8321c2e4ec85ccdea6fca032d1421093558bf224c16ee8f7bca5",
           "checked_at": "2026-07-07T03:43:59.556Z",
           "released_at": "2026-04-10T00:00:00.000Z"
+        },
+        "2.2.1": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "config_json": true,
+            "demand_data": true,
+            "demand_point_spacing": true,
+            "demand_phantom_points": true,
+            "demand_residents_match": true,
+            "buildings_index": true,
+            "roads_geojson": true,
+            "runways_taxiways_geojson": true,
+            "city_pmtiles": true,
+            "config_version_matches_tag": true
+          },
+          "matched_files": {
+            "config_json": "config.json",
+            "demand_data": "demand_data.json",
+            "demand_point_spacing": "demand_data.json",
+            "demand_phantom_points": "demand_data.json",
+            "demand_residents_match": "demand_data.json",
+            "buildings_index": "buildings_index.json",
+            "buildings_index_json": "buildings_index.json",
+            "buildings_index_bin": "buildings_index.bin",
+            "roads_geojson": "roads.geojson",
+            "runways_taxiways_geojson": "runways_taxiways.geojson",
+            "city_pmtiles": "GEG.pmtiles",
+            "config_version_matches_tag": "config.json"
+          },
+          "release_size": 40.03,
+          "file_sizes": {
+            "GEG.pmtiles": 15.6,
+            "buildings_index.bin": 22.4,
+            "buildings_index.json": 35.17,
+            "config.json": 0,
+            "demand_data.json": 2.48,
+            "roads.geojson": 5.04,
+            "runways_taxiways.geojson": 0.6
+          },
+          "game_version": ">=1.0.0",
+          "source": {
+            "update_type": "custom",
+            "repo": "ryandicicco/subway-builder-maps",
+            "tag": "v2.2.1-geg",
+            "asset_name": "GEG.zip",
+            "download_url": "https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v2.2.1-geg/GEG.zip"
+          },
+          "fingerprint": "rules:v6:sha256:141bdabdd025488dcd6ec5d8b45ab564caf9f68b6f4fcabe42d206e36c91572a",
+          "checked_at": "2026-07-16T08:01:05.256Z",
+          "released_at": "2026-07-15T00:00:00.000Z"
         }
       }
     },
@@ -15093,15 +16774,18 @@
     },
     "tijuana-san-diego": {
       "has_complete_version": true,
-      "latest_semver_version": "1.0.2",
+      "latest_semver_version": "1.1.1",
       "latest_semver_complete": true,
       "complete_versions": [
+        "1.1.1",
         "1.0.2",
         "1.0.1",
         "1.0.0"
       ],
-      "incomplete_versions": [],
-      "last_updated": 1780185600,
+      "incomplete_versions": [
+        "1.1.0"
+      ],
+      "last_updated": 1784073600,
       "versions": {
         "1.0.0": {
           "is_complete": true,
@@ -15240,6 +16924,103 @@
           "fingerprint": "rules:v6:sha256:d056f9607dc09ea0f7a1398a1a5aef52d69a7902d95f1f61f1aa45635f1dff17",
           "checked_at": "2026-07-07T03:43:59.556Z",
           "released_at": "2026-05-31T00:00:00.000Z"
+        },
+        "1.1.0": {
+          "is_complete": false,
+          "errors": [
+            "demand_data contains 164 of 6186 points (2.7%) with neither residents nor jobs (e.g. 020050179, 020041384, 020041234)"
+          ],
+          "required_checks": {
+            "config_json": true,
+            "demand_data": true,
+            "demand_point_spacing": true,
+            "demand_phantom_points": false,
+            "demand_residents_match": true,
+            "buildings_index": true,
+            "roads_geojson": true,
+            "runways_taxiways_geojson": true,
+            "city_pmtiles": true,
+            "config_version_matches_tag": true
+          },
+          "matched_files": {
+            "config_json": "config.json",
+            "demand_data": "demand_data.json",
+            "demand_point_spacing": "demand_data.json",
+            "demand_phantom_points": "demand_data.json",
+            "demand_residents_match": "demand_data.json",
+            "buildings_index": "buildings_index.json.gz",
+            "buildings_index_json": "buildings_index.json.gz",
+            "buildings_index_bin": "buildings_index.bin.gz",
+            "roads_geojson": "roads.geojson",
+            "runways_taxiways_geojson": "runways_taxiways.geojson",
+            "city_pmtiles": "TIJ.pmtiles",
+            "config_version_matches_tag": "config.json"
+          },
+          "release_size": 283.56,
+          "game_version": ">=1.0.0",
+          "source": {
+            "update_type": "custom",
+            "repo": "rslurry/subwaybuilder-maps",
+            "tag": "1.3.5",
+            "asset_name": "TIJ.zip",
+            "download_url": "https://github.com/rslurry/subwaybuilder-maps/releases/download/1.3.5/TIJ.zip"
+          },
+          "fingerprint": "rules:v6:sha256:b873023f7e325ccc894b65e0fa3ac1c11297c3d22333048d6228c4fc4f4a1e16",
+          "checked_at": "2026-07-15T04:00:49.366Z",
+          "released_at": "2026-07-14T00:00:00.000Z"
+        },
+        "1.1.1": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "config_json": true,
+            "demand_data": true,
+            "demand_point_spacing": true,
+            "demand_phantom_points": true,
+            "demand_residents_match": true,
+            "buildings_index": true,
+            "roads_geojson": true,
+            "runways_taxiways_geojson": true,
+            "city_pmtiles": true,
+            "config_version_matches_tag": true
+          },
+          "matched_files": {
+            "config_json": "config.json",
+            "demand_data": "demand_data.json",
+            "demand_point_spacing": "demand_data.json",
+            "demand_phantom_points": "demand_data.json",
+            "demand_residents_match": "demand_data.json",
+            "buildings_index": "buildings_index.json.gz",
+            "buildings_index_json": "buildings_index.json.gz",
+            "buildings_index_bin": "buildings_index.bin.gz",
+            "roads_geojson": "roads.geojson",
+            "runways_taxiways_geojson": "runways_taxiways.geojson",
+            "city_pmtiles": "TIJ.pmtiles",
+            "config_version_matches_tag": "config.json"
+          },
+          "release_size": 283.56,
+          "file_sizes": {
+            "TIJ.pmtiles": 90.21,
+            "TIJ_foundations.pmtiles": 63.34,
+            "buildings_index.bin.gz": 68.66,
+            "buildings_index.json.gz": 48.37,
+            "config.json": 0,
+            "demand_data.json": 21.5,
+            "ocean_depth_index.json.gz": 4.23,
+            "roads.geojson": 42.35,
+            "runways_taxiways.geojson": 0.8
+          },
+          "game_version": ">=1.0.0",
+          "source": {
+            "update_type": "custom",
+            "repo": "rslurry/subwaybuilder-maps",
+            "tag": "1.3.6",
+            "asset_name": "TIJ.zip",
+            "download_url": "https://github.com/rslurry/subwaybuilder-maps/releases/download/1.3.6/TIJ.zip"
+          },
+          "fingerprint": "rules:v6:sha256:1258556f3a6e15463fea101b2b18c2db851cc6e3885dbfa2cc6bf5d9f4e5db34",
+          "checked_at": "2026-07-15T05:04:04.043Z",
+          "released_at": "2026-07-15T00:00:00.000Z"
         }
       }
     },
@@ -15409,14 +17190,16 @@
     },
     "tri-cities": {
       "has_complete_version": true,
-      "latest_semver_version": "1.0.1",
-      "latest_semver_complete": true,
+      "latest_semver_version": "1.0.2",
+      "latest_semver_complete": false,
       "complete_versions": [
         "1.0.1",
         "1.0.0"
       ],
-      "incomplete_versions": [],
-      "last_updated": 1778716800,
+      "incomplete_versions": [
+        "1.0.2"
+      ],
+      "last_updated": 1784073600,
       "versions": {
         "1.0.0": {
           "is_complete": true,
@@ -15509,6 +17292,50 @@
           "fingerprint": "rules:v6:sha256:4ed2073f41bd94ed1c370715a10beff5d194e456e9bf3e42a2616a098cf7d955",
           "checked_at": "2026-07-07T03:43:59.556Z",
           "released_at": "2026-05-14T00:00:00.000Z"
+        },
+        "1.0.2": {
+          "is_complete": false,
+          "errors": [
+            "demand_data contains 9 of 334 points (2.7%) with neither residents nor jobs (e.g. merged_530719200003036, merged_530719200002043, merged_530210206082061)"
+          ],
+          "required_checks": {
+            "config_json": true,
+            "demand_data": true,
+            "demand_point_spacing": true,
+            "demand_phantom_points": false,
+            "demand_residents_match": true,
+            "buildings_index": true,
+            "roads_geojson": true,
+            "runways_taxiways_geojson": true,
+            "city_pmtiles": true,
+            "config_version_matches_tag": true
+          },
+          "matched_files": {
+            "config_json": "config.json",
+            "demand_data": "demand_data.json",
+            "demand_point_spacing": "demand_data.json",
+            "demand_phantom_points": "demand_data.json",
+            "demand_residents_match": "demand_data.json",
+            "buildings_index": "buildings_index.json",
+            "buildings_index_json": "buildings_index.json",
+            "buildings_index_bin": "buildings_index.bin",
+            "roads_geojson": "roads.geojson",
+            "runways_taxiways_geojson": "runways_taxiways.geojson",
+            "city_pmtiles": "PSC.pmtiles",
+            "config_version_matches_tag": "config.json"
+          },
+          "release_size": 16.47,
+          "game_version": ">=1.0.0",
+          "source": {
+            "update_type": "custom",
+            "repo": "ryandicicco/subway-builder-maps",
+            "tag": "v1.0.2-psc",
+            "asset_name": "PSC.zip",
+            "download_url": "https://github.com/ryandicicco/Subway-Builder-Maps/releases/download/v1.0.2-psc/PSC.zip"
+          },
+          "fingerprint": "rules:v6:sha256:d385edef3a67d9599eda19ec2e574b1735f3f4aed166b3881f06a5a5b91da290",
+          "checked_at": "2026-07-16T02:26:57.621Z",
+          "released_at": "2026-07-15T00:00:00.000Z"
         }
       }
     },
@@ -22333,6 +24160,341 @@
         }
       }
     },
+    "yukina-lt-kaunas": {
+      "has_complete_version": true,
+      "latest_semver_version": "0.1.0",
+      "latest_semver_complete": true,
+      "complete_versions": [
+        "0.1.0"
+      ],
+      "incomplete_versions": [],
+      "last_updated": 1784073600,
+      "versions": {
+        "0.1.0": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "config_json": true,
+            "demand_data": true,
+            "demand_point_spacing": true,
+            "demand_phantom_points": true,
+            "demand_residents_match": true,
+            "buildings_index": true,
+            "roads_geojson": true,
+            "runways_taxiways_geojson": true,
+            "city_pmtiles": true,
+            "config_version_matches_tag": true
+          },
+          "matched_files": {
+            "config_json": "config.json",
+            "demand_data": "demand_data.json",
+            "demand_point_spacing": "demand_data.json",
+            "demand_phantom_points": "demand_data.json",
+            "demand_residents_match": "demand_data.json",
+            "buildings_index": "buildings_index.json",
+            "buildings_index_json": "buildings_index.json",
+            "buildings_index_bin": "buildings_index.bin.gz",
+            "roads_geojson": "roads.geojson",
+            "runways_taxiways_geojson": "runways_taxiways.geojson",
+            "city_pmtiles": "KUN.pmtiles",
+            "config_version_matches_tag": "config.json"
+          },
+          "release_size": 292.08,
+          "file_sizes": {
+            ".railyard_map/landuse_provenance.parquet": 74.82,
+            ".railyard_map/special_demand_points.json": 0.17,
+            ".railyard_map/special_demand_types.json": 0.07,
+            "KUN.pmtiles": 109.65,
+            "buildings_index.bin.gz": 50.38,
+            "buildings_index.json": 123.46,
+            "config.json": 0.01,
+            "demand_data.json": 65.52,
+            "ocean_depth_index.json": 45.89,
+            "roads.geojson": 11.1,
+            "runways_taxiways.geojson": 0.34
+          },
+          "game_version": ">=1.0.0",
+          "source": {
+            "update_type": "custom",
+            "repo": "ahkimn/subwaybuilder-eu-maps",
+            "tag": "0.6.0",
+            "asset_name": "KUN.zip",
+            "download_url": "https://github.com/ahkimn/subwaybuilder-eu-maps/releases/download/0.6.0/KUN.zip"
+          },
+          "fingerprint": "rules:v6:sha256:9e750346f26f526b8033af041615d95554b9401945580e6aa727b6c6a8ee2c9c",
+          "checked_at": "2026-07-15T04:26:57.317Z",
+          "released_at": "2026-07-15T00:00:00.000Z"
+        }
+      }
+    },
+    "yukina-lt-klaipeda": {
+      "has_complete_version": true,
+      "latest_semver_version": "0.1.0",
+      "latest_semver_complete": true,
+      "complete_versions": [
+        "0.1.0"
+      ],
+      "incomplete_versions": [],
+      "last_updated": 1784073600,
+      "versions": {
+        "0.1.0": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "config_json": true,
+            "demand_data": true,
+            "demand_point_spacing": true,
+            "demand_phantom_points": true,
+            "demand_residents_match": true,
+            "buildings_index": true,
+            "roads_geojson": true,
+            "runways_taxiways_geojson": true,
+            "city_pmtiles": true,
+            "config_version_matches_tag": true
+          },
+          "matched_files": {
+            "config_json": "config.json",
+            "demand_data": "demand_data.json",
+            "demand_point_spacing": "demand_data.json",
+            "demand_phantom_points": "demand_data.json",
+            "demand_residents_match": "demand_data.json",
+            "buildings_index": "buildings_index.json",
+            "buildings_index_json": "buildings_index.json",
+            "buildings_index_bin": "buildings_index.bin.gz",
+            "roads_geojson": "roads.geojson",
+            "runways_taxiways_geojson": "runways_taxiways.geojson",
+            "city_pmtiles": "PLQ.pmtiles",
+            "config_version_matches_tag": "config.json"
+          },
+          "release_size": 145.33,
+          "file_sizes": {
+            ".railyard_map/landuse_provenance.parquet": 30.47,
+            ".railyard_map/special_demand_points.json": 0.08,
+            ".railyard_map/special_demand_types.json": 0.07,
+            "PLQ.pmtiles": 55.75,
+            "buildings_index.bin.gz": 22.88,
+            "buildings_index.json": 55.85,
+            "config.json": 0.01,
+            "demand_data.json": 42.2,
+            "ocean_depth_index.json": 81.64,
+            "roads.geojson": 5.99,
+            "runways_taxiways.geojson": 0.16
+          },
+          "game_version": ">=1.0.0",
+          "source": {
+            "update_type": "custom",
+            "repo": "ahkimn/subwaybuilder-eu-maps",
+            "tag": "0.6.0",
+            "asset_name": "PLQ.zip",
+            "download_url": "https://github.com/ahkimn/subwaybuilder-eu-maps/releases/download/0.6.0/PLQ.zip"
+          },
+          "fingerprint": "rules:v6:sha256:95c4a0c1ab63b8de02511e7853a4a45a64643f681c44ebef5d7829b519b586db",
+          "checked_at": "2026-07-15T04:26:57.317Z",
+          "released_at": "2026-07-15T00:00:00.000Z"
+        }
+      }
+    },
+    "yukina-lt-panevezys": {
+      "has_complete_version": true,
+      "latest_semver_version": "0.1.0",
+      "latest_semver_complete": true,
+      "complete_versions": [
+        "0.1.0"
+      ],
+      "incomplete_versions": [],
+      "last_updated": 1784073600,
+      "versions": {
+        "0.1.0": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "config_json": true,
+            "demand_data": true,
+            "demand_point_spacing": true,
+            "demand_phantom_points": true,
+            "demand_residents_match": true,
+            "buildings_index": true,
+            "roads_geojson": true,
+            "runways_taxiways_geojson": true,
+            "city_pmtiles": true,
+            "config_version_matches_tag": true
+          },
+          "matched_files": {
+            "config_json": "config.json",
+            "demand_data": "demand_data.json",
+            "demand_point_spacing": "demand_data.json",
+            "demand_phantom_points": "demand_data.json",
+            "demand_residents_match": "demand_data.json",
+            "buildings_index": "buildings_index.json",
+            "buildings_index_json": "buildings_index.json",
+            "buildings_index_bin": "buildings_index.bin.gz",
+            "roads_geojson": "roads.geojson",
+            "runways_taxiways_geojson": "runways_taxiways.geojson",
+            "city_pmtiles": "PNV.pmtiles",
+            "config_version_matches_tag": "config.json"
+          },
+          "release_size": 107.8,
+          "file_sizes": {
+            ".railyard_map/landuse_provenance.parquet": 29.93,
+            ".railyard_map/special_demand_points.json": 0.02,
+            ".railyard_map/special_demand_types.json": 0.07,
+            "PNV.pmtiles": 42.06,
+            "buildings_index.bin.gz": 17.26,
+            "buildings_index.json": 42.09,
+            "config.json": 0.01,
+            "demand_data.json": 22.58,
+            "ocean_depth_index.json": 14.96,
+            "roads.geojson": 3.71,
+            "runways_taxiways.geojson": 0.19
+          },
+          "game_version": ">=1.0.0",
+          "source": {
+            "update_type": "custom",
+            "repo": "ahkimn/subwaybuilder-eu-maps",
+            "tag": "0.6.0",
+            "asset_name": "PNV.zip",
+            "download_url": "https://github.com/ahkimn/subwaybuilder-eu-maps/releases/download/0.6.0/PNV.zip"
+          },
+          "fingerprint": "rules:v6:sha256:b162458b9695c9aaeae437ac0abf4dd31e91df58ee2d459475d8f9c0ba37e060",
+          "checked_at": "2026-07-15T04:26:57.317Z",
+          "released_at": "2026-07-15T00:00:00.000Z"
+        }
+      }
+    },
+    "yukina-lt-siauliai": {
+      "has_complete_version": true,
+      "latest_semver_version": "0.1.0",
+      "latest_semver_complete": true,
+      "complete_versions": [
+        "0.1.0"
+      ],
+      "incomplete_versions": [],
+      "last_updated": 1784073600,
+      "versions": {
+        "0.1.0": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "config_json": true,
+            "demand_data": true,
+            "demand_point_spacing": true,
+            "demand_phantom_points": true,
+            "demand_residents_match": true,
+            "buildings_index": true,
+            "roads_geojson": true,
+            "runways_taxiways_geojson": true,
+            "city_pmtiles": true,
+            "config_version_matches_tag": true
+          },
+          "matched_files": {
+            "config_json": "config.json",
+            "demand_data": "demand_data.json",
+            "demand_point_spacing": "demand_data.json",
+            "demand_phantom_points": "demand_data.json",
+            "demand_residents_match": "demand_data.json",
+            "buildings_index": "buildings_index.json",
+            "buildings_index_json": "buildings_index.json",
+            "buildings_index_bin": "buildings_index.bin.gz",
+            "roads_geojson": "roads.geojson",
+            "runways_taxiways_geojson": "runways_taxiways.geojson",
+            "city_pmtiles": "SQQ.pmtiles",
+            "config_version_matches_tag": "config.json"
+          },
+          "release_size": 128.73,
+          "file_sizes": {
+            ".railyard_map/landuse_provenance.parquet": 32.03,
+            ".railyard_map/special_demand_points.json": 0.02,
+            ".railyard_map/special_demand_types.json": 0.07,
+            "SQQ.pmtiles": 51.57,
+            "buildings_index.bin.gz": 21.48,
+            "buildings_index.json": 52.22,
+            "config.json": 0.01,
+            "demand_data.json": 26.23,
+            "ocean_depth_index.json": 19.55,
+            "roads.geojson": 5.35,
+            "runways_taxiways.geojson": 0.19
+          },
+          "game_version": ">=1.0.0",
+          "source": {
+            "update_type": "custom",
+            "repo": "ahkimn/subwaybuilder-eu-maps",
+            "tag": "0.6.0",
+            "asset_name": "SQQ.zip",
+            "download_url": "https://github.com/ahkimn/subwaybuilder-eu-maps/releases/download/0.6.0/SQQ.zip"
+          },
+          "fingerprint": "rules:v6:sha256:c9e5455ee9523be440c992c68558f2f5bc58e68f7a34fb0d1f0a1d969d92921a",
+          "checked_at": "2026-07-15T04:26:57.317Z",
+          "released_at": "2026-07-15T00:00:00.000Z"
+        }
+      }
+    },
+    "yukina-lt-vilnius": {
+      "has_complete_version": true,
+      "latest_semver_version": "0.1.0",
+      "latest_semver_complete": true,
+      "complete_versions": [
+        "0.1.0"
+      ],
+      "incomplete_versions": [],
+      "last_updated": 1784073600,
+      "versions": {
+        "0.1.0": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "config_json": true,
+            "demand_data": true,
+            "demand_point_spacing": true,
+            "demand_phantom_points": true,
+            "demand_residents_match": true,
+            "buildings_index": true,
+            "roads_geojson": true,
+            "runways_taxiways_geojson": true,
+            "city_pmtiles": true,
+            "config_version_matches_tag": true
+          },
+          "matched_files": {
+            "config_json": "config.json",
+            "demand_data": "demand_data.json",
+            "demand_point_spacing": "demand_data.json",
+            "demand_phantom_points": "demand_data.json",
+            "demand_residents_match": "demand_data.json",
+            "buildings_index": "buildings_index.json",
+            "buildings_index_json": "buildings_index.json",
+            "buildings_index_bin": "buildings_index.bin.gz",
+            "roads_geojson": "roads.geojson",
+            "runways_taxiways_geojson": "runways_taxiways.geojson",
+            "city_pmtiles": "VNO.pmtiles",
+            "config_version_matches_tag": "config.json"
+          },
+          "release_size": 231.01,
+          "file_sizes": {
+            ".railyard_map/landuse_provenance.parquet": 53.12,
+            ".railyard_map/special_demand_points.json": 0.05,
+            ".railyard_map/special_demand_types.json": 0.07,
+            "VNO.pmtiles": 83.97,
+            "buildings_index.bin.gz": 39.92,
+            "buildings_index.json": 97.56,
+            "config.json": 0.01,
+            "demand_data.json": 78.86,
+            "ocean_depth_index.json": 40.94,
+            "roads.geojson": 9.82,
+            "runways_taxiways.geojson": 0.62
+          },
+          "game_version": ">=1.0.0",
+          "source": {
+            "update_type": "custom",
+            "repo": "ahkimn/subwaybuilder-eu-maps",
+            "tag": "0.6.0",
+            "asset_name": "VNO.zip",
+            "download_url": "https://github.com/ahkimn/subwaybuilder-eu-maps/releases/download/0.6.0/VNO.zip"
+          },
+          "fingerprint": "rules:v6:sha256:c063754cc108aae84e3f537b04859e2cb6bd4714be4d965c0982ef6a1a872801",
+          "checked_at": "2026-07-15T04:26:57.317Z",
+          "released_at": "2026-07-15T00:00:00.000Z"
+        }
+      }
+    },
     "yukina-lv-daugavpils": {
       "has_complete_version": true,
       "latest_semver_version": "0.1.1",
@@ -28959,16 +31121,17 @@
     },
     "yukina-tw-chiayi": {
       "has_complete_version": true,
-      "latest_semver_version": "0.2.1",
+      "latest_semver_version": "0.3.0",
       "latest_semver_complete": true,
       "complete_versions": [
+        "0.3.0",
         "0.2.1",
         "0.2.0",
         "0.1.1",
         "0.1.0"
       ],
       "incomplete_versions": [],
-      "last_updated": 1780444800,
+      "last_updated": 1784073600,
       "versions": {
         "0.1.0": {
           "is_complete": true,
@@ -29171,21 +31334,77 @@
           "fingerprint": "rules:v6:sha256:f9734ce2cb95bf2602a5d6bc120b32a6fdf36d59ab1748ed9eb8ac66b57b6497",
           "checked_at": "2026-07-07T03:43:59.556Z",
           "released_at": "2026-06-03T00:00:00.000Z"
+        },
+        "0.3.0": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "config_json": true,
+            "demand_data": true,
+            "demand_point_spacing": true,
+            "demand_phantom_points": true,
+            "demand_residents_match": true,
+            "buildings_index": true,
+            "roads_geojson": true,
+            "runways_taxiways_geojson": true,
+            "city_pmtiles": true,
+            "config_version_matches_tag": true
+          },
+          "matched_files": {
+            "config_json": "config.json",
+            "demand_data": "demand_data.json",
+            "demand_point_spacing": "demand_data.json",
+            "demand_phantom_points": "demand_data.json",
+            "demand_residents_match": "demand_data.json",
+            "buildings_index": "buildings_index.json",
+            "buildings_index_json": "buildings_index.json",
+            "buildings_index_bin": "buildings_index.bin.gz",
+            "roads_geojson": "roads.geojson",
+            "runways_taxiways_geojson": "runways_taxiways.geojson",
+            "city_pmtiles": "CYI.pmtiles",
+            "config_version_matches_tag": "config.json"
+          },
+          "release_size": 137.45,
+          "file_sizes": {
+            ".railyard_map/landuse_provenance.parquet": 6.41,
+            ".railyard_map/special_demand_points.json": 0.02,
+            ".railyard_map/special_demand_types.json": 0.07,
+            "CYI.pmtiles": 65.91,
+            "buildings_index.bin.gz": 33.66,
+            "buildings_index.json": 99.37,
+            "config.json": 0.01,
+            "demand_data.json": 29.62,
+            "ocean_depth_index.json": 22.42,
+            "roads.geojson": 5.59,
+            "runways_taxiways.geojson": 0.14
+          },
+          "game_version": ">=1.0.0",
+          "source": {
+            "update_type": "custom",
+            "repo": "ahkimn/subwaybuilder-tw-maps",
+            "tag": "0.2.0",
+            "asset_name": "CYI.zip",
+            "download_url": "https://github.com/ahkimn/subwaybuilder-tw-maps/releases/download/0.2.0/CYI.zip"
+          },
+          "fingerprint": "rules:v6:sha256:a11f1a8df0c63afd744428b153f07219813695df88e6053287ff26378f507b54",
+          "checked_at": "2026-07-15T05:47:40.716Z",
+          "released_at": "2026-07-15T00:00:00.000Z"
         }
       }
     },
     "yukina-tw-hsinchu": {
       "has_complete_version": true,
-      "latest_semver_version": "0.2.1",
+      "latest_semver_version": "0.3.0",
       "latest_semver_complete": true,
       "complete_versions": [
+        "0.3.0",
         "0.2.1",
         "0.2.0",
         "0.1.1",
         "0.1.0"
       ],
       "incomplete_versions": [],
-      "last_updated": 1780444800,
+      "last_updated": 1784073600,
       "versions": {
         "0.1.0": {
           "is_complete": true,
@@ -29388,21 +31607,77 @@
           "fingerprint": "rules:v6:sha256:dbead8b57e8c5e0d51cdbd9b3a5279d685c41568743ba3fde4084300fa107b9f",
           "checked_at": "2026-07-07T03:43:59.556Z",
           "released_at": "2026-06-03T00:00:00.000Z"
+        },
+        "0.3.0": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "config_json": true,
+            "demand_data": true,
+            "demand_point_spacing": true,
+            "demand_phantom_points": true,
+            "demand_residents_match": true,
+            "buildings_index": true,
+            "roads_geojson": true,
+            "runways_taxiways_geojson": true,
+            "city_pmtiles": true,
+            "config_version_matches_tag": true
+          },
+          "matched_files": {
+            "config_json": "config.json",
+            "demand_data": "demand_data.json",
+            "demand_point_spacing": "demand_data.json",
+            "demand_phantom_points": "demand_data.json",
+            "demand_residents_match": "demand_data.json",
+            "buildings_index": "buildings_index.json",
+            "buildings_index_json": "buildings_index.json",
+            "buildings_index_bin": "buildings_index.bin.gz",
+            "roads_geojson": "roads.geojson",
+            "runways_taxiways_geojson": "runways_taxiways.geojson",
+            "city_pmtiles": "HSZ.pmtiles",
+            "config_version_matches_tag": "config.json"
+          },
+          "release_size": 153.13,
+          "file_sizes": {
+            ".railyard_map/landuse_provenance.parquet": 6.96,
+            ".railyard_map/special_demand_points.json": 0.03,
+            ".railyard_map/special_demand_types.json": 0.07,
+            "HSZ.pmtiles": 72.69,
+            "buildings_index.bin.gz": 37.54,
+            "buildings_index.json": 108.9,
+            "config.json": 0.01,
+            "demand_data.json": 46.4,
+            "ocean_depth_index.json": 16.7,
+            "roads.geojson": 6.4,
+            "runways_taxiways.geojson": 0.29
+          },
+          "game_version": ">=1.0.0",
+          "source": {
+            "update_type": "custom",
+            "repo": "ahkimn/subwaybuilder-tw-maps",
+            "tag": "0.2.0",
+            "asset_name": "HSZ.zip",
+            "download_url": "https://github.com/ahkimn/subwaybuilder-tw-maps/releases/download/0.2.0/HSZ.zip"
+          },
+          "fingerprint": "rules:v6:sha256:cd9151dc278d36b166e5af11fed31f9b235186b3ca13333398aa9fc111228ba4",
+          "checked_at": "2026-07-15T07:05:11.492Z",
+          "released_at": "2026-07-15T00:00:00.000Z"
         }
       }
     },
     "yukina-tw-kaohsiung": {
       "has_complete_version": true,
-      "latest_semver_version": "0.2.1",
+      "latest_semver_version": "0.3.0",
       "latest_semver_complete": true,
       "complete_versions": [
+        "0.3.0",
         "0.2.1",
         "0.2.0",
         "0.1.1",
         "0.1.0"
       ],
       "incomplete_versions": [],
-      "last_updated": 1780444800,
+      "last_updated": 1784073600,
       "versions": {
         "0.1.0": {
           "is_complete": true,
@@ -29605,21 +31880,77 @@
           "fingerprint": "rules:v6:sha256:d516962d5158cd4481ef078dbe812e2cf725692c0e8793f5fc04f47d10fee39d",
           "checked_at": "2026-07-07T03:43:59.556Z",
           "released_at": "2026-06-03T00:00:00.000Z"
+        },
+        "0.3.0": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "config_json": true,
+            "demand_data": true,
+            "demand_point_spacing": true,
+            "demand_phantom_points": true,
+            "demand_residents_match": true,
+            "buildings_index": true,
+            "roads_geojson": true,
+            "runways_taxiways_geojson": true,
+            "city_pmtiles": true,
+            "config_version_matches_tag": true
+          },
+          "matched_files": {
+            "config_json": "config.json",
+            "demand_data": "demand_data.json",
+            "demand_point_spacing": "demand_data.json",
+            "demand_phantom_points": "demand_data.json",
+            "demand_residents_match": "demand_data.json",
+            "buildings_index": "buildings_index.json",
+            "buildings_index_json": "buildings_index.json",
+            "buildings_index_bin": "buildings_index.bin.gz",
+            "roads_geojson": "roads.geojson",
+            "runways_taxiways_geojson": "runways_taxiways.geojson",
+            "city_pmtiles": "KHH.pmtiles",
+            "config_version_matches_tag": "config.json"
+          },
+          "release_size": 207.22,
+          "file_sizes": {
+            ".railyard_map/landuse_provenance.parquet": 6.47,
+            ".railyard_map/special_demand_points.json": 0.06,
+            ".railyard_map/special_demand_types.json": 0.07,
+            "KHH.pmtiles": 101.58,
+            "buildings_index.bin.gz": 53.29,
+            "buildings_index.json": 151.09,
+            "config.json": 0.01,
+            "demand_data.json": 41.74,
+            "ocean_depth_index.json": 25.66,
+            "roads.geojson": 10.53,
+            "runways_taxiways.geojson": 0.38
+          },
+          "game_version": ">=1.0.0",
+          "source": {
+            "update_type": "custom",
+            "repo": "ahkimn/subwaybuilder-tw-maps",
+            "tag": "0.2.0",
+            "asset_name": "KHH.zip",
+            "download_url": "https://github.com/ahkimn/subwaybuilder-tw-maps/releases/download/0.2.0/KHH.zip"
+          },
+          "fingerprint": "rules:v6:sha256:ef8f0a68a297a9055e6fa003abac927c2b1830d146a64dd300419a5d5d989eb6",
+          "checked_at": "2026-07-15T05:47:40.716Z",
+          "released_at": "2026-07-15T00:00:00.000Z"
         }
       }
     },
     "yukina-tw-taichung": {
       "has_complete_version": true,
-      "latest_semver_version": "0.2.1",
+      "latest_semver_version": "0.3.0",
       "latest_semver_complete": true,
       "complete_versions": [
+        "0.3.0",
         "0.2.1",
         "0.2.0",
         "0.1.1",
         "0.1.0"
       ],
       "incomplete_versions": [],
-      "last_updated": 1780444800,
+      "last_updated": 1784073600,
       "versions": {
         "0.1.0": {
           "is_complete": true,
@@ -29822,21 +32153,77 @@
           "fingerprint": "rules:v6:sha256:aca615fca1462c8557bda761cdc6210e5811fdfa44b7b615fdd13bf20722cb9d",
           "checked_at": "2026-07-07T03:43:59.556Z",
           "released_at": "2026-06-03T00:00:00.000Z"
+        },
+        "0.3.0": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "config_json": true,
+            "demand_data": true,
+            "demand_point_spacing": true,
+            "demand_phantom_points": true,
+            "demand_residents_match": true,
+            "buildings_index": true,
+            "roads_geojson": true,
+            "runways_taxiways_geojson": true,
+            "city_pmtiles": true,
+            "config_version_matches_tag": true
+          },
+          "matched_files": {
+            "config_json": "config.json",
+            "demand_data": "demand_data.json",
+            "demand_point_spacing": "demand_data.json",
+            "demand_phantom_points": "demand_data.json",
+            "demand_residents_match": "demand_data.json",
+            "buildings_index": "buildings_index.json",
+            "buildings_index_json": "buildings_index.json",
+            "buildings_index_bin": "buildings_index.bin.gz",
+            "roads_geojson": "roads.geojson",
+            "runways_taxiways_geojson": "runways_taxiways.geojson",
+            "city_pmtiles": "RMQ.pmtiles",
+            "config_version_matches_tag": "config.json"
+          },
+          "release_size": 406.9,
+          "file_sizes": {
+            ".railyard_map/landuse_provenance.parquet": 13.72,
+            ".railyard_map/special_demand_points.json": 0.07,
+            ".railyard_map/special_demand_types.json": 0.07,
+            "RMQ.pmtiles": 200.41,
+            "buildings_index.bin.gz": 106.31,
+            "buildings_index.json": 306.5,
+            "config.json": 0.01,
+            "demand_data.json": 76.18,
+            "ocean_depth_index.json": 29.31,
+            "roads.geojson": 16.32,
+            "runways_taxiways.geojson": 0.61
+          },
+          "game_version": ">=1.0.0",
+          "source": {
+            "update_type": "custom",
+            "repo": "ahkimn/subwaybuilder-tw-maps",
+            "tag": "0.2.0",
+            "asset_name": "RMQ.zip",
+            "download_url": "https://github.com/ahkimn/subwaybuilder-tw-maps/releases/download/0.2.0/RMQ.zip"
+          },
+          "fingerprint": "rules:v6:sha256:86f2f6847bfee6ddf213086c095a8c99a2d73f711d1e4eeb11e68248dbeb240b",
+          "checked_at": "2026-07-15T05:47:40.716Z",
+          "released_at": "2026-07-15T00:00:00.000Z"
         }
       }
     },
     "yukina-tw-tainan": {
       "has_complete_version": true,
-      "latest_semver_version": "0.2.1",
+      "latest_semver_version": "0.3.0",
       "latest_semver_complete": true,
       "complete_versions": [
+        "0.3.0",
         "0.2.1",
         "0.2.0",
         "0.1.1",
         "0.1.0"
       ],
       "incomplete_versions": [],
-      "last_updated": 1780444800,
+      "last_updated": 1784073600,
       "versions": {
         "0.1.0": {
           "is_complete": true,
@@ -30039,21 +32426,77 @@
           "fingerprint": "rules:v6:sha256:c767b5da6994237e100894954a1c51653f9dd87316d0e25750dabb175f304710",
           "checked_at": "2026-07-07T03:43:59.556Z",
           "released_at": "2026-06-03T00:00:00.000Z"
+        },
+        "0.3.0": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "config_json": true,
+            "demand_data": true,
+            "demand_point_spacing": true,
+            "demand_phantom_points": true,
+            "demand_residents_match": true,
+            "buildings_index": true,
+            "roads_geojson": true,
+            "runways_taxiways_geojson": true,
+            "city_pmtiles": true,
+            "config_version_matches_tag": true
+          },
+          "matched_files": {
+            "config_json": "config.json",
+            "demand_data": "demand_data.json",
+            "demand_point_spacing": "demand_data.json",
+            "demand_phantom_points": "demand_data.json",
+            "demand_residents_match": "demand_data.json",
+            "buildings_index": "buildings_index.json",
+            "buildings_index_json": "buildings_index.json",
+            "buildings_index_bin": "buildings_index.bin.gz",
+            "roads_geojson": "roads.geojson",
+            "runways_taxiways_geojson": "runways_taxiways.geojson",
+            "city_pmtiles": "TNN.pmtiles",
+            "config_version_matches_tag": "config.json"
+          },
+          "release_size": 173.27,
+          "file_sizes": {
+            ".railyard_map/landuse_provenance.parquet": 7.68,
+            ".railyard_map/special_demand_points.json": 0.03,
+            ".railyard_map/special_demand_types.json": 0.07,
+            "TNN.pmtiles": 83.95,
+            "buildings_index.bin.gz": 44.93,
+            "buildings_index.json": 131.26,
+            "config.json": 0.01,
+            "demand_data.json": 23.21,
+            "ocean_depth_index.json": 27.07,
+            "roads.geojson": 5.72,
+            "runways_taxiways.geojson": 0.35
+          },
+          "game_version": ">=1.0.0",
+          "source": {
+            "update_type": "custom",
+            "repo": "ahkimn/subwaybuilder-tw-maps",
+            "tag": "0.2.0",
+            "asset_name": "TNN.zip",
+            "download_url": "https://github.com/ahkimn/subwaybuilder-tw-maps/releases/download/0.2.0/TNN.zip"
+          },
+          "fingerprint": "rules:v6:sha256:52df26f3142fc299f9a0e01199e2477066034e7c2a4da184bd4247df9530ef84",
+          "checked_at": "2026-07-15T05:47:40.716Z",
+          "released_at": "2026-07-15T00:00:00.000Z"
         }
       }
     },
     "yukina-tw-taipei": {
       "has_complete_version": true,
-      "latest_semver_version": "0.2.1",
+      "latest_semver_version": "0.3.0",
       "latest_semver_complete": true,
       "complete_versions": [
+        "0.3.0",
         "0.2.1",
         "0.2.0",
         "0.1.1",
         "0.1.0"
       ],
       "incomplete_versions": [],
-      "last_updated": 1780444800,
+      "last_updated": 1784073600,
       "versions": {
         "0.1.0": {
           "is_complete": true,
@@ -30256,6 +32699,61 @@
           "fingerprint": "rules:v6:sha256:9a22356eec06e435cc51bf71907c20b64213a8059d491715c2768f5fe57a2240",
           "checked_at": "2026-07-07T03:43:59.556Z",
           "released_at": "2026-06-03T00:00:00.000Z"
+        },
+        "0.3.0": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "config_json": true,
+            "demand_data": true,
+            "demand_point_spacing": true,
+            "demand_phantom_points": true,
+            "demand_residents_match": true,
+            "buildings_index": true,
+            "roads_geojson": true,
+            "runways_taxiways_geojson": true,
+            "city_pmtiles": true,
+            "config_version_matches_tag": true
+          },
+          "matched_files": {
+            "config_json": "config.json",
+            "demand_data": "demand_data.json",
+            "demand_point_spacing": "demand_data.json",
+            "demand_phantom_points": "demand_data.json",
+            "demand_residents_match": "demand_data.json",
+            "buildings_index": "buildings_index.json",
+            "buildings_index_json": "buildings_index.json",
+            "buildings_index_bin": "buildings_index.bin.gz",
+            "roads_geojson": "roads.geojson",
+            "runways_taxiways_geojson": "runways_taxiways.geojson",
+            "city_pmtiles": "TPE.pmtiles",
+            "config_version_matches_tag": "config.json"
+          },
+          "release_size": 310.3,
+          "file_sizes": {
+            ".railyard_map/landuse_provenance.parquet": 20.1,
+            ".railyard_map/special_demand_points.json": 0.15,
+            ".railyard_map/special_demand_types.json": 0.07,
+            "TPE.pmtiles": 148.81,
+            "buildings_index.bin.gz": 74.13,
+            "buildings_index.json": 203.47,
+            "config.json": 0.01,
+            "demand_data.json": 60.05,
+            "ocean_depth_index.json": 45.95,
+            "roads.geojson": 19.12,
+            "runways_taxiways.geojson": 1
+          },
+          "game_version": ">=1.0.0",
+          "source": {
+            "update_type": "custom",
+            "repo": "ahkimn/subwaybuilder-tw-maps",
+            "tag": "0.2.0",
+            "asset_name": "TPE.zip",
+            "download_url": "https://github.com/ahkimn/subwaybuilder-tw-maps/releases/download/0.2.0/TPE.zip"
+          },
+          "fingerprint": "rules:v6:sha256:34cb4f57b43fbf503a264c4fd0865fac82d76319796d09f3092ca703f6da84d3",
+          "checked_at": "2026-07-15T05:47:40.716Z",
+          "released_at": "2026-07-15T00:00:00.000Z"
         }
       }
     },
