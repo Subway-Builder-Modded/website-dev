@@ -9,9 +9,9 @@
     "southeast-asia"
   ],
   "gallery": [
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/f882a7426e9da1f6d5ce4dcdfb2fa09e452e3210/maps/bangkok/gallery/screenshot1.webp",
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/f882a7426e9da1f6d5ce4dcdfb2fa09e452e3210/maps/bangkok/gallery/screenshot2.webp",
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/f882a7426e9da1f6d5ce4dcdfb2fa09e452e3210/maps/bangkok/gallery/screenshot3.webp"
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/4a4108b41fe70ed490a902f1390756199eab21f8/maps/bangkok/gallery/screenshot1.webp",
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/4a4108b41fe70ed490a902f1390756199eab21f8/maps/bangkok/gallery/screenshot2.webp",
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/4a4108b41fe70ed490a902f1390756199eab21f8/maps/bangkok/gallery/screenshot3.webp"
   ],
   "is_test": false,
   "source": "https://github.com/nzh0172/sb-bangkok",
@@ -153,5 +153,9 @@
     "曼谷",
     "Bancoque",
     "กรุงเทพมหานคร อมรรัตนโกสินทร์ มหินทรายุธยา มหาดิลกภพ นพรัตนราชธานีบูรีรมย์ อุดมราชนิเวศน์มหาสถาน อมรพิมานอวตารสถิต สักกะทัตติยวิษณุกรรมประสิทธิ์"
-  ]
+  ],
+  "data_quality": {
+    "tier": "unknown",
+    "rubric_version": 1
+  }
 }

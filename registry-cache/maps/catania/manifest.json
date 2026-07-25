@@ -13,9 +13,9 @@
     "universities"
   ],
   "gallery": [
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/f882a7426e9da1f6d5ce4dcdfb2fa09e452e3210/maps/catania/gallery/screenshot1.webp",
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/f882a7426e9da1f6d5ce4dcdfb2fa09e452e3210/maps/catania/gallery/screenshot2.webp",
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/f882a7426e9da1f6d5ce4dcdfb2fa09e452e3210/maps/catania/gallery/screenshot3.webp"
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/4a4108b41fe70ed490a902f1390756199eab21f8/maps/catania/gallery/screenshot1.webp",
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/4a4108b41fe70ed490a902f1390756199eab21f8/maps/catania/gallery/screenshot2.webp",
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/4a4108b41fe70ed490a902f1390756199eab21f8/maps/catania/gallery/screenshot3.webp"
   ],
   "source": "https://github.com/Maximilian284/subwaybuilder-it-maps",
   "update": {
@@ -46,6 +46,7 @@
   },
   "file_sizes": {
     "CAT.pmtiles": 24.22,
+    "buildings_index.bin": 35.01,
     "buildings_index.json": 52.14,
     "config.json": 0,
     "demand_data.json": 1.46,
@@ -99,9 +100,9 @@
       "expectedPointSpacingKm": 0.4164413805368331,
       "normalizedRadius": 0.4014116378651952,
       "activityPerPoint": 149.2626689189189,
-      "playableAreaKm2": 780,
-      "playableAreaPerPointKm2": 0.2195945945945946,
-      "playableCatchmentRadiusKm": 0.26438443678095175,
+      "playableAreaKm2": 1012,
+      "playableAreaPerPointKm2": 0.2849099099099099,
+      "playableCatchmentRadiusKm": 0.30114720818240615,
       "localityScore": 0.8548863465043046,
       "deaggregationScore": 1,
       "score": 0.9246006416309177
@@ -109,7 +110,7 @@
     "polycentrism": {
       "activity": {
         "score": 0,
-        "continuousScore": 0.3594085970456916,
+        "continuousScore": 0.7939591945104664,
         "detectedCenterCount": 1,
         "effectiveCenterCount": 1,
         "largestCenterShare": 1,
@@ -130,7 +131,7 @@
       }
     }
   },
-  "last_updated": 1773100800,
+  "last_updated": 1784332800,
   "search_aliases": [
     "كاتانيا",
     "Catane",
@@ -145,5 +146,9 @@
     "Katānija",
     "Катанија"
   ],
-  "sub_location": "south-europe"
+  "sub_location": "south-europe",
+  "data_quality": {
+    "tier": "unknown",
+    "rubric_version": 1
+  }
 }

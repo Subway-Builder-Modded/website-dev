@@ -11,10 +11,10 @@
     "universities"
   ],
   "gallery": [
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/f882a7426e9da1f6d5ce4dcdfb2fa09e452e3210/maps/chongqing/gallery/screenshot1.webp",
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/f882a7426e9da1f6d5ce4dcdfb2fa09e452e3210/maps/chongqing/gallery/screenshot2.webp",
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/f882a7426e9da1f6d5ce4dcdfb2fa09e452e3210/maps/chongqing/gallery/screenshot3.webp",
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/f882a7426e9da1f6d5ce4dcdfb2fa09e452e3210/maps/chongqing/gallery/screenshot4.webp"
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/4a4108b41fe70ed490a902f1390756199eab21f8/maps/chongqing/gallery/screenshot1.webp",
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/4a4108b41fe70ed490a902f1390756199eab21f8/maps/chongqing/gallery/screenshot2.webp",
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/4a4108b41fe70ed490a902f1390756199eab21f8/maps/chongqing/gallery/screenshot3.webp",
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/4a4108b41fe70ed490a902f1390756199eab21f8/maps/chongqing/gallery/screenshot4.webp"
   ],
   "is_test": false,
   "source": "https://github.com/kronifer/sb-chinese-maps",
@@ -153,5 +153,12 @@
     "Chongking",
     "চংকিং",
     "Çunkinq"
-  ]
+  ],
+  "data_quality": {
+    "tier": "low",
+    "raw_score": 0.16,
+    "weighted_score": 0.4,
+    "rubric_version": 1,
+    "provenance": "backfill"
+  }
 }

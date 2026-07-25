@@ -4,7 +4,7 @@
   "name": "Oklahoma City",
   "author": "ryandicicco",
   "github_id": 215120742,
-  "description": "Custom map of the Oklahoma City metro area featuring 378,004 buildings merged from five authoritative sources (Overture, OKC City Government 2020 aerial survey, FEMA/ORNL satellite imagery, Microsoft, and OpenStreetMap). High-quality LODES-based demand data with pre-calculated commute routes, airports (Will Rogers World / OKC), 7 universities, Tinker AFB military base, and entertainment venues (OKC Zoo, State Fair Park, Bricktown). Population ~1.1M covering the core metro plus surrounding areas.",
+  "description": "# Oklahoma City · OKC\n\nOklahoma City, Oklahoma; crossroads of the Great Plains. A wide, low-slung metro sprawled across the prairie, modeled from downtown and Bricktown out to Tinker AFB and Will Rogers World Airport.\n\n## Coverage\n\n<table style=\"width: auto\">\n<tr><td><strong>Region</strong></td><td>Oklahoma City metro, Oklahoma (US)</td></tr>\n<tr><td><strong>Bounding Box</strong></td><td>-97.85, 35.13 → -97.20, 35.73</td></tr>\n<tr><td><strong>Playable Area</strong></td><td>~3,910 km²</td></tr>\n</table>\n\n## Population Summary\n\n<table style=\"width: auto\">\n<tr><td><strong>Metro Population</strong></td><td align=\"right\">1,100,000</td></tr>\n<tr><td><strong>Total Modeled Demand</strong></td><td align=\"right\">2,163,635</td></tr>\n</table>\n\n## Map Statistics\n\n<table style=\"width: auto\">\n<tr><td><strong>Buildings Indexed</strong></td><td align=\"right\">455,904</td></tr>\n<tr><td><strong>Demand Points</strong></td><td align=\"right\">1,886</td></tr>\n<tr><td><strong>Population Nodes</strong></td><td align=\"right\">71,065</td></tr>\n<tr><td><strong>Median Commute Distance</strong></td><td align=\"right\">23.4 km</td></tr>\n<tr><td><strong>Mean Commute Distance</strong></td><td align=\"right\">25.1 km</td></tr>\n</table>\n\n## Special Demand\n\n<!-- Figures below are real-world source stats used to seed each generator.\n     Per-item modeled-demand splits are not tagged in the map export, so they\n     are omitted rather than estimated. -->",
   "tags": [
     "north-america",
     "airports",
@@ -12,9 +12,10 @@
     "universities"
   ],
   "gallery": [
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/f882a7426e9da1f6d5ce4dcdfb2fa09e452e3210/maps/oklahoma-city/gallery/screenshot1.webp",
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/f882a7426e9da1f6d5ce4dcdfb2fa09e452e3210/maps/oklahoma-city/gallery/screenshot2.webp",
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/f882a7426e9da1f6d5ce4dcdfb2fa09e452e3210/maps/oklahoma-city/gallery/screenshot3.webp"
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/4a4108b41fe70ed490a902f1390756199eab21f8/maps/oklahoma-city/gallery/screenshot1.webp",
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/4a4108b41fe70ed490a902f1390756199eab21f8/maps/oklahoma-city/gallery/screenshot2.webp",
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/4a4108b41fe70ed490a902f1390756199eab21f8/maps/oklahoma-city/gallery/screenshot3.webp",
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/4a4108b41fe70ed490a902f1390756199eab21f8/maps/oklahoma-city/gallery/screenshot4.webp"
   ],
   "is_test": false,
   "source": "https://github.com/ryandicicco/Subway-Builder-Maps",
@@ -169,5 +170,12 @@
     "Okla city",
     "Oklahoma Shehri",
     "ओक्लाहोमा सिटी"
-  ]
+  ],
+  "data_quality": {
+    "tier": "very-high",
+    "raw_score": 0.81,
+    "weighted_score": 0.87,
+    "rubric_version": 1,
+    "provenance": "backfill"
+  }
 }

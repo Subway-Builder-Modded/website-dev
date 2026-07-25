@@ -1,12 +1,13 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-18T03:36:53.473Z",
+  "generated_at": "2026-07-25T20:01:20.489Z",
   "listings": {
     "advanced-analytics": {
       "has_complete_version": true,
-      "latest_semver_version": "v1.6.0",
+      "latest_semver_version": "v1.6.1",
       "latest_semver_complete": true,
       "complete_versions": [
+        "v1.6.1",
         "v1.6.0",
         "v1.5.0",
         "v1.4.7",
@@ -32,7 +33,7 @@
         "v0.9.2",
         "v0.9.1"
       ],
-      "last_updated": 1784309201,
+      "last_updated": 1784752774,
       "versions": {
         "target-1.1.0": {
           "is_complete": false,
@@ -47,7 +48,7 @@
             "tag": "target-1.1.0"
           },
           "fingerprint": "rules:v6:github:stefanorigano/advanced_analytics:target-1.1.0:no-zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
-          "checked_at": "2026-07-18T03:36:53.473Z",
+          "checked_at": "2026-07-25T20:01:20.489Z",
           "released_at": "2026-03-02T23:15:42.000Z"
         },
         "v0.9.1": {
@@ -677,6 +678,34 @@
           "fingerprint": "rules:v6:github:stefanorigano/advanced_analytics:v1.6.0:advanced_analytics-v1.6.0.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
           "checked_at": "2026-07-17T17:34:27.283Z",
           "released_at": "2026-07-17T17:26:41.000Z"
+        },
+        "v1.6.1": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.11,
+          "game_version": ">=1.0.0",
+          "source": {
+            "update_type": "github",
+            "repo": "stefanorigano/advanced_analytics",
+            "tag": "v1.6.1",
+            "asset_name": "advanced_analytics-v1.6.1.zip",
+            "download_url": "https://github.com/stefanorigano/advanced_analytics/releases/download/v1.6.1/advanced_analytics-v1.6.1.zip"
+          },
+          "fingerprint": "rules:v6:github:stefanorigano/advanced_analytics:v1.6.1:advanced_analytics-v1.6.1.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-07-22T21:37:31.181Z",
+          "released_at": "2026-07-22T20:39:34.000Z"
         }
       }
     },
@@ -778,6 +807,133 @@
           "fingerprint": "rules:v6:github:nzh0172/sb-anymoney:v0.2.0:v0.2.0.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
           "checked_at": "2026-07-07T03:43:59.026Z",
           "released_at": "2026-03-26T08:18:14.000Z"
+        }
+      }
+    },
+    "auto-lines": {
+      "has_complete_version": true,
+      "latest_semver_version": "v1.2.0",
+      "latest_semver_complete": true,
+      "complete_versions": [
+        "v1.2.0",
+        "v1.1.0",
+        "v1.0.1",
+        "v1.0.0"
+      ],
+      "incomplete_versions": [],
+      "last_updated": 1784460414,
+      "versions": {
+        "v1.0.0": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.02,
+          "game_version": "<=1.4.10",
+          "source": {
+            "update_type": "github",
+            "repo": "roquerodrigo/subway-builder-auto-lines",
+            "tag": "v1.0.0",
+            "asset_name": "auto-lines-1.0.0.zip",
+            "download_url": "https://github.com/roquerodrigo/subway-builder-auto-lines/releases/download/v1.0.0/auto-lines-1.0.0.zip"
+          },
+          "fingerprint": "rules:v6:github:roquerodrigo/subway-builder-auto-lines:v1.0.0:auto-lines-1.0.0.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-07-20T04:28:56.643Z",
+          "released_at": "2026-07-16T03:08:56.000Z"
+        },
+        "v1.0.1": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.02,
+          "game_version": "<=1.4.12",
+          "source": {
+            "update_type": "github",
+            "repo": "roquerodrigo/subway-builder-auto-lines",
+            "tag": "v1.0.1",
+            "asset_name": "auto-lines-1.0.1.zip",
+            "download_url": "https://github.com/roquerodrigo/subway-builder-auto-lines/releases/download/v1.0.1/auto-lines-1.0.1.zip"
+          },
+          "fingerprint": "rules:v6:github:roquerodrigo/subway-builder-auto-lines:v1.0.1:auto-lines-1.0.1.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-07-20T04:28:56.643Z",
+          "released_at": "2026-07-18T07:11:46.000Z"
+        },
+        "v1.1.0": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.02,
+          "game_version": ">=1.4.0 <1.5.0",
+          "source": {
+            "update_type": "github",
+            "repo": "roquerodrigo/subway-builder-auto-lines",
+            "tag": "v1.1.0",
+            "asset_name": "auto-lines-1.1.0.zip",
+            "download_url": "https://github.com/roquerodrigo/subway-builder-auto-lines/releases/download/v1.1.0/auto-lines-1.1.0.zip"
+          },
+          "fingerprint": "rules:v6:github:roquerodrigo/subway-builder-auto-lines:v1.1.0:auto-lines-1.1.0.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-07-20T04:28:56.643Z",
+          "released_at": "2026-07-19T03:00:24.000Z"
+        },
+        "v1.2.0": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.02,
+          "game_version": ">=1.4.0",
+          "source": {
+            "update_type": "github",
+            "repo": "roquerodrigo/subway-builder-auto-lines",
+            "tag": "v1.2.0",
+            "asset_name": "auto-lines-1.2.0.zip",
+            "download_url": "https://github.com/roquerodrigo/subway-builder-auto-lines/releases/download/v1.2.0/auto-lines-1.2.0.zip"
+          },
+          "fingerprint": "rules:v6:github:roquerodrigo/subway-builder-auto-lines:v1.2.0:auto-lines-1.2.0.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-07-20T04:28:56.643Z",
+          "released_at": "2026-07-19T11:26:54.000Z"
         }
       }
     },
@@ -2087,6 +2243,110 @@
         }
       }
     },
+    "dantrains-abridged": {
+      "has_complete_version": true,
+      "latest_semver_version": "v1.2.0",
+      "latest_semver_complete": true,
+      "complete_versions": [
+        "v1.2.0",
+        "v1.1.1"
+      ],
+      "incomplete_versions": [],
+      "last_updated": 1784592828,
+      "versions": {
+        "v1.0": {
+          "is_complete": false,
+          "errors": [
+            "non-semver release tag 'v1.0'"
+          ],
+          "required_checks": {},
+          "matched_files": {},
+          "source": {
+            "update_type": "github",
+            "repo": "danield1909/dantrains-abridged",
+            "tag": "v1.0"
+          },
+          "fingerprint": "rules:v6:github:danield1909/dantrains-abridged:v1.0:dantrains-abridged.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-07-25T20:01:20.489Z",
+          "released_at": "2026-07-18T05:05:08.000Z"
+        },
+        "v1.1": {
+          "is_complete": false,
+          "errors": [
+            "non-semver release tag 'v1.1'"
+          ],
+          "required_checks": {},
+          "matched_files": {},
+          "source": {
+            "update_type": "github",
+            "repo": "danield1909/dantrains-abridged",
+            "tag": "v1.1"
+          },
+          "fingerprint": "rules:v6:github:danield1909/dantrains-abridged:v1.1:danTrains-Abridged.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-07-25T20:01:20.489Z",
+          "released_at": "2026-07-19T04:42:34.000Z"
+        },
+        "v1.1.1": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.01,
+          "game_version": ">=1.4.12",
+          "source": {
+            "update_type": "github",
+            "repo": "danield1909/dantrains-abridged",
+            "tag": "v1.1.1",
+            "asset_name": "danTrains-Abridged.zip",
+            "download_url": "https://github.com/DanielD1909/dantrains-abridged/releases/download/v1.1.1/danTrains-Abridged.zip"
+          },
+          "fingerprint": "rules:v6:github:danield1909/dantrains-abridged:v1.1.1:danTrains-Abridged.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-07-19T16:01:23.349Z",
+          "released_at": "2026-07-19T14:55:24.000Z"
+        },
+        "v1.2.0": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.01,
+          "game_version": ">=1.4.12",
+          "dependencies": {
+            "scrollable-dropdowns": ">=v1.2.0"
+          },
+          "source": {
+            "update_type": "github",
+            "repo": "danield1909/dantrains-abridged",
+            "tag": "v1.2.0",
+            "asset_name": "danTrains-Abridged.zip",
+            "download_url": "https://github.com/DanielD1909/dantrains-abridged/releases/download/v1.2.0/danTrains-Abridged.zip"
+          },
+          "fingerprint": "rules:v6:github:danield1909/dantrains-abridged:v1.2.0:danTrains-Abridged.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-07-21T03:50:13.089Z",
+          "released_at": "2026-07-21T00:13:48.000Z"
+        }
+      }
+    },
     "dep-test-mod": {
       "has_complete_version": true,
       "latest_semver_version": "0.1.4",
@@ -2198,9 +2458,11 @@
     },
     "distance-circles": {
       "has_complete_version": true,
-      "latest_semver_version": "0.5.4",
+      "latest_semver_version": "0.6.3",
       "latest_semver_complete": true,
       "complete_versions": [
+        "0.6.3",
+        "0.6.0",
         "0.5.4",
         "0.5.3",
         "0.5.2",
@@ -2208,7 +2470,7 @@
         "0.3.3"
       ],
       "incomplete_versions": [],
-      "last_updated": 1781910720,
+      "last_updated": 1784789162,
       "versions": {
         "0.3.3": {
           "is_complete": true,
@@ -2344,18 +2606,75 @@
           "fingerprint": "rules:v6:github:crumpetime/subway_builder_distance_circles:0.5.4:distanceCircles.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
           "checked_at": "2026-07-07T03:43:59.026Z",
           "released_at": "2026-06-19T23:12:00.000Z"
+        },
+        "0.6.0": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.01,
+          "game_version": ">=1.0.0",
+          "source": {
+            "update_type": "github",
+            "repo": "crumpetime/subway_builder_distance_circles",
+            "tag": "0.6.0",
+            "asset_name": "distanceCircles.zip",
+            "download_url": "https://github.com/crumpetime/subway_builder_distance_circles/releases/download/0.6.0/distanceCircles.zip"
+          },
+          "fingerprint": "rules:v6:github:crumpetime/subway_builder_distance_circles:0.6.0:distanceCircles.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-07-20T14:35:32.232Z",
+          "released_at": "2026-07-20T12:25:44.000Z"
+        },
+        "0.6.3": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.01,
+          "game_version": ">=1.0.0",
+          "source": {
+            "update_type": "github",
+            "repo": "crumpetime/subway_builder_distance_circles",
+            "tag": "0.6.3",
+            "asset_name": "distanceCircles.zip",
+            "download_url": "https://github.com/crumpetime/subway_builder_distance_circles/releases/download/0.6.3/distanceCircles.zip"
+          },
+          "fingerprint": "rules:v6:github:crumpetime/subway_builder_distance_circles:0.6.3:distanceCircles.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-07-23T14:36:09.541Z",
+          "released_at": "2026-07-23T06:46:02.000Z"
         }
       }
     },
     "game-speedup": {
       "has_complete_version": true,
-      "latest_semver_version": "v0.1.0",
+      "latest_semver_version": "v0.1.1",
       "latest_semver_complete": true,
       "complete_versions": [
+        "v0.1.1",
         "v0.1.0"
       ],
       "incomplete_versions": [],
-      "last_updated": 1775921453,
+      "last_updated": 1784720635,
       "versions": {
         "v0.1.0": {
           "is_complete": true,
@@ -2384,6 +2703,34 @@
           "fingerprint": "rules:v6:github:valdotorium/speed-mod:v0.1.0:SpeedUp_0_1_0.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
           "checked_at": "2026-07-07T03:43:59.026Z",
           "released_at": "2026-04-11T15:30:53.000Z"
+        },
+        "v0.1.1": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0,
+          "game_version": ">=1.3.0",
+          "source": {
+            "update_type": "github",
+            "repo": "valdotorium/speed-mod",
+            "tag": "v0.1.1",
+            "asset_name": "SpeedUp_0_1_1.zip",
+            "download_url": "https://github.com/Valdotorium/speed-mod/releases/download/v0.1.1/SpeedUp_0_1_1.zip"
+          },
+          "fingerprint": "rules:v6:github:valdotorium/speed-mod:v0.1.1:SpeedUp_0_1_1.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-07-22T12:01:22.873Z",
+          "released_at": "2026-07-22T11:43:55.000Z"
         }
       }
     },
@@ -2427,11 +2774,121 @@
         }
       }
     },
-    "improved-schematics": {
+    "imb11-moveit": {
       "has_complete_version": true,
-      "latest_semver_version": "v2.2.0",
+      "latest_semver_version": "v1.1.0",
       "latest_semver_complete": true,
       "complete_versions": [
+        "v1.1.0",
+        "v1.0.0"
+      ],
+      "incomplete_versions": [],
+      "last_updated": 1784394734,
+      "versions": {
+        "v1.0.0": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.01,
+          "game_version": ">=1.4.12",
+          "source": {
+            "update_type": "github",
+            "repo": "imb11/move-it",
+            "tag": "v1.0.0",
+            "asset_name": "subway-builder-move-it-1.0.0.zip",
+            "download_url": "https://github.com/IMB11/move-it/releases/download/v1.0.0/subway-builder-move-it-1.0.0.zip"
+          },
+          "fingerprint": "rules:v6:github:imb11/move-it:v1.0.0:subway-builder-move-it-1.0.0.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-07-18T16:45:55.688Z",
+          "released_at": "2026-07-18T16:24:24.000Z"
+        },
+        "v1.1.0": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.01,
+          "game_version": ">=1.4.12",
+          "source": {
+            "update_type": "github",
+            "repo": "imb11/move-it",
+            "tag": "v1.1.0",
+            "asset_name": "subway-builder-move-it-1.1.0.zip",
+            "download_url": "https://github.com/IMB11/move-it/releases/download/v1.1.0/subway-builder-move-it-1.1.0.zip"
+          },
+          "fingerprint": "rules:v6:github:imb11/move-it:v1.1.0:subway-builder-move-it-1.1.0.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-07-18T18:17:23.714Z",
+          "released_at": "2026-07-18T17:12:14.000Z"
+        }
+      }
+    },
+    "imb11-subwaycine": {
+      "has_complete_version": true,
+      "latest_semver_version": "v1.0.1",
+      "latest_semver_complete": true,
+      "complete_versions": [
+        "v1.0.1"
+      ],
+      "incomplete_versions": [],
+      "last_updated": 1784381387,
+      "versions": {
+        "v1.0.1": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.05,
+          "game_version": ">=1.4.12",
+          "source": {
+            "update_type": "github",
+            "repo": "imb11/subwaycine",
+            "tag": "v1.0.1",
+            "asset_name": "subwaycine-1.0.1.zip",
+            "download_url": "https://github.com/IMB11/SubwayCine/releases/download/v1.0.1/subwaycine-1.0.1.zip"
+          },
+          "fingerprint": "rules:v6:github:imb11/subwaycine:v1.0.1:subwaycine-1.0.1.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-07-18T16:45:55.688Z",
+          "released_at": "2026-07-18T13:29:47.000Z"
+        }
+      }
+    },
+    "improved-schematics": {
+      "has_complete_version": true,
+      "latest_semver_version": "v2.3.0",
+      "latest_semver_complete": true,
+      "complete_versions": [
+        "v2.3.0",
         "v2.2.0",
         "v2.1.0",
         "v2.0.0",
@@ -2440,7 +2897,7 @@
         "v1.0.0"
       ],
       "incomplete_versions": [],
-      "last_updated": 1783919912,
+      "last_updated": 1784864297,
       "versions": {
         "v1.0.0": {
           "is_complete": true,
@@ -2609,14 +3066,43 @@
           "fingerprint": "rules:v6:github:martig7/improved-schematics:v2.2.0:improved-schematics-v2.2.0.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
           "checked_at": "2026-07-13T07:43:18.570Z",
           "released_at": "2026-07-13T05:18:32.000Z"
+        },
+        "v2.3.0": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.33,
+          "game_version": ">= 1.3.0",
+          "source": {
+            "update_type": "github",
+            "repo": "martig7/improved-schematics",
+            "tag": "v2.3.0",
+            "asset_name": "improved-schematics-v2.3.0.zip",
+            "download_url": "https://github.com/martig7/Improved-Schematics/releases/download/v2.3.0/improved-schematics-v2.3.0.zip"
+          },
+          "fingerprint": "rules:v6:github:martig7/improved-schematics:v2.3.0:improved-schematics-v2.3.0.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-07-24T03:47:51.771Z",
+          "released_at": "2026-07-24T03:38:17.000Z"
         }
       }
     },
     "induced-demand": {
       "has_complete_version": true,
-      "latest_semver_version": "v1.0.4",
+      "latest_semver_version": "v1.1.0",
       "latest_semver_complete": true,
       "complete_versions": [
+        "v1.1.0",
         "v1.0.4",
         "v1.0.3",
         "v1.0.2",
@@ -2624,7 +3110,7 @@
         "v1.0.0"
       ],
       "incomplete_versions": [],
-      "last_updated": 1784265697,
+      "last_updated": 1784755568,
       "versions": {
         "v1.0.0": {
           "is_complete": true,
@@ -2765,6 +3251,34 @@
           "fingerprint": "rules:v6:github:martig7/induced-demand:v1.0.4:induced-demand-v1.0.4.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
           "checked_at": "2026-07-17T06:30:26.704Z",
           "released_at": "2026-07-17T05:21:37.000Z"
+        },
+        "v1.1.0": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.03,
+          "game_version": ">= 1.4.2",
+          "source": {
+            "update_type": "github",
+            "repo": "martig7/induced-demand",
+            "tag": "v1.1.0",
+            "asset_name": "induced-demand-v1.1.0.zip",
+            "download_url": "https://github.com/martig7/Induced-Demand/releases/download/v1.1.0/induced-demand-v1.1.0.zip"
+          },
+          "fingerprint": "rules:v6:github:martig7/induced-demand:v1.1.0:induced-demand-v1.1.0.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-07-22T21:37:31.181Z",
+          "released_at": "2026-07-22T21:26:08.000Z"
         }
       }
     },
@@ -3282,13 +3796,15 @@
     },
     "map-markers": {
       "has_complete_version": true,
-      "latest_semver_version": "v1.0.0",
+      "latest_semver_version": "v1.1.0",
       "latest_semver_complete": true,
       "complete_versions": [
+        "v1.1.0",
+        "v1.0.1",
         "v1.0.0"
       ],
       "incomplete_versions": [],
-      "last_updated": 1784130528,
+      "last_updated": 1784403793,
       "versions": {
         "v1.0.0": {
           "is_complete": true,
@@ -3317,6 +3833,62 @@
           "fingerprint": "rules:v6:github:roquerodrigo/subway-builder-map-markers:v1.0.0:map-markers-1.0.0.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
           "checked_at": "2026-07-16T02:26:56.823Z",
           "released_at": "2026-07-15T15:48:48.000Z"
+        },
+        "v1.0.1": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.01,
+          "game_version": "<=1.4.12",
+          "source": {
+            "update_type": "github",
+            "repo": "roquerodrigo/subway-builder-map-markers",
+            "tag": "v1.0.1",
+            "asset_name": "map-markers-1.0.1.zip",
+            "download_url": "https://github.com/roquerodrigo/subway-builder-map-markers/releases/download/v1.0.1/map-markers-1.0.1.zip"
+          },
+          "fingerprint": "rules:v6:github:roquerodrigo/subway-builder-map-markers:v1.0.1:map-markers-1.0.1.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-07-18T06:27:21.358Z",
+          "released_at": "2026-07-18T05:51:03.000Z"
+        },
+        "v1.1.0": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.02,
+          "game_version": ">=1.4.0 <1.5.0",
+          "source": {
+            "update_type": "github",
+            "repo": "roquerodrigo/subway-builder-map-markers",
+            "tag": "v1.1.0",
+            "asset_name": "map-markers-1.1.0.zip",
+            "download_url": "https://github.com/roquerodrigo/subway-builder-map-markers/releases/download/v1.1.0/map-markers-1.1.0.zip"
+          },
+          "fingerprint": "rules:v6:github:roquerodrigo/subway-builder-map-markers:v1.1.0:map-markers-1.1.0.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-07-18T20:01:19.288Z",
+          "released_at": "2026-07-18T19:43:13.000Z"
         }
       }
     },
@@ -3458,18 +4030,150 @@
         }
       }
     },
-    "network-status": {
+    "neighborhood-station-names": {
       "has_complete_version": true,
-      "latest_semver_version": "v0.1.2",
+      "latest_semver_version": "v0.3.0",
       "latest_semver_complete": true,
       "complete_versions": [
+        "v0.3.0",
+        "v0.2.2",
+        "v0.2.1"
+      ],
+      "incomplete_versions": [
+        "v0.2.0"
+      ],
+      "last_updated": 1784846471,
+      "versions": {
+        "v0.2.0": {
+          "is_complete": false,
+          "errors": [
+            "asset 'neighborhood-station-names-v0.2.0.zip': missing top-level manifest.json in ZIP",
+            "asset 'neighborhood-station-names-v0.2.0.zip': manifest.json version '(missing)' does not match release tag 'v0.2.0' (expected '0.2.0')"
+          ],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": false,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": false
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": null,
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": null
+          },
+          "release_size": 1.65,
+          "game_version": ">=1.3.0",
+          "source": {
+            "update_type": "github",
+            "repo": "pendulating/neighborhood-station-names",
+            "tag": "v0.2.0",
+            "asset_name": "neighborhood-station-names-v0.2.0.zip",
+            "download_url": "https://github.com/pendulating/neighborhood-station-names/releases/download/v0.2.0/neighborhood-station-names-v0.2.0.zip"
+          },
+          "fingerprint": "rules:v6:github:pendulating/neighborhood-station-names:v0.2.0:neighborhood-station-names-v0.2.0.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-07-22T23:39:51.857Z",
+          "released_at": "2026-07-22T21:24:13.000Z"
+        },
+        "v0.2.1": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 1.65,
+          "game_version": ">=1.3.0",
+          "source": {
+            "update_type": "github",
+            "repo": "pendulating/neighborhood-station-names",
+            "tag": "v0.2.1",
+            "asset_name": "neighborhood-station-names-v0.2.1.zip",
+            "download_url": "https://github.com/pendulating/neighborhood-station-names/releases/download/v0.2.1/neighborhood-station-names-v0.2.1.zip"
+          },
+          "fingerprint": "rules:v6:github:pendulating/neighborhood-station-names:v0.2.1:neighborhood-station-names-v0.2.1.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-07-23T03:48:54.757Z",
+          "released_at": "2026-07-23T03:12:40.000Z"
+        },
+        "v0.2.2": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 1.65,
+          "game_version": ">=1.3.0",
+          "source": {
+            "update_type": "github",
+            "repo": "pendulating/neighborhood-station-names",
+            "tag": "v0.2.2",
+            "asset_name": "neighborhood-station-names-v0.2.2.zip",
+            "download_url": "https://github.com/pendulating/neighborhood-station-names/releases/download/v0.2.2/neighborhood-station-names-v0.2.2.zip"
+          },
+          "fingerprint": "rules:v6:github:pendulating/neighborhood-station-names:v0.2.2:neighborhood-station-names-v0.2.2.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-07-23T04:01:21.795Z",
+          "released_at": "2026-07-23T03:53:30.000Z"
+        },
+        "v0.3.0": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 1.65,
+          "game_version": ">=1.3.0",
+          "source": {
+            "update_type": "github",
+            "repo": "pendulating/neighborhood-station-names",
+            "tag": "v0.3.0",
+            "asset_name": "neighborhood-station-names-v0.3.0.zip",
+            "download_url": "https://github.com/pendulating/neighborhood-station-names/releases/download/v0.3.0/neighborhood-station-names-v0.3.0.zip"
+          },
+          "fingerprint": "rules:v6:github:pendulating/neighborhood-station-names:v0.3.0:neighborhood-station-names-v0.3.0.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-07-24T00:01:29.069Z",
+          "released_at": "2026-07-23T22:41:11.000Z"
+        }
+      }
+    },
+    "network-status": {
+      "has_complete_version": true,
+      "latest_semver_version": "v0.2.0",
+      "latest_semver_complete": true,
+      "complete_versions": [
+        "v0.2.0",
         "v0.1.2"
       ],
       "incomplete_versions": [
         "v0.1.1",
         "v0.1.0"
       ],
-      "last_updated": 1775548550,
+      "last_updated": 1784762796,
       "versions": {
         "v0.1.0": {
           "is_complete": false,
@@ -3557,6 +4261,34 @@
           "fingerprint": "rules:v6:github:valdotorium/network-status:v0.1.2:network_status_0_1_2.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
           "checked_at": "2026-07-07T03:43:59.026Z",
           "released_at": "2026-04-07T07:55:50.000Z"
+        },
+        "v0.2.0": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0,
+          "game_version": ">=1.3.0",
+          "source": {
+            "update_type": "github",
+            "repo": "valdotorium/network-status",
+            "tag": "v0.2.0",
+            "asset_name": "network_status_0_2_0.zip",
+            "download_url": "https://github.com/Valdotorium/network-status/releases/download/v0.2.0/network_status_0_2_0.zip"
+          },
+          "fingerprint": "rules:v6:github:valdotorium/network-status:v0.2.0:network_status_0_2_0.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-07-22T23:39:51.857Z",
+          "released_at": "2026-07-22T23:26:36.000Z"
         }
       }
     },
@@ -4090,11 +4822,52 @@
         }
       }
     },
-    "subwaybuilder-regions": {
+    "subway-builder-performance": {
       "has_complete_version": true,
-      "latest_semver_version": "v0.4.10",
+      "latest_semver_version": "v0.1.0",
       "latest_semver_complete": true,
       "complete_versions": [
+        "v0.1.0"
+      ],
+      "incomplete_versions": [],
+      "last_updated": 1784767328,
+      "versions": {
+        "v0.1.0": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.01,
+          "game_version": ">=1.4.12 <1.5.0",
+          "source": {
+            "update_type": "github",
+            "repo": "rexmhall09/subway-builder-performance-mod",
+            "tag": "v0.1.0",
+            "asset_name": "subway-builder-performance-v0.1.0.zip",
+            "download_url": "https://github.com/rexmhall09/Subway-Builder-Performance-Mod/releases/download/v0.1.0/subway-builder-performance-v0.1.0.zip"
+          },
+          "fingerprint": "rules:v6:github:rexmhall09/subway-builder-performance-mod:v0.1.0:subway-builder-performance-v0.1.0.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-07-25T08:02:10.378Z",
+          "released_at": "2026-07-23T00:42:08.000Z"
+        }
+      }
+    },
+    "subwaybuilder-regions": {
+      "has_complete_version": true,
+      "latest_semver_version": "v0.5.0",
+      "latest_semver_complete": true,
+      "complete_versions": [
+        "v0.5.0",
         "v0.4.10",
         "v0.4.9",
         "v0.4.7",
@@ -4102,7 +4875,7 @@
         "v0.4.5"
       ],
       "incomplete_versions": [],
-      "last_updated": 1779655111,
+      "last_updated": 1784706764,
       "versions": {
         "v0.4.10": {
           "is_complete": true,
@@ -4243,6 +5016,34 @@
           "fingerprint": "rules:v6:github:ahkimn/subwaybuilder-regions:v0.4.9:subwaybuilder-regions-regions-v0.4.9.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
           "checked_at": "2026-07-07T03:43:59.026Z",
           "released_at": "2026-04-26T09:16:44.000Z"
+        },
+        "v0.5.0": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.37,
+          "game_version": ">=1.0.0",
+          "source": {
+            "update_type": "github",
+            "repo": "ahkimn/subwaybuilder-regions",
+            "tag": "v0.5.0",
+            "asset_name": "subwaybuilder-regions-regions-v0.5.0.zip",
+            "download_url": "https://github.com/ahkimn/subwaybuilder-regions/releases/download/v0.5.0/subwaybuilder-regions-regions-v0.5.0.zip"
+          },
+          "fingerprint": "rules:v6:github:ahkimn/subwaybuilder-regions:v0.5.0:subwaybuilder-regions-regions-v0.5.0.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-07-22T07:55:44.259Z",
+          "released_at": "2026-07-22T07:52:44.000Z"
         }
       }
     },
@@ -4707,9 +5508,10 @@
     },
     "track-anarchy": {
       "has_complete_version": true,
-      "latest_semver_version": "v1.3.1",
+      "latest_semver_version": "v1.3.2",
       "latest_semver_complete": true,
       "complete_versions": [
+        "v1.3.2",
         "v1.3.1",
         "v1.3.0",
         "v1.2.1",
@@ -4719,7 +5521,7 @@
         "v1.0.0"
       ],
       "incomplete_versions": [],
-      "last_updated": 1784269435,
+      "last_updated": 1784425512,
       "versions": {
         "v1.0.0": {
           "is_complete": true,
@@ -4916,6 +5718,34 @@
           "fingerprint": "rules:v6:github:seanyushoumori/track-anarchy:v1.3.1:track-anarchy-v1.3.1.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
           "checked_at": "2026-07-17T06:30:26.704Z",
           "released_at": "2026-07-17T06:23:55.000Z"
+        },
+        "v1.3.2": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0,
+          "game_version": "^1.0.0",
+          "source": {
+            "update_type": "github",
+            "repo": "seanyushoumori/track-anarchy",
+            "tag": "v1.3.2",
+            "asset_name": "track-anarchy-v1.3.2.zip",
+            "download_url": "https://github.com/seanyushoumori/track-anarchy/releases/download/v1.3.2/track-anarchy-v1.3.2.zip"
+          },
+          "fingerprint": "rules:v6:github:seanyushoumori/track-anarchy:v1.3.2:track-anarchy-v1.3.2.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-07-19T03:59:22.215Z",
+          "released_at": "2026-07-19T01:45:12.000Z"
         }
       }
     },
@@ -5104,6 +5934,46 @@
         }
       }
     },
+    "train-anarchy": {
+      "has_complete_version": true,
+      "latest_semver_version": "v1.0.0",
+      "latest_semver_complete": true,
+      "complete_versions": [
+        "v1.0.0"
+      ],
+      "incomplete_versions": [],
+      "last_updated": 1784435461,
+      "versions": {
+        "v1.0.0": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0,
+          "game_version": "^1.0.0",
+          "source": {
+            "update_type": "github",
+            "repo": "seanyushoumori/train-anarchy",
+            "tag": "v1.0.0",
+            "asset_name": "train-anarchy-v1.0.0.zip",
+            "download_url": "https://github.com/seanyushoumori/train-anarchy/releases/download/v1.0.0/train-anarchy-v1.0.0.zip"
+          },
+          "fingerprint": "rules:v6:github:seanyushoumori/train-anarchy:v1.0.0:train-anarchy-v1.0.0.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-07-19T05:10:11.099Z",
+          "released_at": "2026-07-19T04:31:01.000Z"
+        }
+      }
+    },
     "transit-overlay": {
       "has_complete_version": true,
       "latest_semver_version": "v1.5.3",
@@ -5233,9 +6103,10 @@
     },
     "valdotoriums-trains": {
       "has_complete_version": true,
-      "latest_semver_version": "v0.1.7",
+      "latest_semver_version": "v0.2.0",
       "latest_semver_complete": true,
       "complete_versions": [
+        "v0.2.0",
         "v0.1.7"
       ],
       "incomplete_versions": [
@@ -5245,7 +6116,7 @@
         "v0.1.3",
         "v0.1.2"
       ],
-      "last_updated": 1775547797,
+      "last_updated": 1784731511,
       "versions": {
         "v0.1.2": {
           "is_complete": false,
@@ -5423,6 +6294,34 @@
           "checked_at": "2026-07-07T03:43:59.026Z",
           "released_at": "2026-04-07T07:43:17.000Z"
         },
+        "v0.2.0": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0,
+          "game_version": ">=1.0.0",
+          "source": {
+            "update_type": "github",
+            "repo": "valdotorium/valdotoriums_trains",
+            "tag": "v0.2.0",
+            "asset_name": "Valdotoriums_Trains_0_2_0.zip",
+            "download_url": "https://github.com/Valdotorium/Valdotoriums_Trains/releases/download/v0.2.0/Valdotoriums_Trains_0_2_0.zip"
+          },
+          "fingerprint": "rules:v6:github:valdotorium/valdotoriums_trains:v0.2.0:Valdotoriums_Trains_0_2_0.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-07-22T16:01:27.202Z",
+          "released_at": "2026-07-22T14:45:11.000Z"
+        },
         "v1.0": {
           "is_complete": false,
           "errors": [
@@ -5436,7 +6335,7 @@
             "tag": "v1.0"
           },
           "fingerprint": "rules:v6:github:valdotorium/valdotoriums_trains:v1.0:Valdotoriums_Trains_1_0.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
-          "checked_at": "2026-07-18T03:36:53.473Z",
+          "checked_at": "2026-07-25T20:01:20.489Z",
           "released_at": "2026-03-01T14:52:46.000Z"
         },
         "v1.1": {
@@ -5452,7 +6351,7 @@
             "tag": "v1.1"
           },
           "fingerprint": "rules:v6:github:valdotorium/valdotoriums_trains:v1.1:Valdotoriums_Trains_1_1.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
-          "checked_at": "2026-07-18T03:36:53.473Z",
+          "checked_at": "2026-07-25T20:01:20.489Z",
           "released_at": "2026-03-08T08:01:18.000Z"
         }
       }

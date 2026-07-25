@@ -9,7 +9,7 @@
     "east-asia"
   ],
   "gallery": [
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/f882a7426e9da1f6d5ce4dcdfb2fa09e452e3210/maps/daegu-3/gallery/screenshot1.webp"
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/4a4108b41fe70ed490a902f1390756199eab21f8/maps/daegu-3/gallery/screenshot1.webp"
   ],
   "is_test": false,
   "source": "https://github.com/kimth9/sb_korean_map_pack",
@@ -141,5 +141,9 @@
     "Daegu-si",
     "दाएगु",
     "ডেগু"
-  ]
+  ],
+  "data_quality": {
+    "tier": "unknown",
+    "rubric_version": 1
+  }
 }

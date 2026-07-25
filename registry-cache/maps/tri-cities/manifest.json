@@ -4,7 +4,7 @@
   "name": "Tri-Cities",
   "author": "ryandicicco",
   "github_id": 215120742,
-  "description": "Detailed map of the Kennewick–Pasco–Richland metro area (Tri-Cities) using US Census LODES 2023 tract-level origin-destination commute data. 334 demand points, 346K residents/jobs, 6,549 commute OD pairs. Special demand for Tri-Cities Airport (PSC; 2,700 daily pax), three universities (WSU-TC, CBC, Heritage U-TC), and TRAC event center. Includes 43,822-building collision index, multi-scale city/suburb/neighborhood labels, and PSC airport runways.",
+  "description": "# Tri-Cities, WA  · PSC\n\nThe atomic cities of southeastern Washington State; Kennewick, Pasco, and Richland, where the Columbia and Snake rivers meet.\n\n## Coverage\n\n<table style=\"width: auto\">\n<tr><td><strong>Region</strong></td><td>Tri-Cities metro, Washington (US)</td></tr>\n<tr><td><strong>Bounding Box</strong></td><td>-119.328, 46.125 → -118.906, 46.328</td></tr>\n<tr><td><strong>Playable Area</strong></td><td>~725 km²</td></tr>\n</table>\n\n## Population Summary\n\n<table style=\"width: auto\">\n<tr><td><strong>Metro Population</strong></td><td align=\"right\">340,000</td></tr>\n<tr><td><strong>Total Modeled Demand</strong></td><td align=\"right\">346,040</td></tr>\n</table>\n\n## Map Statistics\n\n<table style=\"width: auto\">\n<tr><td><strong>Buildings Indexed</strong></td><td align=\"right\">43,822</td></tr>\n<tr><td><strong>Demand Points</strong></td><td align=\"right\">334</td></tr>\n<tr><td><strong>Population Nodes</strong></td><td align=\"right\">6,659</td></tr>\n<tr><td><strong>Median Commute Distance</strong></td><td align=\"right\">11.8 km</td></tr>\n<tr><td><strong>Mean Commute Distance</strong></td><td align=\"right\">12.1 km</td></tr>\n</table>\n\n## Special Demand\n\n<!-- Figures below are real-world source stats used to seed each generator.\n     Per-item modeled-demand splits are not tagged in the map export, so they\n     are omitted rather than estimated. -->",
   "tags": [
     "north-america",
     "airports",
@@ -12,9 +12,10 @@
     "universities"
   ],
   "gallery": [
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/f882a7426e9da1f6d5ce4dcdfb2fa09e452e3210/maps/tri-cities/gallery/screenshot1.webp",
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/f882a7426e9da1f6d5ce4dcdfb2fa09e452e3210/maps/tri-cities/gallery/screenshot2.webp",
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/f882a7426e9da1f6d5ce4dcdfb2fa09e452e3210/maps/tri-cities/gallery/screenshot3.webp"
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/4a4108b41fe70ed490a902f1390756199eab21f8/maps/tri-cities/gallery/screenshot1.webp",
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/4a4108b41fe70ed490a902f1390756199eab21f8/maps/tri-cities/gallery/screenshot2.webp",
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/4a4108b41fe70ed490a902f1390756199eab21f8/maps/tri-cities/gallery/screenshot3.webp",
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/4a4108b41fe70ed490a902f1390756199eab21f8/maps/tri-cities/gallery/screenshot4.webp"
   ],
   "is_test": false,
   "source": "https://github.com/ryandicicco/Subway-Builder-Maps",
@@ -48,7 +49,7 @@
     "buildings_index.bin": 7.84,
     "buildings_index.json": 12.39,
     "config.json": 0,
-    "demand_data.json": 0.95,
+    "demand_data.json": 1.06,
     "roads.geojson": 3.09,
     "runways_taxiways.geojson": 0.43
   },
@@ -70,12 +71,12 @@
       "mean": 0.6098556939333337
     },
     "commuteDistanceKm": {
-      "p10": 0,
-      "p25": 0,
-      "p50": 0,
-      "p75": 0,
-      "p90": 0,
-      "mean": 0
+      "p10": 3401,
+      "p25": 6832,
+      "p50": 11678,
+      "p75": 16299,
+      "p90": 20723,
+      "mean": 12031.028082294639
     },
     "residentCellDensity": {
       "p10": 40,
@@ -145,9 +146,16 @@
       }
     }
   },
-  "last_updated": 1784073600,
+  "last_updated": 1784592000,
   "search_aliases": [
     "トリシティズ",
     "三城"
-  ]
+  ],
+  "data_quality": {
+    "tier": "very-high",
+    "raw_score": 0.81,
+    "weighted_score": 0.87,
+    "rubric_version": 1,
+    "provenance": "backfill"
+  }
 }

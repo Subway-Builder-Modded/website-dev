@@ -16,8 +16,8 @@
     "universities"
   ],
   "gallery": [
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/f882a7426e9da1f6d5ce4dcdfb2fa09e452e3210/maps/jelegend-tokyo/gallery/screenshot1.webp",
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/f882a7426e9da1f6d5ce4dcdfb2fa09e452e3210/maps/jelegend-tokyo/gallery/screenshot2.webp"
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/4a4108b41fe70ed490a902f1390756199eab21f8/maps/jelegend-tokyo/gallery/screenshot1.webp",
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/4a4108b41fe70ed490a902f1390756199eab21f8/maps/jelegend-tokyo/gallery/screenshot2.webp"
   ],
   "is_test": false,
   "source": "https://github.com/jelegend/subwaybuilder/releases",
@@ -164,5 +164,9 @@
     "टोक्यो",
     "동경",
     "টোকিও"
-  ]
+  ],
+  "data_quality": {
+    "tier": "unknown",
+    "rubric_version": 1
+  }
 }

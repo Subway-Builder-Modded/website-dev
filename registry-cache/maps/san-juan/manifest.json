@@ -12,8 +12,8 @@
     "universities"
   ],
   "gallery": [
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/f882a7426e9da1f6d5ce4dcdfb2fa09e452e3210/maps/san-juan/gallery/screenshot1.webp",
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/f882a7426e9da1f6d5ce4dcdfb2fa09e452e3210/maps/san-juan/gallery/screenshot2.webp"
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/4a4108b41fe70ed490a902f1390756199eab21f8/maps/san-juan/gallery/screenshot1.webp",
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/4a4108b41fe70ed490a902f1390756199eab21f8/maps/san-juan/gallery/screenshot2.webp"
   ],
   "source": "https://github.com/rslurry/subwaybuilder-maps",
   "update": {
@@ -164,5 +164,12 @@
     "San Xuan",
     "圣胡安",
     "샌환"
-  ]
+  ],
+  "data_quality": {
+    "tier": "low",
+    "raw_score": 0.27,
+    "weighted_score": 0.4,
+    "rubric_version": 1,
+    "provenance": "backfill"
+  }
 }

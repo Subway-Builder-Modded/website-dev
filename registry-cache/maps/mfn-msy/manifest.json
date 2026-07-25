@@ -11,7 +11,7 @@
     "universities"
   ],
   "gallery": [
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/f882a7426e9da1f6d5ce4dcdfb2fa09e452e3210/maps/mfn-msy/gallery/screenshot1.webp"
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/4a4108b41fe70ed490a902f1390756199eab21f8/maps/mfn-msy/gallery/screenshot1.webp"
   ],
   "is_test": false,
   "source": "https://github.com/crumpetime/sb-maps-msy",
@@ -159,5 +159,12 @@
     "Nyu-Orlean",
     "Նոր Օռլեան",
     "新奥尔良"
-  ]
+  ],
+  "data_quality": {
+    "tier": "very-high",
+    "raw_score": 0.81,
+    "weighted_score": 0.87,
+    "rubric_version": 1,
+    "provenance": "backfill"
+  }
 }
