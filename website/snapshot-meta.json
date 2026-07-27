@@ -1,10 +1,10 @@
 {
   "sourceRepo": "Subway-Builder-Modded/registry",
   "sourceRef": "main",
-  "commitSha": "071b8eb147dac02f7a521f0349190d441e5c5efa",
+  "commitSha": "f4f1db9a2325226b23298493296d891b40099774",
   "mapDataSourceRef": "map-data",
   "mapDataCommitSha": "da9463aa2025b46b0c015a9b305d4f2384b107a2",
-  "fetchedAt": "2026-07-27T07:05:10.564Z",
+  "fetchedAt": "2026-07-27T21:51:40.787Z",
   "materializedFiles": [
     "public/community/discord_server_by_day.csv",
     "public/community/discord_user_message_by_day.csv",
@@ -607,5 +607,5 @@
     "public/website/analytics/timeseries.json",
     "public/website/analytics/valid-paths.json"
   ],
-  "websiteAnalyticsSourceGeneratedAt": "2026-07-27T07:00:44.376Z"
+  "websiteAnalyticsSourceGeneratedAt": "2026-07-27T21:00:53.494Z"
 }
