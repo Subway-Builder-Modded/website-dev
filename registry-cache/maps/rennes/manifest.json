@@ -6,16 +6,16 @@
   "github_id": 301703453,
   "description": "Map of the greater Rennes metropolitan area (France), from Rennes-Saint-Jacques airport to Cesson-Sevigne and Saint-Gregoire. 122k+ OSM buildings (binary format), 297k+ commuters with demand built from real INSEE census data. Rennes-Saint-Jacques airport with runways and taxiways. Protomaps basemap with water, parks and forests.",
   "tags": [
-    "europe",
+    "west-europe",
     "airports",
     "entertainment",
     "hospitals",
     "universities"
   ],
   "gallery": [
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/f4f1db9a2325226b23298493296d891b40099774/maps/rennes/gallery/screenshot1.webp",
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/f4f1db9a2325226b23298493296d891b40099774/maps/rennes/gallery/screenshot2.webp",
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/f4f1db9a2325226b23298493296d891b40099774/maps/rennes/gallery/screenshot3.webp"
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/74fb02d019b3752a5077de04a73da5229926bb1c/maps/rennes/gallery/screenshot1.webp",
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/74fb02d019b3752a5077de04a73da5229926bb1c/maps/rennes/gallery/screenshot2.webp",
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/74fb02d019b3752a5077de04a73da5229926bb1c/maps/rennes/gallery/screenshot3.webp"
   ],
   "is_test": false,
   "source": "https://github.com/pierreggt/subway-builder-rennes",
@@ -38,8 +38,7 @@
   "data_source": "INSEE Filosofi 2021 (donnees carroyees, revenus et population) - INSEE Recensement de la population 2021, mobilites professionnelles - OpenStreetMap contributors (ODbL) - Overture Maps Foundation (buildings)",
   "source_quality": "high-quality",
   "level_of_detail": "medium-detail",
-  "location": "europe",
-  "sub_location": "west-europe",
+  "location": "west-europe",
   "special_demand": [
     "airports",
     "entertainment",

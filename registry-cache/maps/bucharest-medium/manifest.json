@@ -6,12 +6,12 @@
   "github_id": 172184760,
   "description": "This map contains Bucharest and the greater metropolitan area. Kontur data has been used for demand data with a custom made data generator.",
   "tags": [
-    "europe"
+    "east-europe"
   ],
   "gallery": [
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/f4f1db9a2325226b23298493296d891b40099774/maps/bucharest-medium/gallery/screenshot1.webp",
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/f4f1db9a2325226b23298493296d891b40099774/maps/bucharest-medium/gallery/screenshot2.webp",
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/f4f1db9a2325226b23298493296d891b40099774/maps/bucharest-medium/gallery/screenshot3.webp"
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/74fb02d019b3752a5077de04a73da5229926bb1c/maps/bucharest-medium/gallery/screenshot1.webp",
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/74fb02d019b3752a5077de04a73da5229926bb1c/maps/bucharest-medium/gallery/screenshot2.webp",
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/74fb02d019b3752a5077de04a73da5229926bb1c/maps/bucharest-medium/gallery/screenshot3.webp"
   ],
   "is_test": false,
   "source": "https://github.com/metatablestudios/subwaybuilder-romania/releases/latest/download/BUC.zip",
@@ -34,7 +34,7 @@
   "data_source": "OSM, Kontur Population Data",
   "source_quality": "medium-quality",
   "level_of_detail": "medium-detail",
-  "location": "europe",
+  "location": "east-europe",
   "special_demand": [],
   "file_sizes": {
     "BUC.pmtiles": 23.43,
@@ -152,7 +152,6 @@
     "Бухарэст",
     "Bukarešta"
   ],
-  "sub_location": "east-europe",
   "data_quality": {
     "tier": "unknown",
     "rubric_version": 1

@@ -6,15 +6,15 @@
   "github_id": 156072592,
   "description": "Map of the Sofia metropolitan area (Bulgaria), including Sofia Airport and the surrounding urban region. 130k+ OSM buildings with binary building index, 1.23M residents and 552k+ jobs with demand built from Bulgarian census data, OpenStreetMap buildings and an IPF-based origin-destination model. Density-adaptive demand grid with 1 km, 500 m and 250 m cells, producing 2,793 active demand points. Commuting, student, urban mobility and special-attractor demand for Sofia Airport, major universities, hospitals, shopping centres and entertainment venues. Sofia Airport runways and taxiways. Native PMTiles basemap with water, parks and buildings.",
   "tags": [
-    "east-europe",
+    "south-europe",
     "airports",
     "entertainment",
     "hospitals",
     "universities"
   ],
   "gallery": [
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/f4f1db9a2325226b23298493296d891b40099774/maps/sofia-bulgaria/gallery/screenshot1.webp",
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/f4f1db9a2325226b23298493296d891b40099774/maps/sofia-bulgaria/gallery/screenshot2.webp"
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/74fb02d019b3752a5077de04a73da5229926bb1c/maps/sofia-bulgaria/gallery/screenshot1.webp",
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/74fb02d019b3752a5077de04a73da5229926bb1c/maps/sofia-bulgaria/gallery/screenshot2.webp"
   ],
   "is_test": false,
   "source": "https://github.com/giannons46/sofia-subway-builder-map",
@@ -37,7 +37,7 @@
   "data_source": "Bulgarian census grid data, OSM",
   "source_quality": "medium-quality",
   "level_of_detail": "high-detail",
-  "location": "east-europe",
+  "location": "south-europe",
   "special_demand": [
     "airports",
     "entertainment",

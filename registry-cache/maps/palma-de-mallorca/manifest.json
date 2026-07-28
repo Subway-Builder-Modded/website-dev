@@ -6,7 +6,7 @@
   "github_id": 61289731,
   "description": "Custom map of Palma de Mallorca, covering the entire island.",
   "tags": [
-    "west-europe",
+    "south-europe",
     "airports",
     "hospitals",
     "parks",
@@ -14,9 +14,9 @@
     "universities"
   ],
   "gallery": [
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/f4f1db9a2325226b23298493296d891b40099774/maps/palma-de-mallorca/gallery/screenshot1.webp",
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/f4f1db9a2325226b23298493296d891b40099774/maps/palma-de-mallorca/gallery/screenshot2.webp",
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/f4f1db9a2325226b23298493296d891b40099774/maps/palma-de-mallorca/gallery/screenshot3.webp"
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/74fb02d019b3752a5077de04a73da5229926bb1c/maps/palma-de-mallorca/gallery/screenshot1.webp",
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/74fb02d019b3752a5077de04a73da5229926bb1c/maps/palma-de-mallorca/gallery/screenshot2.webp",
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/74fb02d019b3752a5077de04a73da5229926bb1c/maps/palma-de-mallorca/gallery/screenshot3.webp"
   ],
   "is_test": false,
   "source": "https://github.com/Maximilian284/subwaybuilder-es-maps",
@@ -46,7 +46,7 @@
     "rubric_version": 1,
     "provenance": "reviewed"
   },
-  "location": "west-europe",
+  "location": "south-europe",
   "special_demand": [
     "airports",
     "hospitals",

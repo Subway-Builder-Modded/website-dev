@@ -6,7 +6,7 @@
   "github_id": 61289731,
   "description": "Custom map of the province of Seville with realistic procedurally generated demand data.",
   "tags": [
-    "west-europe",
+    "south-europe",
     "airports",
     "entertainment",
     "hospitals",
@@ -15,9 +15,9 @@
     "universities"
   ],
   "gallery": [
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/f4f1db9a2325226b23298493296d891b40099774/maps/sevilla/gallery/screenshot1.webp",
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/f4f1db9a2325226b23298493296d891b40099774/maps/sevilla/gallery/screenshot2.webp",
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/f4f1db9a2325226b23298493296d891b40099774/maps/sevilla/gallery/screenshot3.webp"
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/74fb02d019b3752a5077de04a73da5229926bb1c/maps/sevilla/gallery/screenshot1.webp",
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/74fb02d019b3752a5077de04a73da5229926bb1c/maps/sevilla/gallery/screenshot2.webp",
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/74fb02d019b3752a5077de04a73da5229926bb1c/maps/sevilla/gallery/screenshot3.webp"
   ],
   "is_test": false,
   "source": "https://github.com/Maximilian284/subwaybuilder-es-maps",
@@ -44,7 +44,7 @@
     "tier": "unknown",
     "rubric_version": 1
   },
-  "location": "west-europe",
+  "location": "south-europe",
   "special_demand": [
     "airports",
     "entertainment",

@@ -6,13 +6,13 @@
   "github_id": 121749023,
   "description": "A map of the entirety of the Hong Kong Special Administrative Region. Population data is sourced from the 2021 Hong Kong Census, and employment/ O/D data is generated using gravity modelling based on the data available in the 2021 Census.",
   "tags": [
-    "southeast-asia",
+    "east-asia",
     "airports",
     "entertainment",
     "universities"
   ],
   "gallery": [
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/f4f1db9a2325226b23298493296d891b40099774/maps/mfn-hong-kong/gallery/screenshot1.webp"
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/74fb02d019b3752a5077de04a73da5229926bb1c/maps/mfn-hong-kong/gallery/screenshot1.webp"
   ],
   "source": "https://github.com/crumpetime/sb-maps-hkg",
   "update": {
@@ -25,7 +25,7 @@
   "level_of_detail": "medium-detail",
   "source_quality": "medium-quality",
   "data_source": "CENS",
-  "location": "southeast-asia",
+  "location": "east-asia",
   "special_demand": [
     "airports",
     "entertainment",

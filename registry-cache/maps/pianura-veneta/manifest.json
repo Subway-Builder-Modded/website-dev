@@ -6,16 +6,16 @@
   "github_id": 61289731,
   "description": "Custom map of the Venetian plain polycentric metropolitan area, spanning Venice, Padua, Treviso, Chioggia, and Castelfranco Veneto, with highly realistic, procedurally generated demand data.",
   "tags": [
-    "europe",
+    "south-europe",
     "airports",
     "hospitals",
     "schools",
     "universities"
   ],
   "gallery": [
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/f4f1db9a2325226b23298493296d891b40099774/maps/pianura-veneta/gallery/screenshot1.webp",
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/f4f1db9a2325226b23298493296d891b40099774/maps/pianura-veneta/gallery/screenshot2.webp",
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/f4f1db9a2325226b23298493296d891b40099774/maps/pianura-veneta/gallery/screenshot3.webp"
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/74fb02d019b3752a5077de04a73da5229926bb1c/maps/pianura-veneta/gallery/screenshot1.webp",
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/74fb02d019b3752a5077de04a73da5229926bb1c/maps/pianura-veneta/gallery/screenshot2.webp",
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/74fb02d019b3752a5077de04a73da5229926bb1c/maps/pianura-veneta/gallery/screenshot3.webp"
   ],
   "source": "https://github.com/Maximilian284/subwaybuilder-it-maps",
   "update": {
@@ -37,7 +37,7 @@
   "data_source": "OSM",
   "source_quality": "medium-quality",
   "level_of_detail": "high-detail",
-  "location": "europe",
+  "location": "south-europe",
   "special_demand": [
     "airports",
     "hospitals",
@@ -158,7 +158,6 @@
     "帕多瓦",
     "Padoa"
   ],
-  "sub_location": "south-europe",
   "data_quality": {
     "tier": "unknown",
     "rubric_version": 1

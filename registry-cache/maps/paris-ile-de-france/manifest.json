@@ -6,16 +6,16 @@
   "github_id": 301703453,
   "description": "Map of the greater Paris - Ile-de-France metropolitan area (France), from Roissy-Charles de Gaulle airport to Corbeil-Essonnes and from Versailles to Meaux. 1.53M+ OSM buildings (binary format), 5.76M+ commuters with demand built from real INSEE census data (Filosofi 2021, mobilites professionnelles 2021). Roissy-Charles de Gaulle airport with runways and taxiways. Full Seine river and waterway depth data. Protomaps basemap with water, parks and forests.",
   "tags": [
-    "europe",
+    "west-europe",
     "airports",
     "entertainment",
     "hospitals",
     "universities"
   ],
   "gallery": [
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/f4f1db9a2325226b23298493296d891b40099774/maps/paris-ile-de-france/gallery/screenshot1.webp",
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/f4f1db9a2325226b23298493296d891b40099774/maps/paris-ile-de-france/gallery/screenshot2.webp",
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/f4f1db9a2325226b23298493296d891b40099774/maps/paris-ile-de-france/gallery/screenshot3.webp"
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/74fb02d019b3752a5077de04a73da5229926bb1c/maps/paris-ile-de-france/gallery/screenshot1.webp",
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/74fb02d019b3752a5077de04a73da5229926bb1c/maps/paris-ile-de-france/gallery/screenshot2.webp",
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/74fb02d019b3752a5077de04a73da5229926bb1c/maps/paris-ile-de-france/gallery/screenshot3.webp"
   ],
   "is_test": false,
   "source": "https://github.com/pierreggt/subway-builder-paris",
@@ -38,8 +38,7 @@
   "data_source": "INSEE Filosofi 2021 (donnees carroyees, revenus et population) - INSEE Recensement de la population 2021, mobilites professionnelles - OpenStreetMap contributors (ODbL) - Overture Maps Foundation (buildings)",
   "source_quality": "medium-quality",
   "level_of_detail": "high-detail",
-  "location": "europe",
-  "sub_location": "west-europe",
+  "location": "west-europe",
   "special_demand": [
     "airports",
     "entertainment",

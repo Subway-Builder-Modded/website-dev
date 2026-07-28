@@ -6,16 +6,16 @@
   "github_id": 301703453,
   "description": "Map of the Montpellier-Méditerranée area (France): Montpellier, Nîmes, Arles, Sète, Lunel and the Mediterranean coast. 456k OSM buildings, 750k+ commuters from INSEE census data, airport with runways, university campuses, CHU hospitals, ocean depth data.",
   "tags": [
-    "europe",
+    "west-europe",
     "airports",
     "entertainment",
     "hospitals",
     "universities"
   ],
   "gallery": [
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/f4f1db9a2325226b23298493296d891b40099774/maps/montpellier-mediterranee/gallery/screenshot1.webp",
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/f4f1db9a2325226b23298493296d891b40099774/maps/montpellier-mediterranee/gallery/screenshot2.webp",
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/f4f1db9a2325226b23298493296d891b40099774/maps/montpellier-mediterranee/gallery/screenshot3.webp"
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/74fb02d019b3752a5077de04a73da5229926bb1c/maps/montpellier-mediterranee/gallery/screenshot1.webp",
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/74fb02d019b3752a5077de04a73da5229926bb1c/maps/montpellier-mediterranee/gallery/screenshot2.webp",
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/74fb02d019b3752a5077de04a73da5229926bb1c/maps/montpellier-mediterranee/gallery/screenshot3.webp"
   ],
   "is_test": false,
   "source": "https://github.com/pierreggt/subway-builder-montpellier",
@@ -38,8 +38,7 @@
   "data_source": "INSEE, OSM",
   "source_quality": "medium-quality",
   "level_of_detail": "high-detail",
-  "location": "europe",
-  "sub_location": "west-europe",
+  "location": "west-europe",
   "special_demand": [
     "airports",
     "entertainment",

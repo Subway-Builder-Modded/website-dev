@@ -6,16 +6,16 @@
   "github_id": 301703453,
   "description": "Map of the greater Strasbourg metropolitan area (France), from Strasbourg-Entzheim airport to the European institutions and across the Rhine to Kehl (Germany). 122k+ OSM buildings (binary format), 371k+ commuters with demand built from real INSEE census data, including a synthetic cross-border commuting model for Kehl. Strasbourg-Entzheim airport with runways and taxiways. The Rhine and Ill rivers fully modelled with depth data. Protomaps basemap with water, parks and forests.",
   "tags": [
-    "europe",
+    "west-europe",
     "airports",
     "entertainment",
     "hospitals",
     "universities"
   ],
   "gallery": [
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/f4f1db9a2325226b23298493296d891b40099774/maps/strasbourg/gallery/screenshot1.webp",
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/f4f1db9a2325226b23298493296d891b40099774/maps/strasbourg/gallery/screenshot2.webp",
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/f4f1db9a2325226b23298493296d891b40099774/maps/strasbourg/gallery/screenshot3.webp"
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/74fb02d019b3752a5077de04a73da5229926bb1c/maps/strasbourg/gallery/screenshot1.webp",
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/74fb02d019b3752a5077de04a73da5229926bb1c/maps/strasbourg/gallery/screenshot2.webp",
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/74fb02d019b3752a5077de04a73da5229926bb1c/maps/strasbourg/gallery/screenshot3.webp"
   ],
   "is_test": false,
   "source": "https://github.com/pierreggt/subway-builder-strasbourg",
@@ -38,8 +38,7 @@
   "data_source": "INSEE Filosofi 2021 (donnees carroyees, revenus et population) - INSEE Recensement de la population 2021, mobilites professionnelles - OpenStreetMap contributors (ODbL) - Overture Maps Foundation (buildings)",
   "source_quality": "medium-quality",
   "level_of_detail": "high-detail",
-  "location": "europe",
-  "sub_location": "west-europe",
+  "location": "west-europe",
   "special_demand": [
     "airports",
     "entertainment",
