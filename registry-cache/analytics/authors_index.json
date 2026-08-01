@@ -16,6 +16,13 @@
       "attribution_link": "https://github.com/Mpfk"
     },
     {
+      "github_id": 4420305,
+      "author_id": "lexenygma",
+      "author_alias": "lexenygma",
+      "attribution_method": "github",
+      "attribution_link": "https://github.com/lexenygma"
+    },
+    {
       "github_id": 5214315,
       "author_id": "hernang87",
       "author_alias": "hernang87",
@@ -31,7 +38,10 @@
       "discord_id": "1434489559605055508",
       "attribution_link": "https://github.com/stefanorigano",
       "ko_fi_username": "stenori",
-      "contributor_tier": "executive"
+      "contributor_tier": "executive",
+      "credit_roles": [
+        "supporter"
+      ]
     },
     {
       "github_id": 8761780,
@@ -48,7 +58,10 @@
       "discord_username": "_yukina-",
       "discord_id": "146677783299358720",
       "attribution_link": "https://subwaybuildermodded.com/credits",
-      "contributor_tier": "developer"
+      "contributor_tier": "developer",
+      "credit_roles": [
+        "maintainer"
+      ]
     },
     {
       "github_id": 28826346,
@@ -63,7 +76,10 @@
       "author_alias": "Kronifer",
       "attribution_method": "github",
       "attribution_link": "https://github.com/Kronifer",
-      "contributor_tier": "developer"
+      "contributor_tier": "developer",
+      "credit_roles": [
+        "maintainer"
+      ]
     },
     {
       "github_id": 51029078,
@@ -97,7 +113,10 @@
       "discord_id": "735183767945216021",
       "attribution_link": "https://github.com/Maximilian284",
       "ko_fi_username": "max02",
-      "contributor_tier": "engineer"
+      "contributor_tier": "engineer",
+      "credit_roles": [
+        "supporter"
+      ]
     },
     {
       "github_id": 63876261,
@@ -172,13 +191,17 @@
       "author_alias": "slurry",
       "attribution_method": "github",
       "attribution_link": "https://github.com/rslurry",
-      "contributor_tier": "developer"
+      "contributor_tier": "developer",
+      "credit_roles": [
+        "maintainer"
+      ]
     },
     {
       "github_id": 112905459,
       "author_id": "DanielD1909",
       "author_alias": "DanielD1909",
       "attribution_method": "github",
+      "discord_username": "DanielD1909",
       "attribution_link": "https://github.com/DanielD1909"
     },
     {
@@ -207,6 +230,13 @@
       "attribution_link": "https://github.com/seanyushoumori"
     },
     {
+      "github_id": 135783284,
+      "author_id": "Tesarzh",
+      "author_alias": "Tesarzh",
+      "attribution_method": "github",
+      "attribution_link": "https://github.com/Tesarzh"
+    },
+    {
       "github_id": 143552868,
       "author_id": "martig7",
       "author_alias": "martig7",
@@ -228,7 +258,10 @@
       "discord_username": "kaicardenas2",
       "discord_id": "1456791639346381013",
       "attribution_link": "https://github.com/kaicardenas0618",
-      "contributor_tier": "developer"
+      "contributor_tier": "developer",
+      "credit_roles": [
+        "maintainer"
+      ]
     },
     {
       "github_id": 156072592,
@@ -348,6 +381,28 @@
       "author_alias": "pierreggt",
       "attribution_method": "github",
       "attribution_link": "https://github.com/pierreggt"
+    },
+    {
+      "author_id": "Bill",
+      "author_alias": "Bill",
+      "attribution_method": "custom",
+      "attribution_link": "https://ko-fi.com/H4C223IBGR",
+      "ko_fi_username": "H4C223IBGR",
+      "contributor_tier": "executive",
+      "credit_roles": [
+        "supporter"
+      ]
+    },
+    {
+      "author_id": "ByteOfBacon",
+      "author_alias": "ByteOfBacon",
+      "attribution_method": "custom",
+      "attribution_link": "https://github.com/ByteOfBacon",
+      "ko_fi_username": "F1F6123UV",
+      "contributor_tier": "conductor",
+      "credit_roles": [
+        "supporter"
+      ]
     }
   ]
 }

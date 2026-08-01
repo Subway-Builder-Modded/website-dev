@@ -14,9 +14,9 @@
     "universities"
   ],
   "gallery": [
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/e8ae6c784244c4ffda94d07162408b4c90830e48/maps/yukina-hakodate/gallery/screenshot1.webp",
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/e8ae6c784244c4ffda94d07162408b4c90830e48/maps/yukina-hakodate/gallery/screenshot2.webp",
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/e8ae6c784244c4ffda94d07162408b4c90830e48/maps/yukina-hakodate/gallery/screenshot3.webp"
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/9de7e7fc1dd0ca35a7419a9c5ee7afd0bcbd8c8a/maps/yukina-hakodate/gallery/screenshot1.webp",
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/9de7e7fc1dd0ca35a7419a9c5ee7afd0bcbd8c8a/maps/yukina-hakodate/gallery/screenshot2.webp",
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/9de7e7fc1dd0ca35a7419a9c5ee7afd0bcbd8c8a/maps/yukina-hakodate/gallery/screenshot3.webp"
   ],
   "source": "https://ahkimn.github.io/subwaybuilder-jp-maps/",
   "update": {
@@ -46,6 +46,7 @@
     "zoom": 12,
     "bearing": 0
   },
+  "difficulty": "hard",
   "file_sizes": {
     ".railyard_map/landuse_provenance.parquet": 4.63,
     ".railyard_map/special_demand_points.json": 0.07,

@@ -15,9 +15,9 @@
     "universities"
   ],
   "gallery": [
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/e8ae6c784244c4ffda94d07162408b4c90830e48/maps/alicante/gallery/screenshot1.webp",
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/e8ae6c784244c4ffda94d07162408b4c90830e48/maps/alicante/gallery/screenshot2.webp",
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/e8ae6c784244c4ffda94d07162408b4c90830e48/maps/alicante/gallery/screenshot3.webp"
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/9de7e7fc1dd0ca35a7419a9c5ee7afd0bcbd8c8a/maps/alicante/gallery/screenshot1.webp",
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/9de7e7fc1dd0ca35a7419a9c5ee7afd0bcbd8c8a/maps/alicante/gallery/screenshot2.webp",
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/9de7e7fc1dd0ca35a7419a9c5ee7afd0bcbd8c8a/maps/alicante/gallery/screenshot3.webp"
   ],
   "is_test": false,
   "source": "https://github.com/Maximilian284/subwaybuilder-es-maps",
@@ -41,8 +41,11 @@
   "source_quality": "low-quality",
   "level_of_detail": "high-detail",
   "data_quality": {
-    "tier": "unknown",
-    "rubric_version": 1
+    "tier": "very-low",
+    "raw_score": 0.12,
+    "weighted_score": 0.26,
+    "rubric_version": 1,
+    "provenance": "backfill"
   },
   "location": "south-europe",
   "special_demand": [
