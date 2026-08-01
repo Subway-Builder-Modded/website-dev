@@ -1,10 +1,10 @@
 {
   "sourceRepo": "Subway-Builder-Modded/registry",
   "sourceRef": "main",
-  "commitSha": "bbdf3b77da72eb4ff69dcec0e2f67f252f0888cd",
+  "commitSha": "af30920cf08636d268a1b5ce09af506b47ef3008",
   "mapDataSourceRef": "map-data",
   "mapDataCommitSha": "137a554386099bbf6d1d424d3b1c87e071b8e4b5",
-  "fetchedAt": "2026-08-01T07:54:33.036Z",
+  "fetchedAt": "2026-08-01T08:42:12.511Z",
   "files": [
     "public/registry-cache/analytics/assets_by_day.csv",
     "public/registry-cache/analytics/authors_by_day.csv",
@@ -16,6 +16,7 @@
     "public/registry-cache/analytics/most_popular_all_time.csv",
     "public/registry-cache/analytics/most_popular_by_day.csv",
     "public/registry-cache/analytics/most_popular_last_1d.csv",
+    "public/registry-cache/analytics/most_popular_last_30d.csv",
     "public/registry-cache/analytics/most_popular_last_3d.csv",
     "public/registry-cache/analytics/most_popular_last_7d.csv",
     "public/registry-cache/analytics/projects_most_popular_all_time.csv",
