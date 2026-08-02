@@ -1,10 +1,10 @@
 {
   "sourceRepo": "Subway-Builder-Modded/registry",
   "sourceRef": "main",
-  "commitSha": "7082ba2f6162d459e80dc31ef3e6ef69934d69b9",
+  "commitSha": "bf19dc836e8c436e818dadabaa05c1ba0a3d4d9b",
   "mapDataSourceRef": "map-data",
-  "mapDataCommitSha": "137a554386099bbf6d1d424d3b1c87e071b8e4b5",
-  "fetchedAt": "2026-08-01T18:28:01.712Z",
+  "mapDataCommitSha": "6919345e3965bf26ad6576505cb02a006e3606ed",
+  "fetchedAt": "2026-08-02T03:48:39.481Z",
   "materializedFiles": [
     "public/community/discord_server_by_day.csv",
     "public/community/discord_user_message_by_day.csv",
@@ -241,6 +241,8 @@
     "public/registry-cache/maps/mfn-rsw/manifest.json",
     "public/registry-cache/maps/milan/grid.geojson",
     "public/registry-cache/maps/milan/manifest.json",
+    "public/registry-cache/maps/mississippi/grid.geojson",
+    "public/registry-cache/maps/mississippi/manifest.json",
     "public/registry-cache/maps/monterrey/grid.geojson",
     "public/registry-cache/maps/monterrey/manifest.json",
     "public/registry-cache/maps/montpellier-mediterranee/grid.geojson",
@@ -630,5 +632,5 @@
     "public/website/analytics/timeseries.json",
     "public/website/analytics/valid-paths.json"
   ],
-  "websiteAnalyticsSourceGeneratedAt": "2026-08-01T18:00:38.269Z"
+  "websiteAnalyticsSourceGeneratedAt": "2026-08-02T03:00:42.833Z"
 }

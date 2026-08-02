@@ -10,8 +10,8 @@
     "airports"
   ],
   "gallery": [
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/7082ba2f6162d459e80dc31ef3e6ef69934d69b9/maps/brussels/gallery/screenshot1.webp",
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/7082ba2f6162d459e80dc31ef3e6ef69934d69b9/maps/brussels/gallery/screenshot2.webp"
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/bf19dc836e8c436e818dadabaa05c1ba0a3d4d9b/maps/brussels/gallery/screenshot1.webp",
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/bf19dc836e8c436e818dadabaa05c1ba0a3d4d9b/maps/brussels/gallery/screenshot2.webp"
   ],
   "is_test": false,
   "source": "https://github.com/lexenygma/sb-brussels",
@@ -35,9 +35,9 @@
   "source_quality": "medium-quality",
   "level_of_detail": "medium-detail",
   "data_quality": {
-    "tier": "absent",
-    "raw_score": 0,
-    "weighted_score": 0.07,
+    "tier": "very-low",
+    "raw_score": 0.03,
+    "weighted_score": 0.28,
     "rubric_version": 1,
     "provenance": "reviewed"
   },
