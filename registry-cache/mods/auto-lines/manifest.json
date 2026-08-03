@@ -7,11 +7,11 @@
   "description": "Automates transit line building.\n\n- **Extend** — pick a line and each end is walked outward along its corridor, auto-including single continuations until a bifurcation (where you choose the branch) or a dead end.\n- **New line** — pick a group of connected stations that have no line and the mod previews the corridor it would build, then creates it.\n\nBoth come with terminus crossovers, so trains reverse cleanly, and demand-based trains on 5 / 10 / 15-minute headways computed from the line's round-trip time.",
   "tags": [],
   "gallery": [
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/a355891781072fcd70b2e93cfb2478d391635dd9/mods/auto-lines/gallery/screenshot1.webp",
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/a355891781072fcd70b2e93cfb2478d391635dd9/mods/auto-lines/gallery/screenshot2.webp",
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/a355891781072fcd70b2e93cfb2478d391635dd9/mods/auto-lines/gallery/screenshot3.webp",
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/a355891781072fcd70b2e93cfb2478d391635dd9/mods/auto-lines/gallery/screenshot4.webp",
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/a355891781072fcd70b2e93cfb2478d391635dd9/mods/auto-lines/gallery/screenshot5.webp"
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/a7db446aac5ab6ed4d2d7206ef736316f824c2f7/mods/auto-lines/gallery/screenshot1.webp",
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/a7db446aac5ab6ed4d2d7206ef736316f824c2f7/mods/auto-lines/gallery/screenshot2.webp",
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/a7db446aac5ab6ed4d2d7206ef736316f824c2f7/mods/auto-lines/gallery/screenshot3.webp",
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/a7db446aac5ab6ed4d2d7206ef736316f824c2f7/mods/auto-lines/gallery/screenshot4.webp",
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/a7db446aac5ab6ed4d2d7206ef736316f824c2f7/mods/auto-lines/gallery/screenshot5.webp"
   ],
   "is_test": false,
   "source": "https://github.com/roquerodrigo/subway-builder-auto-lines",
