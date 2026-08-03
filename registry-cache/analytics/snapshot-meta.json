@@ -1,10 +1,10 @@
 {
   "sourceRepo": "Subway-Builder-Modded/registry",
   "sourceRef": "main",
-  "commitSha": "ee580b672fd824a8f065ce8db670537c2505cb5c",
+  "commitSha": "8b09344c176cbcb5b9a7faa7961fe1d0e0a99d91",
   "mapDataSourceRef": "map-data",
   "mapDataCommitSha": "959a745d0bba254adf368c6e971ba571eff88204",
-  "fetchedAt": "2026-08-03T04:18:05.313Z",
+  "fetchedAt": "2026-08-03T04:31:41.302Z",
   "files": [
     "public/registry-cache/analytics/assets_by_day.csv",
     "public/registry-cache/analytics/authors_by_day.csv",
