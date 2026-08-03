@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "zz-mock-deprecated-mod",
+  "name": "Mock Deprecated Mod",
+  "author": "subway-builder-modded-admin",
+  "github_id": 268817724,
+  "description": "**Synthetic listing** injected on the dev deploy to validate the Deprecated asset states. Not a real mod.",
+  "tags": [
+    "misc"
+  ],
+  "gallery": [],
+  "is_test": false,
+  "source": "https://example.invalid/mock-deprecated",
+  "update": {
+    "type": "github",
+    "repo": "subway-builder-modded/mock-deprecated"
+  },
+  "last_updated": 1753920000,
+  "deprecation": {
+    "since": "2026-08-01T00:00:00Z",
+    "by_github_id": 268817724,
+    "reason": "Mock deprecation for dev validation — this listing is synthetic."
+  }
+}
