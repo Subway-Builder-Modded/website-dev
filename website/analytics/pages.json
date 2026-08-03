@@ -2,43 +2,43 @@
   {
     "path": "/",
     "pageviews": {
-      "1d": 42,
-      "7d": 537,
-      "30d": 3554,
-      "all": 9122
+      "1d": 48,
+      "7d": 543,
+      "30d": 3560,
+      "all": 9128
     },
     "visitors": {
-      "1d": 42,
-      "7d": 537,
-      "30d": 3554,
-      "all": 9122
+      "1d": 48,
+      "7d": 543,
+      "30d": 3560,
+      "all": 9128
     },
     "entrances": {
-      "1d": 42,
-      "7d": 537,
-      "30d": 3554,
-      "all": 9122
+      "1d": 48,
+      "7d": 543,
+      "30d": 3560,
+      "all": 9128
     }
   },
   {
     "path": "/railyard",
     "pageviews": {
-      "1d": 13,
-      "7d": 316,
-      "30d": 1349,
-      "all": 3563
+      "1d": 20,
+      "7d": 323,
+      "30d": 1356,
+      "all": 3570
     },
     "visitors": {
-      "1d": 13,
-      "7d": 316,
-      "30d": 1349,
-      "all": 3563
+      "1d": 20,
+      "7d": 323,
+      "30d": 1356,
+      "all": 3570
     },
     "entrances": {
-      "1d": 13,
-      "7d": 316,
-      "30d": 1349,
-      "all": 3563
+      "1d": 20,
+      "7d": 323,
+      "30d": 1356,
+      "all": 3570
     }
   },
   {
@@ -107,22 +107,22 @@
   {
     "path": "/railyard/docs",
     "pageviews": {
-      "1d": 3,
-      "7d": 38,
-      "30d": 142,
-      "all": 374
+      "1d": 4,
+      "7d": 39,
+      "30d": 143,
+      "all": 375
     },
     "visitors": {
-      "1d": 3,
-      "7d": 38,
-      "30d": 142,
-      "all": 374
+      "1d": 4,
+      "7d": 39,
+      "30d": 143,
+      "all": 375
     },
     "entrances": {
-      "1d": 3,
-      "7d": 38,
-      "30d": 142,
-      "all": 374
+      "1d": 4,
+      "7d": 39,
+      "30d": 143,
+      "all": 375
     }
   },
   {
@@ -170,22 +170,22 @@
   {
     "path": "/registry/maps",
     "pageviews": {
-      "1d": 2,
-      "7d": 34,
-      "30d": 226,
-      "all": 240
+      "1d": 5,
+      "7d": 37,
+      "30d": 229,
+      "all": 243
     },
     "visitors": {
-      "1d": 2,
-      "7d": 34,
-      "30d": 226,
-      "all": 240
+      "1d": 5,
+      "7d": 37,
+      "30d": 229,
+      "all": 243
     },
     "entrances": {
-      "1d": 2,
-      "7d": 34,
-      "30d": 226,
-      "all": 240
+      "1d": 5,
+      "7d": 37,
+      "30d": 229,
+      "all": 243
     }
   },
   {
@@ -590,21 +590,42 @@
   {
     "path": "/registry/mods",
     "pageviews": {
-      "1d": 0,
-      "7d": 18,
-      "30d": 58,
+      "1d": 1,
+      "7d": 19,
+      "30d": 59,
+      "all": 75
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 19,
+      "30d": 59,
+      "all": 75
+    },
+    "entrances": {
+      "1d": 1,
+      "7d": 19,
+      "30d": 59,
+      "all": 75
+    }
+  },
+  {
+    "path": "/registry/authors/ahkimn",
+    "pageviews": {
+      "1d": 1,
+      "7d": 42,
+      "30d": 62,
       "all": 74
     },
     "visitors": {
-      "1d": 0,
-      "7d": 18,
-      "30d": 58,
+      "1d": 1,
+      "7d": 42,
+      "30d": 62,
       "all": 74
     },
     "entrances": {
-      "1d": 0,
-      "7d": 18,
-      "30d": 58,
+      "1d": 1,
+      "7d": 42,
+      "30d": 62,
       "all": 74
     }
   },
@@ -626,27 +647,6 @@
       "1d": 0,
       "7d": 3,
       "30d": 40,
-      "all": 73
-    }
-  },
-  {
-    "path": "/registry/authors/ahkimn",
-    "pageviews": {
-      "1d": 0,
-      "7d": 41,
-      "30d": 61,
-      "all": 73
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 41,
-      "30d": 61,
-      "all": 73
-    },
-    "entrances": {
-      "1d": 0,
-      "7d": 41,
-      "30d": 61,
       "all": 73
     }
   },
@@ -737,22 +737,22 @@
   {
     "path": "/depot",
     "pageviews": {
-      "1d": 0,
-      "7d": 9,
-      "30d": 61,
-      "all": 69
+      "1d": 1,
+      "7d": 10,
+      "30d": 62,
+      "all": 70
     },
     "visitors": {
-      "1d": 0,
-      "7d": 9,
-      "30d": 61,
-      "all": 69
+      "1d": 1,
+      "7d": 10,
+      "30d": 62,
+      "all": 70
     },
     "entrances": {
-      "1d": 0,
-      "7d": 9,
-      "30d": 61,
-      "all": 69
+      "1d": 1,
+      "7d": 10,
+      "30d": 62,
+      "all": 70
     }
   },
   {
@@ -926,22 +926,22 @@
   {
     "path": "/railyard/docs/v0.2/github-token",
     "pageviews": {
-      "1d": 1,
-      "7d": 9,
-      "30d": 46,
-      "all": 57
+      "1d": 2,
+      "7d": 10,
+      "30d": 47,
+      "all": 58
     },
     "visitors": {
-      "1d": 1,
-      "7d": 9,
-      "30d": 46,
-      "all": 57
+      "1d": 2,
+      "7d": 10,
+      "30d": 47,
+      "all": 58
     },
     "entrances": {
-      "1d": 1,
-      "7d": 9,
-      "30d": 46,
-      "all": 57
+      "1d": 2,
+      "7d": 10,
+      "30d": 47,
+      "all": 58
     }
   },
   {
@@ -1010,22 +1010,22 @@
   {
     "path": "/registry/maps/madrid",
     "pageviews": {
-      "1d": 3,
-      "7d": 9,
-      "30d": 27,
-      "all": 54
+      "1d": 5,
+      "7d": 11,
+      "30d": 29,
+      "all": 56
     },
     "visitors": {
-      "1d": 3,
-      "7d": 9,
-      "30d": 27,
-      "all": 54
+      "1d": 5,
+      "7d": 11,
+      "30d": 29,
+      "all": 56
     },
     "entrances": {
-      "1d": 3,
-      "7d": 9,
-      "30d": 27,
-      "all": 54
+      "1d": 5,
+      "7d": 11,
+      "30d": 29,
+      "all": 56
     }
   },
   {
@@ -1260,6 +1260,27 @@
     }
   },
   {
+    "path": "/registry/maps/sydney",
+    "pageviews": {
+      "1d": 1,
+      "7d": 3,
+      "30d": 16,
+      "all": 47
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 3,
+      "30d": 16,
+      "all": 47
+    },
+    "entrances": {
+      "1d": 1,
+      "7d": 3,
+      "30d": 16,
+      "all": 47
+    }
+  },
+  {
     "path": "/registry/mods/danield1909-dantrains",
     "pageviews": {
       "1d": 0,
@@ -1278,27 +1299,6 @@
       "7d": 1,
       "30d": 11,
       "all": 47
-    }
-  },
-  {
-    "path": "/registry/maps/sydney",
-    "pageviews": {
-      "1d": 0,
-      "7d": 2,
-      "30d": 15,
-      "all": 46
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 2,
-      "30d": 15,
-      "all": 46
-    },
-    "entrances": {
-      "1d": 0,
-      "7d": 2,
-      "30d": 15,
-      "all": 46
     }
   },
   {
@@ -1596,6 +1596,27 @@
     }
   },
   {
+    "path": "/registry/mods/station-dots",
+    "pageviews": {
+      "1d": 1,
+      "7d": 3,
+      "30d": 14,
+      "all": 38
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 3,
+      "30d": 14,
+      "all": 38
+    },
+    "entrances": {
+      "1d": 1,
+      "7d": 3,
+      "30d": 14,
+      "all": 38
+    }
+  },
+  {
     "path": "/railyard/mods/citymapper",
     "pageviews": {
       "1d": 0,
@@ -1718,27 +1739,6 @@
       "1d": 0,
       "7d": 2,
       "30d": 10,
-      "all": 37
-    }
-  },
-  {
-    "path": "/registry/mods/station-dots",
-    "pageviews": {
-      "1d": 0,
-      "7d": 2,
-      "30d": 13,
-      "all": 37
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 2,
-      "30d": 13,
-      "all": 37
-    },
-    "entrances": {
-      "1d": 0,
-      "7d": 2,
-      "30d": 13,
       "all": 37
     }
   },
@@ -2520,6 +2520,27 @@
     }
   },
   {
+    "path": "/railyard/updates/v0.2.3",
+    "pageviews": {
+      "1d": 1,
+      "7d": 3,
+      "30d": 11,
+      "all": 28
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 3,
+      "30d": 11,
+      "all": 28
+    },
+    "entrances": {
+      "1d": 1,
+      "7d": 3,
+      "30d": 11,
+      "all": 28
+    }
+  },
+  {
     "path": "/registry/authors/Valdotorium",
     "pageviews": {
       "1d": 0,
@@ -2559,27 +2580,6 @@
       "7d": 2,
       "30d": 9,
       "all": 28
-    }
-  },
-  {
-    "path": "/railyard/updates/v0.2.3",
-    "pageviews": {
-      "1d": 0,
-      "7d": 2,
-      "30d": 10,
-      "all": 27
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 2,
-      "30d": 10,
-      "all": 27
-    },
-    "entrances": {
-      "1d": 0,
-      "7d": 2,
-      "30d": 10,
-      "all": 27
     }
   },
   {
@@ -3990,6 +3990,27 @@
     }
   },
   {
+    "path": "/depot/updates",
+    "pageviews": {
+      "1d": 2,
+      "7d": 5,
+      "30d": 16,
+      "all": 18
+    },
+    "visitors": {
+      "1d": 2,
+      "7d": 5,
+      "30d": 16,
+      "all": 18
+    },
+    "entrances": {
+      "1d": 2,
+      "7d": 5,
+      "30d": 16,
+      "all": 18
+    }
+  },
+  {
     "path": "/railyard/docs/v0.2/installing-railyard/macos",
     "pageviews": {
       "1d": 1,
@@ -4154,6 +4175,27 @@
       "1d": 0,
       "7d": 4,
       "30d": 17,
+      "all": 18
+    }
+  },
+  {
+    "path": "/registry/maps/nice-cote-d-azur",
+    "pageviews": {
+      "1d": 2,
+      "7d": 2,
+      "30d": 18,
+      "all": 18
+    },
+    "visitors": {
+      "1d": 2,
+      "7d": 2,
+      "30d": 18,
+      "all": 18
+    },
+    "entrances": {
+      "1d": 2,
+      "7d": 2,
+      "30d": 18,
       "all": 18
     }
   },
@@ -4452,27 +4494,6 @@
     }
   },
   {
-    "path": "/depot/updates",
-    "pageviews": {
-      "1d": 0,
-      "7d": 3,
-      "30d": 14,
-      "all": 16
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 3,
-      "30d": 14,
-      "all": 16
-    },
-    "entrances": {
-      "1d": 0,
-      "7d": 3,
-      "30d": 14,
-      "all": 16
-    }
-  },
-  {
     "path": "/docs",
     "pageviews": {
       "1d": 0,
@@ -4683,27 +4704,6 @@
     }
   },
   {
-    "path": "/registry/maps/nice-cote-d-azur",
-    "pageviews": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 16,
-      "all": 16
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 16,
-      "all": 16
-    },
-    "entrances": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 16,
-      "all": 16
-    }
-  },
-  {
     "path": "/registry/maps/yukina-hiroshima-kure",
     "pageviews": {
       "1d": 0,
@@ -4742,6 +4742,27 @@
       "1d": 0,
       "7d": 1,
       "30d": 4,
+      "all": 16
+    }
+  },
+  {
+    "path": "/registry/mods/chinese-trains",
+    "pageviews": {
+      "1d": 1,
+      "7d": 2,
+      "30d": 7,
+      "all": 16
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 2,
+      "30d": 7,
+      "all": 16
+    },
+    "entrances": {
+      "1d": 1,
+      "7d": 2,
+      "30d": 7,
       "all": 16
     }
   },
@@ -5103,27 +5124,6 @@
     }
   },
   {
-    "path": "/registry/mods/chinese-trains",
-    "pageviews": {
-      "1d": 0,
-      "7d": 1,
-      "30d": 6,
-      "all": 15
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 1,
-      "30d": 6,
-      "all": 15
-    },
-    "entrances": {
-      "1d": 0,
-      "7d": 1,
-      "30d": 6,
-      "all": 15
-    }
-  },
-  {
     "path": "/registry/mods/japanese-trains",
     "pageviews": {
       "1d": 0,
@@ -5435,6 +5435,27 @@
       "1d": 0,
       "7d": 0,
       "30d": 5,
+      "all": 14
+    }
+  },
+  {
+    "path": "/railyard/updates/v0.2.4",
+    "pageviews": {
+      "1d": 2,
+      "7d": 5,
+      "30d": 11,
+      "all": 14
+    },
+    "visitors": {
+      "1d": 2,
+      "7d": 5,
+      "30d": 11,
+      "all": 14
+    },
+    "entrances": {
+      "1d": 2,
+      "7d": 5,
+      "30d": 11,
       "all": 14
     }
   },
@@ -6254,27 +6275,6 @@
       "1d": 0,
       "7d": 0,
       "30d": 0,
-      "all": 12
-    }
-  },
-  {
-    "path": "/railyard/updates/v0.2.4",
-    "pageviews": {
-      "1d": 0,
-      "7d": 3,
-      "30d": 9,
-      "all": 12
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 3,
-      "30d": 9,
-      "all": 12
-    },
-    "entrances": {
-      "1d": 0,
-      "7d": 3,
-      "30d": 9,
       "all": 12
     }
   },
@@ -9303,6 +9303,48 @@
     }
   },
   {
+    "path": "/registry/mods/auto-lines",
+    "pageviews": {
+      "1d": 1,
+      "7d": 4,
+      "30d": 7,
+      "all": 7
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 4,
+      "30d": 7,
+      "all": 7
+    },
+    "entrances": {
+      "1d": 1,
+      "7d": 4,
+      "30d": 7,
+      "all": 7
+    }
+  },
+  {
+    "path": "/registry/mods/chinese-trains/versions/v1.0.0",
+    "pageviews": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 7,
+      "all": 7
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 7,
+      "all": 7
+    },
+    "entrances": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 7,
+      "all": 7
+    }
+  },
+  {
     "path": "/registry/mods/copy-paste",
     "pageviews": {
       "1d": 0,
@@ -10101,48 +10143,6 @@
     }
   },
   {
-    "path": "/registry/mods/auto-lines",
-    "pageviews": {
-      "1d": 0,
-      "7d": 3,
-      "30d": 6,
-      "all": 6
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 3,
-      "30d": 6,
-      "all": 6
-    },
-    "entrances": {
-      "1d": 0,
-      "7d": 3,
-      "30d": 6,
-      "all": 6
-    }
-  },
-  {
-    "path": "/registry/mods/chinese-trains/versions/v1.0.0",
-    "pageviews": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 6,
-      "all": 6
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 6,
-      "all": 6
-    },
-    "entrances": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 6,
-      "all": 6
-    }
-  },
-  {
     "path": "/registry/mods/distance-circles/analytics",
     "pageviews": {
       "1d": 0,
@@ -10852,6 +10852,27 @@
     "entrances": {
       "1d": 1,
       "7d": 1,
+      "30d": 5,
+      "all": 5
+    }
+  },
+  {
+    "path": "/registry/authors/ahkimn/subwaybuilder-eu-maps",
+    "pageviews": {
+      "1d": 1,
+      "7d": 2,
+      "30d": 5,
+      "all": 5
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 2,
+      "30d": 5,
+      "all": 5
+    },
+    "entrances": {
+      "1d": 1,
+      "7d": 2,
       "30d": 5,
       "all": 5
     }
@@ -12096,27 +12117,6 @@
     }
   },
   {
-    "path": "/registry/authors/ahkimn/subwaybuilder-eu-maps",
-    "pageviews": {
-      "1d": 0,
-      "7d": 1,
-      "30d": 4,
-      "all": 4
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 1,
-      "30d": 4,
-      "all": 4
-    },
-    "entrances": {
-      "1d": 0,
-      "7d": 1,
-      "30d": 4,
-      "all": 4
-    }
-  },
-  {
     "path": "/registry/authors/devenperez",
     "pageviews": {
       "1d": 0,
@@ -12575,6 +12575,48 @@
       "1d": 0,
       "7d": 2,
       "30d": 4,
+      "all": 4
+    }
+  },
+  {
+    "path": "/registry/mods/advanced-analytics/gallery",
+    "pageviews": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 4,
+      "all": 4
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 4,
+      "all": 4
+    },
+    "entrances": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 4,
+      "all": 4
+    }
+  },
+  {
+    "path": "/registry/mods/chinese-trains/versions/v1.2.1",
+    "pageviews": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 3,
+      "all": 4
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 3,
+      "all": 4
+    },
+    "entrances": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 3,
       "all": 4
     }
   },
@@ -13818,6 +13860,27 @@
     }
   },
   {
+    "path": "/registry/authors/chasemanning040911-afk",
+    "pageviews": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 2,
+      "all": 3
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 2,
+      "all": 3
+    },
+    "entrances": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 2,
+      "all": 3
+    }
+  },
+  {
     "path": "/registry/authors/kronifer/sb-chinese-maps",
     "pageviews": {
       "1d": 0,
@@ -14700,27 +14763,6 @@
     }
   },
   {
-    "path": "/registry/mods/advanced-analytics/gallery",
-    "pageviews": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 3,
-      "all": 3
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 3,
-      "all": 3
-    },
-    "entrances": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 3,
-      "all": 3
-    }
-  },
-  {
     "path": "/registry/mods/chinese-trains/versions/v1.2.0",
     "pageviews": {
       "1d": 0,
@@ -14738,27 +14780,6 @@
       "1d": 0,
       "7d": 2,
       "30d": 3,
-      "all": 3
-    }
-  },
-  {
-    "path": "/registry/mods/chinese-trains/versions/v1.2.1",
-    "pageviews": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 2,
-      "all": 3
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 2,
-      "all": 3
-    },
-    "entrances": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 2,
       "all": 3
     }
   },
@@ -17262,27 +17283,6 @@
     }
   },
   {
-    "path": "/registry/authors/chasemanning040911-afk",
-    "pageviews": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 1,
-      "all": 2
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 1,
-      "all": 2
-    },
-    "entrances": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 1,
-      "all": 2
-    }
-  },
-  {
     "path": "/registry/authors/ryandicicco/Subway-Builder-Maps",
     "pageviews": {
       "1d": 0,
@@ -18963,6 +18963,27 @@
     }
   },
   {
+    "path": "/registry/maps/yukina-lv-liepaja",
+    "pageviews": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 2,
+      "all": 2
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 2,
+      "all": 2
+    },
+    "entrances": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 2,
+      "all": 2
+    }
+  },
+  {
     "path": "/registry/maps/yukina-nakaumi/versions/0.2.0",
     "pageviews": {
       "1d": 0,
@@ -19190,6 +19211,111 @@
       "1d": 0,
       "7d": 0,
       "30d": 0,
+      "all": 2
+    }
+  },
+  {
+    "path": "/registry/mods/chinese-trains/versions/v1.0.2",
+    "pageviews": {
+      "1d": 1,
+      "7d": 2,
+      "30d": 2,
+      "all": 2
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 2,
+      "30d": 2,
+      "all": 2
+    },
+    "entrances": {
+      "1d": 1,
+      "7d": 2,
+      "30d": 2,
+      "all": 2
+    }
+  },
+  {
+    "path": "/registry/mods/chinese-trains/versions/v1.0.3",
+    "pageviews": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 2,
+      "all": 2
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 2,
+      "all": 2
+    },
+    "entrances": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 2,
+      "all": 2
+    }
+  },
+  {
+    "path": "/registry/mods/chinese-trains/versions/v1.0.4",
+    "pageviews": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 2,
+      "all": 2
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 2,
+      "all": 2
+    },
+    "entrances": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 2,
+      "all": 2
+    }
+  },
+  {
+    "path": "/registry/mods/chinese-trains/versions/v1.0.8",
+    "pageviews": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 2,
+      "all": 2
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 2,
+      "all": 2
+    },
+    "entrances": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 2,
+      "all": 2
+    }
+  },
+  {
+    "path": "/registry/mods/chinese-trains/versions/v1.1.2",
+    "pageviews": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 2,
+      "all": 2
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 2,
+      "all": 2
+    },
+    "entrances": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 2,
       "all": 2
     }
   },
@@ -19609,6 +19735,27 @@
     "entrances": {
       "1d": 0,
       "7d": 1,
+      "30d": 2,
+      "all": 2
+    }
+  },
+  {
+    "path": "/registry/mods/tod/versions/v0.2.8",
+    "pageviews": {
+      "1d": 1,
+      "7d": 2,
+      "30d": 2,
+      "all": 2
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 2,
+      "30d": 2,
+      "all": 2
+    },
+    "entrances": {
+      "1d": 1,
+      "7d": 2,
       "30d": 2,
       "all": 2
     }
@@ -27720,6 +27867,27 @@
     }
   },
   {
+    "path": "/registry/maps/vancouver/versions/2.0.1",
+    "pageviews": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 1,
+      "all": 1
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 1,
+      "all": 1
+    },
+    "entrances": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 1,
+      "all": 1
+    }
+  },
+  {
     "path": "/registry/maps/willamette-valley/versions/1.0.0",
     "pageviews": {
       "1d": 0,
@@ -27735,6 +27903,27 @@
     },
     "entrances": {
       "1d": 0,
+      "7d": 1,
+      "30d": 1,
+      "all": 1
+    }
+  },
+  {
+    "path": "/registry/maps/yukina-bydgoszcz-torun/versions/0.2.0",
+    "pageviews": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 1,
+      "all": 1
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 1,
+      "all": 1
+    },
+    "entrances": {
+      "1d": 1,
       "7d": 1,
       "30d": 1,
       "all": 1
@@ -28372,27 +28561,6 @@
   },
   {
     "path": "/registry/maps/yukina-lt-siauliai",
-    "pageviews": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 1,
-      "all": 1
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 1,
-      "all": 1
-    },
-    "entrances": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 1,
-      "all": 1
-    }
-  },
-  {
-    "path": "/registry/maps/yukina-lv-liepaja",
     "pageviews": {
       "1d": 0,
       "7d": 0,
@@ -29337,64 +29505,43 @@
     }
   },
   {
-    "path": "/registry/mods/chinese-trains/versions/v1.0.2",
+    "path": "/registry/mods/chinese-trains/versions",
     "pageviews": {
-      "1d": 0,
+      "1d": 1,
       "7d": 1,
       "30d": 1,
       "all": 1
     },
     "visitors": {
-      "1d": 0,
+      "1d": 1,
       "7d": 1,
       "30d": 1,
       "all": 1
     },
     "entrances": {
-      "1d": 0,
+      "1d": 1,
       "7d": 1,
       "30d": 1,
       "all": 1
     }
   },
   {
-    "path": "/registry/mods/chinese-trains/versions/v1.0.3",
+    "path": "/registry/mods/chinese-trains/versions/v1.0.5",
     "pageviews": {
-      "1d": 0,
-      "7d": 0,
+      "1d": 1,
+      "7d": 1,
       "30d": 1,
       "all": 1
     },
     "visitors": {
-      "1d": 0,
-      "7d": 0,
+      "1d": 1,
+      "7d": 1,
       "30d": 1,
       "all": 1
     },
     "entrances": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 1,
-      "all": 1
-    }
-  },
-  {
-    "path": "/registry/mods/chinese-trains/versions/v1.0.4",
-    "pageviews": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 1,
-      "all": 1
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 1,
-      "all": 1
-    },
-    "entrances": {
-      "1d": 0,
-      "7d": 0,
+      "1d": 1,
+      "7d": 1,
       "30d": 1,
       "all": 1
     }
@@ -29421,43 +29568,64 @@
     }
   },
   {
-    "path": "/registry/mods/chinese-trains/versions/v1.0.8",
+    "path": "/registry/mods/chinese-trains/versions/v1.1.0",
     "pageviews": {
-      "1d": 0,
-      "7d": 0,
+      "1d": 1,
+      "7d": 1,
       "30d": 1,
       "all": 1
     },
     "visitors": {
-      "1d": 0,
-      "7d": 0,
+      "1d": 1,
+      "7d": 1,
       "30d": 1,
       "all": 1
     },
     "entrances": {
-      "1d": 0,
-      "7d": 0,
+      "1d": 1,
+      "7d": 1,
       "30d": 1,
       "all": 1
     }
   },
   {
-    "path": "/registry/mods/chinese-trains/versions/v1.1.2",
+    "path": "/registry/mods/chinese-trains/versions/v1.1.3",
     "pageviews": {
-      "1d": 0,
-      "7d": 0,
+      "1d": 1,
+      "7d": 1,
       "30d": 1,
       "all": 1
     },
     "visitors": {
-      "1d": 0,
-      "7d": 0,
+      "1d": 1,
+      "7d": 1,
       "30d": 1,
       "all": 1
     },
     "entrances": {
-      "1d": 0,
-      "7d": 0,
+      "1d": 1,
+      "7d": 1,
+      "30d": 1,
+      "all": 1
+    }
+  },
+  {
+    "path": "/registry/mods/chinese-trains/versions/v2.0.0",
+    "pageviews": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 1,
+      "all": 1
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 1,
+      "all": 1
+    },
+    "entrances": {
+      "1d": 1,
+      "7d": 1,
       "30d": 1,
       "all": 1
     }
@@ -30488,27 +30656,6 @@
       "1d": 0,
       "7d": 0,
       "30d": 0,
-      "all": 1
-    }
-  },
-  {
-    "path": "/registry/mods/tod/versions/v0.2.8",
-    "pageviews": {
-      "1d": 0,
-      "7d": 1,
-      "30d": 1,
-      "all": 1
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 1,
-      "30d": 1,
-      "all": 1
-    },
-    "entrances": {
-      "1d": 0,
-      "7d": 1,
-      "30d": 1,
       "all": 1
     }
   },
