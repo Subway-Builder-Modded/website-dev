@@ -466,7 +466,7 @@ An asset will clearly appear as incompatible in **Library** when it is not compa
 
 ## Per-Version Compatibility {#per-version}
 
-Compatibility is checked **per version**, not per asset. A listing is only marked incompatible when *no* version of it supports your game version — so an asset whose older releases are capped at an older game version stays fully available as long as its latest release supports the installed game version. In the listing's version history, individual incompatible versions appear dimmed with a tooltip explaining the requirement, and cannot be installed.
+Compatibility is checked **per version**, not per asset. A listing is only marked incompatible when _no_ version of it supports your game version — so an asset whose older releases are capped at an older game version stays fully available as long as its latest release supports the installed game version. In the listing's version history, individual incompatible versions appear dimmed with a tooltip explaining the requirement, and cannot be installed.
 
 Content creators can also cap the compatibility of already-published versions retroactively (see the Registry's [Manifest Requirements guide](/registry/docs/manifest-requirements#retroactive)), so a previously installable version may become unavailable on newer game versions.
 
@@ -1104,13 +1104,13 @@ As with collaborators, the field takes numeric [GitHub user IDs](/registry/docs/
 
 ## Caretakers vs collaborators {#vs-collaborators}
 
-| | Collaborator | Caretaker |
-| --- | --- | --- |
-| Shown on the listing page | Yes | Yes, with a distinct icon |
-| Can update the asset's metadata | Yes | Yes |
-| Receives download credit | No | Yes, for versions released during their tenure |
-| Can [deprecate](/registry/docs/deprecation) the asset | No | Yes (active caretaker only) |
-| Multiple at once | Yes | No — at most one active |
+|                                                       | Collaborator | Caretaker                                      |
+| ----------------------------------------------------- | ------------ | ---------------------------------------------- |
+| Shown on the listing page                             | Yes          | Yes, with a distinct icon                      |
+| Can update the asset's metadata                       | Yes          | Yes                                            |
+| Receives download credit                              | No           | Yes, for versions released during their tenure |
+| Can [deprecate](/registry/docs/deprecation) the asset | No           | Yes (active caretaker only)                    |
+| Multiple at once                                      | Yes          | No — at most one active                        |
 `,"/content/registry/docs/collaborators.mdx":`---
 title: Collaborators
 description: Learn how to credit collaborators for your content in the Registry.
@@ -1993,14 +1993,14 @@ Since _June 23, 2026_, every newly published version is required to carry a vali
 
 A mod's \`manifest.json\` (the same file bundled inside the ZIP, uploaded standalone) must contain:
 
-| Field | Requirement |
-| --- | --- |
-| \`id\` | Must exactly match the Registry mod ID |
-| \`name\` | Display name |
-| \`version\` | The release's version |
-| \`main\` | The mod's JavaScript entry point (always \`index.js\` when using the [mod template](/template-mod/docs/getting-started)) |
-| \`author.name\` | Author display name |
-| \`dependencies\` | Must include \`subway-builder\` with a valid range; may also declare [mod dependencies](/registry/docs/dependencies) |
+| Field          | Requirement                                                                                                            |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| \`id\`           | Must exactly match the Registry mod ID                                                                                 |
+| \`name\`         | Display name                                                                                                           |
+| \`version\`      | The release's version                                                                                                  |
+| \`main\`         | The mod's JavaScript entry point (always \`index.js\` when using the [mod template](/template-mod/docs/getting-started)) |
+| \`author.name\`  | Author display name                                                                                                    |
+| \`dependencies\` | Must include \`subway-builder\` with a valid range; may also declare [mod dependencies](/registry/docs/dependencies)     |
 
 A mismatched \`id\` is the most common validation failure. This value must be the mod ID submitted to the Registry, not a reverse-domain identifier from elsewhere.
 

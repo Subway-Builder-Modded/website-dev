@@ -1,10 +1,10 @@
 {
   "sourceRepo": "Subway-Builder-Modded/registry",
   "sourceRef": "main",
-  "commitSha": "b7202791b9f814a25639300a4ae8cb2c959a3f65",
+  "commitSha": "cbaf3434abc22c8245df62c5903910eb739fddd1",
   "mapDataSourceRef": "map-data",
   "mapDataCommitSha": "1f1e6b08663f3cc31673819f4770f81cc4352f59",
-  "fetchedAt": "2026-08-04T03:52:42.915Z",
+  "fetchedAt": "2026-08-04T03:56:00.761Z",
   "files": [
     "public/railyard/analytics/railyard_app_by_day.csv",
     "public/railyard/analytics/railyard_app_downloads_history.json",
