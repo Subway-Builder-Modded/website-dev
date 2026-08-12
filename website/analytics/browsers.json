@@ -2,100 +2,100 @@
   {
     "browser": "Chrome",
     "visits": {
-      "1d": 9,
-      "7d": 408,
-      "30d": 3201,
-      "all": 8626
+      "1d": 70,
+      "7d": 517,
+      "30d": 3323,
+      "all": 9260
     }
   },
   {
     "browser": "Unknown",
     "visits": {
-      "1d": 0,
-      "7d": 378,
-      "30d": 1970,
-      "all": 7629
-    }
-  },
-  {
-    "browser": "Firefox",
-    "visits": {
-      "1d": 0,
-      "7d": 121,
-      "30d": 769,
-      "all": 2339
+      "1d": 47,
+      "7d": 333,
+      "30d": 1985,
+      "all": 8180
     }
   },
   {
     "browser": "GoogleBot",
     "visits": {
-      "1d": 5,
-      "7d": 189,
-      "30d": 869,
-      "all": 2272
+      "1d": 49,
+      "7d": 329,
+      "30d": 1157,
+      "all": 2671
+    }
+  },
+  {
+    "browser": "Firefox",
+    "visits": {
+      "1d": 18,
+      "7d": 92,
+      "30d": 811,
+      "all": 2452
     }
   },
   {
     "browser": "Safari",
     "visits": {
-      "1d": 0,
-      "7d": 96,
-      "30d": 610,
-      "all": 1864
+      "1d": 15,
+      "7d": 76,
+      "30d": 589,
+      "all": 1945
     }
   },
   {
     "browser": "MobileSafari",
     "visits": {
-      "1d": 0,
-      "7d": 61,
-      "30d": 461,
-      "all": 1636
+      "1d": 10,
+      "7d": 92,
+      "30d": 520,
+      "all": 1749
     }
   },
   {
     "browser": "BingBot",
     "visits": {
-      "1d": 0,
-      "7d": 60,
-      "30d": 278,
-      "all": 1146
+      "1d": 17,
+      "7d": 96,
+      "30d": 322,
+      "all": 1260
     }
   },
   {
     "browser": "Edge",
     "visits": {
-      "1d": 1,
-      "7d": 100,
-      "30d": 376,
-      "all": 1062
+      "1d": 30,
+      "7d": 94,
+      "30d": 412,
+      "all": 1169
     }
   },
   {
     "browser": "ChromeMobile",
     "visits": {
-      "1d": 3,
+      "1d": 6,
       "7d": 58,
-      "30d": 408,
-      "all": 980
+      "30d": 439,
+      "all": 1046
     }
   },
   {
     "browser": "Opera",
     "visits": {
-      "1d": 0,
-      "7d": 51,
-      "30d": 222,
-      "all": 633
+      "1d": 30,
+      "7d": 41,
+      "30d": 267,
+      "all": 712
     }
   },
   {
     "browser": "YandexBot",
     "visits": {
       "1d": 0,
-      "7d": 26,
-      "30d": 149,
-      "all": 234
+      "7d": 6,
+      "30d": 152,
+      "all": 242
     }
   },
   {
@@ -103,8 +103,8 @@
     "visits": {
       "1d": 0,
       "7d": 2,
-      "30d": 19,
-      "all": 169
+      "30d": 13,
+      "all": 171
     }
   },
   {
@@ -119,46 +119,46 @@
   {
     "browser": "SamsungInternet",
     "visits": {
-      "1d": 0,
-      "7d": 28,
-      "30d": 32,
-      "all": 66
-    }
-  },
-  {
-    "browser": "Curl",
-    "visits": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 12,
-      "all": 25
+      "1d": 2,
+      "7d": 2,
+      "30d": 34,
+      "all": 69
     }
   },
   {
     "browser": "FirefoxMobile",
     "visits": {
       "1d": 0,
-      "7d": 0,
-      "30d": 3,
-      "all": 24
+      "7d": 3,
+      "30d": 6,
+      "all": 27
     }
   },
   {
-    "browser": "ChromeHeadless",
+    "browser": "Curl",
     "visits": {
       "1d": 0,
-      "7d": 3,
-      "30d": 7,
-      "all": 21
+      "7d": 1,
+      "30d": 13,
+      "all": 26
     }
   },
   {
     "browser": "ChromeDerivative",
     "visits": {
       "1d": 0,
-      "7d": 1,
-      "30d": 9,
-      "all": 19
+      "7d": 3,
+      "30d": 10,
+      "all": 22
+    }
+  },
+  {
+    "browser": "ChromeHeadless",
+    "visits": {
+      "1d": 0,
+      "7d": 0,
+      "30d": 7,
+      "all": 21
     }
   },
   {
@@ -167,7 +167,7 @@
       "1d": 0,
       "7d": 1,
       "30d": 5,
-      "all": 18
+      "all": 19
     }
   },
   {
@@ -192,7 +192,7 @@
     "browser": "TwitterBot",
     "visits": {
       "1d": 0,
-      "7d": 2,
+      "7d": 0,
       "30d": 2,
       "all": 3
     }

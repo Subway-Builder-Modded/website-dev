@@ -4,7 +4,7 @@
   "name": "Dayton",
   "author": "PSWBSF",
   "github_id": 193011631,
-  "description": "Map of Dayton, OH. Extends down to where the default Cincinnati map ends. Demand is modeled for Dayton International Airport. Colleges include Sinclair Community College, University of Dayton, and Wright State University. Tourist demand is modeled for the National Museum of the US Air Force, Carillon Historical Park, Boonshoft Museum of Discovery, Dayton Art Institute, and the University of Dayton Arena and Welcome Stadium (combined into one data point).",
+  "description": "Map of Dayton, Ohio. Made using the Map Patcher by Kronifer and US Demand Generator by slurry.\nExtends down to where the default Cincinnati map ends.\n\nNote: This map has not been updated to 1.4+ and is not currently being maintained. If someone would like to update and/or maintain this map, please dm @pswbsf on discord.\n\nAdditional demand points as follows:",
   "tags": [
     "north-america",
     "airports",
@@ -12,9 +12,9 @@
     "universities"
   ],
   "gallery": [
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b74f05986901a2e882e7e6145e388ebf9ffdbd91/maps/dayton-oh/gallery/screenshot1.webp",
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b74f05986901a2e882e7e6145e388ebf9ffdbd91/maps/dayton-oh/gallery/screenshot2.webp",
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b74f05986901a2e882e7e6145e388ebf9ffdbd91/maps/dayton-oh/gallery/screenshot3.webp"
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/41f963b76788b557213df455c43ac81f6c9b2a6f/maps/dayton-oh/gallery/screenshot1.webp",
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/41f963b76788b557213df455c43ac81f6c9b2a6f/maps/dayton-oh/gallery/screenshot2.webp",
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/41f963b76788b557213df455c43ac81f6c9b2a6f/maps/dayton-oh/gallery/screenshot3.webp"
   ],
   "is_test": false,
   "source": "https://github.com/PSWBSF/dayton-oh",

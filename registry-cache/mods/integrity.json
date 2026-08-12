@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-04T04:00:59.093Z",
+  "generated_at": "2026-08-12T20:01:28.471Z",
   "listings": {
     "advanced-analytics": {
       "has_complete_version": true,
@@ -49,7 +49,7 @@
             "tag": "target-1.1.0"
           },
           "fingerprint": "rules:v6:github:stefanorigano/advanced_analytics:target-1.1.0:no-zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
-          "checked_at": "2026-08-04T04:00:59.093Z",
+          "checked_at": "2026-08-12T20:01:28.471Z",
           "released_at": "2026-03-02T23:15:42.000Z"
         },
         "v0.9.1": {
@@ -1035,6 +1035,209 @@
         }
       }
     },
+    "basedgoat-trains": {
+      "has_complete_version": true,
+      "latest_semver_version": "v0.5.0",
+      "latest_semver_complete": true,
+      "complete_versions": [
+        "v0.5.0",
+        "v0.4.0",
+        "v0.3.0",
+        "v0.2.0",
+        "v0.1.1",
+        "v0.1.0"
+      ],
+      "incomplete_versions": [],
+      "last_updated": 1786264809,
+      "versions": {
+        "v0.1.0": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.01,
+          "game_version": ">=1.4.12",
+          "dependencies": {
+            "scrollable-dropdowns": ">=v1.2.0"
+          },
+          "source": {
+            "update_type": "github",
+            "repo": "arniber21/dantrains-abridged",
+            "tag": "v0.1.0",
+            "asset_name": "danTrains-Abridged.zip",
+            "download_url": "https://github.com/arniber21/dantrains-abridged/releases/download/v0.1.0/danTrains-Abridged.zip"
+          },
+          "fingerprint": "rules:v6:github:arniber21/dantrains-abridged:v0.1.0:danTrains-Abridged.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-08-06T06:13:59.744Z",
+          "released_at": "2026-08-05T19:03:23.000Z"
+        },
+        "v0.1.1": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.01,
+          "game_version": ">=1.4.12",
+          "dependencies": {
+            "scrollable-dropdowns": ">=v1.2.0"
+          },
+          "source": {
+            "update_type": "github",
+            "repo": "arniber21/dantrains-abridged",
+            "tag": "v0.1.1",
+            "asset_name": "danTrains-Abridged.zip",
+            "download_url": "https://github.com/arniber21/dantrains-abridged/releases/download/v0.1.1/danTrains-Abridged.zip"
+          },
+          "fingerprint": "rules:v6:github:arniber21/dantrains-abridged:v0.1.1:danTrains-Abridged.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-08-06T06:13:59.744Z",
+          "released_at": "2026-08-05T19:09:45.000Z"
+        },
+        "v0.2.0": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0,
+          "game_version": ">=1.4.12",
+          "dependencies": {
+            "scrollable-dropdowns": ">=v1.2.0"
+          },
+          "source": {
+            "update_type": "github",
+            "repo": "arniber21/dantrains-abridged",
+            "tag": "v0.2.0",
+            "asset_name": "BasedGoatTrains-Abridged.zip",
+            "download_url": "https://github.com/arniber21/dantrains-abridged/releases/download/v0.2.0/BasedGoatTrains-Abridged.zip"
+          },
+          "fingerprint": "rules:v6:github:arniber21/dantrains-abridged:v0.2.0:BasedGoatTrains-Abridged.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-08-06T06:13:59.744Z",
+          "released_at": "2026-08-05T22:37:12.000Z"
+        },
+        "v0.3.0": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0,
+          "game_version": ">=1.4.12",
+          "dependencies": {
+            "scrollable-dropdowns": ">=v1.2.0"
+          },
+          "source": {
+            "update_type": "github",
+            "repo": "arniber21/dantrains-abridged",
+            "tag": "v0.3.0",
+            "asset_name": "BasedGoatTrains-Abridged.zip",
+            "download_url": "https://github.com/arniber21/dantrains-abridged/releases/download/v0.3.0/BasedGoatTrains-Abridged.zip"
+          },
+          "fingerprint": "rules:v6:github:arniber21/dantrains-abridged:v0.3.0:BasedGoatTrains-Abridged.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-08-09T08:01:25.366Z",
+          "released_at": "2026-08-09T05:53:21.000Z"
+        },
+        "v0.4.0": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.01,
+          "game_version": ">=1.4.12",
+          "dependencies": {
+            "scrollable-dropdowns": ">=v1.2.0"
+          },
+          "source": {
+            "update_type": "github",
+            "repo": "arniber21/dantrains-abridged",
+            "tag": "v0.4.0",
+            "asset_name": "BasedGoatTrains-Abridged.zip",
+            "download_url": "https://github.com/arniber21/dantrains-abridged/releases/download/v0.4.0/BasedGoatTrains-Abridged.zip"
+          },
+          "fingerprint": "rules:v6:github:arniber21/dantrains-abridged:v0.4.0:BasedGoatTrains-Abridged.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-08-09T08:01:25.366Z",
+          "released_at": "2026-08-09T06:54:27.000Z"
+        },
+        "v0.5.0": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.01,
+          "game_version": ">=1.4.12",
+          "dependencies": {
+            "scrollable-dropdowns": ">=v1.2.0"
+          },
+          "source": {
+            "update_type": "github",
+            "repo": "arniber21/dantrains-abridged",
+            "tag": "v0.5.0",
+            "asset_name": "BasedGoatTrains-Abridged.zip",
+            "download_url": "https://github.com/arniber21/dantrains-abridged/releases/download/v0.5.0/BasedGoatTrains-Abridged.zip"
+          },
+          "fingerprint": "rules:v6:github:arniber21/dantrains-abridged:v0.5.0:BasedGoatTrains-Abridged.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-08-09T12:01:23.242Z",
+          "released_at": "2026-08-09T08:40:09.000Z"
+        }
+      }
+    },
     "chinese-trains": {
       "has_complete_version": true,
       "latest_semver_version": "v2.0.0",
@@ -1980,366 +2183,12 @@
       }
     },
     "danield1909-dantrains": {
-      "has_complete_version": true,
-      "latest_semver_version": "v1.3.2",
-      "latest_semver_complete": true,
-      "complete_versions": [
-        "v1.3.2",
-        "v1.3.1",
-        "v1.3.0",
-        "v1.2.1",
-        "v1.2.0",
-        "v1.1.2",
-        "v1.1.1",
-        "v1.1.0",
-        "v1.0.3",
-        "v1.0.2",
-        "v1.0.0"
-      ],
-      "incomplete_versions": [
-        "v1.0.1"
-      ],
-      "last_updated": 1775959226,
-      "versions": {
-        "v1.0.0": {
-          "is_complete": true,
-          "errors": [],
-          "required_checks": {
-            "release_manifest_asset": true,
-            "zip_manifest_json": true,
-            "security_scan_passed": true,
-            "manifest_version_matches_tag": true
-          },
-          "matched_files": {
-            "release_manifest_asset": "manifest.json",
-            "zip_manifest_json": "manifest.json",
-            "security_scan_passed": "passed",
-            "manifest_version_matches_tag": "manifest.json"
-          },
-          "release_size": 0.07,
-          "game_version": ">=1.2.0",
-          "source": {
-            "update_type": "github",
-            "repo": "danield1909/dantrains",
-            "tag": "v1.0.0",
-            "asset_name": "danTrains-1_0_0-Phoenix.zip",
-            "download_url": "https://github.com/DanielD1909/danTrains/releases/download/v1.0.0/danTrains-1_0_0-Phoenix.zip"
-          },
-          "fingerprint": "rules:v6:github:danield1909/dantrains:v1.0.0:danTrains-1_0_0-Phoenix.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
-          "checked_at": "2026-07-07T03:43:59.026Z",
-          "released_at": "2026-03-14T00:33:00.000Z"
-        },
-        "v1.0.1": {
-          "is_complete": false,
-          "errors": [
-            "asset 'danTrains-1_0_1-Phoenix.zip': manifest.json version '1.0.0' does not match release tag 'v1.0.1' (expected '1.0.1')"
-          ],
-          "required_checks": {
-            "release_manifest_asset": true,
-            "zip_manifest_json": true,
-            "security_scan_passed": true,
-            "manifest_version_matches_tag": false
-          },
-          "matched_files": {
-            "release_manifest_asset": "manifest.json",
-            "zip_manifest_json": "manifest.json",
-            "security_scan_passed": "passed",
-            "manifest_version_matches_tag": null
-          },
-          "release_size": 0.07,
-          "game_version": ">=1.2.0",
-          "source": {
-            "update_type": "github",
-            "repo": "danield1909/dantrains",
-            "tag": "v1.0.1",
-            "asset_name": "danTrains-1_0_1-Phoenix.zip",
-            "download_url": "https://github.com/DanielD1909/danTrains/releases/download/v1.0.1/danTrains-1_0_1-Phoenix.zip"
-          },
-          "fingerprint": "rules:v6:github:danield1909/dantrains:v1.0.1:danTrains-1_0_1-Phoenix.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
-          "checked_at": "2026-07-07T03:43:59.026Z",
-          "released_at": "2026-03-14T01:59:45.000Z"
-        },
-        "v1.0.2": {
-          "is_complete": true,
-          "errors": [],
-          "required_checks": {
-            "release_manifest_asset": true,
-            "zip_manifest_json": true,
-            "security_scan_passed": true,
-            "manifest_version_matches_tag": true
-          },
-          "matched_files": {
-            "release_manifest_asset": "manifest.json",
-            "zip_manifest_json": "manifest.json",
-            "security_scan_passed": "passed",
-            "manifest_version_matches_tag": "manifest.json"
-          },
-          "release_size": 0.08,
-          "game_version": ">=1.2.0",
-          "source": {
-            "update_type": "github",
-            "repo": "danield1909/dantrains",
-            "tag": "v1.0.2",
-            "asset_name": "danTrains-1_0_2-Phoenix.zip",
-            "download_url": "https://github.com/DanielD1909/danTrains/releases/download/v1.0.2/danTrains-1_0_2-Phoenix.zip"
-          },
-          "fingerprint": "rules:v6:github:danield1909/dantrains:v1.0.2:danTrains-1_0_2-Phoenix.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
-          "checked_at": "2026-07-07T03:43:59.026Z",
-          "released_at": "2026-03-14T22:03:10.000Z"
-        },
-        "v1.0.3": {
-          "is_complete": true,
-          "errors": [],
-          "required_checks": {
-            "release_manifest_asset": true,
-            "zip_manifest_json": true,
-            "security_scan_passed": true,
-            "manifest_version_matches_tag": true
-          },
-          "matched_files": {
-            "release_manifest_asset": "manifest.json",
-            "zip_manifest_json": "manifest.json",
-            "security_scan_passed": "passed",
-            "manifest_version_matches_tag": "manifest.json"
-          },
-          "release_size": 0.08,
-          "game_version": ">=1.2.0",
-          "source": {
-            "update_type": "github",
-            "repo": "danield1909/dantrains",
-            "tag": "v1.0.3",
-            "asset_name": "danTrains-1_0_3-Phoenix.zip",
-            "download_url": "https://github.com/DanielD1909/danTrains/releases/download/v1.0.3/danTrains-1_0_3-Phoenix.zip"
-          },
-          "fingerprint": "rules:v6:github:danield1909/dantrains:v1.0.3:danTrains-1_0_3-Phoenix.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
-          "checked_at": "2026-07-07T03:43:59.026Z",
-          "released_at": "2026-03-16T21:51:35.000Z"
-        },
-        "v1.1.0": {
-          "is_complete": true,
-          "errors": [],
-          "required_checks": {
-            "release_manifest_asset": true,
-            "zip_manifest_json": true,
-            "security_scan_passed": true,
-            "manifest_version_matches_tag": true
-          },
-          "matched_files": {
-            "release_manifest_asset": "manifest.json",
-            "zip_manifest_json": "manifest.json",
-            "security_scan_passed": "passed",
-            "manifest_version_matches_tag": "manifest.json"
-          },
-          "release_size": 0.09,
-          "game_version": ">=1.2.0",
-          "source": {
-            "update_type": "github",
-            "repo": "danield1909/dantrains",
-            "tag": "v1.1.0",
-            "asset_name": "danTrains-1_1_0-Phoenix.zip",
-            "download_url": "https://github.com/DanielD1909/danTrains/releases/download/v1.1.0/danTrains-1_1_0-Phoenix.zip"
-          },
-          "fingerprint": "rules:v6:github:danield1909/dantrains:v1.1.0:danTrains-1_1_0-Phoenix.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
-          "checked_at": "2026-07-07T03:43:59.026Z",
-          "released_at": "2026-03-18T03:28:55.000Z"
-        },
-        "v1.1.1": {
-          "is_complete": true,
-          "errors": [],
-          "required_checks": {
-            "release_manifest_asset": true,
-            "zip_manifest_json": true,
-            "security_scan_passed": true,
-            "manifest_version_matches_tag": true
-          },
-          "matched_files": {
-            "release_manifest_asset": "manifest.json",
-            "zip_manifest_json": "manifest.json",
-            "security_scan_passed": "passed",
-            "manifest_version_matches_tag": "manifest.json"
-          },
-          "release_size": 0.09,
-          "game_version": ">=1.2.0",
-          "source": {
-            "update_type": "github",
-            "repo": "danield1909/dantrains",
-            "tag": "v1.1.1",
-            "asset_name": "danTrains-1_1_1-Phoenix.zip",
-            "download_url": "https://github.com/DanielD1909/danTrains/releases/download/v1.1.1/danTrains-1_1_1-Phoenix.zip"
-          },
-          "fingerprint": "rules:v6:github:danield1909/dantrains:v1.1.1:danTrains-1_1_1-Phoenix.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
-          "checked_at": "2026-07-07T03:43:59.026Z",
-          "released_at": "2026-03-19T03:10:16.000Z"
-        },
-        "v1.1.2": {
-          "is_complete": true,
-          "errors": [],
-          "required_checks": {
-            "release_manifest_asset": true,
-            "zip_manifest_json": true,
-            "security_scan_passed": true,
-            "manifest_version_matches_tag": true
-          },
-          "matched_files": {
-            "release_manifest_asset": "manifest.json",
-            "zip_manifest_json": "manifest.json",
-            "security_scan_passed": "passed",
-            "manifest_version_matches_tag": "manifest.json"
-          },
-          "release_size": 0.09,
-          "game_version": ">=1.2.0",
-          "source": {
-            "update_type": "github",
-            "repo": "danield1909/dantrains",
-            "tag": "v1.1.2",
-            "asset_name": "danTrains-1_1_2-Phoenix.zip",
-            "download_url": "https://github.com/DanielD1909/danTrains/releases/download/v1.1.2/danTrains-1_1_2-Phoenix.zip"
-          },
-          "fingerprint": "rules:v6:github:danield1909/dantrains:v1.1.2:danTrains-1_1_2-Phoenix.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
-          "checked_at": "2026-07-07T03:43:59.026Z",
-          "released_at": "2026-03-21T04:00:25.000Z"
-        },
-        "v1.2.0": {
-          "is_complete": true,
-          "errors": [],
-          "required_checks": {
-            "release_manifest_asset": true,
-            "zip_manifest_json": true,
-            "security_scan_passed": true,
-            "manifest_version_matches_tag": true
-          },
-          "matched_files": {
-            "release_manifest_asset": "manifest.json",
-            "zip_manifest_json": "manifest.json",
-            "security_scan_passed": "passed",
-            "manifest_version_matches_tag": "manifest.json"
-          },
-          "release_size": 0.09,
-          "game_version": ">=1.2.0",
-          "source": {
-            "update_type": "github",
-            "repo": "danield1909/dantrains",
-            "tag": "v1.2.0",
-            "asset_name": "danTrains-1_2_0-Phoenix.zip",
-            "download_url": "https://github.com/DanielD1909/danTrains/releases/download/v1.2.0/danTrains-1_2_0-Phoenix.zip"
-          },
-          "fingerprint": "rules:v6:github:danield1909/dantrains:v1.2.0:danTrains-1_2_0-Phoenix.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
-          "checked_at": "2026-07-07T03:43:59.026Z",
-          "released_at": "2026-03-22T07:32:26.000Z"
-        },
-        "v1.2.1": {
-          "is_complete": true,
-          "errors": [],
-          "required_checks": {
-            "release_manifest_asset": true,
-            "zip_manifest_json": true,
-            "security_scan_passed": true,
-            "manifest_version_matches_tag": true
-          },
-          "matched_files": {
-            "release_manifest_asset": "manifest.json",
-            "zip_manifest_json": "manifest.json",
-            "security_scan_passed": "passed",
-            "manifest_version_matches_tag": "manifest.json"
-          },
-          "release_size": 0.09,
-          "game_version": ">=1.2.0",
-          "source": {
-            "update_type": "github",
-            "repo": "danield1909/dantrains",
-            "tag": "v1.2.1",
-            "asset_name": "danTrains-1_2_1-Phoenix.zip",
-            "download_url": "https://github.com/DanielD1909/danTrains/releases/download/v1.2.1/danTrains-1_2_1-Phoenix.zip"
-          },
-          "fingerprint": "rules:v6:github:danield1909/dantrains:v1.2.1:danTrains-1_2_1-Phoenix.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
-          "checked_at": "2026-07-07T03:43:59.026Z",
-          "released_at": "2026-03-23T09:04:44.000Z"
-        },
-        "v1.3.0": {
-          "is_complete": true,
-          "errors": [],
-          "required_checks": {
-            "release_manifest_asset": true,
-            "zip_manifest_json": true,
-            "security_scan_passed": true,
-            "manifest_version_matches_tag": true
-          },
-          "matched_files": {
-            "release_manifest_asset": "manifest.json",
-            "zip_manifest_json": "manifest.json",
-            "security_scan_passed": "passed",
-            "manifest_version_matches_tag": "manifest.json"
-          },
-          "release_size": 0.09,
-          "game_version": ">=1.2.0",
-          "source": {
-            "update_type": "github",
-            "repo": "danield1909/dantrains",
-            "tag": "v1.3.0",
-            "asset_name": "danTrains-1_3_0-Phoenix.zip",
-            "download_url": "https://github.com/DanielD1909/danTrains/releases/download/v1.3.0/danTrains-1_3_0-Phoenix.zip"
-          },
-          "fingerprint": "rules:v6:github:danield1909/dantrains:v1.3.0:danTrains-1_3_0-Phoenix.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
-          "checked_at": "2026-07-07T03:43:59.026Z",
-          "released_at": "2026-03-25T01:56:59.000Z"
-        },
-        "v1.3.1": {
-          "is_complete": true,
-          "errors": [],
-          "required_checks": {
-            "release_manifest_asset": true,
-            "zip_manifest_json": true,
-            "security_scan_passed": true,
-            "manifest_version_matches_tag": true
-          },
-          "matched_files": {
-            "release_manifest_asset": "manifest.json",
-            "zip_manifest_json": "manifest.json",
-            "security_scan_passed": "passed",
-            "manifest_version_matches_tag": "manifest.json"
-          },
-          "release_size": 0.09,
-          "game_version": ">=1.2.0",
-          "source": {
-            "update_type": "github",
-            "repo": "danield1909/dantrains",
-            "tag": "v1.3.1",
-            "asset_name": "danTrains-1_3_1-Phoenix.zip",
-            "download_url": "https://github.com/DanielD1909/danTrains/releases/download/v1.3.1/danTrains-1_3_1-Phoenix.zip"
-          },
-          "fingerprint": "rules:v6:github:danield1909/dantrains:v1.3.1:danTrains-1_3_1-Phoenix.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
-          "checked_at": "2026-07-07T03:43:59.026Z",
-          "released_at": "2026-04-08T14:49:40.000Z"
-        },
-        "v1.3.2": {
-          "is_complete": true,
-          "errors": [],
-          "required_checks": {
-            "release_manifest_asset": true,
-            "zip_manifest_json": true,
-            "security_scan_passed": true,
-            "manifest_version_matches_tag": true
-          },
-          "matched_files": {
-            "release_manifest_asset": "manifest.json",
-            "zip_manifest_json": "manifest.json",
-            "security_scan_passed": "passed",
-            "manifest_version_matches_tag": "manifest.json"
-          },
-          "release_size": 0.09,
-          "game_version": ">=1.2.6",
-          "source": {
-            "update_type": "github",
-            "repo": "danield1909/dantrains",
-            "tag": "v1.3.2",
-            "asset_name": "danTrains-1_3_2-Phoenix.zip",
-            "download_url": "https://github.com/DanielD1909/danTrains/releases/download/v1.3.2/danTrains-1_3_2-Phoenix.zip"
-          },
-          "fingerprint": "rules:v6:github:danield1909/dantrains:v1.3.2:danTrains-1_3_2-Phoenix.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
-          "checked_at": "2026-07-07T03:43:59.026Z",
-          "released_at": "2026-04-12T02:00:26.000Z"
-        }
-      }
+      "has_complete_version": false,
+      "latest_semver_version": null,
+      "latest_semver_complete": null,
+      "complete_versions": [],
+      "incomplete_versions": [],
+      "versions": {}
     },
     "danield1909-realism-pathfinding": {
       "has_complete_version": true,
@@ -2405,7 +2254,7 @@
             "tag": "v1.0"
           },
           "fingerprint": "rules:v6:github:danield1909/dantrains-abridged:v1.0:dantrains-abridged.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
-          "checked_at": "2026-08-04T04:00:59.093Z",
+          "checked_at": "2026-08-12T20:01:28.471Z",
           "released_at": "2026-07-18T05:05:08.000Z"
         },
         "v1.1": {
@@ -2421,7 +2270,7 @@
             "tag": "v1.1"
           },
           "fingerprint": "rules:v6:github:danield1909/dantrains-abridged:v1.1:danTrains-Abridged.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
-          "checked_at": "2026-08-04T04:00:59.093Z",
+          "checked_at": "2026-08-12T20:01:28.471Z",
           "released_at": "2026-07-19T04:42:34.000Z"
         },
         "v1.1.1": {
@@ -2982,142 +2831,20 @@
       }
     },
     "imb11-moveit": {
-      "has_complete_version": true,
-      "latest_semver_version": "v1.2.0",
-      "latest_semver_complete": true,
-      "complete_versions": [
-        "v1.2.0",
-        "v1.1.0",
-        "v1.0.0"
-      ],
+      "has_complete_version": false,
+      "latest_semver_version": null,
+      "latest_semver_complete": null,
+      "complete_versions": [],
       "incomplete_versions": [],
-      "last_updated": 1785103925,
-      "versions": {
-        "v1.0.0": {
-          "is_complete": true,
-          "errors": [],
-          "required_checks": {
-            "release_manifest_asset": true,
-            "zip_manifest_json": true,
-            "security_scan_passed": true,
-            "manifest_version_matches_tag": true
-          },
-          "matched_files": {
-            "release_manifest_asset": "manifest.json",
-            "zip_manifest_json": "manifest.json",
-            "security_scan_passed": "passed",
-            "manifest_version_matches_tag": "manifest.json"
-          },
-          "release_size": 0.01,
-          "game_version": ">=1.4.12",
-          "source": {
-            "update_type": "github",
-            "repo": "imb11/move-it",
-            "tag": "v1.0.0",
-            "asset_name": "subway-builder-move-it-1.0.0.zip",
-            "download_url": "https://github.com/IMB11/move-it/releases/download/v1.0.0/subway-builder-move-it-1.0.0.zip"
-          },
-          "fingerprint": "rules:v6:github:imb11/move-it:v1.0.0:subway-builder-move-it-1.0.0.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
-          "checked_at": "2026-07-18T16:45:55.688Z",
-          "released_at": "2026-07-18T16:24:24.000Z"
-        },
-        "v1.1.0": {
-          "is_complete": true,
-          "errors": [],
-          "required_checks": {
-            "release_manifest_asset": true,
-            "zip_manifest_json": true,
-            "security_scan_passed": true,
-            "manifest_version_matches_tag": true
-          },
-          "matched_files": {
-            "release_manifest_asset": "manifest.json",
-            "zip_manifest_json": "manifest.json",
-            "security_scan_passed": "passed",
-            "manifest_version_matches_tag": "manifest.json"
-          },
-          "release_size": 0.01,
-          "game_version": ">=1.4.12",
-          "source": {
-            "update_type": "github",
-            "repo": "imb11/move-it",
-            "tag": "v1.1.0",
-            "asset_name": "subway-builder-move-it-1.1.0.zip",
-            "download_url": "https://github.com/IMB11/move-it/releases/download/v1.1.0/subway-builder-move-it-1.1.0.zip"
-          },
-          "fingerprint": "rules:v6:github:imb11/move-it:v1.1.0:subway-builder-move-it-1.1.0.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
-          "checked_at": "2026-07-18T18:17:23.714Z",
-          "released_at": "2026-07-18T17:12:14.000Z"
-        },
-        "v1.2.0": {
-          "is_complete": true,
-          "errors": [],
-          "required_checks": {
-            "release_manifest_asset": true,
-            "zip_manifest_json": true,
-            "security_scan_passed": true,
-            "manifest_version_matches_tag": true
-          },
-          "matched_files": {
-            "release_manifest_asset": "manifest.json",
-            "zip_manifest_json": "manifest.json",
-            "security_scan_passed": "passed",
-            "manifest_version_matches_tag": "manifest.json"
-          },
-          "release_size": 0.02,
-          "game_version": ">=1.4.12",
-          "source": {
-            "update_type": "github",
-            "repo": "imb11/move-it",
-            "tag": "v1.2.0",
-            "asset_name": "subway-builder-move-it-1.2.0.zip",
-            "download_url": "https://github.com/IMB11/move-it/releases/download/v1.2.0/subway-builder-move-it-1.2.0.zip"
-          },
-          "fingerprint": "rules:v6:github:imb11/move-it:v1.2.0:subway-builder-move-it-1.2.0.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
-          "checked_at": "2026-07-27T00:00:57.479Z",
-          "released_at": "2026-07-26T22:12:05.000Z"
-        }
-      }
+      "versions": {}
     },
     "imb11-subwaycine": {
-      "has_complete_version": true,
-      "latest_semver_version": "v1.0.1",
-      "latest_semver_complete": true,
-      "complete_versions": [
-        "v1.0.1"
-      ],
+      "has_complete_version": false,
+      "latest_semver_version": null,
+      "latest_semver_complete": null,
+      "complete_versions": [],
       "incomplete_versions": [],
-      "last_updated": 1784381387,
-      "versions": {
-        "v1.0.1": {
-          "is_complete": true,
-          "errors": [],
-          "required_checks": {
-            "release_manifest_asset": true,
-            "zip_manifest_json": true,
-            "security_scan_passed": true,
-            "manifest_version_matches_tag": true
-          },
-          "matched_files": {
-            "release_manifest_asset": "manifest.json",
-            "zip_manifest_json": "manifest.json",
-            "security_scan_passed": "passed",
-            "manifest_version_matches_tag": "manifest.json"
-          },
-          "release_size": 0.05,
-          "game_version": ">=1.4.12",
-          "source": {
-            "update_type": "github",
-            "repo": "imb11/subwaycine",
-            "tag": "v1.0.1",
-            "asset_name": "subwaycine-1.0.1.zip",
-            "download_url": "https://github.com/IMB11/SubwayCine/releases/download/v1.0.1/subwaycine-1.0.1.zip"
-          },
-          "fingerprint": "rules:v6:github:imb11/subwaycine:v1.0.1:subwaycine-1.0.1.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
-          "checked_at": "2026-07-18T16:45:55.688Z",
-          "released_at": "2026-07-18T13:29:47.000Z"
-        }
-      }
+      "versions": {}
     },
     "improved-schematics": {
       "has_complete_version": true,
@@ -3335,9 +3062,10 @@
     },
     "induced-demand": {
       "has_complete_version": true,
-      "latest_semver_version": "v1.1.0",
+      "latest_semver_version": "v1.2.0",
       "latest_semver_complete": true,
       "complete_versions": [
+        "v1.2.0",
         "v1.1.0",
         "v1.0.4",
         "v1.0.3",
@@ -3346,7 +3074,7 @@
         "v1.0.0"
       ],
       "incomplete_versions": [],
-      "last_updated": 1784755568,
+      "last_updated": 1786234899,
       "versions": {
         "v1.0.0": {
           "is_complete": true,
@@ -3515,14 +3243,43 @@
           "fingerprint": "rules:v6:github:martig7/induced-demand:v1.1.0:induced-demand-v1.1.0.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
           "checked_at": "2026-07-22T21:37:31.181Z",
           "released_at": "2026-07-22T21:26:08.000Z"
+        },
+        "v1.2.0": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.04,
+          "game_version": ">= 1.6.0",
+          "source": {
+            "update_type": "github",
+            "repo": "martig7/induced-demand",
+            "tag": "v1.2.0",
+            "asset_name": "induced-demand-v1.2.0.zip",
+            "download_url": "https://github.com/martig7/Induced-Demand/releases/download/v1.2.0/induced-demand-v1.2.0.zip"
+          },
+          "fingerprint": "rules:v6:github:martig7/induced-demand:v1.2.0:induced-demand-v1.2.0.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-08-09T02:31:55.765Z",
+          "released_at": "2026-08-09T00:21:39.000Z"
         }
       }
     },
     "japanese-trains": {
       "has_complete_version": true,
-      "latest_semver_version": "v2.0.1",
+      "latest_semver_version": "v2.0.2",
       "latest_semver_complete": true,
       "complete_versions": [
+        "v2.0.2",
         "v2.0.1",
         "v2.0.0",
         "v1.1.1",
@@ -3533,7 +3290,7 @@
         "v1.0.0"
       ],
       "incomplete_versions": [],
-      "last_updated": 1784219880,
+      "last_updated": 1785993188,
       "versions": {
         "v1.0.0": {
           "is_complete": true,
@@ -3767,6 +3524,34 @@
           "fingerprint": "rules:v6:github:kaicardenas0618/japanese-trains:v2.0.1:japanese-trains-v2.0.1.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
           "checked_at": "2026-07-16T20:01:03.244Z",
           "released_at": "2026-07-16T16:38:00.000Z"
+        },
+        "v2.0.2": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.02,
+          "game_version": ">=1.4.0",
+          "source": {
+            "update_type": "github",
+            "repo": "kaicardenas0618/japanese-trains",
+            "tag": "v2.0.2",
+            "asset_name": "japanese-trains-v2.0.2.zip",
+            "download_url": "https://github.com/kaicardenas0618/japanese-trains/releases/download/v2.0.2/japanese-trains-v2.0.2.zip"
+          },
+          "fingerprint": "rules:v6:github:kaicardenas0618/japanese-trains:v2.0.2:japanese-trains-v2.0.2.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-08-06T06:13:59.744Z",
+          "released_at": "2026-08-06T05:13:08.000Z"
         }
       }
     },
@@ -4030,6 +3815,191 @@
         }
       }
     },
+    "madrid-transit-pack": {
+      "has_complete_version": true,
+      "latest_semver_version": "v0.10.0",
+      "latest_semver_complete": true,
+      "complete_versions": [
+        "v0.10.0",
+        "v0.9.4",
+        "v0.9.3",
+        "v0.9.2",
+        "v0.9.1",
+        "v0.9.0"
+      ],
+      "incomplete_versions": [],
+      "last_updated": 1785950873,
+      "versions": {
+        "v0.10.0": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.01,
+          "game_version": ">=1.2.6",
+          "source": {
+            "update_type": "github",
+            "repo": "xoaninc/madrid-transit-pack",
+            "tag": "v0.10.0",
+            "asset_name": "mtp-0.10.0.zip",
+            "download_url": "https://github.com/xoaninc/madrid-transit-pack/releases/download/v0.10.0/mtp-0.10.0.zip"
+          },
+          "fingerprint": "rules:v6:github:xoaninc/madrid-transit-pack:v0.10.0:mtp-0.10.0.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-08-05T20:01:08.586Z",
+          "released_at": "2026-08-05T17:27:53.000Z"
+        },
+        "v0.9.0": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.01,
+          "game_version": ">=1.2.6",
+          "source": {
+            "update_type": "github",
+            "repo": "xoaninc/madrid-transit-pack",
+            "tag": "v0.9.0",
+            "asset_name": "madrid-transit-pack-0_9_0.zip",
+            "download_url": "https://github.com/xoaninc/madrid-transit-pack/releases/download/v0.9.0/madrid-transit-pack-0_9_0.zip"
+          },
+          "fingerprint": "rules:v6:github:xoaninc/madrid-transit-pack:v0.9.0:madrid-transit-pack-0_9_0.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-08-06T00:01:08.628Z",
+          "released_at": "2026-08-03T21:39:21.000Z"
+        },
+        "v0.9.1": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.01,
+          "game_version": ">=1.2.6",
+          "source": {
+            "update_type": "github",
+            "repo": "xoaninc/madrid-transit-pack",
+            "tag": "v0.9.1",
+            "asset_name": "madrid-transit-pack-0_9_1.zip",
+            "download_url": "https://github.com/xoaninc/madrid-transit-pack/releases/download/v0.9.1/madrid-transit-pack-0_9_1.zip"
+          },
+          "fingerprint": "rules:v6:github:xoaninc/madrid-transit-pack:v0.9.1:madrid-transit-pack-0_9_1.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-08-06T00:01:08.628Z",
+          "released_at": "2026-08-03T23:38:59.000Z"
+        },
+        "v0.9.2": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.01,
+          "game_version": ">=1.2.6",
+          "source": {
+            "update_type": "github",
+            "repo": "xoaninc/madrid-transit-pack",
+            "tag": "v0.9.2",
+            "asset_name": "mtp-092b.zip",
+            "download_url": "https://github.com/xoaninc/madrid-transit-pack/releases/download/v0.9.2/mtp-092b.zip"
+          },
+          "fingerprint": "rules:v6:github:xoaninc/madrid-transit-pack:v0.9.2:mtp-092b.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-08-06T00:01:08.628Z",
+          "released_at": "2026-08-04T03:49:01.000Z"
+        },
+        "v0.9.3": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.01,
+          "game_version": ">=1.2.6",
+          "source": {
+            "update_type": "github",
+            "repo": "xoaninc/madrid-transit-pack",
+            "tag": "v0.9.3",
+            "asset_name": "mtp-093.zip",
+            "download_url": "https://github.com/xoaninc/madrid-transit-pack/releases/download/v0.9.3/mtp-093.zip"
+          },
+          "fingerprint": "rules:v6:github:xoaninc/madrid-transit-pack:v0.9.3:mtp-093.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-08-06T00:01:08.628Z",
+          "released_at": "2026-08-04T03:54:50.000Z"
+        },
+        "v0.9.4": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.01,
+          "game_version": ">=1.2.6",
+          "source": {
+            "update_type": "github",
+            "repo": "xoaninc/madrid-transit-pack",
+            "tag": "v0.9.4",
+            "asset_name": "mtp-094.zip",
+            "download_url": "https://github.com/xoaninc/madrid-transit-pack/releases/download/v0.9.4/mtp-094.zip"
+          },
+          "fingerprint": "rules:v6:github:xoaninc/madrid-transit-pack:v0.9.4:mtp-094.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-08-06T00:01:08.628Z",
+          "released_at": "2026-08-04T04:00:10.000Z"
+        }
+      }
+    },
     "map-markers": {
       "has_complete_version": true,
       "latest_semver_version": "v1.2.1",
@@ -4217,14 +4187,15 @@
     },
     "missed-connections": {
       "has_complete_version": true,
-      "latest_semver_version": "1.0.1",
+      "latest_semver_version": "1.0.2",
       "latest_semver_complete": true,
       "complete_versions": [
+        "1.0.2",
         "1.0.1",
         "1.0.0"
       ],
       "incomplete_versions": [],
-      "last_updated": 1784327068,
+      "last_updated": 1786156867,
       "versions": {
         "1.0.0": {
           "is_complete": true,
@@ -4281,6 +4252,34 @@
           "fingerprint": "rules:v6:github:rslurry/subwaybuilder-missedconnections:1.0.1:missedConnections.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
           "checked_at": "2026-07-18T00:01:12.993Z",
           "released_at": "2026-07-17T22:24:28.000Z"
+        },
+        "1.0.2": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0,
+          "game_version": ">=1.0.0",
+          "source": {
+            "update_type": "github",
+            "repo": "rslurry/subwaybuilder-missedconnections",
+            "tag": "1.0.2",
+            "asset_name": "missedConnections.zip",
+            "download_url": "https://github.com/rslurry/subwaybuilder-missedConnections/releases/download/1.0.2/missedConnections.zip"
+          },
+          "fingerprint": "rules:v6:github:rslurry/subwaybuilder-missedconnections:1.0.2:missedConnections.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-08-08T02:43:13.517Z",
+          "released_at": "2026-08-08T02:41:07.000Z"
         }
       }
     },
@@ -5357,16 +5356,17 @@
     },
     "subway-builder-performance": {
       "has_complete_version": true,
-      "latest_semver_version": "v0.2.2",
+      "latest_semver_version": "v0.3.0",
       "latest_semver_complete": true,
       "complete_versions": [
+        "v0.3.0",
         "v0.2.2",
         "v0.2.1",
         "v0.2.0",
         "v0.1.0"
       ],
       "incomplete_versions": [],
-      "last_updated": 1785020893,
+      "last_updated": 1786075716,
       "versions": {
         "v0.1.0": {
           "is_complete": true,
@@ -5479,14 +5479,43 @@
           "fingerprint": "rules:v6:github:rexmhall09/subway-builder-performance-mod:v0.2.2:subway-builder-performance-v0.2.2.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
           "checked_at": "2026-07-26T00:01:27.825Z",
           "released_at": "2026-07-25T23:08:13.000Z"
+        },
+        "v0.3.0": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.02,
+          "game_version": ">=1.4.12 <2.0.0",
+          "source": {
+            "update_type": "github",
+            "repo": "rexmhall09/subway-builder-performance-mod",
+            "tag": "v0.3.0",
+            "asset_name": "subway-builder-performance-v0.3.0.zip",
+            "download_url": "https://github.com/rexmhall09/Subway-Builder-Performance-Mod/releases/download/v0.3.0/subway-builder-performance-v0.3.0.zip"
+          },
+          "fingerprint": "rules:v6:github:rexmhall09/subway-builder-performance-mod:v0.3.0:subway-builder-performance-v0.3.0.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-08-07T16:02:33.708Z",
+          "released_at": "2026-08-07T04:08:36.000Z"
         }
       }
     },
     "subwaybuilder-regions": {
       "has_complete_version": true,
-      "latest_semver_version": "v0.5.0",
+      "latest_semver_version": "v0.5.1",
       "latest_semver_complete": true,
       "complete_versions": [
+        "v0.5.1",
         "v0.5.0",
         "v0.4.10",
         "v0.4.9",
@@ -5495,7 +5524,7 @@
         "v0.4.5"
       ],
       "incomplete_versions": [],
-      "last_updated": 1784706764,
+      "last_updated": 1786404240,
       "versions": {
         "v0.4.10": {
           "is_complete": true,
@@ -5664,6 +5693,34 @@
           "fingerprint": "rules:v6:github:ahkimn/subwaybuilder-regions:v0.5.0:subwaybuilder-regions-regions-v0.5.0.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
           "checked_at": "2026-08-03T21:42:34.954Z",
           "released_at": "2026-07-22T07:52:44.000Z"
+        },
+        "v0.5.1": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 0.38,
+          "game_version": ">=1.6.0",
+          "source": {
+            "update_type": "github",
+            "repo": "ahkimn/subwaybuilder-regions",
+            "tag": "v0.5.1",
+            "asset_name": "subwaybuilder-regions-regions-v0.5.1.zip",
+            "download_url": "https://github.com/ahkimn/subwaybuilder-regions/releases/download/v0.5.1/subwaybuilder-regions-regions-v0.5.1.zip"
+          },
+          "fingerprint": "rules:v6:github:ahkimn/subwaybuilder-regions:v0.5.1:subwaybuilder-regions-regions-v0.5.1.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-08-11T00:01:27.225Z",
+          "released_at": "2026-08-10T23:24:00.000Z"
         }
       }
     },
@@ -6596,9 +6653,10 @@
     },
     "transit-overlay": {
       "has_complete_version": true,
-      "latest_semver_version": "v1.5.4",
+      "latest_semver_version": "v1.5.5",
       "latest_semver_complete": true,
       "complete_versions": [
+        "v1.5.5",
         "v1.5.4",
         "v1.5.3",
         "v1.5.2",
@@ -6606,7 +6664,7 @@
         "1.5.0"
       ],
       "incomplete_versions": [],
-      "last_updated": 1785537075,
+      "last_updated": 1786218345,
       "versions": {
         "1.5.0": {
           "is_complete": true,
@@ -6747,6 +6805,34 @@
           "fingerprint": "rules:v6:github:barkuperman/transit-overlay-subway-builder-mod:v1.5.4:transit-overlay.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
           "checked_at": "2026-08-01T00:00:45.885Z",
           "released_at": "2026-07-31T22:31:15.000Z"
+        },
+        "v1.5.5": {
+          "is_complete": true,
+          "errors": [],
+          "required_checks": {
+            "release_manifest_asset": true,
+            "zip_manifest_json": true,
+            "security_scan_passed": true,
+            "manifest_version_matches_tag": true
+          },
+          "matched_files": {
+            "release_manifest_asset": "manifest.json",
+            "zip_manifest_json": "manifest.json",
+            "security_scan_passed": "passed",
+            "manifest_version_matches_tag": "manifest.json"
+          },
+          "release_size": 7.45,
+          "game_version": ">=1.0.0",
+          "source": {
+            "update_type": "github",
+            "repo": "barkuperman/transit-overlay-subway-builder-mod",
+            "tag": "v1.5.5",
+            "asset_name": "transit-overlay.zip",
+            "download_url": "https://github.com/BarKuperman/transit-overlay-subway-builder-mod/releases/download/v1.5.5/transit-overlay.zip"
+          },
+          "fingerprint": "rules:v6:github:barkuperman/transit-overlay-subway-builder-mod:v1.5.5:transit-overlay.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
+          "checked_at": "2026-08-08T20:01:22.164Z",
+          "released_at": "2026-08-08T19:45:45.000Z"
         }
       }
     },
@@ -7013,7 +7099,7 @@
             "tag": "v1.0"
           },
           "fingerprint": "rules:v6:github:valdotorium/valdotoriums_trains:v1.0:Valdotoriums_Trains_1_0.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
-          "checked_at": "2026-08-04T04:00:59.093Z",
+          "checked_at": "2026-08-12T20:01:28.471Z",
           "released_at": "2026-03-01T14:52:46.000Z"
         },
         "v1.1": {
@@ -7029,10 +7115,18 @@
             "tag": "v1.1"
           },
           "fingerprint": "rules:v6:github:valdotorium/valdotoriums_trains:v1.1:Valdotoriums_Trains_1_1.zip:security-rules:748749739a1d0dbdfebfe0098fc89acb84119154155eebdbd0a5b8a649904c2f",
-          "checked_at": "2026-08-04T04:00:59.093Z",
+          "checked_at": "2026-08-12T20:01:28.471Z",
           "released_at": "2026-03-08T08:01:18.000Z"
         }
       }
+    },
+    "zz-deletion-fixture": {
+      "has_complete_version": false,
+      "latest_semver_version": null,
+      "latest_semver_complete": null,
+      "complete_versions": [],
+      "incomplete_versions": [],
+      "versions": {}
     },
     "zz-deprecation-fixture": {
       "has_complete_version": false,

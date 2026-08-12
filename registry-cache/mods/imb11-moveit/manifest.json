@@ -11,8 +11,8 @@
     "tracks"
   ],
   "gallery": [
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b74f05986901a2e882e7e6145e388ebf9ffdbd91/mods/imb11-moveit/gallery/screenshot1.webp",
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b74f05986901a2e882e7e6145e388ebf9ffdbd91/mods/imb11-moveit/gallery/screenshot2.webp"
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/41f963b76788b557213df455c43ac81f6c9b2a6f/mods/imb11-moveit/gallery/screenshot1.webp",
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/41f963b76788b557213df455c43ac81f6c9b2a6f/mods/imb11-moveit/gallery/screenshot2.webp"
   ],
   "is_test": false,
   "source": "https://github.com/IMB11/move-it",
@@ -20,5 +20,11 @@
     "type": "github",
     "repo": "IMB11/move-it"
   },
-  "last_updated": 1785103925
+  "last_updated": 1785103925,
+  "deprecation": {
+    "since": "2026-08-06T00:38:50Z",
+    "by_github_id": 268817724,
+    "reason": "Source repository (imb11/move-it) was made private or removed by the author; no installable versions remain.",
+    "deleted": true
+  }
 }

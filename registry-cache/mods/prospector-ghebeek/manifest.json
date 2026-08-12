@@ -13,8 +13,8 @@
     "ui"
   ],
   "gallery": [
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b74f05986901a2e882e7e6145e388ebf9ffdbd91/mods/prospector-ghebeek/gallery/screenshot1.webp",
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b74f05986901a2e882e7e6145e388ebf9ffdbd91/mods/prospector-ghebeek/gallery/screenshot2.webp"
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/41f963b76788b557213df455c43ac81f6c9b2a6f/mods/prospector-ghebeek/gallery/screenshot1.webp",
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/41f963b76788b557213df455c43ac81f6c9b2a6f/mods/prospector-ghebeek/gallery/screenshot2.webp"
   ],
   "is_test": false,
   "source": "https://github.com/matematysek/Prospector",
@@ -25,6 +25,7 @@
   "last_updated": 1785680848,
   "deprecation": {
     "since": "2026-08-03T21:07:05.072Z",
-    "by_github_id": 107941900
+    "by_github_id": 107941900,
+    "deleted": true
   }
 }

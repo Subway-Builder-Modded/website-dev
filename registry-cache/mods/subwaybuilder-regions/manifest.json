@@ -10,8 +10,8 @@
     "ui"
   ],
   "gallery": [
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b74f05986901a2e882e7e6145e388ebf9ffdbd91/mods/subwaybuilder-regions/gallery/screenshot1.webp",
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b74f05986901a2e882e7e6145e388ebf9ffdbd91/mods/subwaybuilder-regions/gallery/screenshot2.webp"
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/41f963b76788b557213df455c43ac81f6c9b2a6f/mods/subwaybuilder-regions/gallery/screenshot1.webp",
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/41f963b76788b557213df455c43ac81f6c9b2a6f/mods/subwaybuilder-regions/gallery/screenshot2.webp"
   ],
   "source": "https://github.com/ahkimn/subwaybuilder-regions",
   "update": {
@@ -19,5 +19,5 @@
     "repo": "ahkimn/subwaybuilder-regions"
   },
   "is_test": false,
-  "last_updated": 1784706764
+  "last_updated": 1786404240
 }

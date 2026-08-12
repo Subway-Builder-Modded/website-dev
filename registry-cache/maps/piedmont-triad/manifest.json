@@ -4,17 +4,17 @@
   "name": "Piedmont Triad",
   "author": "PSWBSF",
   "github_id": 193011631,
-  "description": "Custom map of the Piedmont Triad. Extends from Winston-Salem to the west, Mebane to the east, and Lexington to the south. Major cities include Winston-Salem, Greensboro, High Point, and Burlington. Piedmont Triad International Airport demand is modeled as well as the many colleges in the region.",
+  "description": "Map of the Piedmont Triad of North Carolina. Made using the Map Patcher by Kronifer and US Demand Generator by slurry.\n\nExtends from Winston-Salem to the west, Mebane to the east, and Lexington to the south. Major cities include Winston-Salem, Greensboro, High Point, and Burlington.\n\nNote: This map has not been updated to 1.4+ and is not currently being maintained. If someone would like to update and/or maintain this map, please dm @pswbsf on discord.\n\nAdditional demand points as follows:",
   "tags": [
     "north-america",
     "airports",
     "universities"
   ],
   "gallery": [
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b74f05986901a2e882e7e6145e388ebf9ffdbd91/maps/piedmont-triad/gallery/screenshot1.webp",
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b74f05986901a2e882e7e6145e388ebf9ffdbd91/maps/piedmont-triad/gallery/screenshot2.webp",
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b74f05986901a2e882e7e6145e388ebf9ffdbd91/maps/piedmont-triad/gallery/screenshot3.webp",
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b74f05986901a2e882e7e6145e388ebf9ffdbd91/maps/piedmont-triad/gallery/screenshot4.webp"
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/41f963b76788b557213df455c43ac81f6c9b2a6f/maps/piedmont-triad/gallery/screenshot1.webp",
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/41f963b76788b557213df455c43ac81f6c9b2a6f/maps/piedmont-triad/gallery/screenshot2.webp",
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/41f963b76788b557213df455c43ac81f6c9b2a6f/maps/piedmont-triad/gallery/screenshot3.webp",
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/41f963b76788b557213df455c43ac81f6c9b2a6f/maps/piedmont-triad/gallery/screenshot4.webp"
   ],
   "is_test": false,
   "source": "https://github.com/PSWBSF/piedmont-triad",
@@ -184,5 +184,15 @@
     "weighted_score": 0.87,
     "rubric_version": 1,
     "provenance": "backfill"
-  }
+  },
+  "included_cities": [
+    "Greensboro",
+    "Winston-Salem",
+    "High Point",
+    "Burlington",
+    "Mebane",
+    "Kernersville",
+    "Thomasville",
+    "Lexington"
+  ]
 }
