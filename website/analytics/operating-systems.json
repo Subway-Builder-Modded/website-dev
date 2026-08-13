@@ -2,63 +2,63 @@
   {
     "operatingSystem": "Unknown",
     "visits": {
-      "1d": 68,
-      "7d": 447,
-      "30d": 2491,
-      "all": 9801
+      "1d": 6,
+      "7d": 420,
+      "30d": 2379,
+      "all": 9807
     }
   },
   {
     "operatingSystem": "Windows",
     "visits": {
-      "1d": 118,
-      "7d": 529,
-      "30d": 3427,
-      "all": 9278
+      "1d": 6,
+      "7d": 485,
+      "30d": 3372,
+      "all": 9284
     }
   },
   {
     "operatingSystem": "MacOSX",
     "visits": {
-      "1d": 34,
-      "7d": 257,
-      "30d": 1706,
-      "all": 5660
+      "1d": 3,
+      "7d": 218,
+      "30d": 1702,
+      "all": 5663
     }
   },
   {
     "operatingSystem": "Android",
     "visits": {
-      "1d": 52,
-      "7d": 383,
-      "30d": 1559,
-      "all": 3634
+      "1d": 2,
+      "7d": 364,
+      "30d": 1508,
+      "all": 3636
     }
   },
   {
     "operatingSystem": "iOS",
     "visits": {
-      "1d": 12,
-      "7d": 99,
-      "30d": 585,
-      "all": 2011
+      "1d": 1,
+      "7d": 94,
+      "30d": 569,
+      "all": 2012
     }
   },
   {
     "operatingSystem": "Linux",
     "visits": {
-      "1d": 9,
-      "7d": 32,
-      "30d": 258,
+      "1d": 0,
+      "7d": 30,
+      "30d": 254,
       "all": 671
     }
   },
   {
     "operatingSystem": "ChromeOS",
     "visits": {
-      "1d": 1,
+      "1d": 0,
       "7d": 1,
-      "30d": 10,
+      "30d": 9,
       "all": 40
     }
   }
