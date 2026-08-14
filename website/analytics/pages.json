@@ -317,22 +317,22 @@
   {
     "path": "/registry/mods/advanced-analytics",
     "pageviews": {
-      "1d": 0,
-      "7d": 4,
-      "30d": 19,
-      "all": 124
+      "1d": 1,
+      "7d": 5,
+      "30d": 20,
+      "all": 125
     },
     "visitors": {
-      "1d": 0,
-      "7d": 4,
-      "30d": 19,
-      "all": 124
+      "1d": 1,
+      "7d": 5,
+      "30d": 20,
+      "all": 125
     },
     "entrances": {
-      "1d": 0,
-      "7d": 4,
-      "30d": 19,
-      "all": 124
+      "1d": 1,
+      "7d": 5,
+      "30d": 20,
+      "all": 125
     }
   },
   {
@@ -15813,6 +15813,27 @@
     }
   },
   {
+    "path": "/registry/mods/mode-manager/gallery",
+    "pageviews": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 3,
+      "all": 3
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 3,
+      "all": 3
+    },
+    "entrances": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 3,
+      "all": 3
+    }
+  },
+  {
     "path": "/registry/mods/neighborhood-station-names/analytics",
     "pageviews": {
       "1d": 0,
@@ -21462,6 +21483,27 @@
     }
   },
   {
+    "path": "/registry/mods/induced-demand/description",
+    "pageviews": {
+      "1d": 1,
+      "7d": 2,
+      "30d": 2,
+      "all": 2
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 2,
+      "30d": 2,
+      "all": 2
+    },
+    "entrances": {
+      "1d": 1,
+      "7d": 2,
+      "30d": 2,
+      "all": 2
+    }
+  },
+  {
     "path": "/registry/mods/induced-demand/versions/v1.0.2",
     "pageviews": {
       "1d": 0,
@@ -21520,27 +21562,6 @@
     "entrances": {
       "1d": 0,
       "7d": 1,
-      "30d": 2,
-      "all": 2
-    }
-  },
-  {
-    "path": "/registry/mods/mode-manager/gallery",
-    "pageviews": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 2,
-      "all": 2
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 0,
-      "30d": 2,
-      "all": 2
-    },
-    "entrances": {
-      "1d": 0,
-      "7d": 0,
       "30d": 2,
       "all": 2
     }
@@ -33579,27 +33600,6 @@
     }
   },
   {
-    "path": "/registry/mods/induced-demand/description",
-    "pageviews": {
-      "1d": 0,
-      "7d": 1,
-      "30d": 1,
-      "all": 1
-    },
-    "visitors": {
-      "1d": 0,
-      "7d": 1,
-      "30d": 1,
-      "all": 1
-    },
-    "entrances": {
-      "1d": 0,
-      "7d": 1,
-      "30d": 1,
-      "all": 1
-    }
-  },
-  {
     "path": "/registry/mods/induced-demand/versions",
     "pageviews": {
       "1d": 0,
@@ -33868,6 +33868,27 @@
     "entrances": {
       "1d": 0,
       "7d": 0,
+      "30d": 1,
+      "all": 1
+    }
+  },
+  {
+    "path": "/registry/mods/lrt-trains/description",
+    "pageviews": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 1,
+      "all": 1
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 1,
+      "all": 1
+    },
+    "entrances": {
+      "1d": 1,
+      "7d": 1,
       "30d": 1,
       "all": 1
     }
@@ -34476,6 +34497,27 @@
     },
     "entrances": {
       "1d": 0,
+      "7d": 1,
+      "30d": 1,
+      "all": 1
+    }
+  },
+  {
+    "path": "/registry/mods/valdotoriums-trains/gallery",
+    "pageviews": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 1,
+      "all": 1
+    },
+    "visitors": {
+      "1d": 1,
+      "7d": 1,
+      "30d": 1,
+      "all": 1
+    },
+    "entrances": {
+      "1d": 1,
       "7d": 1,
       "30d": 1,
       "all": 1
