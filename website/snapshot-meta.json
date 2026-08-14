@@ -1,10 +1,10 @@
 {
   "sourceRepo": "Subway-Builder-Modded/registry",
   "sourceRef": "main",
-  "commitSha": "d6072e200e9cca0a4a6730f8cc48a248d2d08a08",
+  "commitSha": "5ef1163844ce7e521314112dc5d12ee7257c3261",
   "mapDataSourceRef": "map-data",
-  "mapDataCommitSha": "ca65c1aaa5bb6f2039f857202c5ba23578acd7e9",
-  "fetchedAt": "2026-08-13T17:32:01.086Z",
+  "mapDataCommitSha": "7cc05fba0677e9ade872d4e2ff89b6a4dc6b927e",
+  "fetchedAt": "2026-08-14T04:46:40.501Z",
   "materializedFiles": [
     "public/community/discord_server_by_day.csv",
     "public/community/discord_user_message_by_day.csv",
@@ -403,6 +403,8 @@
     "public/registry-cache/maps/wilmington-nc/manifest.json",
     "public/registry-cache/maps/winnipeg/grid.geojson",
     "public/registry-cache/maps/winnipeg/manifest.json",
+    "public/registry-cache/maps/xiamen/grid.geojson",
+    "public/registry-cache/maps/xiamen/manifest.json",
     "public/registry-cache/maps/yukina-akita/grid.geojson",
     "public/registry-cache/maps/yukina-akita/manifest.json",
     "public/registry-cache/maps/yukina-asahikawa/grid.geojson",
@@ -687,5 +689,5 @@
     "public/website/analytics/timeseries.json",
     "public/website/analytics/valid-paths.json"
   ],
-  "websiteAnalyticsSourceGeneratedAt": "2026-08-13T17:01:27.831Z"
+  "websiteAnalyticsSourceGeneratedAt": "2026-08-14T04:01:24.677Z"
 }
