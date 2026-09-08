@@ -13,9 +13,9 @@
     "universities"
   ],
   "gallery": [
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b8704d48de068fe338471f1d6ba8ede805fe02cf/maps/mfn-madisonwi/gallery/screenshot1.webp",
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b8704d48de068fe338471f1d6ba8ede805fe02cf/maps/mfn-madisonwi/gallery/screenshot2.webp",
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b8704d48de068fe338471f1d6ba8ede805fe02cf/maps/mfn-madisonwi/gallery/screenshot3.webp"
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b25960a502a6297275e1b5a0a48ce024ad81974a/maps/mfn-madisonwi/gallery/screenshot1.webp",
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b25960a502a6297275e1b5a0a48ce024ad81974a/maps/mfn-madisonwi/gallery/screenshot2.webp",
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b25960a502a6297275e1b5a0a48ce024ad81974a/maps/mfn-madisonwi/gallery/screenshot3.webp"
   ],
   "source": "https://github.com/crumpetime/sb-maps-msn",
   "update": {
@@ -44,15 +44,7 @@
     "zoom": 12,
     "bearing": 0
   },
-  "file_sizes": {
-    "MSN.pmtiles": 41.79,
-    "buildings_index.json": 69.74,
-    "config.json": 0,
-    "demand_data.json": 7.79,
-    "ocean_depth_index.json": 3.98,
-    "roads.geojson": 13.24,
-    "runways_taxiways.geojson": 0.55
-  },
+  "file_sizes": {},
   "is_test": false,
   "grid_statistics": {
     "residentWeightedNearestNeighborKm": {
@@ -157,5 +149,10 @@
     "weighted_score": 0.87,
     "rubric_version": 1,
     "provenance": "backfill"
+  },
+  "deprecation": {
+    "since": "2026-09-06T09:50:50.292Z",
+    "by_github_id": 19807509,
+    "reason": "No longer maintained by the author; incompatible with current game versions since June 2026."
   }
 }

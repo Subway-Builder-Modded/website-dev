@@ -13,9 +13,9 @@
     "universities"
   ],
   "gallery": [
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b8704d48de068fe338471f1d6ba8ede805fe02cf/maps/montpellier-mediterranee/gallery/screenshot1.webp",
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b8704d48de068fe338471f1d6ba8ede805fe02cf/maps/montpellier-mediterranee/gallery/screenshot2.webp",
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b8704d48de068fe338471f1d6ba8ede805fe02cf/maps/montpellier-mediterranee/gallery/screenshot3.webp"
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b25960a502a6297275e1b5a0a48ce024ad81974a/maps/montpellier-mediterranee/gallery/screenshot1.webp",
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b25960a502a6297275e1b5a0a48ce024ad81974a/maps/montpellier-mediterranee/gallery/screenshot2.webp",
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b25960a502a6297275e1b5a0a48ce024ad81974a/maps/montpellier-mediterranee/gallery/screenshot3.webp"
   ],
   "is_test": false,
   "source": "https://github.com/pierreggt/subway-builder-montpellier",
@@ -45,18 +45,7 @@
     "hospitals",
     "universities"
   ],
-  "file_sizes": {
-    "MTP.pmtiles": 47.31,
-    "MTP_foundations.pmtiles": 28.22,
-    "buildings_index.bin": 79.9,
-    "config.json": 0,
-    "demand_data.json": 5.43,
-    "manifest.json": 0,
-    "ocean_depth_index.json": 29.11,
-    "ocean_depth_index_contours.json": 22.21,
-    "roads.geojson": 17.32,
-    "runways_taxiways.geojson": 0.4
-  },
+  "file_sizes": {},
   "included_cities": [
     "Nîmes",
     "Sète",
@@ -154,5 +143,10 @@
   "data_quality": {
     "tier": "unknown",
     "rubric_version": 1
+  },
+  "deprecation": {
+    "since": "2026-08-21T04:54:39.623Z",
+    "by_github_id": 301703453,
+    "reason": "Superseded by a new, larger regional map covering the same area with updated methodology (real INSEE Filosofi/MOBPRO population and commute data, higher-resolution demand grid)."
   }
 }

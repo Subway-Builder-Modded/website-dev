@@ -12,8 +12,8 @@
     "universities"
   ],
   "gallery": [
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b8704d48de068fe338471f1d6ba8ede805fe02cf/maps/colorado-ski-country/gallery/screenshot1.webp",
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b8704d48de068fe338471f1d6ba8ede805fe02cf/maps/colorado-ski-country/gallery/screenshot2.webp"
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b25960a502a6297275e1b5a0a48ce024ad81974a/maps/colorado-ski-country/gallery/screenshot1.webp",
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b25960a502a6297275e1b5a0a48ce024ad81974a/maps/colorado-ski-country/gallery/screenshot2.webp"
   ],
   "source": "https://github.com/soccerjonj/Colorado-Ski-Country",
   "update": {
@@ -41,15 +41,7 @@
     "zoom": 11,
     "bearing": 0
   },
-  "file_sizes": {
-    "EGE.pmtiles": 62.46,
-    "buildings_index.json": 19.71,
-    "config.json": 0,
-    "demand_data.json": 1.56,
-    "ocean_depth_index.json": 9.49,
-    "roads.geojson": 10.69,
-    "runways_taxiways.geojson": 0.24
-  },
+  "file_sizes": {},
   "is_test": false,
   "grid_statistics": {
     "residentWeightedNearestNeighborKm": {
@@ -175,5 +167,10 @@
     "weighted_score": 0.87,
     "rubric_version": 1,
     "provenance": "backfill"
+  },
+  "deprecation": {
+    "since": "2026-09-06T09:50:45.646Z",
+    "by_github_id": 19807509,
+    "reason": "No longer maintained by the author; incompatible with current game versions since June 2026."
   }
 }

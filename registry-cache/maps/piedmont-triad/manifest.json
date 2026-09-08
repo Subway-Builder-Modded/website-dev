@@ -11,10 +11,10 @@
     "universities"
   ],
   "gallery": [
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b8704d48de068fe338471f1d6ba8ede805fe02cf/maps/piedmont-triad/gallery/screenshot1.webp",
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b8704d48de068fe338471f1d6ba8ede805fe02cf/maps/piedmont-triad/gallery/screenshot2.webp",
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b8704d48de068fe338471f1d6ba8ede805fe02cf/maps/piedmont-triad/gallery/screenshot3.webp",
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b8704d48de068fe338471f1d6ba8ede805fe02cf/maps/piedmont-triad/gallery/screenshot4.webp"
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b25960a502a6297275e1b5a0a48ce024ad81974a/maps/piedmont-triad/gallery/screenshot1.webp",
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b25960a502a6297275e1b5a0a48ce024ad81974a/maps/piedmont-triad/gallery/screenshot2.webp",
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b25960a502a6297275e1b5a0a48ce024ad81974a/maps/piedmont-triad/gallery/screenshot3.webp",
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b25960a502a6297275e1b5a0a48ce024ad81974a/maps/piedmont-triad/gallery/screenshot4.webp"
   ],
   "is_test": false,
   "source": "https://github.com/PSWBSF/piedmont-triad",
@@ -42,16 +42,7 @@
     "airports",
     "universities"
   ],
-  "file_sizes": {
-    "WGH.pmtiles": 44.36,
-    "__MACOSX/._config.json": 0,
-    "buildings_index.json": 80.79,
-    "config.json": 0,
-    "demand_data.json": 7.97,
-    "ocean_depth_index.json": 9.53,
-    "roads.geojson": 26.2,
-    "runways_taxiways.geojson": 0.74
-  },
+  "file_sizes": {},
   "grid_statistics": {
     "residentWeightedNearestNeighborKm": {
       "p10": 0.4309433756841894,
@@ -194,5 +185,10 @@
     "Kernersville",
     "Thomasville",
     "Lexington"
-  ]
+  ],
+  "deprecation": {
+    "since": "2026-09-06T09:50:54.919Z",
+    "by_github_id": 19807509,
+    "reason": "No longer maintained by the author; incompatible with current game versions since June 2026."
+  }
 }

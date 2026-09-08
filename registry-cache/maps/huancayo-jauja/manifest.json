@@ -14,10 +14,10 @@
     "universities"
   ],
   "gallery": [
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b8704d48de068fe338471f1d6ba8ede805fe02cf/maps/huancayo-jauja/gallery/screenshot1.webp",
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b8704d48de068fe338471f1d6ba8ede805fe02cf/maps/huancayo-jauja/gallery/screenshot2.webp",
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b8704d48de068fe338471f1d6ba8ede805fe02cf/maps/huancayo-jauja/gallery/screenshot3.webp",
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b8704d48de068fe338471f1d6ba8ede805fe02cf/maps/huancayo-jauja/gallery/screenshot4.webp"
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b25960a502a6297275e1b5a0a48ce024ad81974a/maps/huancayo-jauja/gallery/screenshot1.webp",
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b25960a502a6297275e1b5a0a48ce024ad81974a/maps/huancayo-jauja/gallery/screenshot2.webp",
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b25960a502a6297275e1b5a0a48ce024ad81974a/maps/huancayo-jauja/gallery/screenshot3.webp",
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b25960a502a6297275e1b5a0a48ce024ad81974a/maps/huancayo-jauja/gallery/screenshot4.webp"
   ],
   "is_test": false,
   "source": "https://github.com/kaicardenas0618/subway-builder-peru",
@@ -48,14 +48,7 @@
     "parks",
     "universities"
   ],
-  "file_sizes": {
-    "JAU.pmtiles": 45.42,
-    "buildings_index.json": 113.16,
-    "config.json": 0,
-    "demand_data.json": 5.1,
-    "roads.geojson": 32.18,
-    "runways_taxiways.geojson": 0.01
-  },
+  "file_sizes": {},
   "grid_statistics": {
     "residentWeightedNearestNeighborKm": {
       "p10": 0.3466294540457779,
@@ -156,5 +149,10 @@
     "weighted_score": 0.5,
     "rubric_version": 1,
     "provenance": "backfill"
+  },
+  "deprecation": {
+    "since": "2026-08-17T18:09:08.025Z",
+    "by_github_id": 19807509,
+    "reason": "No longer maintained by the author."
   }
 }

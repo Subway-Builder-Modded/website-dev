@@ -11,7 +11,7 @@
     "trains"
   ],
   "gallery": [
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b8704d48de068fe338471f1d6ba8ede805fe02cf/mods/japanese-trains/gallery/screenshot1.webp"
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b25960a502a6297275e1b5a0a48ce024ad81974a/mods/japanese-trains/gallery/screenshot1.webp"
   ],
   "is_test": false,
   "source": "https://github.com/kaicardenas0618/japanese-trains",
@@ -19,8 +19,15 @@
     "type": "github",
     "repo": "kaicardenas0618/japanese-trains"
   },
-  "last_updated": 1785993188,
+  "last_updated": 1788592754,
   "collaborators": [
-    28826346
+    28826346,
+    154323272
+  ],
+  "caretakers": [
+    {
+      "github_id": 154323272,
+      "since": "2026-09-04T14:30:43.776Z"
+    }
   ]
 }

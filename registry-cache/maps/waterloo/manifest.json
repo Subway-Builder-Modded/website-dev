@@ -11,10 +11,10 @@
     "universities"
   ],
   "gallery": [
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b8704d48de068fe338471f1d6ba8ede805fe02cf/maps/waterloo/gallery/screenshot1.webp",
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b8704d48de068fe338471f1d6ba8ede805fe02cf/maps/waterloo/gallery/screenshot2.webp",
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b8704d48de068fe338471f1d6ba8ede805fe02cf/maps/waterloo/gallery/screenshot3.webp",
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b8704d48de068fe338471f1d6ba8ede805fe02cf/maps/waterloo/gallery/screenshot4.webp"
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b25960a502a6297275e1b5a0a48ce024ad81974a/maps/waterloo/gallery/screenshot1.webp",
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b25960a502a6297275e1b5a0a48ce024ad81974a/maps/waterloo/gallery/screenshot2.webp",
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b25960a502a6297275e1b5a0a48ce024ad81974a/maps/waterloo/gallery/screenshot3.webp",
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b25960a502a6297275e1b5a0a48ce024ad81974a/maps/waterloo/gallery/screenshot4.webp"
   ],
   "source": "https://github.com/Kronifer/sb-waterloo-map",
   "update": {
@@ -41,16 +41,7 @@
     "zoom": 12,
     "bearing": 0
   },
-  "file_sizes": {
-    "YKF.pmtiles": 20.03,
-    "YKF.svg": 0.13,
-    "buildings_index.json": 50.22,
-    "config.json": 0,
-    "demand_data.json": 0.51,
-    "ocean_depth_index.json": 1.53,
-    "roads.geojson": 6.1,
-    "runways_taxiways.geojson": 0.26
-  },
+  "file_sizes": {},
   "is_test": false,
   "grid_statistics": {
     "residentWeightedNearestNeighborKm": {
@@ -164,5 +155,10 @@
   "data_quality": {
     "tier": "unknown",
     "rubric_version": 1
+  },
+  "deprecation": {
+    "since": "2026-08-17T18:09:05.675Z",
+    "by_github_id": 19807509,
+    "reason": "No longer maintained by the author."
   }
 }

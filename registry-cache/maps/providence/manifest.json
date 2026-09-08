@@ -12,9 +12,9 @@
     "universities"
   ],
   "gallery": [
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b8704d48de068fe338471f1d6ba8ede805fe02cf/maps/providence/gallery/screenshot1.webp",
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b8704d48de068fe338471f1d6ba8ede805fe02cf/maps/providence/gallery/screenshot2.webp",
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b8704d48de068fe338471f1d6ba8ede805fe02cf/maps/providence/gallery/screenshot3.webp"
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b25960a502a6297275e1b5a0a48ce024ad81974a/maps/providence/gallery/screenshot1.webp",
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b25960a502a6297275e1b5a0a48ce024ad81974a/maps/providence/gallery/screenshot2.webp",
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b25960a502a6297275e1b5a0a48ce024ad81974a/maps/providence/gallery/screenshot3.webp"
   ],
   "source": "https://github.com/soccerjonj/Providence",
   "update": {
@@ -42,15 +42,7 @@
     "zoom": 13,
     "bearing": 0
   },
-  "file_sizes": {
-    "PVD.pmtiles": 19.24,
-    "buildings_index.json": 32.6,
-    "config.json": 0,
-    "demand_data.json": 2.23,
-    "ocean_depth_index.json": 1.43,
-    "roads.geojson": 7.94,
-    "runways_taxiways.geojson": 0.28
-  },
+  "file_sizes": {},
   "is_test": false,
   "grid_statistics": {
     "residentWeightedNearestNeighborKm": {
@@ -164,5 +156,10 @@
     "weighted_score": 0.87,
     "rubric_version": 1,
     "provenance": "backfill"
+  },
+  "deprecation": {
+    "since": "2026-09-06T09:50:40.599Z",
+    "by_github_id": 19807509,
+    "reason": "No longer maintained by the author; incompatible with current game versions since June 2026."
   }
 }

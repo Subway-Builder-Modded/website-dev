@@ -12,9 +12,9 @@
     "universities"
   ],
   "gallery": [
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b8704d48de068fe338471f1d6ba8ede805fe02cf/maps/wilmington-nc/gallery/screenshot1.webp",
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b8704d48de068fe338471f1d6ba8ede805fe02cf/maps/wilmington-nc/gallery/screenshot2.webp",
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b8704d48de068fe338471f1d6ba8ede805fe02cf/maps/wilmington-nc/gallery/screenshot3.webp"
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b25960a502a6297275e1b5a0a48ce024ad81974a/maps/wilmington-nc/gallery/screenshot1.webp",
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b25960a502a6297275e1b5a0a48ce024ad81974a/maps/wilmington-nc/gallery/screenshot2.webp",
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b25960a502a6297275e1b5a0a48ce024ad81974a/maps/wilmington-nc/gallery/screenshot3.webp"
   ],
   "is_test": false,
   "source": "https://github.com/PSWBSF/wilmington-nc",
@@ -43,16 +43,7 @@
     "entertainment",
     "universities"
   ],
-  "file_sizes": {
-    "WIL.pmtiles": 6.88,
-    "__MACOSX/._config.json": 0,
-    "buildings_index.json": 18.55,
-    "config.json": 0,
-    "demand_data.json": 0.6,
-    "ocean_depth_index.json": 1.33,
-    "roads.geojson": 3.4,
-    "runways_taxiways.geojson": 0.08
-  },
+  "file_sizes": {},
   "grid_statistics": {
     "residentWeightedNearestNeighborKm": {
       "p10": 0.36272696853951786,
@@ -158,5 +149,10 @@
     "weighted_score": 0.87,
     "rubric_version": 1,
     "provenance": "backfill"
+  },
+  "deprecation": {
+    "since": "2026-09-06T09:50:57.047Z",
+    "by_github_id": 19807509,
+    "reason": "No longer maintained by the author; incompatible with current game versions since June 2026."
   }
 }

@@ -14,10 +14,10 @@
     "universities"
   ],
   "gallery": [
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b8704d48de068fe338471f1d6ba8ede805fe02cf/maps/arequipa/gallery/screenshot1.webp",
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b8704d48de068fe338471f1d6ba8ede805fe02cf/maps/arequipa/gallery/screenshot2.webp",
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b8704d48de068fe338471f1d6ba8ede805fe02cf/maps/arequipa/gallery/screenshot3.webp",
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b8704d48de068fe338471f1d6ba8ede805fe02cf/maps/arequipa/gallery/screenshot4.webp"
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b25960a502a6297275e1b5a0a48ce024ad81974a/maps/arequipa/gallery/screenshot1.webp",
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b25960a502a6297275e1b5a0a48ce024ad81974a/maps/arequipa/gallery/screenshot2.webp",
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b25960a502a6297275e1b5a0a48ce024ad81974a/maps/arequipa/gallery/screenshot3.webp",
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b25960a502a6297275e1b5a0a48ce024ad81974a/maps/arequipa/gallery/screenshot4.webp"
   ],
   "is_test": false,
   "source": "https://github.com/kaicardenas0618/subway-builder-peru",
@@ -48,14 +48,7 @@
     "parks",
     "universities"
   ],
-  "file_sizes": {
-    "AQP.pmtiles": 37.14,
-    "buildings_index.json": 100.75,
-    "config.json": 0,
-    "demand_data.json": 4.2,
-    "roads.geojson": 21.78,
-    "runways_taxiways.geojson": 0.07
-  },
+  "file_sizes": {},
   "grid_statistics": {
     "residentWeightedNearestNeighborKm": {
       "p10": 0.3461750430652602,
@@ -156,5 +149,10 @@
     "weighted_score": 0.5,
     "rubric_version": 1,
     "provenance": "backfill"
+  },
+  "deprecation": {
+    "since": "2026-08-17T18:09:06.154Z",
+    "by_github_id": 19807509,
+    "reason": "No longer maintained by the author."
   }
 }

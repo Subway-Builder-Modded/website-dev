@@ -11,9 +11,9 @@
     "ui"
   ],
   "gallery": [
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b8704d48de068fe338471f1d6ba8ede805fe02cf/mods/advanced-analytics/gallery/screenshot1.webp",
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b8704d48de068fe338471f1d6ba8ede805fe02cf/mods/advanced-analytics/gallery/screenshot2.webp",
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b8704d48de068fe338471f1d6ba8ede805fe02cf/mods/advanced-analytics/gallery/screenshot3.webp"
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b25960a502a6297275e1b5a0a48ce024ad81974a/mods/advanced-analytics/gallery/screenshot1.webp",
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b25960a502a6297275e1b5a0a48ce024ad81974a/mods/advanced-analytics/gallery/screenshot2.webp",
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b25960a502a6297275e1b5a0a48ce024ad81974a/mods/advanced-analytics/gallery/screenshot3.webp"
   ],
   "source": "https://github.com/stefanorigano/advanced_analytics",
   "update": {
@@ -21,5 +21,9 @@
     "repo": "stefanorigano/advanced_analytics"
   },
   "is_test": false,
-  "last_updated": 1785700496
+  "last_updated": 1785700496,
+  "deprecation": {
+    "since": "2026-08-21T17:04:04.888Z",
+    "by_github_id": 8558351
+  }
 }

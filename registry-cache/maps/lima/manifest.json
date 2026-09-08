@@ -13,10 +13,10 @@
     "universities"
   ],
   "gallery": [
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b8704d48de068fe338471f1d6ba8ede805fe02cf/maps/lima/gallery/screenshot1.webp",
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b8704d48de068fe338471f1d6ba8ede805fe02cf/maps/lima/gallery/screenshot2.webp",
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b8704d48de068fe338471f1d6ba8ede805fe02cf/maps/lima/gallery/screenshot3.webp",
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b8704d48de068fe338471f1d6ba8ede805fe02cf/maps/lima/gallery/screenshot4.webp"
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b25960a502a6297275e1b5a0a48ce024ad81974a/maps/lima/gallery/screenshot1.webp",
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b25960a502a6297275e1b5a0a48ce024ad81974a/maps/lima/gallery/screenshot2.webp",
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b25960a502a6297275e1b5a0a48ce024ad81974a/maps/lima/gallery/screenshot3.webp",
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b25960a502a6297275e1b5a0a48ce024ad81974a/maps/lima/gallery/screenshot4.webp"
   ],
   "is_test": false,
   "source": "https://github.com/kaicardenas0618/subway-builder-peru",
@@ -46,14 +46,7 @@
     "hospitals",
     "universities"
   ],
-  "file_sizes": {
-    "LIM.pmtiles": 49.76,
-    "buildings_index.json": 160.96,
-    "config.json": 0,
-    "demand_data.json": 20.82,
-    "roads.geojson": 32.78,
-    "runways_taxiways.geojson": 0.37
-  },
+  "file_sizes": {},
   "grid_statistics": {
     "residentWeightedNearestNeighborKm": {
       "p10": 0.3464284376833457,
@@ -153,5 +146,10 @@
     "weighted_score": 0.5,
     "rubric_version": 1,
     "provenance": "backfill"
+  },
+  "deprecation": {
+    "since": "2026-08-17T18:09:08.947Z",
+    "by_github_id": 19807509,
+    "reason": "No longer maintained by the author."
   }
 }

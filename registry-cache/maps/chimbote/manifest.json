@@ -14,10 +14,10 @@
     "universities"
   ],
   "gallery": [
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b8704d48de068fe338471f1d6ba8ede805fe02cf/maps/chimbote/gallery/screenshot1.webp",
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b8704d48de068fe338471f1d6ba8ede805fe02cf/maps/chimbote/gallery/screenshot2.webp",
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b8704d48de068fe338471f1d6ba8ede805fe02cf/maps/chimbote/gallery/screenshot3.webp",
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b8704d48de068fe338471f1d6ba8ede805fe02cf/maps/chimbote/gallery/screenshot4.webp"
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b25960a502a6297275e1b5a0a48ce024ad81974a/maps/chimbote/gallery/screenshot1.webp",
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b25960a502a6297275e1b5a0a48ce024ad81974a/maps/chimbote/gallery/screenshot2.webp",
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b25960a502a6297275e1b5a0a48ce024ad81974a/maps/chimbote/gallery/screenshot3.webp",
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b25960a502a6297275e1b5a0a48ce024ad81974a/maps/chimbote/gallery/screenshot4.webp"
   ],
   "is_test": false,
   "source": "https://github.com/kaicardenas0618/subway-builder-peru",
@@ -48,14 +48,7 @@
     "parks",
     "universities"
   ],
-  "file_sizes": {
-    "CHM.pmtiles": 28.16,
-    "buildings_index.json": 66.05,
-    "config.json": 0,
-    "demand_data.json": 1.84,
-    "roads.geojson": 13.55,
-    "runways_taxiways.geojson": 0.04
-  },
+  "file_sizes": {},
   "grid_statistics": {
     "residentWeightedNearestNeighborKm": {
       "p10": 0.34625927632497544,
@@ -157,5 +150,10 @@
     "weighted_score": 0.5,
     "rubric_version": 1,
     "provenance": "backfill"
+  },
+  "deprecation": {
+    "since": "2026-08-17T18:09:07.089Z",
+    "by_github_id": 19807509,
+    "reason": "No longer maintained by the author."
   }
 }

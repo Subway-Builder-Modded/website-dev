@@ -12,9 +12,9 @@
     "universities"
   ],
   "gallery": [
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b8704d48de068fe338471f1d6ba8ede805fe02cf/maps/sacramento/gallery/screenshot1.webp",
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b8704d48de068fe338471f1d6ba8ede805fe02cf/maps/sacramento/gallery/screenshot2.webp",
-    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b8704d48de068fe338471f1d6ba8ede805fe02cf/maps/sacramento/gallery/screenshot3.webp"
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b25960a502a6297275e1b5a0a48ce024ad81974a/maps/sacramento/gallery/screenshot1.webp",
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b25960a502a6297275e1b5a0a48ce024ad81974a/maps/sacramento/gallery/screenshot2.webp",
+    "https://raw.githubusercontent.com/Subway-Builder-Modded/registry/b25960a502a6297275e1b5a0a48ce024ad81974a/maps/sacramento/gallery/screenshot3.webp"
   ],
   "source": "https://github.com/soccerjonj/Sacramento",
   "update": {
@@ -42,15 +42,7 @@
     "zoom": 13,
     "bearing": 0
   },
-  "file_sizes": {
-    "SMF.pmtiles": 41.33,
-    "buildings_index.json": 123.49,
-    "config.json": 0,
-    "demand_data.json": 8.86,
-    "ocean_depth_index.json": 1.66,
-    "roads.geojson": 23.33,
-    "runways_taxiways.geojson": 0.72
-  },
+  "file_sizes": {},
   "is_test": false,
   "grid_statistics": {
     "residentWeightedNearestNeighborKm": {
@@ -161,5 +153,10 @@
     "weighted_score": 0.87,
     "rubric_version": 1,
     "provenance": "backfill"
+  },
+  "deprecation": {
+    "since": "2026-09-06T09:50:35.989Z",
+    "by_github_id": 19807509,
+    "reason": "No longer maintained by the author; incompatible with current game versions since June 2026."
   }
 }
