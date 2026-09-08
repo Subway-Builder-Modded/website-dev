@@ -1,10 +1,10 @@
 {
   "sourceRepo": "Subway-Builder-Modded/registry",
   "sourceRef": "main",
-  "commitSha": "fe9c4442ab8b9e44d2c7de8ee5eab72d4e8d2043",
+  "commitSha": "8da7721cc5a58be021d5dacc5560a96922635a40",
   "mapDataSourceRef": "map-data",
   "mapDataCommitSha": "e9b6421c5c12e2f1c56ed262b93d068cbb73c0d1",
-  "fetchedAt": "2026-09-08T17:17:20.039Z",
+  "fetchedAt": "2026-09-08T18:23:19.787Z",
   "materializedFiles": [
     "public/community/discord_server_by_day.csv",
     "public/community/discord_user_message_by_day.csv",
@@ -21,7 +21,9 @@
     "public/registry-cache/analytics/authors_last_30d.csv",
     "public/registry-cache/analytics/authors_last_3d.csv",
     "public/registry-cache/analytics/authors_last_7d.csv",
-    "public/registry-cache/analytics/hourly/downloads.csv",
+    "public/registry-cache/analytics/hourly/downloads-2026-07.csv",
+    "public/registry-cache/analytics/hourly/downloads-2026-08.csv",
+    "public/registry-cache/analytics/hourly/downloads-2026-09.csv",
     "public/registry-cache/analytics/listing_projects.csv",
     "public/registry-cache/analytics/listing_version_credits.csv",
     "public/registry-cache/analytics/maps_statistics.csv",
@@ -872,5 +874,5 @@
     "public/website/analytics/timeseries.json",
     "public/website/analytics/valid-paths.json"
   ],
-  "websiteAnalyticsSourceGeneratedAt": "2026-09-08T17:00:57.363Z"
+  "websiteAnalyticsSourceGeneratedAt": "2026-09-08T18:00:55.100Z"
 }
